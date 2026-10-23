@@ -1,0 +1,51 @@
+sigma_tau,rule,tau,regime,P_change,P_dec,C1,C1p,C1R,C2
+0,V1 no quorum (majority of valid votes),0.3,slack (V1 outcome),0.5,1,0,5.37848e-13,0,0
+0,V1 no quorum (majority of valid votes),0.4,slack (V1 outcome),0.5,1,0,0,0,0
+0,"V3 approval quorum (q=0.333333, denominator=E)",0.3,default demobilises,0.284414,0.284414,0.533935,0,0.215586,0
+0,"V3 approval quorum (q=0.333333, denominator=E)",0.4,default demobilises (capped),0.35525,0.35525,0.478084,0,0.14475,0
+0,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.3,default demobilises,0.548876,0.548876,0.238108,0.0488762,0,0
+0,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.4,"no pure equilibrium (mixed, approx.)",0.624712,0.661262,0.172252,0.12472,8.52413e-06,0
+0,V7 supermajority of valid votes (qS=0.6),0.3,contested,0.4,1,0.1,0,0.1,0
+0,V7 supermajority of valid votes (qS=0.6),0.4,contested,0.4,1,0.1,0,0.1,0
+0,V2 participation quorum (q=0.4),0.3,lock (mutual abstention),0,0,0.5,0,0.5,0
+0,V2 participation quorum (q=0.4),0.4,default demobilises (capped),0.282875,0.282875,0.550459,0,0.217125,0.280918
+0.02,V1 no quorum (majority of valid votes),0.3,slack (V1 outcome),0.5,1,0,0.00667215,0.00667215,0
+0.02,V1 no quorum (majority of valid votes),0.4,slack (V1 outcome),0.5,1,0,0.00499673,0.00499673,0
+0.02,"V3 approval quorum (q=0.333333, denominator=E)",0.3,default demobilises,0.283046,0.283046,0.536484,0,0.216954,0
+0.02,"V3 approval quorum (q=0.333333, denominator=E)",0.4,default demobilises (capped),0.344733,0.344733,0.487432,0,0.155267,0
+0.02,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.3,default demobilises,0.547629,0.547637,0.240839,0.0479937,0.000364307,0
+0.02,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.4,"no pure equilibrium (mixed, approx.)",0.624064,0.660618,0.173979,0.124073,9.03807e-06,0
+0.02,V7 supermajority of valid votes (qS=0.6),0.3,contested,0.400111,1,0.0998887,4.31665e-11,0.0998887,0
+0.02,V7 supermajority of valid votes (qS=0.6),0.4,contested,0.400062,1,0.0999375,1.11777e-16,0.0999375,0
+0.02,V2 participation quorum (q=0.4),0.3,lock (mutual abstention),4.8937e-53,5.4223e-52,0.5,6.75714e-69,0.5,0
+0.02,V2 participation quorum (q=0.4),0.4,default demobilises (capped),0.269025,0.269025,0.563141,6.07715e-22,0.230975,0.291036
+0.04,V1 no quorum (majority of valid votes),0.3,slack (V1 outcome),0.5,1,0,0.0134844,0.0134844,0
+0.04,V1 no quorum (majority of valid votes),0.4,slack (V1 outcome),0.5,1,0,0.0100422,0.0100423,0
+0.04,"V3 approval quorum (q=0.333333, denominator=E)",0.3,default demobilises,0.276828,0.276828,0.545717,0,0.223172,0
+0.04,"V3 approval quorum (q=0.333333, denominator=E)",0.4,default demobilises (capped),0.333036,0.333036,0.499996,0,0.166964,0
+0.04,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.3,default demobilises,0.543755,0.547208,0.249261,0.0498877,0.00613236,0
+0.04,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.4,"no pure equilibrium (mixed, approx.)",0.620926,0.660698,0.179743,0.120986,6.00893e-05,0
+0.04,V7 supermajority of valid votes (qS=0.6),0.3,contested,0.400461,1,0.0995395,3.47885e-05,0.0995743,0
+0.04,V7 supermajority of valid votes (qS=0.6),0.4,contested,0.400254,1,0.0997457,7.86893e-07,0.0997465,0
+0.04,V2 participation quorum (q=0.4),0.3,lock (mutual abstention),1.21642e-15,3.38059e-15,0.499589,5.32012e-20,0.5,8.18312e-12
+0.04,V2 participation quorum (q=0.4),0.4,default demobilises (capped),0.25528,0.25528,0.577753,6.62306e-08,0.24472,0.290476
+0.06,V1 no quorum (majority of valid votes),0.3,slack (V1 outcome),0.5,1,0,0.0206109,0.0206109,0
+0.06,V1 no quorum (majority of valid votes),0.4,slack (V1 outcome),0.500013,1,0,0.0150081,0.0149953,0
+0.06,"V3 approval quorum (q=0.333333, denominator=E)",0.3,default demobilises,0.265613,0.265615,0.559554,0,0.234387,0
+0.06,"V3 approval quorum (q=0.333333, denominator=E)",0.4,default demobilises (capped),0.319922,0.319925,0.514304,0,0.180078,0
+0.06,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.3,default demobilises,0.536637,0.553507,0.261625,0.054163,0.0175261,0
+0.06,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.4,"no pure equilibrium (mixed, approx.)",0.614661,0.666683,0.188167,0.11555,0.000888935,0
+0.06,V7 supermajority of valid votes (qS=0.6),0.3,contested,0.401104,1,0.0988959,0.000860053,0.0997558,0
+0.06,V7 supermajority of valid votes (qS=0.6),0.4,contested,0.400577,1,0.0994182,0.00010544,0.0995283,0
+0.06,V2 participation quorum (q=0.4),0.3,lock (mutual abstention),3.44909e-08,6.66023e-08,0.496091,7.25017e-11,0.5,1.24233e-06
+0.06,V2 participation quorum (q=0.4),0.4,default demobilises (capped),0.243205,0.243212,0.591022,5.13378e-05,0.256846,0.267305
+0.08,V1 no quorum (majority of valid votes),0.3,slack (V1 outcome),0.499999,1,0,0.0283038,0.0283044,0
+0.08,V1 no quorum (majority of valid votes),0.4,slack (V1 outcome),0.499978,1,0,0.0196878,0.0197096,0
+0.08,"V3 approval quorum (q=0.333333, denominator=E)",0.3,default demobilises,0.253349,0.253475,0.571953,0,0.246651,0
+0.08,"V3 approval quorum (q=0.333333, denominator=E)",0.4,default demobilises (capped),0.305773,0.305899,0.527828,0,0.194227,0
+0.08,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.3,default demobilises,0.525189,0.560288,0.275625,0.0578769,0.0326879,0
+0.08,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.4,"no pure equilibrium (mixed, approx.)",0.605583,0.673761,0.19725,0.109604,0.00402029,0
+0.08,V7 supermajority of valid votes (qS=0.6),0.3,contested,0.402192,1,0.097802,0.00379531,0.101604,0
+0.08,V7 supermajority of valid votes (qS=0.6),0.4,contested,0.401077,1,0.0989442,0.000826812,0.0997494,0
+0.08,V2 participation quorum (q=0.4),0.3,lock (mutual abstention),1.29745e-05,2.83647e-05,0.489074,1.59829e-07,0.499987,0.000116491
+0.08,V2 participation quorum (q=0.4),0.4,default demobilises (capped),0.235977,0.236276,0.597624,0.000628503,0.264652,0.235953

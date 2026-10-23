@@ -1,0 +1,49 @@
+denominator,rho,t_min,a_B,tau_lock_recal,tau_lock_fixed,T5_opposition_campaigns_above
+E_full,1.93425,0,0.5,0.216208,0.270976,0.428077
+E_full,1.93425,0,0.75,0.267203,0.292479,never in D3
+E_full,1.93425,0,1,0.306186,0.306186,never in D3
+E_full,1.93425,0,1.5,0.365574,0.323981,never in D3
+E_full,1.93425,0,2.5,0.463138,0.355456,never in D3
+E_full,1.93425,0,4,locked in D3,0.400218,never in D3
+E_full,1.93425,0,8,locked in D3,locked in D3,never in D3
+E_full,1.93425,0,16,locked in D3,locked in D3,never in D3
+E_full,1.93425,0.2,0.5,0.221465,0.260853,0.398042
+E_full,1.93425,0.2,0.75,0.263512,0.282404,never in D3
+E_full,1.93425,0.2,1,0.297443,0.297443,never in D3
+E_full,1.93425,0.2,1.5,0.348683,0.315982,never in D3
+E_full,1.93425,0.2,2.5,0.425799,0.340726,never in D3
+E_full,1.93425,0.2,4,locked in D3,0.376021,never in D3
+E_full,1.93425,0.2,8,locked in D3,0.473595,never in D3
+E_full,1.93425,0.2,16,locked in D3,locked in D3,never in D3
+E_full,1.93425,0.35,0.5,0.238854,0.263422,0.383064
+E_full,1.93425,0.35,0.75,0.269613,0.282378,never in D3
+E_full,1.93425,0.35,1,0.297052,0.297052,never in D3
+E_full,1.93425,0.35,1.5,0.341808,0.317122,never in D3
+E_full,1.93425,0.35,2.5,0.404816,0.338603,never in D3
+E_full,1.93425,0.35,4,0.485723,0.3659,never in D3
+E_full,1.93425,0.35,8,locked in D3,0.442506,never in D3
+E_full,1.93425,0.35,16,locked in D3,locked in D3,never in D3
+E_dom,1.80616,0,0.5,0.216208,0.270976,0.347901
+E_dom,1.80616,0,0.75,0.267203,0.292479,0.481113
+E_dom,1.80616,0,1,0.306186,0.306186,never in D3
+E_dom,1.80616,0,1.5,0.362648,0.321388,never in D3
+E_dom,1.80616,0,2.5,0.443758,0.340582,never in D3
+E_dom,1.80616,0,4,locked in D3,0.366139,never in D3
+E_dom,1.80616,0,8,locked in D3,0.428914,never in D3
+E_dom,1.80616,0,16,locked in D3,locked in D3,never in D3
+E_dom,1.80616,0.2,0.5,0.222481,0.260594,0.339141
+E_dom,1.80616,0.2,0.75,0.263666,0.282035,0.444218
+E_dom,1.80616,0.2,1,0.297113,0.297113,never in D3
+E_dom,1.80616,0.2,1.5,0.347867,0.315854,never in D3
+E_dom,1.80616,0.2,2.5,0.414664,0.3334,never in D3
+E_dom,1.80616,0.2,4,0.492111,0.353464,never in D3
+E_dom,1.80616,0.2,8,locked in D3,0.402935,never in D3
+E_dom,1.80616,0.2,16,locked in D3,locked in D3,never in D3
+E_dom,1.80616,0.35,0.5,0.243407,0.265301,0.342909
+E_dom,1.80616,0.35,0.75,0.271808,0.283433,0.42428
+E_dom,1.80616,0.35,1,0.297813,0.297813,never in D3
+E_dom,1.80616,0.35,1.5,0.341119,0.317937,never in D3
+E_dom,1.80616,0.35,2.5,0.400903,0.338344,never in D3
+E_dom,1.80616,0.35,4,0.461975,0.353848,never in D3
+E_dom,1.80616,0.35,8,locked in D3,0.392041,never in D3
+E_dom,1.80616,0.35,16,locked in D3,0.471744,never in D3

@@ -1,0 +1,127 @@
+type,tau,t_min,rule,regime,P_change,P_dec,C1,C1p,C2,mu_hat
+T1,0.2,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T1,0.2,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T1,0.2,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T1,0.25,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T1,0.25,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T1,0.25,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T1,0.3,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T1,0.3,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.276828,0.276828,0.545717,0,0,0.715586
+T1,0.3,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.224983,0.224985,0.483322,0,0,0.768237
+T1,0.35,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T1,0.35,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T1,0.35,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.317242,0.317244,0.415818,0,0,0.668724
+T1,0.4,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T1,0.4,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T1,0.4,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T1,0.45,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T1,0.45,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T1,0.45,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T1,0.5,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T1,0.5,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T1,0.5,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T2,0.2,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T2,0.2,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T2,0.2,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T2,0.25,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T2,0.25,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T2,0.25,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T2,0.3,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T2,0.3,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.276828,0.276828,0.545717,0,0,0.715586
+T2,0.3,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.224983,0.224985,0.483322,0,0,0.768237
+T2,0.35,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T2,0.35,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T2,0.35,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.317242,0.317244,0.415818,0,0,0.668724
+T2,0.4,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T2,0.4,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T2,0.4,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T2,0.45,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T2,0.45,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T2,0.45,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T2,0.5,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T2,0.5,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T2,0.5,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T3,0.2,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T3,0.2,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T3,0.2,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T3,0.25,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T3,0.25,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T3,0.25,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T3,0.3,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T3,0.3,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.276828,0.276828,0.545717,0,0,0.715586
+T3,0.3,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.224983,0.224985,0.483322,0,0,0.768237
+T3,0.35,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T3,0.35,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T3,0.35,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.317242,0.317244,0.415818,0,0,0.668724
+T3,0.4,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T3,0.4,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T3,0.4,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T3,0.45,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T3,0.45,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T3,0.45,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T3,0.5,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T3,0.5,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T3,0.5,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T4,0.2,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T4,0.2,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T4,0.2,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T4,0.25,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T4,0.25,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T4,0.25,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T4,0.3,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T4,0.3,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.276828,0.276828,0.545717,0,0,0.715586
+T4,0.3,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.224983,0.224985,0.483322,0,0,0.768237
+T4,0.35,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T4,0.35,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T4,0.35,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.317242,0.317244,0.415818,0,0,0.668724
+T4,0.4,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T4,0.4,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T4,0.4,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T4,0.45,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T4,0.45,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T4,0.45,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T4,0.5,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T4,0.5,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T4,0.5,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T5,0.2,0,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),0,1,0,0,0,9
+T5,0.2,0.2,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),9.17777e-26,1,0.499589,0,0,4.83563
+T5,0.2,0.35,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),8.29966e-18,1,0.5,0,0,2.76322
+T5,0.25,0,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),0,1,0,0,0,9
+T5,0.25,0.2,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),9.17777e-26,1,0.499589,0,0,4.83563
+T5,0.25,0.35,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),8.29966e-18,1,0.5,0,0,2.76322
+T5,0.3,0,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),0,1,0,0,0,9
+T5,0.3,0.2,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),9.17777e-26,1,0.499589,0,0,4.83563
+T5,0.3,0.35,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),8.29966e-18,1,0.5,0,0,2.76322
+T5,0.35,0,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),0,1,0,0,0,9
+T5,0.35,0.2,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),9.17777e-26,1,0.499589,0,0,4.83563
+T5,0.35,0.35,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),8.29966e-18,1,0.5,0,0,2.76322
+T5,0.4,0,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),0,1,0,0,0,9
+T5,0.4,0.2,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),9.17777e-26,1,0.499589,0,0,4.83563
+T5,0.4,0.35,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),8.29966e-18,1,0.5,0,0,2.76322
+T5,0.45,0,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),0,1,0,0,0,9
+T5,0.45,0.2,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),9.17777e-26,1,0.499589,0,0,4.83563
+T5,0.45,0.35,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),8.29966e-18,1,0.5,0,0,2.76322
+T5,0.5,0,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),0,1,0,0,0,9
+T5,0.5,0.2,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),9.17777e-26,1,0.499589,0,0,4.83563
+T5,0.5,0.35,V4 rejective quorum (Regime B: amendment falls iff more than q of E vote against) (q=0.5),lock (mutual abstention),8.29966e-18,1,0.5,0,0,2.76322
+T6,0.2,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T6,0.2,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T6,0.2,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T6,0.25,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T6,0.25,0.2,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.03502e-10,1.89398e-10,0.499589,0,0,3.22375
+T6,0.25,0.35,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),1.86648e-06,3.7318e-06,0.499998,0,0,1.84214
+T6,0.3,0,"V3 approval quorum (q=0.333333, denominator=E)",lock (mutual abstention),0,0,0,0,0,9
+T6,0.3,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.276828,0.276828,0.545717,0,0,0.715586
+T6,0.3,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.224983,0.224985,0.483322,0,0,0.768237
+T6,0.35,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T6,0.35,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T6,0.35,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises,0.317242,0.317244,0.415818,0,0,0.668724
+T6,0.4,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T6,0.4,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T6,0.4,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T6,0.45,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T6,0.45,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T6,0.45,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475
+T6,0.5,0,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.666964,0,0,0.64475
+T6,0.5,0.2,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333036,0.499996,0,0,0.64475
+T6,0.5,0.35,"V3 approval quorum (q=0.333333, denominator=E)",default demobilises (capped),0.333036,0.333038,0.404297,0,0,0.64475

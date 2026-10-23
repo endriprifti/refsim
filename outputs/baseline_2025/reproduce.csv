@@ -1,0 +1,18 @@
+item,book,simulator
+pi* tau=0.40 rho=1.93 t_min=0 (Table III.3),0.294,0.294
+pi* tau=0.40 rho=1.93 t_min=0.2 (Table III.3),0.351,0.351
+pi* tau=0.40 rho=1.93 t_min=0.35 (Table III.3),0.389,0.389
+"tau_lock rho=1.93 t_min=0 (Prop. 18, Cor. 1)",0.306,0.306
+"tau_lock rho=1.93 t_min=0.2 (Prop. 18, Cor. 1)",0.297,0.297
+"tau_lock rho=1.93 t_min=0.35 (Prop. 18, Cor. 1)",0.297,0.297
+rho_lock t0=0.60 (Table V.25),2.016,2.016
+rho_lock t0=0.75 (Table V.25),2.418,2.418
+F38 Pr[pass | mu>1/2] E_full sigma_tau=0.04,0.669,0.669
+T5 opposition threshold E_dom a_B=0.5 t_min=0 (CC2 R9),0.348,0.348
+Pr_vote(12) TS0 prompt (Table V.5),0.061,0.061
+Pr_vote(24) TS0 prompt,0.995,0.995
+mean months TS0 prompt,16.43,16.43
+R3 worst-case error (F44),0.0091,0.0091
+two-point bound t_L=0.38 (5.34),2.12,2.12
+Table V.24 d=0 (all T),0.53,0.53
+INSTAT 15+ decline 2025-26 (D11),0.0083,0.0083

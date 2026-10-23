@@ -1,0 +1,16 @@
+rule,t_min,lock_boundary_tau
+P3b T1 (Yes reading): V2 at 0.40 + Yes >= 0.30 E + majority,0,0.384238
+P3b T1 (Yes reading): V2 at 0.40 + Yes >= 0.30 E + majority,0.2,0.331456
+P3b T1 (Yes reading): V2 at 0.40 + Yes >= 0.30 E + majority,0.35,0.311091
+P3c T1 (valid-vote reading): V2 at 0.40 + valid >= 0.30 E + majority (= V2 at 0.40),0,0.384238
+P3c T1 (valid-vote reading): V2 at 0.40 + valid >= 0.30 E + majority (= V2 at 0.40),0.2,0.331456
+P3c T1 (valid-vote reading): V2 at 0.40 + valid >= 0.30 E + majority (= V2 at 0.40),0.35,0.311091
+Draft T4: V2 at 0.50 + majority,0,locked at every tau up to the feasible maximum
+Draft T4: V2 at 0.50 + majority,0.2,locked at every tau up to the feasible maximum
+Draft T4: V2 at 0.50 + majority,0.35,locked at every tau up to the feasible maximum
+Draft T3 (Yes reading): V11 carrying V2 at 0.30 + Yes >= 0.25 E,0,0.389711
+Draft T3 (Yes reading): V11 carrying V2 at 0.30 + Yes >= 0.25 E,0.2,0.312272
+Draft T3 (Yes reading): V11 carrying V2 at 0.30 + Yes >= 0.25 E,0.35,0.271228
+Draft T3 (valid-vote reading): V11 carrying V2 at 0.30,0,0.389711
+Draft T3 (valid-vote reading): V11 carrying V2 at 0.30,0.2,0.312272
+Draft T3 (valid-vote reading): V11 carrying V2 at 0.30,0.35,0.269647

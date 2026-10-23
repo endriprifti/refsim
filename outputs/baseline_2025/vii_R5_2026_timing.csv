@@ -1,0 +1,17 @@
+option,timing,president,deposit,deposit_week_abs,Pr_poll_2027,Pr_poll_2028,Pr_poll_later,Pr_vote_12m,Pr_vote_18m,Pr_vote_24m,mean_months,polling_weeks,Pr_valid_list_passes_KQZ
+O0,TS0 current law,earliest,30.10.2026,95,0,1,0,0,1,1,14.0769,2028-w0,1
+O0,TS0 current law,earliest,30.11.2026,99,0,1,0,0,1,1,13.1538,2028-w0,1
+O0,TS0 current law,earliest,15.01.2027,106,0,1,0,1,1,1,11.5385,2028-w0,1
+O0,TS0 current law,earliest,31.03.2027,116,0,1,0,1,1,1,9.23077,2028-w0,1
+O0,TS0 current law,latest,30.10.2026,95,0,1,0,0,0,0,25.8462,2028-w51,1
+O0,TS0 current law,latest,30.11.2026,99,0,1,0,0,0,0,24.9231,2028-w51,1
+O0,TS0 current law,latest,15.01.2027,106,0,1,0,0,0,1,23.3077,2028-w51,1
+O0,TS0 current law,latest,31.03.2027,116,0,1,0,0,0,1,21,2028-w51,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),earliest,30.10.2026,95,1,0,0,1,1,1,8.42308,2027-w24;2027-w31,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),earliest,30.11.2026,99,1,0,0,1,1,1,8.42308,2027-w28;2027-w35,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),earliest,15.01.2027,106,1,0,0,1,1,1,8.42308,2027-w35;2027-w42,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),earliest,31.03.2027,116,0.5,0.5,0,1,1,1,8.42308,2027-w45;2028-w0,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),latest,30.10.2026,95,1,0,0,0.5,1,1,11.8846,2027-w39;2027-w46,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),latest,30.11.2026,99,1,0,0,0.5,1,1,11.8846,2027-w43;2027-w50,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),latest,15.01.2027,106,0.5,0.5,0,0.5,1,1,11.8846,2027-w50;2028-w5,1
+O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),latest,31.03.2027,116,0,1,0,0.5,1,1,11.8846,2028-w8;2028-w15,1

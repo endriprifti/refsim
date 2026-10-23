@@ -1,0 +1,31 @@
+rule,tau,t_min,n,max_z,max_half_diff,P_change_exact,P_change_mc,P_change_lo,P_change_hi
+V1 no quorum (majority of valid votes),0.3,0,20000,1.18786,0.0076,0.5,0.4958,0.488872,0.50273
+V1 no quorum (majority of valid votes),0.3,0.2,20000,1.18786,0.0076,0.5,0.4958,0.488872,0.50273
+V1 no quorum (majority of valid votes),0.4,0,20000,1.35754,0.0087,0.5,0.4952,0.488272,0.50213
+V1 no quorum (majority of valid votes),0.4,0.2,20000,1.35754,0.0087,0.5,0.4952,0.488272,0.50213
+V1 no quorum (majority of valid votes),0.5,0,20000,1.71536,0.00945,0.499981,0.49455,0.487622,0.50148
+V1 no quorum (majority of valid votes),0.5,0.2,20000,1.71536,0.00945,0.499981,0.49455,0.487622,0.50148
+V2 participation quorum (q=0.4),0.3,0,20000,1.301,0.0084,0,0,0,0.000192043
+V2 participation quorum (q=0.4),0.3,0.2,20000,1.301,0.009,1.21642e-15,0,0,0.000192043
+V2 participation quorum (q=0.4),0.4,0,20000,1.22411,0.00905,0.199697,0.19905,0.193574,0.204641
+V2 participation quorum (q=0.4),0.4,0.2,20000,1.29654,0.013,0.25528,0.2546,0.24861,0.260684
+V2 participation quorum (q=0.4),0.5,0,20000,1.22411,0.00905,0.199697,0.19905,0.193574,0.204641
+V2 participation quorum (q=0.4),0.5,0.2,20000,1.29654,0.013,0.25528,0.2546,0.24861,0.260684
+"V3 approval quorum (q=0.333333, denominator=E)",0.3,0,20000,1.301,0.0084,0,0,0,0.000192043
+"V3 approval quorum (q=0.333333, denominator=E)",0.3,0.2,20000,0.801096,0.0136,0.276828,0.2743,0.26816,0.280526
+"V3 approval quorum (q=0.333333, denominator=E)",0.4,0,20000,1.24715,0.0095,0.333036,0.3317,0.325208,0.338257
+"V3 approval quorum (q=0.333333, denominator=E)",0.4,0.2,20000,1.24715,0.0095,0.333036,0.3317,0.325208,0.338257
+"V3 approval quorum (q=0.333333, denominator=E)",0.5,0,20000,1.24715,0.0095,0.333036,0.3317,0.325208,0.338257
+"V3 approval quorum (q=0.333333, denominator=E)",0.5,0.2,20000,1.24715,0.0095,0.333036,0.3317,0.325208,0.338257
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.3,0,20000,2.66025,0.0053,0.560083,0.5554,0.548503,0.562276
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.3,0.2,20000,2.597,0.0051,0.543755,0.5408,0.533886,0.547698
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.4,0,20000,1.53648,0.0065,0.635844,0.6306,0.623886,0.637263
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.4,0.2,20000,1.30154,0.0065,0.620926,0.61645,0.609689,0.623166
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.5,0,20000,1.71532,0.00945,0.499981,0.49455,0.487622,0.50148
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",0.5,0.2,20000,1.71533,0.00945,0.499981,0.49455,0.487622,0.50148
+V7 supermajority of valid votes (qS=0.6),0.3,0,20000,1.66535,0.0058,0.400465,0.3993,0.392532,0.406106
+V7 supermajority of valid votes (qS=0.6),0.3,0.2,20000,1.6666,0.0059,0.400461,0.3993,0.392532,0.406106
+V7 supermajority of valid votes (qS=0.6),0.4,0,20000,1.65057,0.00445,0.400256,0.39895,0.392183,0.405755
+V7 supermajority of valid votes (qS=0.6),0.4,0.2,20000,1.70006,0.00445,0.400254,0.39895,0.392183,0.405755
+V7 supermajority of valid votes (qS=0.6),0.5,0,20000,1.3528,0.0063,0.400088,0.397,0.390239,0.4038
+V7 supermajority of valid votes (qS=0.6),0.5,0.2,20000,1.28148,0.00635,0.400094,0.39695,0.39019,0.40375

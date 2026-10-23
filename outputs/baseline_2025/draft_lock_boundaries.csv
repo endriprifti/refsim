@@ -1,0 +1,16 @@
+rule,t_min,lock_boundary_tau
+"P0 current law, V3 at 1/3 of E",0,0.306186
+"P0 current law, V3 at 1/3 of E",0.2,0.297443
+"P0 current law, V3 at 1/3 of E",0.35,0.297052
+"P3 T1, V2 at 40% of E",0,0.384238
+"P3 T1, V2 at 40% of E",0.2,0.331456
+"P3 T1, V2 at 40% of E",0.35,0.311091
+"P3a T1, V3 at 40% of E",0,0.384238
+"P3a T1, V3 at 40% of E",0.2,0.363407
+"P3a T1, V3 at 40% of E",0.35,0.356111
+"P3 T4, V2 at 50% of E",0,locked at every tau up to the feasible maximum
+"P3 T4, V2 at 50% of E",0.2,locked at every tau up to the feasible maximum
+"P3 T4, V2 at 50% of E",0.35,locked at every tau up to the feasible maximum
+"P3a T4, V3 at 50% of E",0,locked at every tau up to the feasible maximum
+"P3a T4, V3 at 50% of E",0.2,locked at every tau up to the feasible maximum
+"P3a T4, V3 at 50% of E",0.35,locked at every tau up to the feasible maximum

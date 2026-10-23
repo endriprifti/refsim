@@ -1,0 +1,57 @@
+rule,rho,pi,mu_b,prior,t_min_contested_from,eps_contested_from
+V2 participation quorum (q=0.5),1,0,0.5,A2 uniform (pi=0),0.26,0.307947
+V2 participation quorum (q=0.5),1,0.3,0.5,A2 uniform (pi=0.3),0.26,0.307947
+V2 participation quorum (q=0.5),1,0.3,0.666667,A2 uniform (pi=0.3),0.26,0.307947
+V2 participation quorum (q=0.5),1,0.5,0.5,A2 uniform (pi=0.5),0.26,0.307947
+V2 participation quorum (q=0.5),1,0.5,0.666667,A2 uniform (pi=0.5),0.26,0.307947
+V2 participation quorum (q=0.5),1,0,0.5,"Beta(0.5,0.5)",0.26,0.307947
+V2 participation quorum (q=0.5),1,0,0.5,"Beta(2.5,2.5)",0.26,0.307947
+V2 participation quorum (q=0.5),1.05,0,0.5,A2 uniform (pi=0),0.275,0.310203
+V2 participation quorum (q=0.5),1.05,0.3,0.5,A2 uniform (pi=0.3),0.275,0.310203
+V2 participation quorum (q=0.5),1.05,0.3,0.666667,A2 uniform (pi=0.3),0.275,0.310203
+V2 participation quorum (q=0.5),1.05,0.5,0.5,A2 uniform (pi=0.5),0.275,0.310203
+V2 participation quorum (q=0.5),1.05,0.5,0.666667,A2 uniform (pi=0.5),0.275,0.310203
+V2 participation quorum (q=0.5),1.05,0,0.5,"Beta(0.5,0.5)",0.275,0.310203
+V2 participation quorum (q=0.5),1.05,0,0.5,"Beta(2.5,2.5)",0.275,0.310203
+V2 participation quorum (q=0.5),1.1,0,0.5,A2 uniform (pi=0),0.285,0.306871
+V2 participation quorum (q=0.5),1.1,0.3,0.5,A2 uniform (pi=0.3),0.285,0.306871
+V2 participation quorum (q=0.5),1.1,0.3,0.666667,A2 uniform (pi=0.3),0.285,0.306871
+V2 participation quorum (q=0.5),1.1,0.5,0.5,A2 uniform (pi=0.5),0.285,0.306871
+V2 participation quorum (q=0.5),1.1,0.5,0.666667,A2 uniform (pi=0.5),0.285,0.306871
+V2 participation quorum (q=0.5),1.1,0,0.5,"Beta(0.5,0.5)",0.285,0.306871
+V2 participation quorum (q=0.5),1.1,0,0.5,"Beta(2.5,2.5)",0.285,0.306871
+V2 participation quorum (q=0.5),1.15,0,0.5,A2 uniform (pi=0),0.3,0.308977
+V2 participation quorum (q=0.5),1.15,0.3,0.5,A2 uniform (pi=0.3),0.3,0.308977
+V2 participation quorum (q=0.5),1.15,0.3,0.666667,A2 uniform (pi=0.3),0.3,0.308977
+V2 participation quorum (q=0.5),1.15,0.5,0.5,A2 uniform (pi=0.5),0.3,0.308977
+V2 participation quorum (q=0.5),1.15,0.5,0.666667,A2 uniform (pi=0.5),0.3,0.308977
+V2 participation quorum (q=0.5),1.15,0,0.5,"Beta(0.5,0.5)",0.3,0.308977
+V2 participation quorum (q=0.5),1.15,0,0.5,"Beta(2.5,2.5)",0.3,0.308977
+"V3 approval quorum (q=0.333333, denominator=E)",1,0,0.5,A2 uniform (pi=0),0.135,0.159896
+"V3 approval quorum (q=0.333333, denominator=E)",1,0.3,0.5,A2 uniform (pi=0.3),0.135,0.159896
+"V3 approval quorum (q=0.333333, denominator=E)",1,0.3,0.666667,A2 uniform (pi=0.3),0.135,0.159896
+"V3 approval quorum (q=0.333333, denominator=E)",1,0.5,0.5,A2 uniform (pi=0.5),0.135,0.159896
+"V3 approval quorum (q=0.333333, denominator=E)",1,0.5,0.666667,A2 uniform (pi=0.5),0.135,0.159896
+"V3 approval quorum (q=0.333333, denominator=E)",1,0,0.5,"Beta(0.5,0.5)",0.13,0.153974
+"V3 approval quorum (q=0.333333, denominator=E)",1,0,0.5,"Beta(2.5,2.5)",0.15,0.177662
+"V3 approval quorum (q=0.333333, denominator=E)",1.05,0,0.5,A2 uniform (pi=0),0.145,0.163562
+"V3 approval quorum (q=0.333333, denominator=E)",1.05,0.3,0.5,A2 uniform (pi=0.3),0.145,0.163562
+"V3 approval quorum (q=0.333333, denominator=E)",1.05,0.3,0.666667,A2 uniform (pi=0.3),0.145,0.163562
+"V3 approval quorum (q=0.333333, denominator=E)",1.05,0.5,0.5,A2 uniform (pi=0.5),0.145,0.163562
+"V3 approval quorum (q=0.333333, denominator=E)",1.05,0.5,0.666667,A2 uniform (pi=0.5),0.145,0.163562
+"V3 approval quorum (q=0.333333, denominator=E)",1.05,0,0.5,"Beta(0.5,0.5)",0.135,0.152282
+"V3 approval quorum (q=0.333333, denominator=E)",1.05,0,0.5,"Beta(2.5,2.5)",0.16,0.180482
+"V3 approval quorum (q=0.333333, denominator=E)",1.1,0,0.5,A2 uniform (pi=0),0.15,0.161511
+"V3 approval quorum (q=0.333333, denominator=E)",1.1,0.3,0.5,A2 uniform (pi=0.3),0.15,0.161511
+"V3 approval quorum (q=0.333333, denominator=E)",1.1,0.3,0.666667,A2 uniform (pi=0.3),0.15,0.161511
+"V3 approval quorum (q=0.333333, denominator=E)",1.1,0.5,0.5,A2 uniform (pi=0.5),0.15,0.161511
+"V3 approval quorum (q=0.333333, denominator=E)",1.1,0.5,0.666667,A2 uniform (pi=0.5),0.15,0.161511
+"V3 approval quorum (q=0.333333, denominator=E)",1.1,0,0.5,"Beta(0.5,0.5)",0.145,0.156127
+"V3 approval quorum (q=0.333333, denominator=E)",1.1,0,0.5,"Beta(2.5,2.5)",0.165,0.177662
+"V3 approval quorum (q=0.333333, denominator=E)",1.15,0,0.5,A2 uniform (pi=0),0.155,0.159638
+"V3 approval quorum (q=0.333333, denominator=E)",1.15,0.3,0.5,A2 uniform (pi=0.3),0.155,0.159638
+"V3 approval quorum (q=0.333333, denominator=E)",1.15,0.3,0.666667,A2 uniform (pi=0.3),0.155,0.159638
+"V3 approval quorum (q=0.333333, denominator=E)",1.15,0.5,0.5,A2 uniform (pi=0.5),0.155,0.159638
+"V3 approval quorum (q=0.333333, denominator=E)",1.15,0.5,0.666667,A2 uniform (pi=0.5),0.155,0.159638
+"V3 approval quorum (q=0.333333, denominator=E)",1.15,0,0.5,"Beta(0.5,0.5)",0.15,0.154489
+"V3 approval quorum (q=0.333333, denominator=E)",1.15,0,0.5,"Beta(2.5,2.5)",0.175,0.180237

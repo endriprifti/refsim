@@ -1,0 +1,41 @@
+verification,FR,option,label,president,Pr_vote_12,Pr_vote_24,Pr_vote_48,mean_months,polled
+R0,1.78644e-10,O0,TS0 current law,earliest,0.0606641,0.994964,1,16.4332,1
+R3,2.63759e-17,O0,TS0 current law,earliest,0.0606641,0.994964,1,16.4332,1
+R0,1.78644e-10,O0,TS0 current law,latest,0,0.282104,1,26.7301,1
+R3,2.63759e-17,O0,TS0 current law,latest,0,0.282104,1,26.7301,1
+R0,1.78644e-10,O1,TS1 election-day anchor,earliest,0.0620529,1,1,16.087,1
+R3,2.63759e-17,O1,TS1 election-day anchor,earliest,0.0620529,1,1,16.087,1
+R0,1.78644e-10,O1,TS1 election-day anchor,latest,0,0.282104,1,26.7301,1
+R3,2.63759e-17,O1,TS1 election-day anchor,latest,0,0.282104,1,26.7301,1
+R0,1.78644e-10,O2,TS2 shorter windows,earliest,0.0688945,1,1,15.9883,1
+R3,2.63759e-17,O2,TS2 shorter windows,earliest,0.0688945,1,1,15.9883,1
+R0,1.78644e-10,O2,TS2 shorter windows,latest,0,0.282104,1,26.7301,1
+R3,2.63759e-17,O2,TS2 shorter windows,latest,0,0.282104,1,26.7301,1
+R0,1.78644e-10,O3,TS3 co-scheduling allowed,earliest,0.0634229,1,1,16.1225,1
+R3,2.63759e-17,O3,TS3 co-scheduling allowed,earliest,0.0634229,1,1,16.1225,1
+R0,1.78644e-10,O3,TS3 co-scheduling allowed,latest,0,0.282104,1,26.7301,1
+R3,2.63759e-17,O3,TS3 co-scheduling allowed,latest,0,0.282104,1,26.7301,1
+R0,1.78644e-10,O4,TS4 co-scheduling required,earliest,0.00528099,0.429513,1,25.8082,1
+R3,2.63759e-17,O4,TS4 co-scheduling required,earliest,0.00528099,0.429513,1,25.8082,1
+R0,1.78644e-10,O4,TS4 co-scheduling required,latest,0.00528099,0.429513,1,25.8082,1
+R3,2.63759e-17,O4,TS4 co-scheduling required,latest,0.00528099,0.429513,1,25.8082,1
+R0,1.78644e-10,O5,TS5 two slots (θ_const),earliest,0.107401,0.994964,1,14.8988,1
+R3,2.63759e-17,O5,TS5 two slots (θ_const),earliest,0.107401,0.994964,1,14.8988,1
+R0,1.78644e-10,O5,TS5 two slots (θ_const),latest,0.00708792,0.991871,1,17.8278,1
+R3,2.63759e-17,O5,TS5 two slots (θ_const),latest,0.00708792,0.991871,1,17.8278,1
+R0,1.78644e-10,O6,TS6 corridor,earliest,0.00646325,0.81891,1,20.2109,1
+R3,2.63759e-17,O6,TS6 corridor,earliest,0.00646325,0.81891,1,20.2109,1
+R0,1.78644e-10,O6,TS6 corridor,latest,0.001597,0.761276,1,20.9609,1
+R3,2.63759e-17,O6,TS6 corridor,latest,0.001597,0.761276,1,20.9609,1
+R0,1.78644e-10,O7,TS7 two corridors (θ_const),earliest,0.0122911,0.944891,1,17.9609,1
+R3,2.63759e-17,O7,TS7 two corridors (θ_const),earliest,0.0122911,0.944891,1,17.9609,1
+R0,1.78644e-10,O7,TS7 two corridors (θ_const),latest,0.00279475,0.940319,1,18.7109,1
+R3,2.63759e-17,O7,TS7 two corridors (θ_const),latest,0.00279475,0.940319,1,18.7109,1
+R0,1.78644e-10,O8,TS8 postal voting from abroad,earliest,0.0065605,0.979868,1,17.3962,1
+R3,2.63759e-17,O8,TS8 postal voting from abroad,earliest,0.0065605,0.979868,1,17.3962,1
+R0,1.78644e-10,O8,TS8 postal voting from abroad,latest,0,0.282104,1,26.7301,1
+R3,2.63759e-17,O8,TS8 postal voting from abroad,latest,0,0.282104,1,26.7301,1
+R0,1.78644e-10,O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),earliest,0.115993,0.994964,1,14.8222,1
+R3,2.63759e-17,O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),earliest,0.115993,0.994964,1,14.8222,1
+R0,1.78644e-10,O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),latest,0.0026405,0.994964,1,17.6214,1
+R3,2.63759e-17,O9,TS9 statutory maximum (repeal 119(6); polling within six months of clearance),latest,0.0026405,0.994964,1,17.6214,1
