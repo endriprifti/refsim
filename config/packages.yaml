@@ -1,0 +1,223 @@
+# Reform packages P0-P5 (Step 13).  For each type: the validity rule and its denominator.
+# timing: pipeline option (O0-O9 = TS0-TS9); window: mandate-anchored (current) or polling-day-anchored (F62);
+# verification: R0 (current 5% sample) or R3 (F44 band rule); mooting: none or substance (Remark 4, F33).
+# Parts that need a constitutional amendment (theta_const) are listed under `constitutional`.
+P0:
+  name: Status quo (Law 9087 Part IX as in force)
+  rules:
+    T1: {code: V3, q: 0.3333333333333333}
+    T2: {code: V3, q: 0.3333333333333333}
+    T3: {code: V3, q: 0.3333333333333333}
+    T4: {code: V3, q: 0.3333333333333333}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.3333333333333333}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: []
+  constitutional: []
+P1:
+  name: Resident-indexed approval quorum (V6d at one third of residents; Regime B indexed to residents)
+  rules:
+    T1: {code: V6d, q: 0.3333333333333333}
+    T2: {code: V6d, q: 0.3333333333333333}
+    T3: {code: V6d, q: 0.3333333333333333}
+    T4: {code: V6d, q: 0.3333333333333333}
+    T5: {code: V4, q: 0.5, denominator: R}
+    T6: {code: V6d, q: 0.3333333333333333}
+    T7: {code: V6d, q: 0.3333333333333333}
+    T8: {code: V6d, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule, denominator (D8)]
+  constitutional: []
+P1b:
+  name: Lower approval quorum on the register (V3 at one fifth of E_full)
+  rules:
+    T1: {code: V3, q: 0.20}
+    T2: {code: V3, q: 0.20}
+    T3: {code: V3, q: 0.20}
+    T4: {code: V3, q: 0.20}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.20}
+    T7: {code: V3, q: 0.20}
+    T8: {code: V3, q: 0.20}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule]
+  constitutional: []
+P2:
+  name: Graduated validity (V9, approval form; void below 20% of E, advisory 20-33%, binding above)
+  rules:
+    T1: {code: V9, qa: 0.20, qb: 0.3333333333333333, lam: 0.5}
+    T2: {code: V9, qa: 0.20, qb: 0.3333333333333333, lam: 0.5}
+    T3: {code: V9, qa: 0.20, qb: 0.3333333333333333, lam: 0.5}
+    T4: {code: V3, q: 0.3333333333333333}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V9, qa: 0.20, qb: 0.3333333333333333, lam: 0.5}
+    T7: {code: V9, qa: 0.20, qb: 0.3333333333333333, lam: 0.5}
+    T8: {code: V9, qa: 0.20, qb: 0.3333333333333333, lam: 0.5}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule]
+  constitutional: ["advisory tier of V9 doubtful for T1 and for draft laws under T3, Art. 151(1) (F21) [VERIFY]"]
+P3:
+  name: Majority proposal of 24 March 2026 "Për referendumet", as first reported (the published text is P3c)
+  rules:
+    T1: {code: V2, q: 0.40}
+    T2: {code: V3, q: 0.3333333333333333}
+    T3: {code: V11, base: V1, lam: 0.5}
+    T4: {code: V2, q: 0.50}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.3333333333333333}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule]
+  constitutional: ["consultative T3 (V11) doubtful for draft laws under T3, Art. 151(1) (F21) [VERIFY]"]
+  assumptions: ["repeal referendums 'valid at 40% of registered voters' read as a participation quorum (V2, 40% of E_full) [VERIFY: approval reading is the variant P3a]",
+                "constitutional referendums 'above 50%' read as a participation quorum of 50% for T4; T5 keeps Art. 125(4) [VERIFY]",
+                "'consultative referendums' modelled as V11 (lambda_adv = 0.5) carrying V1 for T3 [VERIFY]",
+                "T2, T6-T8 not specified in the summary: kept as in force"]
+P3a:
+  name: April 2026 draft, approval reading (V3 at 40% of E_full for T1; 50% for T4)
+  rules:
+    T1: {code: V3, q: 0.40}
+    T2: {code: V3, q: 0.3333333333333333}
+    T3: {code: V11, base: V1, lam: 0.5}
+    T4: {code: V3, q: 0.50}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.3333333333333333}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule]
+  constitutional: ["as P3"]
+P4:
+  name: Double majority (V10 - national majority and a majority in 7 of 12 qarks)
+  rules:
+    T1: {code: V10, k_U: 7, m_U: 12}
+    T2: {code: V10, k_U: 7, m_U: 12}
+    T3: {code: V10, k_U: 7, m_U: 12}
+    T4: {code: V10, k_U: 7, m_U: 12}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V10, k_U: 7, m_U: 12}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule]
+  constitutional: ["territorial limb engages equal suffrage, Const. 1(2), 45(4) (F20)"]
+P5:
+  name: Calendar and pipeline reform (statutory part; validity as in force)
+  rules:
+    T1: {code: V3, q: 0.3333333333333333}
+    T2: {code: V3, q: 0.3333333333333333}
+    T3: {code: V3, q: 0.3333333333333333}
+    T4: {code: V3, q: 0.3333333333333333}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.3333333333333333}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O9
+  window: polling_day
+  verification: R3
+  mooting: substance
+  T4_review_days: 24
+  statutory: ["TS9: repeal 119(6), polling within six months of clearance", "national window anchored on Assembly polling day (start 4 months before)",
+              "R3 verification (F44)", "substance mooting rule or indirect initiative (F33)", "T4 review and decree within 24 days, exempt from the windows (F35, F50)",
+              "BP decree rule for the three-year bar (F59)"]
+  constitutional: ["TS5 two slots a year (Art. 152(3)) - reported as P5c", "bar keyed to a valid result (Art. 151(3)) - VR counterfactual"]
+P5c:
+  name: Calendar reform with the constitutional part (two annual slots, TS5)
+  rules:
+    T1: {code: V3, q: 0.3333333333333333}
+    T2: {code: V3, q: 0.3333333333333333}
+    T3: {code: V3, q: 0.3333333333333333}
+    T4: {code: V3, q: 0.3333333333333333}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.3333333333333333}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O5
+  window: polling_day
+  verification: R3
+  mooting: substance
+  T4_review_days: 24
+  statutory: ["as P5"]
+  constitutional: ["TS5 two annual slots (amendment of Art. 152(3))"]
+P3b:
+  name: March 2026 draft re-read (Section VII, R8), Yes reading - repeal valid at 40% participation with Yes >= 30% of E; constitutional 50% participation; consultative 30% participation and Yes >= 25% of E
+  rules:
+    T1: {code: V8x, q_P: 0.40, q_A: 0.30}
+    T2: {code: V3, q: 0.3333333333333333}
+    T3: {code: V11, base: {code: V8x, q_P: 0.30, q_A: 0.25}, lam: 0.5}
+    T4: {code: V2, q: 0.50}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.3333333333333333}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule]
+  constitutional: ["consultative T3 (V11) doubtful for draft laws under T3, Art. 151(1) (F21) [VERIFY]"]
+  assumptions: ["draft Art. 3(2) second limb read as Yes votes >= 30% of E [VERIFY: Art. 3(2), second sentence]",
+                "draft Art. 3(1): participation 50% and a majority of valid votes for T4; T5 keeps Art. 125(4)",
+                "draft Art. 3(3): consultative T3 valid at 30% participation and 25% of E (Yes)"]
+P3c:
+  name: March 2026 draft re-read (Section VII, R8), valid-vote reading - repeal valid at 40% participation with valid votes >= 30% of E (implied by the 40% limb in the model)
+  rules:
+    T1: {code: V8x, q_P: 0.40}
+    T2: {code: V3, q: 0.3333333333333333}
+    T3: {code: V11, base: {code: V8x, q_P: 0.30}, lam: 0.5}
+    T4: {code: V2, q: 0.50}
+    T5: {code: V4, q: 0.5}
+    T6: {code: V3, q: 0.3333333333333333}
+    T7: {code: V3, q: 0.3333333333333333}
+    T8: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  timing: O0
+  window: mandate
+  verification: R0
+  mooting: none
+  T4_review_days: 60
+  statutory: [validity rule]
+  constitutional: ["as P3b"]
+  assumptions: ["draft Art. 3(2) second limb read as valid votes >= 30% of E; with no invalid ballots in the model it is implied by the 40% participation limb, so T1 = V2 at 0.40 (= P3)"]

@@ -1,0 +1,75 @@
+# Referendum types T1-T8 (Section I, Table I.2; Section III, Table III.1).
+# default: outcome when the vote produces no valid change.  rule_in_force: P0.  chain: pipeline used for C4.
+T1:
+  name: abrogative (Const. 150(1)), citizens' initiative
+  initiator: 50,000 voters
+  default: law stays in force
+  non_default: repeal
+  rule_in_force: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  chain: national_initiative
+  agenda_mu_b: 0.5
+T2:
+  name: special importance on citizens' request (150(1)); President decides
+  initiator: 50,000 voters
+  default: status quo
+  non_default: proposal
+  rule_in_force: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  chain: national_initiative
+  agenda_mu_b: 0.5
+T3:
+  name: Assembly-initiated issue or draft law (150(2))
+  initiator: Assembly majority
+  default: status quo
+  non_default: proposal
+  rule_in_force: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  chain: assembly
+  agenda_mu_b: 0.6666666666666666
+T4:
+  name: constitutional, Assembly-decided (177(4)); vote within 60 days of adoption
+  initiator: two-thirds of deputies
+  default: amendment not ratified
+  non_default: ratification
+  rule_in_force: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  chain: constitutional_60_days
+  agenda_mu_b: 0.6666666666666666
+T5:
+  name: constitutional, minority-requested (177(5))
+  initiator: one fifth of deputies
+  default: amendment stands
+  non_default: rejection
+  rule_in_force: {code: V4, q: 0.5}
+  denominator: E_full
+  chain: constitutional_request
+  agenda_mu_b: 0.5
+T6:
+  name: ratification of delegation to international organisations (123(3)) - not covered by Code 118(1)
+  initiator: Assembly
+  default: not ratified (assumed rule, D5)
+  non_default: ratification
+  rule_in_force: {code: V3, q: 0.3333333333333333}
+  denominator: E_full
+  chain: assembly
+  agenda_mu_b: 0.5
+  note: "F10/F16: no rule in force; the assumed rule is labelled as such"
+T7:
+  name: local municipal (108(4); 132(1)) - unit reading (D4)
+  initiator: 10% of local voters or 20,000
+  default: status quo
+  non_default: proposal
+  rule_in_force: {code: V3, q: 0.3333333333333333}
+  denominator: E_u
+  chain: local
+  agenda_mu_b: 0.5
+T8:
+  name: regional / qark (132(2))
+  initiator: councils representing at least one third of the qark population
+  default: status quo
+  non_default: proposal
+  rule_in_force: {code: V3, q: 0.3333333333333333}
+  denominator: E_q
+  chain: local
+  agenda_mu_b: 0.5
