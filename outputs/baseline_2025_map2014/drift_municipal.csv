@@ -1,0 +1,5 @@
+case,gamma,basis,count_y0,count_y2,count_y5,count_y10,count_y15,count_y20,joiners,remark1_exits
+central,0.0169012,"2025 (rebased, D11)",9,12,16,21,28,35,Dropull 0.12; Mirditë 1.33; Mallakastër 1.91; Pukë 2.15,Klos 1.62; Kamëz 4.20; Tiranë 6.08
+central,0.0169012,Table C.4 as printed,8,11,15,21,28,35,Pustec 0.09; Dropull 0.42; Mirditë 1.63; Mallakastër 2.21; Pukë 2.46,Dimal 0.19; Klos 1.92; Kamëz 4.51; Tiranë 6.38
+fast,0.0200012,"2025 (rebased, D11)",9,13,18,24,33,44,Dropull 0.10; Mirditë 1.12; Mallakastër 1.61; Pukë 1.82,Klos 1.36; Kamëz 3.55; Tiranë 5.13
+fast,0.0200012,Table C.4 as printed,8,12,16,24,32,44,Pustec 0.08; Dropull 0.36; Mirditë 1.38; Mallakastër 1.87; Pukë 2.08,Dimal 0.16; Klos 1.62; Kamëz 3.81; Tiranë 5.39

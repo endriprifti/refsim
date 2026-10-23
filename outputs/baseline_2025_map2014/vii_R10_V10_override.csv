@@ -1,0 +1,19 @@
+rule,prior,sigma_u,n,Pr_override,Pr_override_given_national_Yes,Pr_national_Yes
+P4: 7 of 12 qarks (E-hat weights),A2 uniform (pi=0),0.03,400000,0.005105,0.010193,0.500835
+P4: 7 of 12 qarks (E-hat weights),A2 uniform (pi=0),0.05,400000,0.0081025,0.0162019,0.500095
+P4: 7 of 12 qarks (E-hat weights),A2 uniform (pi=0),0.08,400000,0.0133125,0.0265934,0.500595
+Swiss-type: majority of the 61 municipalities,A2 uniform (pi=0),0.03,400000,0.0024175,0.00483229,0.50028
+Swiss-type: majority of the 61 municipalities,A2 uniform (pi=0),0.05,400000,0.00419,0.00836737,0.500755
+Swiss-type: majority of the 61 municipalities,A2 uniform (pi=0),0.08,400000,0.006905,0.0138061,0.500143
+P4: 7 of 12 qarks (E-hat weights),"Beta(0.5,0.5)",0.03,400000,0.0032725,0.00655076,0.49956
+P4: 7 of 12 qarks (E-hat weights),"Beta(0.5,0.5)",0.05,400000,0.005435,0.0108826,0.499422
+P4: 7 of 12 qarks (E-hat weights),"Beta(0.5,0.5)",0.08,400000,0.00845,0.0168955,0.500132
+Swiss-type: majority of the 61 municipalities,"Beta(0.5,0.5)",0.03,400000,0.001615,0.00323226,0.49965
+Swiss-type: majority of the 61 municipalities,"Beta(0.5,0.5)",0.05,400000,0.0027375,0.00546584,0.500838
+Swiss-type: majority of the 61 municipalities,"Beta(0.5,0.5)",0.08,400000,0.0042675,0.00853671,0.4999
+P4: 7 of 12 qarks (E-hat weights),"Beta(2.5,2.5)",0.03,400000,0.008235,0.0164688,0.500035
+P4: 7 of 12 qarks (E-hat weights),"Beta(2.5,2.5)",0.05,400000,0.0142775,0.0285999,0.499215
+P4: 7 of 12 qarks (E-hat weights),"Beta(2.5,2.5)",0.08,400000,0.0224375,0.0448127,0.500695
+Swiss-type: majority of the 61 municipalities,"Beta(2.5,2.5)",0.03,400000,0.004205,0.00842331,0.49921
+Swiss-type: majority of the 61 municipalities,"Beta(2.5,2.5)",0.05,400000,0.006965,0.0138903,0.50143
+Swiss-type: majority of the 61 municipalities,"Beta(2.5,2.5)",0.08,400000,0.0109825,0.0219937,0.499347
