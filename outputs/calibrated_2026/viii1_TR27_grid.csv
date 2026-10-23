@@ -1,0 +1,1589 @@
+rule,denominator,t_min,tau,regime,P_change,C1p,C1R,C2,sx,sd
+V3 at 0.15 of E_full,E_full,0.2,0.2,default demobilises,0.361118,0.0108002,0.149682,0,0.510214,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.21,default demobilises,0.406698,0.0187421,0.112044,0,0.534875,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.22,default demobilises,0.446354,0.0290651,0.0827107,0,0.557347,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.23,default demobilises,0.481234,0.0412241,0.0599898,0,0.578187,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.24,default demobilises,0.512164,0.0545422,0.0423781,0,0.597735,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.25,default demobilises,0.539776,0.0694565,0.02968,0,0.616224,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.26,default demobilises,0.564573,0.085228,0.0206548,0,0.633818,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.27,default demobilises,0.586957,0.100629,0.0136718,0,0.65064,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.28,default demobilises,0.60726,0.116581,0.00932108,0,0.666787,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.29,default demobilises,0.625745,0.131824,0.00607899,0,0.682336,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.3,default demobilises,0.642648,0.14657,0.00392187,0,0.69735,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.31,default demobilises,0.658135,0.160675,0.00254001,0,0.711879,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.32,default demobilises,0.672386,0.173948,0.00156185,0,0.725967,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.33,default demobilises,0.685494,0.186497,0.0010026,0,0.739653,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.34,default demobilises,0.697614,0.198214,0.000599835,0,0.752967,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.35,default demobilises,0.708756,0.20913,0.000374451,0,0.765938,0.2
+V3 at 0.15 of E_full,E_full,0.2,0.36,"no pure equilibrium (mixed, approx.)",0.58213,0.0888853,0.0067553,0,0.737883,0.520201
+V3 at 0.15 of E_full,E_full,0.2,0.37,slack (V1 outcome),0.498957,0.0199095,0.0209527,0,0.715673,0.715673
+V3 at 0.15 of E_full,E_full,0.2,0.38,slack (V1 outcome),0.499527,0.019423,0.019896,0,0.735015,0.735015
+V3 at 0.15 of E_full,E_full,0.2,0.39,slack (V1 outcome),0.499813,0.0188249,0.0190121,0,0.754358,0.754358
+V3 at 0.15 of E_full,E_full,0.2,0.4,slack (V1 outcome),0.499938,0.0180884,0.0181504,0,0.7737,0.7737
+V3 at 0.15 of E_full,E_full,0.2,0.41,slack (V1 outcome),0.499945,0.0171492,0.0172045,0,0.793043,0.793043
+V3 at 0.15 of E_full,E_full,0.2,0.42,slack (V1 outcome),0.49997,0.0160454,0.0160758,0,0.812385,0.812385
+V3 at 0.15 of E_full,E_full,0.2,0.43,slack (V1 outcome),0.500097,0.0148086,0.0147121,0,0.831728,0.831728
+V3 at 0.15 of E_full,E_full,0.2,0.44,slack (V1 outcome),0.499968,0.0131712,0.0132028,0,0.85107,0.85107
+V3 at 0.15 of E_full,E_full,0.2,0.45,slack (V1 outcome),0.499929,0.0114073,0.0114787,0,0.870413,0.870413
+V3 at 0.15 of E_full,E_full,0.2,0.46,slack (V1 outcome),0.500059,0.00962974,0.00957112,0,0.889755,0.889755
+V3 at 0.15 of E_full,E_full,0.3,0.2,default demobilises,0.264674,0.00280967,0.238136,0,0.459949,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.21,default demobilises,0.32868,0.00731467,0.178635,0,0.493179,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.22,default demobilises,0.382946,0.0144173,0.131471,0,0.52193,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.23,default demobilises,0.42938,0.0242179,0.0948379,0,0.547641,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.24,default demobilises,0.469481,0.0363683,0.066887,0,0.571112,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.25,default demobilises,0.50442,0.0504749,0.0460552,0,0.592842,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.26,default demobilises,0.535104,0.0668405,0.0317363,0,0.613169,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.27,default demobilises,0.56227,0.0835928,0.0213226,0,0.632335,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.28,default demobilises,0.586483,0.100188,0.0137056,0,0.650517,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.29,default demobilises,0.608174,0.117215,0.009041,0,0.667853,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.3,default demobilises,0.627731,0.133501,0.00576936,0,0.68445,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.31,default demobilises,0.645458,0.148955,0.00349625,0,0.700395,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.32,default demobilises,0.661577,0.163844,0.00226645,0,0.715757,0.3
+V3 at 0.15 of E_full,E_full,0.3,0.33,"no pure equilibrium (mixed, approx.)",0.669364,0.170835,0.00147089,0,0.729539,0.317247
+V3 at 0.15 of E_full,E_full,0.3,0.34,"no pure equilibrium (mixed, approx.)",0.563668,0.0729082,0.00924028,0,0.698643,0.541213
+V3 at 0.15 of E_full,E_full,0.3,0.35,slack (V1 outcome),0.495722,0.0202384,0.0245166,0,0.676988,0.676988
+V3 at 0.15 of E_full,E_full,0.3,0.36,slack (V1 outcome),0.497821,0.0202145,0.022394,0,0.69633,0.69633
+V3 at 0.15 of E_full,E_full,0.3,0.37,slack (V1 outcome),0.498957,0.0199095,0.0209527,0,0.715673,0.715673
+V3 at 0.15 of E_full,E_full,0.3,0.38,slack (V1 outcome),0.499527,0.019423,0.019896,0,0.735015,0.735015
+V3 at 0.15 of E_full,E_full,0.3,0.39,slack (V1 outcome),0.499813,0.0188249,0.0190121,0,0.754358,0.754358
+V3 at 0.15 of E_full,E_full,0.3,0.4,slack (V1 outcome),0.499938,0.0180884,0.0181504,0,0.7737,0.7737
+V3 at 0.15 of E_full,E_full,0.3,0.41,slack (V1 outcome),0.499945,0.0171492,0.0172045,0,0.793043,0.793043
+V3 at 0.15 of E_full,E_full,0.3,0.42,slack (V1 outcome),0.49997,0.0160454,0.0160758,0,0.812385,0.812385
+V3 at 0.15 of E_full,E_full,0.3,0.43,slack (V1 outcome),0.500097,0.0148086,0.0147121,0,0.831728,0.831728
+V3 at 0.15 of E_full,E_full,0.3,0.44,slack (V1 outcome),0.499968,0.0131712,0.0132028,0,0.85107,0.85107
+V3 at 0.15 of E_full,E_full,0.3,0.45,slack (V1 outcome),0.499929,0.0114073,0.0114787,0,0.870413,0.870413
+V3 at 0.15 of E_full,E_full,0.3,0.46,slack (V1 outcome),0.500059,0.00962974,0.00957112,0,0.889755,0.889755
+V3 at 0.15 of E_full,E_full,0.38,0.2,default demobilises,0.142195,0.00025786,0.358063,0,0.391837,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.21,default demobilises,0.210822,0.00101997,0.290198,0,0.431485,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.22,default demobilises,0.285299,0.00384058,0.218541,0,0.470783,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.23,default demobilises,0.351606,0.00938909,0.157783,0,0.505434,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.24,default demobilises,0.407699,0.0183002,0.110602,0,0.535855,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.25,default demobilises,0.454918,0.0306682,0.0757504,0,0.563009,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.26,default demobilises,0.494937,0.0458724,0.0509353,0,0.587654,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.27,default demobilises,0.529227,0.0628922,0.0336649,0,0.610329,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.28,default demobilises,0.558925,0.0806628,0.0217375,0,0.631419,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.29,default demobilises,0.58483,0.0983475,0.0135174,0,0.651203,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.3,default demobilises,0.607708,0.116217,0.00850851,0,0.66989,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.31,default demobilises,0.628069,0.133375,0.00530574,0,0.687641,0.38
+V3 at 0.15 of E_full,E_full,0.38,0.32,"no pure equilibrium (mixed, approx.)",0.579606,0.0887153,0.00910908,0,0.677603,0.485109
+V3 at 0.15 of E_full,E_full,0.38,0.33,"no pure equilibrium (mixed, approx.)",0.513721,0.0359123,0.0221909,0,0.656892,0.606144
+V3 at 0.15 of E_full,E_full,0.38,0.34,slack (V1 outcome),0.492141,0.0200502,0.0279089,0,0.657645,0.657645
+V3 at 0.15 of E_full,E_full,0.38,0.35,slack (V1 outcome),0.495722,0.0202384,0.0245166,0,0.676988,0.676988
+V3 at 0.15 of E_full,E_full,0.38,0.36,slack (V1 outcome),0.497821,0.0202145,0.022394,0,0.69633,0.69633
+V3 at 0.15 of E_full,E_full,0.38,0.37,slack (V1 outcome),0.498957,0.0199095,0.0209527,0,0.715673,0.715673
+V3 at 0.15 of E_full,E_full,0.38,0.38,slack (V1 outcome),0.499527,0.019423,0.019896,0,0.735015,0.735015
+V3 at 0.15 of E_full,E_full,0.38,0.39,slack (V1 outcome),0.499813,0.0188249,0.0190121,0,0.754358,0.754358
+V3 at 0.15 of E_full,E_full,0.38,0.4,slack (V1 outcome),0.499938,0.0180884,0.0181504,0,0.7737,0.7737
+V3 at 0.15 of E_full,E_full,0.38,0.41,slack (V1 outcome),0.499945,0.0171492,0.0172045,0,0.793043,0.793043
+V3 at 0.15 of E_full,E_full,0.38,0.42,slack (V1 outcome),0.49997,0.0160454,0.0160758,0,0.812385,0.812385
+V3 at 0.15 of E_full,E_full,0.38,0.43,slack (V1 outcome),0.500097,0.0148086,0.0147121,0,0.831728,0.831728
+V3 at 0.15 of E_full,E_full,0.38,0.44,slack (V1 outcome),0.499968,0.0131712,0.0132028,0,0.85107,0.85107
+V3 at 0.15 of E_full,E_full,0.38,0.45,slack (V1 outcome),0.499929,0.0114073,0.0114787,0,0.870413,0.870413
+V3 at 0.15 of E_full,E_full,0.38,0.46,slack (V1 outcome),0.500059,0.00962974,0.00957112,0,0.889755,0.889755
+V3 at 0.15 of E_dom,E_dom,0.2,0.2,default demobilises,0.351043,0.00974301,0.1587,0,0.471449,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.21,default demobilises,0.398441,0.0172656,0.118825,0,0.49521,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.22,default demobilises,0.439533,0.0271493,0.0876165,0,0.516752,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.23,default demobilises,0.475562,0.0389191,0.0633569,0,0.53666,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.24,default demobilises,0.507422,0.0519651,0.0445427,0,0.555286,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.25,default demobilises,0.535796,0.0673129,0.0315172,0,0.572866,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.26,default demobilises,0.561219,0.0829732,0.0217545,0,0.589568,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.27,default demobilises,0.584123,0.0983984,0.0142753,0,0.605514,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.28,default demobilises,0.604862,0.114699,0.00983772,0,0.620803,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.29,default demobilises,0.623724,0.130062,0.00633762,0,0.635511,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.3,default demobilises,0.64095,0.145093,0.00414352,0,0.649699,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.31,default demobilises,0.656738,0.159379,0.00264029,0,0.663419,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.32,default demobilises,0.671261,0.172909,0.00164766,0,0.676714,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.33,default demobilises,0.684659,0.185697,0.00103739,0,0.689621,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.34,default demobilises,0.697057,0.197686,0.000629458,0,0.702171,0.2
+V3 at 0.15 of E_dom,E_dom,0.2,0.35,"no pure equilibrium (mixed, approx.)",0.695258,0.19592,0.000661304,0,0.712497,0.232937
+V3 at 0.15 of E_dom,E_dom,0.2,0.36,"no pure equilibrium (mixed, approx.)",0.547719,0.0589825,0.0112631,0,0.673969,0.556173
+V3 at 0.15 of E_dom,E_dom,0.2,0.37,slack (V1 outcome),0.498957,0.0200044,0.0210475,0,0.668279,0.668279
+V3 at 0.15 of E_dom,E_dom,0.2,0.38,slack (V1 outcome),0.499536,0.0196178,0.0200816,0,0.686341,0.686341
+V3 at 0.15 of E_dom,E_dom,0.2,0.39,slack (V1 outcome),0.499808,0.0191678,0.0193594,0,0.704402,0.704402
+V3 at 0.15 of E_dom,E_dom,0.2,0.4,slack (V1 outcome),0.499922,0.0186775,0.018756,0,0.722464,0.722464
+V3 at 0.15 of E_dom,E_dom,0.2,0.41,slack (V1 outcome),0.499971,0.0181529,0.0181821,0,0.740525,0.740525
+V3 at 0.15 of E_dom,E_dom,0.2,0.42,slack (V1 outcome),0.500005,0.0175915,0.0175862,0,0.758587,0.758587
+V3 at 0.15 of E_dom,E_dom,0.2,0.43,slack (V1 outcome),0.499986,0.0169104,0.0169241,0,0.776649,0.776649
+V3 at 0.15 of E_dom,E_dom,0.2,0.44,slack (V1 outcome),0.499976,0.0161238,0.0161475,0,0.79471,0.79471
+V3 at 0.15 of E_dom,E_dom,0.2,0.45,slack (V1 outcome),0.500048,0.0152286,0.015181,0,0.812772,0.812772
+V3 at 0.15 of E_dom,E_dom,0.2,0.46,slack (V1 outcome),0.5,0.0140417,0.0140412,0,0.830833,0.830833
+V3 at 0.15 of E_dom,E_dom,0.2,0.47,slack (V1 outcome),0.499939,0.0126529,0.0127139,0,0.848895,0.848895
+V3 at 0.15 of E_dom,E_dom,0.2,0.48,slack (V1 outcome),0.500004,0.0111258,0.0111213,0,0.866956,0.866957
+V3 at 0.15 of E_dom,E_dom,0.2,0.49,slack (V1 outcome),0.500077,0.00948658,0.00940935,0,0.885018,0.885018
+V3 at 0.15 of E_dom,E_dom,0.3,0.2,default demobilises,0.233921,0.00180299,0.267882,0,0.414425,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.21,default demobilises,0.303566,0.00507403,0.201508,0,0.448345,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.22,default demobilises,0.362844,0.0108895,0.148045,0,0.477333,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.23,default demobilises,0.413289,0.0197842,0.106495,0,0.502953,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.24,default demobilises,0.456509,0.0317357,0.0752267,0,0.52612,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.25,default demobilises,0.493878,0.0461582,0.05228,0,0.547409,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.26,default demobilises,0.526453,0.0620969,0.0356436,0,0.567206,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.27,default demobilises,0.555097,0.0786954,0.0235989,0,0.585782,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.28,default demobilises,0.580493,0.0957115,0.0152189,0,0.603335,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.29,default demobilises,0.603133,0.113195,0.0100612,0,0.620016,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.3,default demobilises,0.623444,0.129714,0.00626943,0,0.635942,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.31,default demobilises,0.641794,0.145711,0.00391628,0,0.651206,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.32,default demobilises,0.658459,0.160912,0.00245298,0,0.665884,0.3
+V3 at 0.15 of E_dom,E_dom,0.3,0.33,"no pure equilibrium (mixed, approx.)",0.609314,0.114057,0.00474356,0,0.659438,0.414412
+V3 at 0.15 of E_dom,E_dom,0.3,0.34,"no pure equilibrium (mixed, approx.)",0.530721,0.0469185,0.0161976,0,0.635033,0.555935
+V3 at 0.15 of E_dom,E_dom,0.3,0.35,slack (V1 outcome),0.495723,0.0202598,0.0245368,0,0.632156,0.632156
+V3 at 0.15 of E_dom,E_dom,0.3,0.36,slack (V1 outcome),0.497816,0.0202552,0.0224393,0,0.650217,0.650217
+V3 at 0.15 of E_dom,E_dom,0.3,0.37,slack (V1 outcome),0.498957,0.0200044,0.0210475,0,0.668279,0.668279
+V3 at 0.15 of E_dom,E_dom,0.3,0.38,slack (V1 outcome),0.499536,0.0196178,0.0200816,0,0.686341,0.686341
+V3 at 0.15 of E_dom,E_dom,0.3,0.39,slack (V1 outcome),0.499808,0.0191678,0.0193594,0,0.704402,0.704402
+V3 at 0.15 of E_dom,E_dom,0.3,0.4,slack (V1 outcome),0.499922,0.0186775,0.018756,0,0.722464,0.722464
+V3 at 0.15 of E_dom,E_dom,0.3,0.41,slack (V1 outcome),0.499971,0.0181529,0.0181822,0,0.740525,0.740525
+V3 at 0.15 of E_dom,E_dom,0.3,0.42,slack (V1 outcome),0.500005,0.0175914,0.0175863,0,0.758587,0.758587
+V3 at 0.15 of E_dom,E_dom,0.3,0.43,slack (V1 outcome),0.499986,0.0169104,0.0169241,0,0.776649,0.776649
+V3 at 0.15 of E_dom,E_dom,0.3,0.44,slack (V1 outcome),0.499976,0.0161238,0.0161475,0,0.79471,0.79471
+V3 at 0.15 of E_dom,E_dom,0.3,0.45,slack (V1 outcome),0.500048,0.0152286,0.015181,0,0.812772,0.812772
+V3 at 0.15 of E_dom,E_dom,0.3,0.46,slack (V1 outcome),0.5,0.0140417,0.0140412,0,0.830833,0.830833
+V3 at 0.15 of E_dom,E_dom,0.3,0.47,slack (V1 outcome),0.499939,0.0126529,0.0127139,0,0.848895,0.848895
+V3 at 0.15 of E_dom,E_dom,0.3,0.48,slack (V1 outcome),0.500004,0.0111258,0.0111213,0,0.866957,0.866956
+V3 at 0.15 of E_dom,E_dom,0.3,0.49,slack (V1 outcome),0.500077,0.00948658,0.00940935,0,0.885018,0.885018
+V3 at 0.15 of E_dom,E_dom,0.38,0.22,default demobilises,0.236112,0.00164829,0.265536,0,0.41565,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.23,default demobilises,0.310518,0.00497684,0.194459,0,0.451996,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.24,default demobilises,0.375489,0.0122329,0.136744,0,0.484152,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.25,default demobilises,0.429749,0.0231877,0.0934392,0,0.512436,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.26,default demobilises,0.474978,0.0372721,0.0622937,0,0.537697,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.27,default demobilises,0.51305,0.0535842,0.0405346,0,0.560624,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.28,default demobilises,0.545513,0.0711224,0.0256096,0,0.581713,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.29,default demobilises,0.573438,0.0895988,0.0161603,0,0.601322,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.3,default demobilises,0.597808,0.107957,0.0101489,0,0.619712,0.38
+V3 at 0.15 of E_dom,E_dom,0.38,0.31,"no pure equilibrium (mixed, approx.)",0.607463,0.114646,0.00718284,0,0.631879,0.394375
+V3 at 0.15 of E_dom,E_dom,0.38,0.32,"no pure equilibrium (mixed, approx.)",0.537966,0.0553315,0.0173656,0,0.613023,0.514194
+V3 at 0.15 of E_dom,E_dom,0.38,0.33,"no pure equilibrium (mixed, approx.)",0.48661,0.0194477,0.0328376,0,0.596674,0.596674
+V3 at 0.15 of E_dom,E_dom,0.38,0.34,slack (V1 outcome),0.492142,0.020059,0.0279174,0,0.614094,0.614094
+V3 at 0.15 of E_dom,E_dom,0.38,0.35,slack (V1 outcome),0.495723,0.0202598,0.0245368,0,0.632156,0.632156
+V3 at 0.15 of E_dom,E_dom,0.38,0.36,slack (V1 outcome),0.497816,0.0202552,0.0224393,0,0.650217,0.650217
+V3 at 0.15 of E_dom,E_dom,0.38,0.37,slack (V1 outcome),0.498957,0.0200044,0.0210475,0,0.668279,0.668279
+V3 at 0.15 of E_dom,E_dom,0.38,0.38,slack (V1 outcome),0.499536,0.0196178,0.0200816,0,0.686341,0.686341
+V3 at 0.15 of E_dom,E_dom,0.38,0.39,slack (V1 outcome),0.499808,0.0191678,0.0193594,0,0.704402,0.704402
+V3 at 0.15 of E_dom,E_dom,0.38,0.4,slack (V1 outcome),0.499922,0.0186775,0.018756,0,0.722464,0.722464
+V3 at 0.15 of E_dom,E_dom,0.38,0.41,slack (V1 outcome),0.499971,0.0181529,0.0181821,0,0.740525,0.740525
+V3 at 0.15 of E_dom,E_dom,0.38,0.42,slack (V1 outcome),0.500005,0.0175914,0.0175863,0,0.758587,0.758587
+V3 at 0.15 of E_dom,E_dom,0.38,0.43,slack (V1 outcome),0.499986,0.0169104,0.0169241,0,0.776649,0.776649
+V3 at 0.15 of E_dom,E_dom,0.38,0.44,slack (V1 outcome),0.499976,0.0161238,0.0161475,0,0.79471,0.79471
+V3 at 0.15 of E_dom,E_dom,0.38,0.45,slack (V1 outcome),0.500048,0.0152286,0.015181,0,0.812772,0.812772
+V3 at 0.15 of E_dom,E_dom,0.38,0.46,slack (V1 outcome),0.5,0.0140417,0.0140412,0,0.830833,0.830833
+V3 at 0.15 of E_dom,E_dom,0.38,0.47,slack (V1 outcome),0.499939,0.0126529,0.0127139,0,0.848895,0.848895
+V3 at 0.15 of E_dom,E_dom,0.38,0.48,slack (V1 outcome),0.500004,0.0111258,0.0111213,0,0.866957,0.866957
+V3 at 0.15 of E_dom,E_dom,0.38,0.49,slack (V1 outcome),0.500077,0.00948659,0.00940934,0,0.885018,0.885018
+V6d at 0.15 of R,E_full,0.2,0.2,slack (V1 outcome),0.487738,0.0345626,0.0468249,0,0.38685,0.38685
+V6d at 0.15 of R,E_full,0.2,0.21,slack (V1 outcome),0.49345,0.034279,0.040829,0,0.406193,0.406193
+V6d at 0.15 of R,E_full,0.2,0.22,slack (V1 outcome),0.496721,0.0334637,0.036743,0,0.425535,0.425535
+V6d at 0.15 of R,E_full,0.2,0.23,slack (V1 outcome),0.498466,0.0324571,0.0339915,0,0.444878,0.444878
+V6d at 0.15 of R,E_full,0.2,0.24,slack (V1 outcome),0.499329,0.031326,0.0319974,0,0.46422,0.46422
+V6d at 0.15 of R,E_full,0.2,0.25,slack (V1 outcome),0.499725,0.0301569,0.0304315,0,0.483563,0.483563
+V6d at 0.15 of R,E_full,0.2,0.26,slack (V1 outcome),0.499895,0.0290235,0.0291287,0,0.502905,0.502905
+V6d at 0.15 of R,E_full,0.2,0.27,slack (V1 outcome),0.499963,0.0279515,0.0279888,0,0.522248,0.522248
+V6d at 0.15 of R,E_full,0.2,0.28,slack (V1 outcome),0.499988,0.0269437,0.0269558,0,0.54159,0.54159
+V6d at 0.15 of R,E_full,0.2,0.29,slack (V1 outcome),0.499996,0.026002,0.0260057,0,0.560933,0.560933
+V6d at 0.15 of R,E_full,0.2,0.3,slack (V1 outcome),0.499999,0.0251228,0.0251239,0,0.580275,0.580275
+V6d at 0.15 of R,E_full,0.2,0.31,slack (V1 outcome),0.5,0.0243007,0.0243011,0,0.599618,0.599618
+V6d at 0.15 of R,E_full,0.2,0.32,slack (V1 outcome),0.5,0.0235304,0.0235305,0,0.61896,0.61896
+V6d at 0.15 of R,E_full,0.2,0.33,slack (V1 outcome),0.5,0.0228065,0.0228062,0,0.638303,0.638303
+V6d at 0.15 of R,E_full,0.2,0.34,slack (V1 outcome),0.5,0.0221217,0.0221221,0,0.657645,0.657645
+V6d at 0.15 of R,E_full,0.2,0.35,slack (V1 outcome),0.499999,0.0214694,0.0214704,0,0.676988,0.676988
+V6d at 0.15 of R,E_full,0.2,0.36,slack (V1 outcome),0.500005,0.0208451,0.0208405,0,0.69633,0.69633
+V6d at 0.15 of R,E_full,0.2,0.37,slack (V1 outcome),0.499999,0.0202164,0.020217,0,0.715673,0.715673
+V6d at 0.15 of R,E_full,0.2,0.38,slack (V1 outcome),0.499992,0.0195688,0.0195773,0,0.735015,0.735015
+V6d at 0.15 of R,E_full,0.2,0.39,slack (V1 outcome),0.500005,0.0188894,0.0188841,0,0.754358,0.754358
+V6d at 0.15 of R,E_full,0.2,0.4,slack (V1 outcome),0.500013,0.0181127,0.0180999,0,0.7737,0.7737
+V6d at 0.15 of R,E_full,0.2,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V6d at 0.15 of R,E_full,0.2,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V6d at 0.15 of R,E_full,0.2,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.15 of R,E_full,0.2,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.15 of R,E_full,0.2,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.15 of R,E_full,0.2,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957108,0,0.889755,0.889755
+V6d at 0.15 of R,E_full,0.3,0.2,slack (V1 outcome),0.487738,0.0345626,0.0468249,0,0.38685,0.38685
+V6d at 0.15 of R,E_full,0.3,0.21,slack (V1 outcome),0.49345,0.034279,0.040829,0,0.406193,0.406193
+V6d at 0.15 of R,E_full,0.3,0.22,slack (V1 outcome),0.496721,0.0334637,0.036743,0,0.425535,0.425535
+V6d at 0.15 of R,E_full,0.3,0.23,slack (V1 outcome),0.498466,0.0324571,0.0339915,0,0.444878,0.444878
+V6d at 0.15 of R,E_full,0.3,0.24,slack (V1 outcome),0.499329,0.031326,0.0319974,0,0.46422,0.46422
+V6d at 0.15 of R,E_full,0.3,0.25,slack (V1 outcome),0.499725,0.0301569,0.0304315,0,0.483563,0.483563
+V6d at 0.15 of R,E_full,0.3,0.26,slack (V1 outcome),0.499895,0.0290235,0.0291287,0,0.502905,0.502905
+V6d at 0.15 of R,E_full,0.3,0.27,slack (V1 outcome),0.499963,0.0279515,0.0279888,0,0.522248,0.522248
+V6d at 0.15 of R,E_full,0.3,0.28,slack (V1 outcome),0.499988,0.0269437,0.0269558,0,0.54159,0.54159
+V6d at 0.15 of R,E_full,0.3,0.29,slack (V1 outcome),0.499996,0.026002,0.0260057,0,0.560933,0.560933
+V6d at 0.15 of R,E_full,0.3,0.3,slack (V1 outcome),0.499999,0.0251228,0.0251239,0,0.580275,0.580275
+V6d at 0.15 of R,E_full,0.3,0.31,slack (V1 outcome),0.5,0.0243007,0.0243011,0,0.599618,0.599618
+V6d at 0.15 of R,E_full,0.3,0.32,slack (V1 outcome),0.5,0.0235304,0.0235305,0,0.61896,0.61896
+V6d at 0.15 of R,E_full,0.3,0.33,slack (V1 outcome),0.5,0.0228065,0.0228062,0,0.638303,0.638303
+V6d at 0.15 of R,E_full,0.3,0.34,slack (V1 outcome),0.5,0.0221217,0.0221221,0,0.657645,0.657645
+V6d at 0.15 of R,E_full,0.3,0.35,slack (V1 outcome),0.499999,0.0214694,0.0214704,0,0.676988,0.676988
+V6d at 0.15 of R,E_full,0.3,0.36,slack (V1 outcome),0.500005,0.0208451,0.0208405,0,0.69633,0.69633
+V6d at 0.15 of R,E_full,0.3,0.37,slack (V1 outcome),0.499999,0.0202164,0.020217,0,0.715673,0.715673
+V6d at 0.15 of R,E_full,0.3,0.38,slack (V1 outcome),0.499992,0.0195688,0.0195773,0,0.735015,0.735015
+V6d at 0.15 of R,E_full,0.3,0.39,slack (V1 outcome),0.500005,0.0188894,0.0188841,0,0.754358,0.754358
+V6d at 0.15 of R,E_full,0.3,0.4,slack (V1 outcome),0.500013,0.0181127,0.0180999,0,0.7737,0.7737
+V6d at 0.15 of R,E_full,0.3,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V6d at 0.15 of R,E_full,0.3,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V6d at 0.15 of R,E_full,0.3,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.15 of R,E_full,0.3,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.15 of R,E_full,0.3,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.15 of R,E_full,0.3,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957109,0,0.889755,0.889755
+V6d at 0.15 of R,E_full,0.38,0.2,slack (V1 outcome),0.487738,0.0345626,0.0468249,0,0.38685,0.38685
+V6d at 0.15 of R,E_full,0.38,0.21,slack (V1 outcome),0.49345,0.034279,0.040829,0,0.406193,0.406193
+V6d at 0.15 of R,E_full,0.38,0.22,slack (V1 outcome),0.496721,0.0334637,0.036743,0,0.425535,0.425535
+V6d at 0.15 of R,E_full,0.38,0.23,slack (V1 outcome),0.498466,0.0324571,0.0339915,0,0.444878,0.444878
+V6d at 0.15 of R,E_full,0.38,0.24,slack (V1 outcome),0.499329,0.031326,0.0319974,0,0.46422,0.46422
+V6d at 0.15 of R,E_full,0.38,0.25,slack (V1 outcome),0.499725,0.0301569,0.0304315,0,0.483563,0.483563
+V6d at 0.15 of R,E_full,0.38,0.26,slack (V1 outcome),0.499895,0.0290235,0.0291287,0,0.502905,0.502905
+V6d at 0.15 of R,E_full,0.38,0.27,slack (V1 outcome),0.499963,0.0279515,0.0279888,0,0.522248,0.522248
+V6d at 0.15 of R,E_full,0.38,0.28,slack (V1 outcome),0.499988,0.0269437,0.0269558,0,0.54159,0.54159
+V6d at 0.15 of R,E_full,0.38,0.29,slack (V1 outcome),0.499996,0.026002,0.0260057,0,0.560933,0.560933
+V6d at 0.15 of R,E_full,0.38,0.3,slack (V1 outcome),0.499999,0.0251228,0.0251239,0,0.580275,0.580275
+V6d at 0.15 of R,E_full,0.38,0.31,slack (V1 outcome),0.5,0.0243007,0.0243011,0,0.599618,0.599618
+V6d at 0.15 of R,E_full,0.38,0.32,slack (V1 outcome),0.5,0.0235304,0.0235305,0,0.61896,0.61896
+V6d at 0.15 of R,E_full,0.38,0.33,slack (V1 outcome),0.5,0.0228065,0.0228062,0,0.638303,0.638303
+V6d at 0.15 of R,E_full,0.38,0.34,slack (V1 outcome),0.5,0.0221217,0.0221221,0,0.657645,0.657645
+V6d at 0.15 of R,E_full,0.38,0.35,slack (V1 outcome),0.499999,0.0214694,0.0214704,0,0.676988,0.676988
+V6d at 0.15 of R,E_full,0.38,0.36,slack (V1 outcome),0.500005,0.0208451,0.0208405,0,0.69633,0.69633
+V6d at 0.15 of R,E_full,0.38,0.37,slack (V1 outcome),0.499999,0.0202164,0.020217,0,0.715673,0.715673
+V6d at 0.15 of R,E_full,0.38,0.38,slack (V1 outcome),0.499992,0.0195688,0.0195773,0,0.735015,0.735015
+V6d at 0.15 of R,E_full,0.38,0.39,slack (V1 outcome),0.500005,0.0188894,0.0188841,0,0.754358,0.754358
+V6d at 0.15 of R,E_full,0.38,0.4,slack (V1 outcome),0.500013,0.0181127,0.0180999,0,0.7737,0.7737
+V6d at 0.15 of R,E_full,0.38,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V6d at 0.15 of R,E_full,0.38,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V6d at 0.15 of R,E_full,0.38,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.15 of R,E_full,0.38,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.15 of R,E_full,0.38,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.15 of R,E_full,0.38,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957109,0,0.889755,0.889755
+V3 at 0.2 of E_full,E_full,0.2,0.2,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0,0.2,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.21,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0,0.2,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.22,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0,0.2,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.23,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0,0.2,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.24,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0,0.2,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.25,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0,0.2,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.26,default demobilises,0.372456,0.0054092,0.132953,0,0.685327,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.27,default demobilises,0.406423,0.00943383,0.103011,0,0.709216,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.28,default demobilises,0.436672,0.0149971,0.0783255,0,0.731474,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.29,default demobilises,0.463799,0.0225841,0.058785,0,0.752449,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.3,default demobilises,0.488094,0.0312864,0.0431923,0,0.772372,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.31,default demobilises,0.509814,0.0405832,0.0307695,0,0.791407,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.32,default demobilises,0.529299,0.0509419,0.0216425,0,0.809676,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.33,default demobilises,0.546517,0.0615949,0.0150782,0,0.827272,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.34,default demobilises,0.561459,0.0714082,0.00994909,0,0.844271,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.35,default demobilises,0.57479,0.0815122,0.00672204,0,0.860734,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.36,default demobilises,0.585688,0.0900392,0.00435097,0,0.87671,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.37,default demobilises,0.59517,0.0978937,0.00272422,0,0.892242,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.38,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.39,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.4,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.41,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.42,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.43,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.44,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.45,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.2,0.46,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.2
+V3 at 0.2 of E_full,E_full,0.3,0.2,lock (mutual abstention),0.00191697,8.02677e-12,0.498083,0,0.3,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.21,lock (mutual abstention),0.00191697,8.02677e-12,0.498083,0,0.3,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.22,lock (mutual abstention),0.00191697,8.02677e-12,0.498083,0,0.3,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.23,lock (mutual abstention),0.00191697,8.02677e-12,0.498083,0,0.3,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.24,lock (mutual abstention),0.00191697,8.02677e-12,0.498083,0,0.3,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.25,default demobilises,0.267914,0.000678323,0.232764,0,0.616062,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.26,default demobilises,0.317164,0.00186347,0.184699,0,0.648174,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.27,default demobilises,0.359483,0.00416318,0.14468,0,0.676449,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.28,default demobilises,0.396557,0.00801759,0.11146,0,0.702169,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.29,default demobilises,0.429387,0.0136909,0.0843043,0,0.726001,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.3,default demobilises,0.458618,0.0211158,0.0624977,0,0.748349,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.31,default demobilises,0.48464,0.0298692,0.0452297,0,0.769483,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.32,default demobilises,0.507808,0.0395024,0.0316939,0,0.789597,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.33,default demobilises,0.528456,0.0505112,0.0220552,0,0.808834,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.34,default demobilises,0.546548,0.0616151,0.0150676,0,0.827305,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.35,default demobilises,0.56215,0.0719337,0.00978413,0,0.845098,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.36,default demobilises,0.575869,0.0822931,0.00642422,0,0.862286,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.37,default demobilises,0.587164,0.0912795,0.00411508,0,0.878927,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.38,default demobilises,0.596647,0.0990815,0.00243438,0,0.895071,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.39,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.4,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.41,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.42,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.43,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.44,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.45,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.3,0.46,default demobilises (capped),0.599195,0.101335,0.00214038,0,0.9,0.3
+V3 at 0.2 of E_full,E_full,0.38,0.2,lock (mutual abstention),0.0150756,3.17228e-09,0.484924,0,0.38,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.21,lock (mutual abstention),0.0150756,3.17228e-09,0.484924,0,0.38,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.22,lock (mutual abstention),0.0150756,3.17228e-09,0.484924,0,0.38,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.23,lock (mutual abstention),0.0150756,3.17228e-09,0.484924,0,0.38,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.24,lock (mutual abstention),0.0150756,3.17228e-09,0.484924,0,0.38,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.25,default demobilises,0.18356,7.9599e-05,0.31652,0,0.560443,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.26,default demobilises,0.247219,0.000419616,0.2532,0,0.602629,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.27,default demobilises,0.30102,0.00141442,0.200394,0,0.637589,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.28,default demobilises,0.347451,0.00347873,0.156028,0,0.66831,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.29,default demobilises,0.387964,0.00710553,0.119142,0,0.6961,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.3,default demobilises,0.423581,0.0126334,0.0890525,0,0.721693,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.31,default demobilises,0.455035,0.0200823,0.0650472,0,0.745552,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.32,default demobilises,0.48285,0.0291343,0.0462839,0,0.767995,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.33,default demobilises,0.507424,0.0392949,0.0318707,0,0.789251,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.34,default demobilises,0.529117,0.0508483,0.0217316,0,0.809494,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.35,default demobilises,0.548029,0.0625897,0.0145607,0,0.828857,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.36,default demobilises,0.564102,0.0734196,0.00931715,0,0.847446,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.37,default demobilises,0.577985,0.0838242,0.00583965,0,0.865348,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.38,default demobilises,0.589613,0.0933365,0.00372333,0,0.882634,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.39,default demobilises,0.598867,0.101041,0.00217379,0,0.899363,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.4,default demobilises (capped),0.599194,0.101334,0.00214038,0,0.9,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.41,default demobilises (capped),0.599194,0.101334,0.00214038,0,0.9,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.42,default demobilises (capped),0.599194,0.101334,0.00214038,0,0.9,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.43,default demobilises (capped),0.599194,0.101334,0.00214038,0,0.9,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.44,default demobilises (capped),0.599194,0.101334,0.00214038,0,0.9,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.45,default demobilises (capped),0.599194,0.101334,0.00214038,0,0.9,0.38
+V3 at 0.2 of E_full,E_full,0.38,0.46,default demobilises (capped),0.599194,0.101334,0.00214038,0,0.9,0.38
+V3 at 0.2 of E_dom,E_dom,0.2,0.2,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0,0.2,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.21,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0,0.2,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.22,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0,0.2,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.23,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0,0.2,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.24,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0,0.2,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.25,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0,0.2,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.26,default demobilises,0.366102,0.00474716,0.138645,0,0.635841,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.27,default demobilises,0.401061,0.00860003,0.107539,0,0.658583,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.28,default demobilises,0.432226,0.0144202,0.0821945,0,0.679721,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.29,default demobilises,0.460257,0.0219634,0.0617068,0,0.699604,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.3,default demobilises,0.485628,0.0309049,0.0452764,0,0.718464,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.31,default demobilises,0.508713,0.04087,0.0321568,0,0.736464,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.32,default demobilises,0.52973,0.0525995,0.0228697,0,0.753723,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.33,default demobilises,0.548895,0.0647304,0.0158351,0,0.770333,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.34,default demobilises,0.566466,0.0768422,0.0103763,0,0.78637,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.35,default demobilises,0.582273,0.0893759,0.00710254,0,0.80189,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.36,default demobilises,0.596674,0.10122,0.00454645,0,0.816944,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.37,default demobilises,0.609627,0.112526,0.00289869,0,0.831573,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.38,default demobilises,0.62106,0.122899,0.00183852,0,0.845812,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.39,default demobilises,0.6314,0.132484,0.00108345,0,0.859691,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.4,default demobilises,0.640061,0.140751,0.000689962,0,0.873236,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.41,default demobilises,0.647988,0.148365,0.000376946,0,0.88647,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.42,default demobilises,0.654189,0.154431,0.000241865,0,0.899414,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.43,default demobilises (capped),0.65446,0.154697,0.000236382,0,0.9,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.44,default demobilises (capped),0.65446,0.154697,0.000236382,0,0.9,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.45,default demobilises (capped),0.65446,0.154697,0.000236382,0,0.9,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.46,default demobilises (capped),0.65446,0.154697,0.000236382,0,0.9,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.47,default demobilises (capped),0.65446,0.154697,0.000236382,0,0.9,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.48,default demobilises (capped),0.65446,0.154697,0.000236382,0,0.9,0.2
+V3 at 0.2 of E_dom,E_dom,0.2,0.49,default demobilises (capped),0.65446,0.154697,0.000236382,0,0.9,0.2
+V3 at 0.2 of E_dom,E_dom,0.3,0.2,lock (mutual abstention),0.0035649,3.59871e-11,0.496435,0,0.3,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.21,lock (mutual abstention),0.0035649,3.59871e-11,0.496435,0,0.3,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.22,lock (mutual abstention),0.0035649,3.59871e-11,0.496435,0,0.3,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.23,lock (mutual abstention),0.0035649,3.59871e-11,0.496435,0,0.3,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.24,lock (mutual abstention),0.0035649,3.59871e-11,0.496435,0,0.3,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.25,default demobilises,0.248896,0.000441972,0.251546,0,0.563738,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.26,default demobilises,0.301456,0.00143181,0.199976,0,0.595629,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.27,default demobilises,0.346327,0.00343293,0.157106,0,0.623335,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.28,default demobilises,0.385493,0.00689643,0.121404,0,0.648344,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.29,default demobilises,0.420112,0.0121405,0.0920284,0,0.671396,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.3,default demobilises,0.450986,0.0192285,0.0682429,0,0.692927,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.31,default demobilises,0.478706,0.0279749,0.0492685,0,0.713225,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.32,default demobilises,0.503722,0.0385363,0.0348146,0,0.732494,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.33,default demobilises,0.526339,0.0507102,0.0243713,0,0.750884,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.34,default demobilises,0.546846,0.0633246,0.0164789,0,0.76851,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.35,default demobilises,0.565503,0.0761077,0.0106047,0,0.785462,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.36,default demobilises,0.582199,0.089317,0.00711794,0,0.801816,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.37,default demobilises,0.597293,0.101761,0.00446784,0,0.81763,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.38,default demobilises,0.610824,0.11357,0.0027461,0,0.832956,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.39,default demobilises,0.622595,0.124322,0.00172665,0,0.847837,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.4,default demobilises,0.63328,0.134236,0.000956653,0,0.862309,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.41,default demobilises,0.641986,0.1426,0.000614033,0,0.876404,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.42,default demobilises,0.649841,0.150171,0.000329722,0,0.89015,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.43,default demobilises (capped),0.65446,0.154696,0.000236382,0,0.9,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.44,default demobilises (capped),0.65446,0.154696,0.000236382,0,0.9,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.45,default demobilises (capped),0.65446,0.154696,0.000236382,0,0.9,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.46,default demobilises (capped),0.65446,0.154696,0.000236382,0,0.9,0.3
+V3 at 0.2 of E_dom,E_dom,0.3,0.47,"no pure equilibrium (mixed, approx.)",0.558398,0.061563,0.00316513,0,0.895133,0.67936
+V3 at 0.2 of E_dom,E_dom,0.3,0.48,slack (V1 outcome),0.499671,0.0110209,0.0113496,0,0.866957,0.866956
+V3 at 0.2 of E_dom,E_dom,0.3,0.49,slack (V1 outcome),0.499939,0.00944022,0.00950076,0,0.885018,0.885018
+V3 at 0.2 of E_dom,E_dom,0.38,0.22,default demobilises,0.0275841,2.59111e-08,0.472416,0,0.383162,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.23,default demobilises,0.0321141,4.38755e-08,0.467886,0,0.391016,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.24,default demobilises,0.0714879,1.00375e-06,0.428513,0,0.439304,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.25,default demobilises,0.14833,2.5463e-05,0.351695,0,0.50014,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.26,default demobilises,0.21594,0.000199743,0.284259,0,0.543608,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.27,default demobilises,0.274565,0.000761092,0.226196,0,0.579293,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.28,default demobilises,0.325344,0.00219274,0.176849,0,0.610283,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.29,default demobilises,0.369535,0.00512882,0.135594,0,0.638037,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.3,default demobilises,0.408259,0.00989323,0.101635,0,0.663387,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.31,default demobilises,0.442438,0.0166952,0.0742577,0,0.686862,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.32,default demobilises,0.47281,0.0256477,0.0528376,0,0.708821,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.33,default demobilises,0.499938,0.0369398,0.037002,0,0.729523,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.34,default demobilises,0.524262,0.0495489,0.0252873,0,0.749162,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.35,default demobilises,0.546132,0.0628321,0.0167002,0,0.767885,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.36,default demobilises,0.565865,0.076362,0.0104969,0,0.785809,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.37,default demobilises,0.583394,0.0902614,0.00686753,0,0.803028,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.38,default demobilises,0.59907,0.103311,0.00424066,0,0.819618,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.39,default demobilises,0.613123,0.115574,0.00245109,0,0.835644,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.4,default demobilises,0.625081,0.126625,0.00154439,0,0.851159,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.41,default demobilises,0.635711,0.136572,0.000860633,0,0.866208,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.42,default demobilises,0.644634,0.145143,0.000509002,0,0.880831,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.43,default demobilises,0.652147,0.15243,0.000282894,0,0.89506,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.44,default demobilises (capped),0.654447,0.154683,0.000236382,0,0.9,0.38
+V3 at 0.2 of E_dom,E_dom,0.38,0.45,"no pure equilibrium (mixed, approx.)",0.572186,0.0749918,0.00280579,0,0.872343,0.636031
+V3 at 0.2 of E_dom,E_dom,0.38,0.46,"no pure equilibrium (mixed, approx.)",0.516466,0.026245,0.00977923,0,0.848155,0.793168
+V3 at 0.2 of E_dom,E_dom,0.38,0.47,slack (V1 outcome),0.499189,0.0124318,0.0132426,0,0.848895,0.848895
+V3 at 0.2 of E_dom,E_dom,0.38,0.48,slack (V1 outcome),0.499671,0.0110209,0.0113496,0,0.866957,0.866957
+V3 at 0.2 of E_dom,E_dom,0.38,0.49,slack (V1 outcome),0.499939,0.00944022,0.00950076,0,0.885018,0.885018
+V6d at 0.2 of R,E_full,0.2,0.2,default demobilises,0.594953,0.120461,0.0255078,0,0.461688,0.2
+V6d at 0.2 of R,E_full,0.2,0.21,default demobilises,0.622717,0.140112,0.017395,0,0.477936,0.2
+V6d at 0.2 of R,E_full,0.2,0.22,default demobilises,0.647006,0.158333,0.0113269,0,0.493317,0.2
+V6d at 0.2 of R,E_full,0.2,0.23,"no pure equilibrium (mixed, approx.)",0.638022,0.148552,0.0105301,0,0.502227,0.246607
+V6d at 0.2 of R,E_full,0.2,0.24,"no pure equilibrium (mixed, approx.)",0.503259,0.0393355,0.0360766,0,0.472753,0.443265
+V6d at 0.2 of R,E_full,0.2,0.25,slack (V1 outcome),0.490035,0.0275753,0.0375399,0,0.483563,0.483563
+V6d at 0.2 of R,E_full,0.2,0.26,slack (V1 outcome),0.494677,0.0275657,0.0328888,0,0.502905,0.502905
+V6d at 0.2 of R,E_full,0.2,0.27,slack (V1 outcome),0.497332,0.027138,0.0298062,0,0.522248,0.522248
+V6d at 0.2 of R,E_full,0.2,0.28,slack (V1 outcome),0.49875,0.0265658,0.0278163,0,0.54159,0.54159
+V6d at 0.2 of R,E_full,0.2,0.29,slack (V1 outcome),0.499448,0.0258322,0.0263846,0,0.560933,0.560933
+V6d at 0.2 of R,E_full,0.2,0.3,slack (V1 outcome),0.499773,0.0250475,0.0252747,0,0.580275,0.580275
+V6d at 0.2 of R,E_full,0.2,0.31,slack (V1 outcome),0.499913,0.0242719,0.0243586,0,0.599618,0.599618
+V6d at 0.2 of R,E_full,0.2,0.32,slack (V1 outcome),0.499969,0.0235204,0.023551,0,0.61896,0.61896
+V6d at 0.2 of R,E_full,0.2,0.33,slack (V1 outcome),0.49999,0.0228031,0.0228128,0,0.638303,0.638303
+V6d at 0.2 of R,E_full,0.2,0.34,slack (V1 outcome),0.499997,0.0221206,0.022124,0,0.657645,0.657645
+V6d at 0.2 of R,E_full,0.2,0.35,slack (V1 outcome),0.499998,0.021469,0.021471,0,0.676988,0.676988
+V6d at 0.2 of R,E_full,0.2,0.36,slack (V1 outcome),0.500004,0.020845,0.0208406,0,0.69633,0.69633
+V6d at 0.2 of R,E_full,0.2,0.37,slack (V1 outcome),0.499999,0.0202164,0.020217,0,0.715673,0.715673
+V6d at 0.2 of R,E_full,0.2,0.38,slack (V1 outcome),0.499991,0.0195688,0.0195773,0,0.735015,0.735015
+V6d at 0.2 of R,E_full,0.2,0.39,slack (V1 outcome),0.500005,0.0188894,0.0188841,0,0.754358,0.754358
+V6d at 0.2 of R,E_full,0.2,0.4,slack (V1 outcome),0.500013,0.0181127,0.0180999,0,0.7737,0.7737
+V6d at 0.2 of R,E_full,0.2,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V6d at 0.2 of R,E_full,0.2,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V6d at 0.2 of R,E_full,0.2,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.2 of R,E_full,0.2,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.2 of R,E_full,0.2,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.2 of R,E_full,0.2,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957108,0,0.889755,0.889755
+V6d at 0.2 of R,E_full,0.3,0.2,default demobilises,0.535715,0.0783026,0.042588,0,0.438002,0.3
+V6d at 0.2 of R,E_full,0.3,0.21,"no pure equilibrium (mixed, approx.)",0.569177,0.0976847,0.0285074,0,0.457725,0.303451
+V6d at 0.2 of R,E_full,0.3,0.22,"no pure equilibrium (mixed, approx.)",0.489569,0.0403757,0.0508072,0,0.440095,0.401033
+V6d at 0.2 of R,E_full,0.3,0.23,slack (V1 outcome),0.470987,0.0256872,0.0547,0,0.444878,0.444878
+V6d at 0.2 of R,E_full,0.3,0.24,slack (V1 outcome),0.482486,0.026924,0.0444381,0,0.46422,0.46422
+V6d at 0.2 of R,E_full,0.3,0.25,slack (V1 outcome),0.490035,0.0275753,0.0375399,0,0.483563,0.483563
+V6d at 0.2 of R,E_full,0.3,0.26,slack (V1 outcome),0.494677,0.0275657,0.0328888,0,0.502905,0.502905
+V6d at 0.2 of R,E_full,0.3,0.27,slack (V1 outcome),0.497332,0.0271379,0.0298062,0,0.522248,0.522248
+V6d at 0.2 of R,E_full,0.3,0.28,slack (V1 outcome),0.49875,0.0265658,0.0278163,0,0.54159,0.54159
+V6d at 0.2 of R,E_full,0.3,0.29,slack (V1 outcome),0.499448,0.0258322,0.0263846,0,0.560933,0.560933
+V6d at 0.2 of R,E_full,0.3,0.3,slack (V1 outcome),0.499773,0.0250475,0.0252747,0,0.580275,0.580275
+V6d at 0.2 of R,E_full,0.3,0.31,slack (V1 outcome),0.499913,0.0242719,0.0243586,0,0.599618,0.599618
+V6d at 0.2 of R,E_full,0.3,0.32,slack (V1 outcome),0.499969,0.0235204,0.0235511,0,0.61896,0.61896
+V6d at 0.2 of R,E_full,0.3,0.33,slack (V1 outcome),0.49999,0.0228031,0.0228128,0,0.638303,0.638303
+V6d at 0.2 of R,E_full,0.3,0.34,slack (V1 outcome),0.499997,0.0221206,0.022124,0,0.657645,0.657645
+V6d at 0.2 of R,E_full,0.3,0.35,slack (V1 outcome),0.499998,0.021469,0.021471,0,0.676988,0.676988
+V6d at 0.2 of R,E_full,0.3,0.36,slack (V1 outcome),0.500004,0.020845,0.0208407,0,0.69633,0.69633
+V6d at 0.2 of R,E_full,0.3,0.37,slack (V1 outcome),0.499999,0.0202164,0.020217,0,0.715673,0.715673
+V6d at 0.2 of R,E_full,0.3,0.38,slack (V1 outcome),0.499991,0.0195688,0.0195773,0,0.735015,0.735015
+V6d at 0.2 of R,E_full,0.3,0.39,slack (V1 outcome),0.500005,0.0188894,0.0188841,0,0.754358,0.754358
+V6d at 0.2 of R,E_full,0.3,0.4,slack (V1 outcome),0.500013,0.0181127,0.0180999,0,0.7737,0.7737
+V6d at 0.2 of R,E_full,0.3,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V6d at 0.2 of R,E_full,0.3,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V6d at 0.2 of R,E_full,0.3,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.2 of R,E_full,0.3,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.2 of R,E_full,0.3,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.2 of R,E_full,0.3,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957109,0,0.889755,0.889755
+V6d at 0.2 of R,E_full,0.38,0.2,default demobilises,0.420842,0.0226061,0.101765,0,0.393672,0.38
+V6d at 0.2 of R,E_full,0.38,0.21,"no pure equilibrium (mixed, approx.)",0.435182,0.0222502,0.0870685,0,0.407098,0.403854
+V6d at 0.2 of R,E_full,0.38,0.22,slack (V1 outcome),0.454569,0.0239096,0.0693402,0,0.425535,0.425535
+V6d at 0.2 of R,E_full,0.38,0.23,slack (V1 outcome),0.470987,0.0256872,0.0547,0,0.444878,0.444878
+V6d at 0.2 of R,E_full,0.38,0.24,slack (V1 outcome),0.482486,0.026924,0.0444381,0,0.46422,0.46422
+V6d at 0.2 of R,E_full,0.38,0.25,slack (V1 outcome),0.490035,0.0275753,0.0375399,0,0.483563,0.483563
+V6d at 0.2 of R,E_full,0.38,0.26,slack (V1 outcome),0.494677,0.0275657,0.0328888,0,0.502905,0.502905
+V6d at 0.2 of R,E_full,0.38,0.27,slack (V1 outcome),0.497332,0.027138,0.0298062,0,0.522248,0.522248
+V6d at 0.2 of R,E_full,0.38,0.28,slack (V1 outcome),0.49875,0.0265658,0.0278163,0,0.54159,0.54159
+V6d at 0.2 of R,E_full,0.38,0.29,slack (V1 outcome),0.499448,0.0258322,0.0263846,0,0.560933,0.560933
+V6d at 0.2 of R,E_full,0.38,0.3,slack (V1 outcome),0.499773,0.0250475,0.0252747,0,0.580275,0.580275
+V6d at 0.2 of R,E_full,0.38,0.31,slack (V1 outcome),0.499913,0.0242719,0.0243586,0,0.599618,0.599618
+V6d at 0.2 of R,E_full,0.38,0.32,slack (V1 outcome),0.499969,0.0235204,0.023551,0,0.61896,0.61896
+V6d at 0.2 of R,E_full,0.38,0.33,slack (V1 outcome),0.49999,0.0228031,0.0228128,0,0.638303,0.638303
+V6d at 0.2 of R,E_full,0.38,0.34,slack (V1 outcome),0.499997,0.0221206,0.022124,0,0.657645,0.657645
+V6d at 0.2 of R,E_full,0.38,0.35,slack (V1 outcome),0.499998,0.0214691,0.021471,0,0.676988,0.676988
+V6d at 0.2 of R,E_full,0.38,0.36,slack (V1 outcome),0.500004,0.020845,0.0208406,0,0.69633,0.69633
+V6d at 0.2 of R,E_full,0.38,0.37,slack (V1 outcome),0.499999,0.0202164,0.020217,0,0.715673,0.715673
+V6d at 0.2 of R,E_full,0.38,0.38,slack (V1 outcome),0.499991,0.0195688,0.0195773,0,0.735015,0.735015
+V6d at 0.2 of R,E_full,0.38,0.39,slack (V1 outcome),0.500005,0.0188894,0.0188841,0,0.754358,0.754358
+V6d at 0.2 of R,E_full,0.38,0.4,slack (V1 outcome),0.500013,0.0181127,0.0180999,0,0.7737,0.7737
+V6d at 0.2 of R,E_full,0.38,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V6d at 0.2 of R,E_full,0.38,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V6d at 0.2 of R,E_full,0.38,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.2 of R,E_full,0.38,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.2 of R,E_full,0.38,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.2 of R,E_full,0.38,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957109,0,0.889755,0.889755
+V3 at 0.25 of E_full,E_full,0.2,0.2,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.21,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.22,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.23,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.24,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.25,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.26,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.27,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.28,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.29,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.3,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.31,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.32,lock (mutual abstention),2.19796e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.33,default demobilises,0.381614,0,0.118386,0,0.882328,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.34,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.35,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.36,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.37,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.38,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.39,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.4,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.41,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.42,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.43,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.44,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.45,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.2,0.46,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.2
+V3 at 0.25 of E_full,E_full,0.3,0.2,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.21,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.22,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.23,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.24,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.25,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.26,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.27,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.28,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.29,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.3,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.31,lock (mutual abstention),3.31831e-05,0,0.499967,0,0.3,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.32,default demobilises,0.331926,0,0.168074,0,0.826854,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.33,default demobilises,0.357838,0,0.142162,0,0.853358,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.34,default demobilises,0.378259,0,0.121741,0,0.878029,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.35,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.36,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.37,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.38,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.39,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.4,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.41,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.42,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.43,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.44,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.45,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.3,0.46,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.3
+V3 at 0.25 of E_full,E_full,0.38,0.2,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.21,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.22,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.23,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.24,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.25,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.26,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.27,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.28,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.29,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.3,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.31,lock (mutual abstention),0.000686995,0,0.499313,0,0.38,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.32,default demobilises,0.293421,0,0.206579,0,0.7924,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.33,default demobilises,0.327375,0,0.172625,0,0.822628,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.34,default demobilises,0.354906,0,0.145094,0,0.850252,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.35,default demobilises,0.376617,0,0.123383,0,0.875934,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.36,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.37,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.38,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.39,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.4,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.41,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.42,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.43,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.44,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.45,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_full,E_full,0.38,0.46,default demobilises (capped),0.39316,0,0.10684,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.2,0.2,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.21,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.22,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.23,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.24,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.25,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.26,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.27,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.28,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.29,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.3,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.31,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.32,lock (mutual abstention),4.89122e-07,0,0.5,0,0.2,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.33,default demobilises,0.395693,0,0.104307,0,0.82051,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.34,default demobilises,0.417576,0,0.0824244,0,0.841579,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.35,default demobilises,0.436152,0,0.0638485,0,0.861599,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.36,default demobilises,0.45096,0,0.0490404,0,0.880741,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.37,default demobilises,0.462966,0,0.0370342,0,0.899129,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.38,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.39,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.4,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.41,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.42,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.43,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.44,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.45,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.46,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.47,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.48,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.2,0.49,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.2
+V3 at 0.25 of E_dom,E_dom,0.3,0.2,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.21,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.22,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.23,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.24,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.25,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.26,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.27,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.28,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.29,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.3,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.31,lock (mutual abstention),8.0354e-05,0,0.49992,0,0.3,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.32,default demobilises,0.328392,0,0.171608,0,0.764437,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.33,default demobilises,0.360436,0,0.139564,0,0.789959,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.34,default demobilises,0.388214,0,0.111786,0,0.813621,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.35,default demobilises,0.412043,0,0.0879565,0,0.835841,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.36,default demobilises,0.431844,0,0.0681555,0,0.856893,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.37,default demobilises,0.448094,0,0.0519062,0,0.876969,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.38,default demobilises,0.461236,0,0.0387641,0,0.896208,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.39,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.4,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.41,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.42,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.43,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.44,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.45,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.46,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.47,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.48,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.3,0.49,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.3
+V3 at 0.25 of E_dom,E_dom,0.38,0.22,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.23,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.24,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.25,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.26,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.27,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.28,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.29,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.3,lock (mutual abstention),0.00159117,0,0.498409,0,0.38,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.31,default demobilises,0.23187,0,0.26813,0,0.692475,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.32,default demobilises,0.278285,0,0.221715,0,0.726618,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.33,default demobilises,0.318037,0,0.181963,0,0.756457,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.34,default demobilises,0.352536,0,0.147464,0,0.783493,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.35,default demobilises,0.382385,0,0.117615,0,0.808483,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.36,default demobilises,0.407857,0,0.0921428,0,0.831878,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.37,default demobilises,0.429157,0,0.0708426,0,0.853977,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.38,default demobilises,0.446583,0,0.0534167,0,0.874991,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.39,default demobilises,0.460563,0,0.0394369,0,0.895076,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.4,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.41,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.42,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.43,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.44,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.45,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.46,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.47,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.48,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V3 at 0.25 of E_dom,E_dom,0.38,0.49,default demobilises (capped),0.46348,0,0.0365204,0,0.9,0.38
+V6d at 0.25 of R,E_full,0.2,0.2,default demobilises,0.47062,0.0444223,0.0738018,0,0.494973,0.2
+V6d at 0.25 of R,E_full,0.2,0.21,default demobilises,0.507539,0.0593252,0.0517867,0,0.515109,0.2
+V6d at 0.25 of R,E_full,0.2,0.22,default demobilises,0.539932,0.0764466,0.0365146,0,0.533933,0.2
+V6d at 0.25 of R,E_full,0.2,0.23,default demobilises,0.568565,0.0938566,0.025292,0,0.551684,0.2
+V6d at 0.25 of R,E_full,0.2,0.24,default demobilises,0.594036,0.110728,0.0166922,0,0.568529,0.2
+V6d at 0.25 of R,E_full,0.2,0.25,default demobilises,0.616816,0.128377,0.0115609,0,0.584597,0.2
+V6d at 0.25 of R,E_full,0.2,0.26,default demobilises,0.637302,0.144814,0.00751215,0,0.599987,0.2
+V6d at 0.25 of R,E_full,0.2,0.27,default demobilises,0.65582,0.160812,0.00499227,0,0.614777,0.2
+V6d at 0.25 of R,E_full,0.2,0.28,default demobilises,0.672633,0.175835,0.00320173,0,0.629033,0.2
+V6d at 0.25 of R,E_full,0.2,0.29,default demobilises,0.687961,0.190027,0.00206665,0,0.642806,0.2
+V6d at 0.25 of R,E_full,0.2,0.3,"no pure equilibrium (mixed, approx.)",0.641958,0.146031,0.00407272,0,0.642502,0.321897
+V6d at 0.25 of R,E_full,0.2,0.31,"no pure equilibrium (mixed, approx.)",0.511339,0.033698,0.0223594,0,0.607261,0.57602
+V6d at 0.25 of R,E_full,0.2,0.32,slack (V1 outcome),0.497675,0.0228376,0.0251628,0,0.61896,0.61896
+V6d at 0.25 of R,E_full,0.2,0.33,slack (V1 outcome),0.498896,0.0224785,0.0235824,0,0.638303,0.638303
+V6d at 0.25 of R,E_full,0.2,0.34,slack (V1 outcome),0.49951,0.0219703,0.0224599,0,0.657645,0.657645
+V6d at 0.25 of R,E_full,0.2,0.35,slack (V1 outcome),0.499797,0.0214005,0.0216033,0,0.676988,0.676988
+V6d at 0.25 of R,E_full,0.2,0.36,slack (V1 outcome),0.499927,0.0208198,0.0208926,0,0.69633,0.69633
+V6d at 0.25 of R,E_full,0.2,0.37,slack (V1 outcome),0.499972,0.0202072,0.0202353,0,0.715673,0.715673
+V6d at 0.25 of R,E_full,0.2,0.38,slack (V1 outcome),0.499982,0.0195655,0.0195833,0,0.735015,0.735015
+V6d at 0.25 of R,E_full,0.2,0.39,slack (V1 outcome),0.500002,0.0188885,0.018886,0,0.754358,0.754358
+V6d at 0.25 of R,E_full,0.2,0.4,slack (V1 outcome),0.500012,0.0181124,0.0181004,0,0.7737,0.7737
+V6d at 0.25 of R,E_full,0.2,0.41,slack (V1 outcome),0.499972,0.0171583,0.0171866,0,0.793043,0.793043
+V6d at 0.25 of R,E_full,0.2,0.42,slack (V1 outcome),0.499979,0.0160488,0.0160701,0,0.812385,0.812385
+V6d at 0.25 of R,E_full,0.2,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.25 of R,E_full,0.2,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.25 of R,E_full,0.2,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.25 of R,E_full,0.2,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957108,0,0.889755,0.889755
+V6d at 0.25 of R,E_full,0.3,0.2,default demobilises,0.39588,0.0215744,0.125694,0,0.457669,0.3
+V6d at 0.25 of R,E_full,0.3,0.21,default demobilises,0.448137,0.0354236,0.0872869,0,0.483843,0.3
+V6d at 0.25 of R,E_full,0.3,0.22,default demobilises,0.49221,0.0520538,0.059844,0,0.507402,0.3
+V6d at 0.25 of R,E_full,0.3,0.23,default demobilises,0.529738,0.0702116,0.0404737,0,0.528968,0.3
+V6d at 0.25 of R,E_full,0.3,0.24,default demobilises,0.562095,0.0888423,0.0267472,0,0.548961,0.3
+V6d at 0.25 of R,E_full,0.3,0.25,default demobilises,0.590206,0.107193,0.0169871,0,0.567674,0.3
+V6d at 0.25 of R,E_full,0.3,0.26,default demobilises,0.614818,0.126154,0.0113358,0,0.585322,0.3
+V6d at 0.25 of R,E_full,0.3,0.27,default demobilises,0.636619,0.14377,0.00715094,0,0.602065,0.3
+V6d at 0.25 of R,E_full,0.3,0.28,"no pure equilibrium (mixed, approx.)",0.594841,0.105083,0.0102424,0,0.597904,0.39181
+V6d at 0.25 of R,E_full,0.3,0.29,"no pure equilibrium (mixed, approx.)",0.509339,0.0365348,0.0271959,0,0.574631,0.53509
+V6d at 0.25 of R,E_full,0.3,0.3,slack (V1 outcome),0.491467,0.0228827,0.0314161,0,0.580275,0.580275
+V6d at 0.25 of R,E_full,0.3,0.31,slack (V1 outcome),0.495409,0.023004,0.0275953,0,0.599618,0.599618
+V6d at 0.25 of R,E_full,0.3,0.32,slack (V1 outcome),0.497675,0.0228376,0.0251628,0,0.61896,0.61896
+V6d at 0.25 of R,E_full,0.3,0.33,slack (V1 outcome),0.498896,0.0224785,0.0235824,0,0.638303,0.638303
+V6d at 0.25 of R,E_full,0.3,0.34,slack (V1 outcome),0.49951,0.0219703,0.0224599,0,0.657645,0.657645
+V6d at 0.25 of R,E_full,0.3,0.35,slack (V1 outcome),0.499797,0.0214005,0.0216033,0,0.676988,0.676988
+V6d at 0.25 of R,E_full,0.3,0.36,slack (V1 outcome),0.499927,0.0208198,0.0208926,0,0.69633,0.69633
+V6d at 0.25 of R,E_full,0.3,0.37,slack (V1 outcome),0.499972,0.0202072,0.0202354,0,0.715673,0.715673
+V6d at 0.25 of R,E_full,0.3,0.38,slack (V1 outcome),0.499982,0.0195655,0.0195833,0,0.735015,0.735015
+V6d at 0.25 of R,E_full,0.3,0.39,slack (V1 outcome),0.500002,0.0188885,0.018886,0,0.754358,0.754358
+V6d at 0.25 of R,E_full,0.3,0.4,slack (V1 outcome),0.500012,0.0181124,0.0181004,0,0.7737,0.7737
+V6d at 0.25 of R,E_full,0.3,0.41,slack (V1 outcome),0.499972,0.0171583,0.0171866,0,0.793043,0.793043
+V6d at 0.25 of R,E_full,0.3,0.42,slack (V1 outcome),0.499979,0.0160488,0.0160701,0,0.812385,0.812385
+V6d at 0.25 of R,E_full,0.3,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.25 of R,E_full,0.3,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.25 of R,E_full,0.3,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.25 of R,E_full,0.3,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957109,0,0.889755,0.889755
+V6d at 0.25 of R,E_full,0.38,0.2,default demobilises,0.260911,0.00373009,0.242819,0,0.394675,0.38
+V6d at 0.25 of R,E_full,0.38,0.21,default demobilises,0.343274,0.0104196,0.167145,0,0.433916,0.38
+V6d at 0.25 of R,E_full,0.38,0.22,default demobilises,0.411808,0.0226727,0.110865,0,0.46773,0.38
+V6d at 0.25 of R,E_full,0.38,0.23,default demobilises,0.466736,0.038597,0.0718607,0,0.496891,0.38
+V6d at 0.25 of R,E_full,0.38,0.24,default demobilises,0.511112,0.056871,0.0457595,0,0.522611,0.38
+V6d at 0.25 of R,E_full,0.38,0.25,default demobilises,0.547627,0.0761795,0.0285529,0,0.54577,0.38
+V6d at 0.25 of R,E_full,0.38,0.26,default demobilises,0.578099,0.0954985,0.0173992,0,0.56696,0.38
+V6d at 0.25 of R,E_full,0.38,0.27,"no pure equilibrium (mixed, approx.)",0.526853,0.0551763,0.0283233,0,0.555078,0.463244
+V6d at 0.25 of R,E_full,0.38,0.28,slack (V1 outcome),0.475373,0.0208554,0.0454823,0,0.54159,0.54159
+V6d at 0.25 of R,E_full,0.38,0.29,slack (V1 outcome),0.485074,0.0222331,0.0371587,0,0.560933,0.560933
+V6d at 0.25 of R,E_full,0.38,0.3,slack (V1 outcome),0.491467,0.0228827,0.0314161,0,0.580275,0.580275
+V6d at 0.25 of R,E_full,0.38,0.31,slack (V1 outcome),0.495409,0.023004,0.0275953,0,0.599618,0.599618
+V6d at 0.25 of R,E_full,0.38,0.32,slack (V1 outcome),0.497675,0.0228376,0.0251628,0,0.61896,0.61896
+V6d at 0.25 of R,E_full,0.38,0.33,slack (V1 outcome),0.498896,0.0224785,0.0235824,0,0.638303,0.638303
+V6d at 0.25 of R,E_full,0.38,0.34,slack (V1 outcome),0.49951,0.0219703,0.0224599,0,0.657645,0.657645
+V6d at 0.25 of R,E_full,0.38,0.35,slack (V1 outcome),0.499797,0.0214005,0.0216033,0,0.676988,0.676988
+V6d at 0.25 of R,E_full,0.38,0.36,slack (V1 outcome),0.499927,0.0208198,0.0208926,0,0.69633,0.69633
+V6d at 0.25 of R,E_full,0.38,0.37,slack (V1 outcome),0.499972,0.0202072,0.0202354,0,0.715673,0.715673
+V6d at 0.25 of R,E_full,0.38,0.38,slack (V1 outcome),0.499982,0.0195655,0.0195833,0,0.735015,0.735015
+V6d at 0.25 of R,E_full,0.38,0.39,slack (V1 outcome),0.500002,0.0188885,0.018886,0,0.754358,0.754358
+V6d at 0.25 of R,E_full,0.38,0.4,slack (V1 outcome),0.500012,0.0181124,0.0181004,0,0.7737,0.7737
+V6d at 0.25 of R,E_full,0.38,0.41,slack (V1 outcome),0.499972,0.0171583,0.0171866,0,0.793043,0.793043
+V6d at 0.25 of R,E_full,0.38,0.42,slack (V1 outcome),0.499979,0.0160488,0.0160701,0,0.812385,0.812385
+V6d at 0.25 of R,E_full,0.38,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V6d at 0.25 of R,E_full,0.38,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V6d at 0.25 of R,E_full,0.38,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V6d at 0.25 of R,E_full,0.38,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957109,0,0.889755,0.889755
+V3 at 0.3 of E_full,E_full,0.2,0.2,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.21,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.22,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.23,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.24,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.25,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.26,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.27,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.28,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.29,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.3,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.31,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.32,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.33,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.34,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.35,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.36,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.37,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.38,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.39,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.4,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.41,lock (mutual abstention),2.70843e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.42,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.43,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.44,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.45,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.2
+V3 at 0.3 of E_full,E_full,0.2,0.46,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.2
+V3 at 0.3 of E_full,E_full,0.3,0.2,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.21,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.22,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.23,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.24,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.25,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.26,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.27,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.28,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.29,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.3,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.31,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.32,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.33,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.34,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.35,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.36,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.37,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.38,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.39,lock (mutual abstention),1.65391e-07,0,0.5,0,0.3,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.4,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.41,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.42,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.43,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.44,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.45,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.3
+V3 at 0.3 of E_full,E_full,0.3,0.46,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.3
+V3 at 0.3 of E_full,E_full,0.38,0.2,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.21,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.22,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.23,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.24,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.25,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.26,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.27,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.28,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.29,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.3,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.31,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.32,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.33,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.34,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.35,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.36,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.37,lock (mutual abstention),1.00518e-05,0,0.49999,0,0.38,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.38,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.39,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.4,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.41,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.42,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.43,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.44,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.45,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_full,E_full,0.38,0.46,default demobilises (capped),0.208903,0,0.291097,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.2,0.2,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.21,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.22,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.23,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.24,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.25,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.26,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.27,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.28,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.29,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.3,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.31,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.32,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.33,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.34,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.35,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.36,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.37,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.38,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.39,lock (mutual abstention),7.21779e-10,0,0.5,0,0.2,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.4,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.41,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.42,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.43,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.44,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.45,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.46,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.47,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.48,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.2,0.49,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.2
+V3 at 0.3 of E_dom,E_dom,0.3,0.2,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.21,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.22,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.23,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.24,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.25,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.26,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.27,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.28,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.29,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.3,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.31,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.32,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.33,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.34,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.35,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.36,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.37,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.38,lock (mutual abstention),5.44608e-07,0,0.499999,0,0.3,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.39,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.4,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.41,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.42,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.43,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.44,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.45,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.46,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.47,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.48,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.3,0.49,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.3
+V3 at 0.3 of E_dom,E_dom,0.38,0.22,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.23,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.24,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.25,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.26,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.27,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.28,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.29,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.3,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.31,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.32,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.33,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.34,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.35,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.36,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.37,lock (mutual abstention),3.27638e-05,0,0.499967,0,0.38,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.38,default demobilises,0.278288,0,0.221712,0,0.897877,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.39,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.4,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.41,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.42,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.43,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.44,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.45,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.46,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.47,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.48,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V3 at 0.3 of E_dom,E_dom,0.38,0.49,default demobilises (capped),0.27955,0,0.22045,0,0.9,0.38
+V6d at 0.3 of R,E_full,0.2,0.2,default demobilises,0.332435,0.00690826,0.174474,0,0.511781,0.2
+V6d at 0.3 of R,E_full,0.2,0.21,default demobilises,0.380672,0.0128663,0.132194,0,0.538037,0.2
+V6d at 0.3 of R,E_full,0.2,0.22,default demobilises,0.422394,0.0208301,0.0984362,0,0.561671,0.2
+V6d at 0.3 of R,E_full,0.2,0.23,default demobilises,0.45898,0.0311896,0.0722092,0,0.583433,0.2
+V6d at 0.3 of R,E_full,0.2,0.24,default demobilises,0.491367,0.0437884,0.0524215,0,0.603754,0.2
+V6d at 0.3 of R,E_full,0.2,0.25,default demobilises,0.520247,0.0574298,0.0371824,0,0.622913,0.2
+V6d at 0.3 of R,E_full,0.2,0.26,default demobilises,0.546163,0.0715536,0.0253904,0,0.641103,0.2
+V6d at 0.3 of R,E_full,0.2,0.27,default demobilises,0.569542,0.0873361,0.0177942,0,0.658465,0.2
+V6d at 0.3 of R,E_full,0.2,0.28,default demobilises,0.590734,0.102663,0.0119291,0,0.675108,0.2
+V6d at 0.3 of R,E_full,0.2,0.29,default demobilises,0.610025,0.117852,0.00782686,0,0.691117,0.2
+V6d at 0.3 of R,E_full,0.2,0.3,default demobilises,0.62764,0.132869,0.00522898,0,0.70656,0.2
+V6d at 0.3 of R,E_full,0.2,0.31,default demobilises,0.643796,0.146983,0.00318745,0,0.721494,0.2
+V6d at 0.3 of R,E_full,0.2,0.32,default demobilises,0.658603,0.160756,0.00215335,0,0.735966,0.2
+V6d at 0.3 of R,E_full,0.2,0.33,default demobilises,0.672271,0.17352,0.00124981,0,0.750017,0.2
+V6d at 0.3 of R,E_full,0.2,0.34,default demobilises,0.68478,0.18562,0.000839878,0,0.76368,0.2
+V6d at 0.3 of R,E_full,0.2,0.35,default demobilises,0.696393,0.196857,0.000463568,0,0.776985,0.2
+V6d at 0.3 of R,E_full,0.2,0.36,default demobilises,0.706946,0.207257,0.000311596,0,0.789959,0.2
+V6d at 0.3 of R,E_full,0.2,0.37,"no pure equilibrium (mixed, approx.)",0.637067,0.139395,0.00232845,0,0.781682,0.404194
+V6d at 0.3 of R,E_full,0.2,0.38,"no pure equilibrium (mixed, approx.)",0.509743,0.0274197,0.0176765,0,0.741979,0.712353
+V6d at 0.3 of R,E_full,0.2,0.39,slack (V1 outcome),0.499552,0.0187468,0.0191951,0,0.754358,0.754358
+V6d at 0.3 of R,E_full,0.2,0.4,slack (V1 outcome),0.499825,0.0180498,0.0182251,0,0.7737,0.7737
+V6d at 0.3 of R,E_full,0.2,0.41,slack (V1 outcome),0.499899,0.0171347,0.0172361,0,0.793043,0.793043
+V6d at 0.3 of R,E_full,0.2,0.42,slack (V1 outcome),0.499952,0.0160398,0.0160877,0,0.812385,0.812385
+V6d at 0.3 of R,E_full,0.2,0.43,slack (V1 outcome),0.50009,0.0148063,0.0147158,0,0.831728,0.831728
+V6d at 0.3 of R,E_full,0.2,0.44,slack (V1 outcome),0.499966,0.0131705,0.0132042,0,0.85107,0.85107
+V6d at 0.3 of R,E_full,0.2,0.45,slack (V1 outcome),0.499928,0.0114071,0.0114791,0,0.870413,0.870413
+V6d at 0.3 of R,E_full,0.2,0.46,slack (V1 outcome),0.500058,0.00962968,0.00957121,0,0.889755,0.889755
+V6d at 0.3 of R,E_full,0.3,0.2,default demobilises,0.230043,0.00141196,0.271369,0,0.457088,0.3
+V6d at 0.3 of R,E_full,0.3,0.21,default demobilises,0.29772,0.00425537,0.206536,0,0.493279,0.3
+V6d at 0.3 of R,E_full,0.3,0.22,default demobilises,0.354758,0.00928685,0.154529,0,0.523837,0.3
+V6d at 0.3 of R,E_full,0.3,0.23,default demobilises,0.40349,0.0169859,0.113496,0,0.55085,0.3
+V6d at 0.3 of R,E_full,0.3,0.24,default demobilises,0.445552,0.0273772,0.0818251,0,0.575345,0.3
+V6d at 0.3 of R,E_full,0.3,0.25,default demobilises,0.482189,0.0400104,0.057821,0,0.597928,0.3
+V6d at 0.3 of R,E_full,0.3,0.26,default demobilises,0.514364,0.0541824,0.0398182,0,0.618989,0.3
+V6d at 0.3 of R,E_full,0.3,0.27,default demobilises,0.542843,0.0696157,0.0267729,0,0.638804,0.3
+V6d at 0.3 of R,E_full,0.3,0.28,default demobilises,0.568217,0.0863943,0.0181769,0,0.657571,0.3
+V6d at 0.3 of R,E_full,0.3,0.29,default demobilises,0.590955,0.102797,0.0118419,0,0.675441,0.3
+V6d at 0.3 of R,E_full,0.3,0.3,default demobilises,0.611456,0.11893,0.00747345,0,0.692531,0.3
+V6d at 0.3 of R,E_full,0.3,0.31,default demobilises,0.630015,0.134914,0.00489814,0,0.708936,0.3
+V6d at 0.3 of R,E_full,0.3,0.32,default demobilises,0.646894,0.149819,0.00292457,0,0.724729,0.3
+V6d at 0.3 of R,E_full,0.3,0.33,default demobilises,0.662245,0.164129,0.00188434,0,0.739976,0.3
+V6d at 0.3 of R,E_full,0.3,0.34,default demobilises,0.676295,0.177402,0.00110661,0,0.754727,0.3
+V6d at 0.3 of R,E_full,0.3,0.35,"no pure equilibrium (mixed, approx.)",0.599325,0.104077,0.00475268,0,0.736931,0.4853
+V6d at 0.3 of R,E_full,0.3,0.36,"no pure equilibrium (mixed, approx.)",0.514992,0.0325557,0.017564,0,0.70918,0.666347
+V6d at 0.3 of R,E_full,0.3,0.37,slack (V1 outcome),0.497869,0.0196034,0.0217348,0,0.715673,0.715673
+V6d at 0.3 of R,E_full,0.3,0.38,slack (V1 outcome),0.498974,0.0192695,0.0202957,0,0.735015,0.735015
+V6d at 0.3 of R,E_full,0.3,0.39,slack (V1 outcome),0.499552,0.0187468,0.0191951,0,0.754358,0.754358
+V6d at 0.3 of R,E_full,0.3,0.4,slack (V1 outcome),0.499825,0.0180498,0.0182251,0,0.7737,0.7737
+V6d at 0.3 of R,E_full,0.3,0.41,slack (V1 outcome),0.499899,0.0171347,0.0172361,0,0.793043,0.793043
+V6d at 0.3 of R,E_full,0.3,0.42,slack (V1 outcome),0.499952,0.0160398,0.0160877,0,0.812385,0.812385
+V6d at 0.3 of R,E_full,0.3,0.43,slack (V1 outcome),0.50009,0.0148063,0.0147158,0,0.831728,0.831728
+V6d at 0.3 of R,E_full,0.3,0.44,slack (V1 outcome),0.499966,0.0131705,0.0132042,0,0.85107,0.85107
+V6d at 0.3 of R,E_full,0.3,0.45,slack (V1 outcome),0.499928,0.0114071,0.0114791,0,0.870413,0.870413
+V6d at 0.3 of R,E_full,0.3,0.46,slack (V1 outcome),0.500058,0.00962968,0.00957122,0,0.889755,0.889755
+V6d at 0.3 of R,E_full,0.38,0.2,default demobilises,0.118763,0.00010303,0.38134,0,0.390583,0.38
+V6d at 0.3 of R,E_full,0.38,0.21,default demobilises,0.179989,0.000502438,0.320513,0,0.429085,0.38
+V6d at 0.3 of R,E_full,0.38,0.22,default demobilises,0.2535,0.00202164,0.248521,0,0.46979,0.38
+V6d at 0.3 of R,E_full,0.38,0.23,default demobilises,0.321574,0.00554177,0.183968,0,0.506078,0.38
+V6d at 0.3 of R,E_full,0.38,0.24,default demobilises,0.380022,0.0124675,0.132445,0,0.53787,0.38
+V6d at 0.3 of R,E_full,0.38,0.25,default demobilises,0.429549,0.0225007,0.0929522,0,0.56615,0.38
+V6d at 0.3 of R,E_full,0.38,0.26,default demobilises,0.471684,0.0353175,0.0636339,0,0.591741,0.38
+V6d at 0.3 of R,E_full,0.38,0.27,default demobilises,0.507859,0.0502266,0.0423671,0,0.615231,0.38
+V6d at 0.3 of R,E_full,0.38,0.28,default demobilises,0.539228,0.0671372,0.0279093,0,0.637037,0.38
+V6d at 0.3 of R,E_full,0.38,0.29,default demobilises,0.566642,0.0848656,0.0182233,0,0.657463,0.38
+V6d at 0.3 of R,E_full,0.38,0.3,default demobilises,0.590855,0.102359,0.0115041,0,0.676734,0.38
+V6d at 0.3 of R,E_full,0.38,0.31,default demobilises,0.612396,0.119264,0.00686851,0,0.695021,0.38
+V6d at 0.3 of R,E_full,0.38,0.32,default demobilises,0.631579,0.135991,0.00441187,0,0.712458,0.38
+V6d at 0.3 of R,E_full,0.38,0.33,"no pure equilibrium (mixed, approx.)",0.612632,0.117607,0.00497447,0,0.714146,0.440849
+V6d at 0.3 of R,E_full,0.38,0.34,"no pure equilibrium (mixed, approx.)",0.538295,0.0527065,0.0144117,0,0.691206,0.588552
+V6d at 0.3 of R,E_full,0.38,0.35,slack (V1 outcome),0.492343,0.0194513,0.0271086,0,0.676988,0.676988
+V6d at 0.3 of R,E_full,0.38,0.36,slack (V1 outcome),0.495834,0.0196421,0.0238077,0,0.69633,0.69633
+V6d at 0.3 of R,E_full,0.38,0.37,slack (V1 outcome),0.497869,0.0196034,0.0217348,0,0.715673,0.715673
+V6d at 0.3 of R,E_full,0.38,0.38,slack (V1 outcome),0.498974,0.0192695,0.0202957,0,0.735015,0.735015
+V6d at 0.3 of R,E_full,0.38,0.39,slack (V1 outcome),0.499552,0.0187468,0.0191951,0,0.754358,0.754358
+V6d at 0.3 of R,E_full,0.38,0.4,slack (V1 outcome),0.499825,0.0180498,0.0182251,0,0.7737,0.7737
+V6d at 0.3 of R,E_full,0.38,0.41,slack (V1 outcome),0.499899,0.0171347,0.0172361,0,0.793043,0.793043
+V6d at 0.3 of R,E_full,0.38,0.42,slack (V1 outcome),0.499952,0.0160398,0.0160877,0,0.812385,0.812385
+V6d at 0.3 of R,E_full,0.38,0.43,slack (V1 outcome),0.50009,0.0148063,0.0147158,0,0.831728,0.831728
+V6d at 0.3 of R,E_full,0.38,0.44,slack (V1 outcome),0.499966,0.0131705,0.0132042,0,0.85107,0.85107
+V6d at 0.3 of R,E_full,0.38,0.45,slack (V1 outcome),0.499928,0.0114071,0.0114791,0,0.870413,0.870413
+V6d at 0.3 of R,E_full,0.38,0.46,slack (V1 outcome),0.500058,0.00962968,0.00957122,0,0.889755,0.889755
+V3 at 0.333 of E_full,E_full,0.2,0.2,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.21,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.22,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.23,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.24,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.25,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.26,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.27,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.28,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.29,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.3,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.31,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.32,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.33,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.34,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.35,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.36,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.37,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.38,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.39,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.4,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.41,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.42,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.43,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.44,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.45,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.2,0.46,lock (mutual abstention),1.38976e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_full,E_full,0.3,0.2,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.21,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.22,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.23,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.24,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.25,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.26,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.27,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.28,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.29,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.3,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.31,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.32,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.33,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.34,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.35,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.36,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.37,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.38,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.39,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.4,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.41,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.42,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.43,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.44,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.45,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.3,0.46,lock (mutual abstention),2.39731e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_full,E_full,0.38,0.2,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.21,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.22,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.23,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.24,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.25,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.26,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.27,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.28,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.29,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.3,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.31,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.32,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.33,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.34,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.35,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.36,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.37,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.38,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.39,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.4,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.41,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.42,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.43,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.44,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.45,lock (mutual abstention),3.03605e-07,0,0.5,0,0.38,0.38
+V3 at 0.333 of E_full,E_full,0.38,0.46,default demobilises (capped),0.114827,0,0.385173,0,0.9,0.38
+V3 at 0.333 of E_dom,E_dom,0.2,0.2,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.21,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.22,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.23,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.24,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.25,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.26,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.27,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.28,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.29,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.3,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.31,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.32,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.33,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.34,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.35,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.36,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.37,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.38,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.39,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.4,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.41,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.42,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.43,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.44,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.45,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.46,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.47,lock (mutual abstention),4.62268e-12,0,0.5,0,0.2,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.48,default demobilises (capped),0.176,0,0.324,0,0.9,0.2
+V3 at 0.333 of E_dom,E_dom,0.2,0.49,default demobilises (capped),0.176,0,0.324,0,0.9,0.2
+V3 at 0.333 of E_dom,E_dom,0.3,0.2,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.21,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.22,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.23,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.24,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.25,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.26,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.27,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.28,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.29,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.3,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.31,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.32,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.33,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.34,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.35,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.36,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.37,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.38,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.39,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.4,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.41,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.42,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.43,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.44,lock (mutual abstention),9.46478e-09,0,0.5,0,0.3,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.45,default demobilises (capped),0.176,0,0.324,0,0.9,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.46,default demobilises (capped),0.176,0,0.324,0,0.9,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.47,default demobilises (capped),0.176,0,0.324,0,0.9,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.48,default demobilises (capped),0.176,0,0.324,0,0.9,0.3
+V3 at 0.333 of E_dom,E_dom,0.3,0.49,default demobilises (capped),0.176,0,0.324,0,0.9,0.3
+V3 at 0.333 of E_dom,E_dom,0.38,0.22,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.23,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.24,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.25,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.26,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.27,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.28,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.29,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.3,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.31,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.32,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.33,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.34,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.35,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.36,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.37,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.38,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.39,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.4,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.41,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.42,lock (mutual abstention),1.25942e-06,0,0.499999,0,0.38,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.43,default demobilises (capped),0.176,0,0.324,0,0.9,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.44,default demobilises (capped),0.176,0,0.324,0,0.9,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.45,default demobilises (capped),0.176,0,0.324,0,0.9,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.46,default demobilises (capped),0.176,0,0.324,0,0.9,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.47,default demobilises (capped),0.176,0,0.324,0,0.9,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.48,default demobilises (capped),0.176,0,0.324,0,0.9,0.38
+V3 at 0.333 of E_dom,E_dom,0.38,0.49,default demobilises (capped),0.176,0,0.324,0,0.9,0.38
+V6d at 0.333 of R,E_full,0.2,0.2,lock (mutual abstention),0.000567183,1.41299e-11,0.499433,0,0.2,0.2
+V6d at 0.333 of R,E_full,0.2,0.21,lock (mutual abstention),0.000567183,1.41299e-11,0.499433,0,0.2,0.2
+V6d at 0.333 of R,E_full,0.2,0.22,default demobilises,0.337259,0.00494916,0.167691,0,0.570861,0.2
+V6d at 0.333 of R,E_full,0.2,0.23,default demobilises,0.380729,0.00957701,0.128848,0,0.59676,0.2
+V6d at 0.333 of R,E_full,0.2,0.24,default demobilises,0.418691,0.0163159,0.0976244,0,0.620299,0.2
+V6d at 0.333 of R,E_full,0.2,0.25,default demobilises,0.45228,0.0250712,0.0727912,0,0.642119,0.2
+V6d at 0.333 of R,E_full,0.2,0.26,default demobilises,0.482264,0.03543,0.0531658,0,0.662596,0.2
+V6d at 0.333 of R,E_full,0.2,0.27,default demobilises,0.509211,0.0468936,0.0376821,0,0.681978,0.2
+V6d at 0.333 of R,E_full,0.2,0.28,default demobilises,0.533565,0.0603098,0.0267444,0,0.70044,0.2
+V6d at 0.333 of R,E_full,0.2,0.29,default demobilises,0.555665,0.0742209,0.0185558,0,0.718111,0.2
+V6d at 0.333 of R,E_full,0.2,0.3,default demobilises,0.575763,0.0879686,0.0122052,0,0.735092,0.2
+V6d at 0.333 of R,E_full,0.2,0.31,default demobilises,0.594143,0.102547,0.00840399,0,0.751461,0.2
+V6d at 0.333 of R,E_full,0.2,0.32,default demobilises,0.610836,0.116246,0.00541074,0,0.767282,0.2
+V6d at 0.333 of R,E_full,0.2,0.33,default demobilises,0.626119,0.12963,0.00351191,0,0.782607,0.2
+V6d at 0.333 of R,E_full,0.2,0.34,default demobilises,0.639996,0.14223,0.0022346,0,0.797482,0.2
+V6d at 0.333 of R,E_full,0.2,0.35,default demobilises,0.652579,0.153949,0.00136912,0,0.811944,0.2
+V6d at 0.333 of R,E_full,0.2,0.36,default demobilises,0.663973,0.164838,0.000864261,0,0.826026,0.2
+V6d at 0.333 of R,E_full,0.2,0.37,default demobilises,0.674129,0.174635,0.000506747,0,0.839755,0.2
+V6d at 0.333 of R,E_full,0.2,0.38,default demobilises,0.683248,0.183562,0.000314223,0,0.853157,0.2
+V6d at 0.333 of R,E_full,0.2,0.39,default demobilises,0.691234,0.191415,0.000181139,0,0.866253,0.2
+V6d at 0.333 of R,E_full,0.2,0.4,default demobilises,0.698249,0.198357,0.000107286,0,0.879062,0.2
+V6d at 0.333 of R,E_full,0.2,0.41,default demobilises,0.704375,0.204438,6.28645e-05,0,0.891603,0.2
+V6d at 0.333 of R,E_full,0.2,0.42,"no pure equilibrium (mixed, approx.)",0.578033,0.0822886,0.0042556,0,0.858317,0.601705
+V6d at 0.333 of R,E_full,0.2,0.43,slack (V1 outcome),0.499851,0.0147335,0.0148828,0,0.831728,0.831728
+V6d at 0.333 of R,E_full,0.2,0.44,slack (V1 outcome),0.49987,0.0131393,0.0132695,0,0.85107,0.85107
+V6d at 0.333 of R,E_full,0.2,0.45,slack (V1 outcome),0.499892,0.011394,0.0115023,0,0.870413,0.870413
+V6d at 0.333 of R,E_full,0.2,0.46,slack (V1 outcome),0.500046,0.00962541,0.0095797,0,0.889755,0.889755
+V6d at 0.333 of R,E_full,0.3,0.2,lock (mutual abstention),0.0111068,2.16331e-08,0.488893,0,0.3,0.3
+V6d at 0.333 of R,E_full,0.3,0.21,lock (mutual abstention),0.0111068,2.16331e-08,0.488893,0,0.3,0.3
+V6d at 0.333 of R,E_full,0.3,0.22,default demobilises,0.253895,0.00123075,0.247336,0,0.522653,0.3
+V6d at 0.333 of R,E_full,0.3,0.23,default demobilises,0.312205,0.00351093,0.191306,0,0.556274,0.3
+V6d at 0.333 of R,E_full,0.3,0.24,default demobilises,0.361736,0.00754252,0.145806,0,0.585332,0.3
+V6d at 0.333 of R,E_full,0.3,0.25,default demobilises,0.404585,0.013726,0.109141,0,0.611432,0.3
+V6d at 0.333 of R,E_full,0.3,0.26,default demobilises,0.44208,0.0221291,0.0800489,0,0.635382,0.3
+V6d at 0.333 of R,E_full,0.3,0.27,default demobilises,0.47518,0.032482,0.0573021,0,0.657666,0.3
+V6d at 0.333 of R,E_full,0.3,0.28,default demobilises,0.504616,0.0446593,0.0400436,0,0.678605,0.3
+V6d at 0.333 of R,E_full,0.3,0.29,default demobilises,0.530961,0.0588766,0.0279158,0,0.698423,0.3
+V6d at 0.333 of R,E_full,0.3,0.3,default demobilises,0.554647,0.073523,0.0188757,0,0.717287,0.3
+V6d at 0.333 of R,E_full,0.3,0.31,default demobilises,0.576019,0.0881686,0.0121497,0,0.735326,0.3
+V6d at 0.333 of R,E_full,0.3,0.32,default demobilises,0.595401,0.103537,0.00813619,0,0.752641,0.3
+V6d at 0.333 of R,E_full,0.3,0.33,default demobilises,0.612903,0.118058,0.00515457,0,0.769313,0.3
+V6d at 0.333 of R,E_full,0.3,0.34,default demobilises,0.628762,0.131936,0.00317332,0,0.785409,0.3
+V6d at 0.333 of R,E_full,0.3,0.35,default demobilises,0.643149,0.145171,0.00202186,0,0.800984,0.3
+V6d at 0.333 of R,E_full,0.3,0.36,default demobilises,0.655963,0.157094,0.00113169,0,0.816086,0.3
+V6d at 0.333 of R,E_full,0.3,0.37,default demobilises,0.667665,0.168405,0.000739561,0,0.830755,0.3
+V6d at 0.333 of R,E_full,0.3,0.38,default demobilises,0.677738,0.178138,0.000399342,0,0.845025,0.3
+V6d at 0.333 of R,E_full,0.3,0.39,"no pure equilibrium (mixed, approx.)",0.670753,0.171245,0.000492042,0,0.853749,0.344525
+V6d at 0.333 of R,E_full,0.3,0.4,"no pure equilibrium (mixed, approx.)",0.562319,0.0684657,0.00614638,0,0.818338,0.63493
+V6d at 0.333 of R,E_full,0.3,0.41,slack (V1 outcome),0.498708,0.0167766,0.0180687,0,0.793043,0.793043
+V6d at 0.333 of R,E_full,0.3,0.42,slack (V1 outcome),0.499398,0.0158675,0.0164697,0,0.812385,0.812385
+V6d at 0.333 of R,E_full,0.3,0.43,slack (V1 outcome),0.499851,0.0147335,0.0148828,0,0.831728,0.831728
+V6d at 0.333 of R,E_full,0.3,0.44,slack (V1 outcome),0.49987,0.0131393,0.0132695,0,0.85107,0.85107
+V6d at 0.333 of R,E_full,0.3,0.45,slack (V1 outcome),0.499892,0.011394,0.0115023,0,0.870413,0.870413
+V6d at 0.333 of R,E_full,0.3,0.46,slack (V1 outcome),0.500046,0.0096254,0.00957971,0,0.889755,0.889755
+V6d at 0.333 of R,E_full,0.38,0.2,default demobilises,0.0585766,3.41766e-06,0.441427,0,0.385169,0.38
+V6d at 0.333 of R,E_full,0.38,0.21,default demobilises,0.0860724,1.30589e-05,0.413941,0,0.411862,0.38
+V6d at 0.333 of R,E_full,0.38,0.22,default demobilises,0.146385,0.000101352,0.353716,0,0.457143,0.38
+V6d at 0.333 of R,E_full,0.38,0.23,default demobilises,0.217845,0.000613023,0.282768,0,0.501619,0.38
+V6d at 0.333 of R,E_full,0.38,0.24,default demobilises,0.283471,0.00206571,0.218594,0,0.539705,0.38
+V6d at 0.333 of R,E_full,0.38,0.25,default demobilises,0.340449,0.00519465,0.164746,0,0.572749,0.38
+V6d at 0.333 of R,E_full,0.38,0.26,default demobilises,0.389475,0.0108891,0.121414,0,0.602121,0.38
+V6d at 0.333 of R,E_full,0.38,0.27,default demobilises,0.431811,0.0191061,0.0872956,0,0.628742,0.38
+V6d at 0.333 of R,E_full,0.38,0.28,default demobilises,0.468635,0.0296979,0.0610633,0,0.653229,0.38
+V6d at 0.333 of R,E_full,0.38,0.29,default demobilises,0.500922,0.0430629,0.0421409,0,0.676006,0.38
+V6d at 0.333 of R,E_full,0.38,0.3,default demobilises,0.529438,0.0579622,0.0285246,0,0.697378,0.38
+V6d at 0.333 of R,E_full,0.38,0.31,default demobilises,0.554781,0.0735458,0.0187649,0,0.717572,0.38
+V6d at 0.333 of R,E_full,0.38,0.32,default demobilises,0.577413,0.0892236,0.0118104,0,0.73676,0.38
+V6d at 0.333 of R,E_full,0.38,0.33,default demobilises,0.597709,0.105295,0.00758595,0,0.755077,0.38
+V6d at 0.333 of R,E_full,0.38,0.34,default demobilises,0.615932,0.120671,0.00473914,0,0.77263,0.38
+V6d at 0.333 of R,E_full,0.38,0.35,default demobilises,0.632239,0.134966,0.00272669,0,0.789506,0.38
+V6d at 0.333 of R,E_full,0.38,0.36,default demobilises,0.646991,0.148725,0.00173396,0,0.805777,0.38
+V6d at 0.333 of R,E_full,0.38,0.37,default demobilises,0.659901,0.160886,0.000985057,0,0.821503,0.38
+V6d at 0.333 of R,E_full,0.38,0.38,"no pure equilibrium (mixed, approx.)",0.585072,0.0896524,0.00458026,0,0.798465,0.564854
+V6d at 0.333 of R,E_full,0.38,0.39,"no pure equilibrium (mixed, approx.)",0.521088,0.0350662,0.0139785,0,0.774072,0.711344
+V6d at 0.333 of R,E_full,0.38,0.4,slack (V1 outcome),0.497447,0.0173966,0.01995,0,0.7737,0.7737
+V6d at 0.333 of R,E_full,0.38,0.41,slack (V1 outcome),0.498708,0.0167766,0.0180687,0,0.793043,0.793043
+V6d at 0.333 of R,E_full,0.38,0.42,slack (V1 outcome),0.499398,0.0158675,0.0164697,0,0.812385,0.812385
+V6d at 0.333 of R,E_full,0.38,0.43,slack (V1 outcome),0.499851,0.0147335,0.0148828,0,0.831728,0.831728
+V6d at 0.333 of R,E_full,0.38,0.44,slack (V1 outcome),0.49987,0.0131393,0.0132695,0,0.85107,0.85107
+V6d at 0.333 of R,E_full,0.38,0.45,slack (V1 outcome),0.499892,0.011394,0.0115023,0,0.870413,0.870413
+V6d at 0.333 of R,E_full,0.38,0.46,slack (V1 outcome),0.500046,0.0096254,0.00957971,0,0.889755,0.889755
+V2 at 0.25 of E_full,E_full,0.2,0.2,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000206329,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.21,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000266336,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.22,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000333984,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.23,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000411012,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.24,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000500012,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.25,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000604595,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.26,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.00071738,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.27,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000838735,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.28,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.000966566,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.29,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.00110002,0.2,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.3,default boycotts,0.427571,0.0293018,0.101731,0.230718,0.8283,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.31,default boycotts,0.449645,0.0334317,0.0837863,0.203625,0.849747,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.32,default boycotts,0.467963,0.0370253,0.0690622,0.179062,0.870041,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.33,default boycotts,0.483145,0.0401678,0.0570224,0.156705,0.889381,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.34,default boycotts (capped),0.489896,0.0413866,0.0514903,0.13962,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.35,default boycotts (capped),0.489896,0.0413866,0.0514903,0.126745,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.36,default boycotts (capped),0.489896,0.0413866,0.0514903,0.114105,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.37,default boycotts (capped),0.489896,0.0413866,0.0514903,0.101724,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.38,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0896317,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.39,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0778755,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.4,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0665205,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.41,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0556604,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.42,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0454065,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.43,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0358895,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.44,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0272487,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.45,default boycotts (capped),0.489896,0.0413866,0.0514903,0.019602,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.2,0.46,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0130427,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.2,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.00498286,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.21,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.00621994,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.22,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.0075524,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.23,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.00892287,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.24,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.0103308,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.25,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.0118361,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.26,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.0135809,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.27,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.0152574,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.28,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.0168585,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.29,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.0185272,0.3,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.3,default boycotts,0.389073,0.0225176,0.133445,0.253488,0.795826,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.31,default boycotts,0.418592,0.0275449,0.108953,0.222054,0.820433,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.32,default boycotts,0.443261,0.0321938,0.0889332,0.193682,0.84334,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.33,default boycotts,0.463714,0.0362664,0.0725525,0.168138,0.864903,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.34,default boycotts,0.480391,0.0396891,0.0592983,0.145183,0.885364,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.35,default boycotts (capped),0.489896,0.0413866,0.0514903,0.126745,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.36,default boycotts (capped),0.489896,0.0413866,0.0514903,0.114105,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.37,default boycotts (capped),0.489896,0.0413866,0.0514903,0.101724,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.38,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0896317,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.39,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0778755,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.4,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0665205,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.41,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0556604,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.42,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0454065,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.43,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0358895,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.44,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0272487,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.45,default boycotts (capped),0.489896,0.0413866,0.0514903,0.019602,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.3,0.46,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0130427,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.2,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0318588,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.21,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0374961,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.22,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0438184,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.23,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0503774,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.24,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0567006,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.25,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0622177,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.26,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0676428,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.27,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0740863,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.28,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0797157,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.29,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.0845141,0.38,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.3,default boycotts,0.339904,0.0154447,0.17554,0.281935,0.758651,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.31,default boycotts,0.37882,0.0208952,0.142076,0.245401,0.787784,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.32,default boycotts,0.411407,0.0262613,0.114854,0.212409,0.814215,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.33,default boycotts,0.438544,0.0313122,0.0927685,0.182886,0.838654,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.34,default boycotts,0.460904,0.0357918,0.0748878,0.15654,0.861533,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.35,default boycotts,0.478609,0.0392655,0.0606564,0.133286,0.883139,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.36,default boycotts (capped),0.489896,0.0413866,0.0514903,0.114105,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.37,default boycotts (capped),0.489896,0.0413866,0.0514903,0.101724,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.38,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0896317,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.39,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0778755,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.4,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0665205,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.41,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0556604,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.42,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0454065,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.43,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0358895,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.44,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0272487,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.45,default boycotts (capped),0.489896,0.0413866,0.0514903,0.019602,0.9,0.08
+V2 at 0.25 of E_full,E_full,0.38,0.46,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0130427,0.9,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.2,lock (default boycott),0.000479548,1.52599e-05,0.499536,0.0116451,0.2,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.21,lock (default boycott),0.000479548,1.52599e-05,0.499536,0.0128791,0.2,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.22,lock (default boycott),0.000479548,1.52599e-05,0.499536,0.0140221,0.2,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.23,default boycotts,0.423216,0.0506116,0.127396,0.227831,0.627784,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.24,default boycotts,0.459284,0.0617927,0.102508,0.19207,0.650215,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.25,default boycotts,0.490943,0.0732468,0.0823042,0.15787,0.670951,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.26,default boycotts,0.519044,0.0849015,0.0658575,0.125768,0.690375,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.27,default boycotts,0.544191,0.096655,0.0524639,0.0958246,0.708737,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.28,default boycotts,0.566843,0.10839,0.0415462,0.0679252,0.726209,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.29,default boycotts,0.587322,0.119958,0.0326359,0.0418912,0.74292,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.3,default boycotts,0.605899,0.131375,0.0254756,0.0175383,0.758967,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.31,default boycotts,0.622829,0.142481,0.0196516,0,0.774428,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.32,default boycotts,0.638143,0.153274,0.0151315,0,0.789364,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.33,default boycotts,0.652199,0.163629,0.0114299,0,0.803827,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.34,default boycotts,0.664719,0.173317,0.00859745,0,0.81786,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.35,default boycotts,0.676298,0.182657,0.00635913,0,0.8315,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.36,default boycotts,0.686354,0.191076,0.00472274,0,0.844777,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.37,default boycotts,0.695699,0.199079,0.00337981,0,0.857719,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.38,default boycotts,0.703589,0.206048,0.00245921,0,0.87035,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.39,default boycotts,0.710866,0.212563,0.00169733,0,0.88269,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.4,default boycotts,0.71694,0.218172,0.00123252,0,0.894759,0.08
+V5p (q_T 0.5) on E_full,E_full,0.2,0.41,"no pure equilibrium (mixed, approx.)",0.631797,0.134057,0.00226018,0,0.876558,0.399987
+V5p (q_T 0.5) on E_full,E_full,0.2,0.42,"no pure equilibrium (mixed, approx.)",0.537093,0.0453925,0.00829953,5.51994e-06,0.842471,0.71594
+V5p (q_T 0.5) on E_full,E_full,0.2,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V5p (q_T 0.5) on E_full,E_full,0.2,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V5p (q_T 0.5) on E_full,E_full,0.2,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V5p (q_T 0.5) on E_full,E_full,0.2,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957109,0,0.889755,0.889755
+V5p (q_T 0.5) on E_full,E_full,0.3,0.2,lock (default boycott),0.00898788,0.000267784,0.49128,0.0843563,0.3,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.21,lock (default boycott),0.00898788,0.000267784,0.49128,0.0906868,0.3,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.22,lock (default boycott),0.00898788,0.000267784,0.49128,0.0957851,0.3,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.23,default boycotts,0.346885,0.0323595,0.185475,0.266087,0.583239,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.24,default boycotts,0.397499,0.0437168,0.146217,0.225354,0.612411,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.25,default boycotts,0.440056,0.0556033,0.115548,0.185908,0.638115,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.26,default boycotts,0.476647,0.0678778,0.0912311,0.149076,0.661451,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.27,default boycotts,0.508574,0.0803939,0.0718204,0.115093,0.683015,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.28,default boycotts,0.536729,0.0930417,0.056313,0.0838214,0.703181,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.29,default boycotts,0.561765,0.105645,0.0438799,0.0550148,0.722201,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.3,default boycotts,0.584132,0.11809,0.0339588,0.0283847,0.740258,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.31,default boycotts,0.604236,0.130325,0.026089,0.00366011,0.757489,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.32,default boycotts,0.622372,0.142165,0.019793,0,0.774,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.33,default boycotts,0.638652,0.153639,0.0149868,0,0.789876,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.34,default boycotts,0.653481,0.164619,0.011138,0,0.805185,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.35,default boycotts,0.666557,0.174777,0.00821986,0,0.819985,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.36,default boycotts,0.678507,0.184489,0.00598208,0,0.834322,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.37,default boycotts,0.688892,0.193215,0.00432315,0,0.848238,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.38,default boycotts,0.698351,0.201428,0.00307725,0,0.861766,0.08
+V5p (q_T 0.5) on E_full,E_full,0.3,0.39,"no pure equilibrium (mixed, approx.)",0.619957,0.124032,0.00407459,0,0.839583,0.393138
+V5p (q_T 0.5) on E_full,E_full,0.3,0.4,"no pure equilibrium (mixed, approx.)",0.551003,0.0590921,0.00808907,9.28793e-07,0.813999,0.634502
+V5p (q_T 0.5) on E_full,E_full,0.3,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V5p (q_T 0.5) on E_full,E_full,0.3,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V5p (q_T 0.5) on E_full,E_full,0.3,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V5p (q_T 0.5) on E_full,E_full,0.3,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V5p (q_T 0.5) on E_full,E_full,0.3,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V5p (q_T 0.5) on E_full,E_full,0.3,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957108,0,0.889755,0.889755
+V5p (q_T 0.5) on E_full,E_full,0.38,0.2,lock (default boycott),0.0457444,0.00154439,0.4558,0.206522,0.38,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.21,lock (default boycott),0.0457444,0.00154439,0.4558,0.215295,0.38,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.22,lock (default boycott),0.0457444,0.00154439,0.4558,0.221686,0.38,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.23,default boycotts,0.223461,0.013992,0.290531,0.309878,0.514017,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.24,default boycotts,0.303942,0.0246882,0.220746,0.270565,0.559174,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.25,default boycotts,0.366846,0.0365233,0.169677,0.225059,0.594603,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.26,default boycotts,0.418278,0.0492032,0.130926,0.181085,0.624796,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.27,default boycotts,0.461367,0.0624993,0.101133,0.140885,0.651547,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.28,default boycotts,0.498111,0.0760972,0.0779865,0.104558,0.675808,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.29,default boycotts,0.529883,0.0898204,0.0599375,0.0717083,0.698164,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.3,default boycotts,0.557652,0.103454,0.0458023,0.0418569,0.719,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.31,default boycotts,0.582115,0.116928,0.0348127,0.0145657,0.738587,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.32,default boycotts,0.603827,0.130067,0.0262405,0,0.757127,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.33,default boycotts,0.623193,0.142732,0.019539,0,0.774769,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.34,default boycotts,0.640392,0.154883,0.0144911,0,0.791633,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.35,default boycotts,0.655849,0.166432,0.0105826,0,0.807812,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.36,default boycotts,0.669472,0.177095,0.00762329,0,0.823384,0.08
+V5p (q_T 0.5) on E_full,E_full,0.38,0.37,"no pure equilibrium (mixed, approx.)",0.641306,0.14789,0.00658427,5.82391e-07,0.820701,0.235412
+V5p (q_T 0.5) on E_full,E_full,0.38,0.38,"no pure equilibrium (mixed, approx.)",0.577157,0.0852114,0.00805431,0,0.798877,0.497476
+V5p (q_T 0.5) on E_full,E_full,0.38,0.39,"no pure equilibrium (mixed, approx.)",0.528587,0.0415913,0.0130043,0,0.779922,0.668922
+V5p (q_T 0.5) on E_full,E_full,0.38,0.4,slack (V1 outcome),0.500013,0.0181127,0.0180999,0,0.7737,0.7737
+V5p (q_T 0.5) on E_full,E_full,0.38,0.41,slack (V1 outcome),0.499972,0.0171584,0.0171864,0,0.793043,0.793043
+V5p (q_T 0.5) on E_full,E_full,0.38,0.42,slack (V1 outcome),0.499979,0.0160488,0.01607,0,0.812385,0.812385
+V5p (q_T 0.5) on E_full,E_full,0.38,0.43,slack (V1 outcome),0.500099,0.0148096,0.0147102,0,0.831728,0.831728
+V5p (q_T 0.5) on E_full,E_full,0.38,0.44,slack (V1 outcome),0.499969,0.0131715,0.0132023,0,0.85107,0.85107
+V5p (q_T 0.5) on E_full,E_full,0.38,0.45,slack (V1 outcome),0.499929,0.0114074,0.0114786,0,0.870413,0.870413
+V5p (q_T 0.5) on E_full,E_full,0.38,0.46,slack (V1 outcome),0.500059,0.00962976,0.00957108,0,0.889755,0.889755
+V2 at 0.25 of E_dom,E_dom,0.2,0.2,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.000348388,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.21,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.00044245,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.22,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.000548405,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.23,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.00067883,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.24,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.000823249,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.25,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.00098211,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.26,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.00116257,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.27,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.00135319,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.28,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.00154955,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.29,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.00175408,0.2,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.3,default boycotts,0.435332,0.0362286,0.100897,0.224166,0.770578,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.31,default boycotts,0.461332,0.0438092,0.0824774,0.194941,0.790609,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.32,default boycotts,0.484367,0.0514468,0.0670795,0.167841,0.809556,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.33,default boycotts,0.504409,0.058677,0.0542678,0.142903,0.827607,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.34,default boycotts,0.521971,0.0655845,0.0436135,0.11983,0.844895,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.35,default boycotts,0.537403,0.0721715,0.0347681,0.098385,0.861521,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.36,default boycotts,0.549904,0.0774237,0.0275192,0.0789189,0.877565,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.37,default boycotts,0.560705,0.08228,0.0215747,0.0607518,0.893089,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.38,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0465644,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.39,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0348601,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.4,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0233792,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.41,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0121464,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.42,default boycotts (capped),0.5648,0.0840758,0.0192758,0.00119848,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.43,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.44,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.45,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.46,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.47,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.48,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.2,0.49,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.2,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.00861585,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.21,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0105638,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.22,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0127151,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.23,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0149851,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.24,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0172971,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.25,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0195355,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.26,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0220493,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.27,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0246206,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.28,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.0270734,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.29,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.02952,0.3,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.3,default boycotts,0.387687,0.0250801,0.137393,0.252161,0.736391,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.31,default boycotts,0.420859,0.0325351,0.111676,0.218712,0.759859,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.32,default boycotts,0.449913,0.0403736,0.090461,0.187928,0.781632,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.33,default boycotts,0.475394,0.048326,0.0729321,0.159656,0.802078,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.34,default boycotts,0.497695,0.0561472,0.0584519,0.133694,0.82144,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.35,default boycotts,0.517202,0.0637354,0.0465338,0.109792,0.83989,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.36,default boycotts,0.53378,0.0705359,0.0367557,0.0879454,0.857556,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.37,default boycotts,0.547595,0.0763863,0.028791,0.0680086,0.874539,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.38,default boycotts,0.559403,0.0817259,0.0223227,0.0495391,0.890915,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.39,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0348601,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.4,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0233792,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.41,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0121464,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.42,default boycotts (capped),0.5648,0.0840758,0.0192758,0.00119848,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.43,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.44,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.45,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.46,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.47,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.48,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.3,0.49,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.22,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.0688709,0.38,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.23,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.0769166,0.38,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.24,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.086351,0.38,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.25,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.0954009,0.38,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.26,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.103488,0.38,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.27,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.110367,0.38,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.28,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.116253,0.38,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.29,default boycotts,0.27388,0.00923346,0.235354,0.328952,0.661799,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.3,default boycotts,0.326021,0.0149035,0.188883,0.287442,0.695232,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.31,default boycotts,0.369592,0.0216329,0.152041,0.248571,0.724047,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.32,default boycotts,0.406984,0.0291927,0.122209,0.212915,0.749919,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.33,default boycotts,0.439443,0.0373595,0.0979161,0.18043,0.773669,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.34,default boycotts,0.467719,0.0458006,0.0780818,0.150843,0.795782,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.35,default boycotts,0.492329,0.0542231,0.0618943,0.123864,0.816574,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.36,default boycotts,0.513673,0.0623893,0.0487161,0.0992153,0.836269,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.37,default boycotts,0.531453,0.0695167,0.0380634,0.0769624,0.85503,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.38,default boycotts,0.546403,0.0758764,0.0294734,0.0566705,0.872984,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.39,default boycotts,0.558992,0.0815637,0.0225722,0.0380374,0.89023,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.4,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0233792,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.41,default boycotts (capped),0.5648,0.0840758,0.0192758,0.0121464,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.42,default boycotts (capped),0.5648,0.0840758,0.0192758,0.00119848,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.43,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.44,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.45,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.46,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.47,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.48,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V2 at 0.25 of E_dom,E_dom,0.38,0.49,default boycotts (capped),0.5648,0.0840758,0.0192758,0,0.9,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.2,lock (default boycott),0.000232427,5.37206e-06,0.499773,0.00735255,0.2,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.21,lock (default boycott),0.000232427,5.37206e-06,0.499773,0.00841283,0.2,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.22,lock (default boycott),0.000232427,5.37206e-06,0.499773,0.00943844,0.2,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.23,lock (default boycott),0.000232427,5.37206e-06,0.499773,0.0104409,0.2,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.24,lock (default boycott),0.000232427,5.37206e-06,0.499773,0.0114756,0.2,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.25,default boycotts,0.434922,0.0496768,0.114755,0.218365,0.635734,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.26,default boycotts,0.467598,0.060262,0.0926636,0.184131,0.656135,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.27,default boycotts,0.496575,0.0712035,0.0746282,0.151904,0.675169,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.28,default boycotts,0.522513,0.0823514,0.0598386,0.12183,0.693113,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.29,default boycotts,0.545902,0.0936446,0.0477423,0.0938045,0.710157,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.3,default boycotts,0.567099,0.104945,0.0378464,0.0676519,0.726436,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.31,default boycotts,0.5864,0.116193,0.0297933,0.043185,0.742053,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.32,default boycotts,0.604046,0.127354,0.0233081,0.0202255,0.757088,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.33,default boycotts,0.620151,0.138141,0.0179906,0,0.771603,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.34,default boycotts,0.634982,0.14881,0.0138282,0,0.785653,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.35,default boycotts,0.648423,0.158886,0.0104624,0,0.799279,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.36,default boycotts,0.660859,0.168772,0.0079122,0,0.81252,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.37,default boycotts,0.671991,0.177814,0.00582247,0,0.825406,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.38,default boycotts,0.682315,0.186641,0.00432542,0,0.837964,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.39,default boycotts,0.691333,0.194422,0.00308921,0,0.850217,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.4,default boycotts,0.699782,0.202025,0.00224368,0,0.862188,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.41,default boycotts,0.70682,0.208366,0.00154642,0,0.873894,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.42,default boycotts,0.713451,0.21458,0.00112933,0,0.885352,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.43,default boycotts,0.718856,0.219613,0.000756971,0,0.896576,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.44,"no pure equilibrium (mixed, approx.)",0.629078,0.130983,0.00190462,0,0.873256,0.408278
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.45,"no pure equilibrium (mixed, approx.)",0.53677,0.0443174,0.00754754,6.03151e-06,0.841952,0.717768
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.46,slack (V1 outcome),0.5,0.0140417,0.0140412,0,0.830833,0.830833
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.47,slack (V1 outcome),0.499939,0.0126529,0.0127139,0,0.848895,0.848895
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.48,slack (V1 outcome),0.500004,0.0111258,0.0111213,0,0.866956,0.866956
+V5p (q_T 0.5) on E_dom,E_dom,0.2,0.49,slack (V1 outcome),0.500077,0.00948658,0.00940935,0,0.885018,0.885018
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.2,lock (default boycott),0.00649937,0.000131673,0.493632,0.0713004,0.3,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.21,lock (default boycott),0.00649937,0.000131673,0.493632,0.0769344,0.3,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.22,lock (default boycott),0.00649937,0.000131673,0.493632,0.0831276,0.3,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.23,lock (default boycott),0.00649937,0.000131673,0.493632,0.089339,0.3,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.24,default boycotts,0.308338,0.0219793,0.213642,0.298046,0.563515,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.25,default boycotts,0.363053,0.0317451,0.168692,0.257413,0.593786,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.26,default boycotts,0.408389,0.0422765,0.133887,0.217302,0.619849,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.27,default boycotts,0.447126,0.0534276,0.106302,0.179707,0.643235,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.28,default boycotts,0.480813,0.0650601,0.0842468,0.145001,0.664694,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.29,default boycotts,0.510474,0.0770158,0.0665414,0.113093,0.684667,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.3,default boycotts,0.53683,0.0891292,0.0522992,0.0837221,0.703441,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.31,default boycotts,0.560424,0.101271,0.0408474,0.0565942,0.72122,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.32,default boycotts,0.58168,0.113375,0.0316948,0.0314327,0.738153,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.33,default boycotts,0.600899,0.125291,0.0243916,0.00799532,0.754352,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.34,default boycotts,0.618315,0.13687,0.0185551,0,0.769909,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.35,default boycotts,0.6342,0.148241,0.0140416,0,0.784895,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.36,default boycotts,0.64851,0.158953,0.0104434,0,0.799369,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.37,default boycotts,0.661618,0.16938,0.00776162,0,0.813381,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.38,default boycotts,0.673312,0.178943,0.00563095,0,0.826972,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.39,default boycotts,0.683972,0.188045,0.00407254,0,0.840178,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.4,default boycotts,0.693351,0.196233,0.00288239,0,0.85303,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.41,"no pure equilibrium (mixed, approx.)",0.692594,0.194865,0.00227115,4.48859e-06,0.861096,0.111666
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.42,"no pure equilibrium (mixed, approx.)",0.605681,0.109541,0.00385943,0,0.833502,0.442334
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.43,"no pure equilibrium (mixed, approx.)",0.543846,0.0523896,0.0085436,9.94359e-07,0.810408,0.651124
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.44,slack (V1 outcome),0.499977,0.0161241,0.016147,0,0.79471,0.79471
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.45,slack (V1 outcome),0.500048,0.0152287,0.0151809,0,0.812772,0.812772
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.46,slack (V1 outcome),0.5,0.0140417,0.0140412,0,0.830833,0.830833
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.47,slack (V1 outcome),0.499939,0.0126529,0.0127139,0,0.848895,0.848895
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.48,slack (V1 outcome),0.500004,0.0111258,0.0111213,0,0.866957,0.866956
+V5p (q_T 0.5) on E_dom,E_dom,0.3,0.49,slack (V1 outcome),0.500077,0.00948659,0.00940934,0,0.885018,0.885018
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.22,lock (default boycott),0.0396034,0.000944133,0.461341,0.220414,0.38,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.23,lock (default boycott),0.0396034,0.000944133,0.461341,0.226976,0.38,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.24,default boycotts,0.152496,0.00597841,0.353482,0.332408,0.475408,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.25,default boycotts,0.2492,0.0142129,0.265013,0.308686,0.531243,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.26,default boycotts,0.319684,0.0237718,0.204088,0.264229,0.569725,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.27,default boycotts,0.376437,0.0345998,0.158163,0.218951,0.601361,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.28,default boycotts,0.423587,0.0463767,0.12279,0.177026,0.628881,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.29,default boycotts,0.463562,0.0588669,0.0953048,0.139033,0.653558,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.3,default boycotts,0.497981,0.0717715,0.0737904,0.104761,0.676118,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.31,default boycotts,0.527983,0.0848906,0.0569072,0.073715,0.697022,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.32,default boycotts,0.554404,0.0980583,0.0436547,0.0454151,0.716588,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.33,default boycotts,0.577872,0.111136,0.0332639,0.0194503,0.735041,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.34,default boycotts,0.598813,0.123942,0.025129,0,0.752552,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.35,default boycotts,0.6176,0.136386,0.0187854,0,0.769252,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.36,default boycotts,0.634559,0.148502,0.0139437,0,0.785242,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.37,default boycotts,0.6497,0.159882,0.010182,0,0.800607,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.38,default boycotts,0.663401,0.170809,0.00740754,0,0.815414,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.39,default boycotts,0.675611,0.180909,0.00529783,0,0.829718,0.08
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.4,"no pure equilibrium (mixed, approx.)",0.618828,0.124502,0.00567353,1.45243e-07,0.81268,0.331633
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.41,"no pure equilibrium (mixed, approx.)",0.562018,0.0698648,0.00784716,0,0.793212,0.5536
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.42,"no pure equilibrium (mixed, approx.)",0.521369,0.033883,0.0125138,0,0.776088,0.698051
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.43,slack (V1 outcome),0.499989,0.0169113,0.0169222,0,0.776649,0.776649
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.44,slack (V1 outcome),0.499977,0.0161241,0.016147,0,0.79471,0.79471
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.45,slack (V1 outcome),0.500048,0.0152287,0.0151809,0,0.812772,0.812772
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.46,slack (V1 outcome),0.5,0.0140417,0.0140412,0,0.830833,0.830833
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.47,slack (V1 outcome),0.499939,0.0126529,0.0127139,0,0.848895,0.848895
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.48,slack (V1 outcome),0.500004,0.0111258,0.0111213,0,0.866957,0.866957
+V5p (q_T 0.5) on E_dom,E_dom,0.38,0.49,slack (V1 outcome),0.500077,0.00948659,0.00940934,0,0.885018,0.885018

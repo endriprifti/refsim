@@ -1,0 +1,23 @@
+package,type,units,feasible,locked,change_possible,median_P_change,unlocked_units
+P0,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P0,T8,12,12,11,1,6.6669e-10,Tiranë
+P1,T7,46,46,0,46,0.609212,"Tiranë, Durrës, Elbasan, Fier, Vlorë, Shkodër, Korçë, Lushnjë, Berat, Kamëz, Kavajë, Lezhë, Pogradec, Krujë, Dibër, Librazhd, Kurbin, Kukës, Gjirokastër, Kuçovë, Mat, Malësi e Madhe, Sarandë, Vau-Dejës, Shijak, Mallakastër, Devoll, Bulqizë, Finiq, Peqin, Tepelenë, Mirditë, Gramsh, Vorë, Përmet, Roskovec, Pukë, Tropojë, Himarë, Dropull, Has, Kolonjë, Skrapar, Delvinë, Konispol, Pustec"
+P1,T8,12,12,0,12,0.610804,"Berat, Dibër, Durrës, Elbasan, Fier, Gjirokastër, Korçë, Kukës, Lezhë, Shkodër, Tiranë, Vlorë"
+P1b,T7,46,46,16,30,0.431104,"Tiranë, Durrës, Elbasan, Fier, Shkodër, Korçë, Lushnjë, Berat, Kamëz, Lezhë, Pogradec, Krujë, Dibër, Librazhd, Kurbin, Kukës, Gjirokastër, Kuçovë, Mat, Sarandë, Shijak, Devoll, Bulqizë, Peqin, Gramsh, Vorë, Roskovec, Tropojë, Has, Skrapar"
+P1b,T8,12,12,2,10,0.471839,"Berat, Dibër, Durrës, Elbasan, Fier, Korçë, Kukës, Lezhë, Shkodër, Tiranë"
+P2,T7,46,46,31,15,1.86985e-10,"Tiranë, Elbasan, Berat, Kamëz, Krujë, Dibër, Librazhd, Kukës, Kuçovë, Mat, Devoll, Bulqizë, Vorë, Has, Skrapar"
+P2,T8,12,12,6,6,0.00240141,"Berat, Dibër, Durrës, Elbasan, Kukës, Tiranë"
+P3,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P3,T8,12,12,11,1,6.6669e-10,Tiranë
+P3a,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P3a,T8,12,12,11,1,6.6669e-10,Tiranë
+P3b,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P3b,T8,12,12,11,1,6.6669e-10,Tiranë
+P3c,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P3c,T8,12,12,11,1,6.6669e-10,Tiranë
+P4,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P4,T8,12,12,11,1,6.6669e-10,Tiranë
+P5,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P5,T8,12,12,11,1,6.6669e-10,Tiranë
+P5c,T7,46,46,44,2,1.86985e-10,"Tiranë, Kamëz"
+P5c,T8,12,12,11,1,6.6669e-10,Tiranë

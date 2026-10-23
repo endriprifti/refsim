@@ -1,0 +1,5 @@
+year,post_side_months,pre_side_as_opened_months,T_post_max,T_pre_max_current,T_pre_max_recommended,recommended_blocked_share,share_of_T_post_range_complying,share_of_T_pre_range_complying_recommended,share_of_T_pre_range_complying_current
+2013,5.55,3.55,2.41033,1.54175,1.73718,0.198958,0.254711,0.824785,0.694497
+2017,5.49,3.55,2.38428,1.54175,1.73718,0.197708,0.251237,0.824785,0.694497
+2021,7.52,1.54,3.26589,0.668814,1.73718,0.24,0.368786,0.824785,0.112542
+2025,7.06,2.04,3.06612,0.885961,1.73718,0.230417,0.342149,0.824785,0.257307

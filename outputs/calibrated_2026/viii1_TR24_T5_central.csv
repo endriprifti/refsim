@@ -1,0 +1,8 @@
+rule,variant,feasible,regime,sx,sd,P_change,P_dec,C1p,C1R,C2
+V4 on E at 1/2 (current law),central,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on R at 1/2 (P1),central,True,default demobilises,0.856292,0.3,0.326726,1,0,0.173274,0
+"V4 on R at 1/3, with N > Y",central,True,default demobilises,0.769313,0.3,0.612903,1,0.118058,0.00515457,0
+"V4 on R at 0.25, with N > Y",central,True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224785,0.0235824,0
+"V4 on R at 0.20, with N > Y",central,True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0228031,0.0228128,0
+V1 (falls if No exceeds Yes),central,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0228065,0.0228062,0
+V7 (stands only if Yes reaches 55%),central,True,contested,0.631691,0.631691,0.592079,1,0.0935006,0.00142136,0

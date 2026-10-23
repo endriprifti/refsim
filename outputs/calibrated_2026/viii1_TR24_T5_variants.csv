@@ -1,0 +1,106 @@
+rule,variant,feasible,regime,sx,sd,P_change,P_dec,C1p,C1R,C2
+V4 on E at 1/2 (current law),central,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),kappa fixed,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),prior: beta (no type shift),True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),prior: zealot_vm (7.6),True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),A36 off (one floor),True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),t_bar = 1.00,True,lock (mutual abstention),0.3,0.3,1.08176e-22,1,0,0.5,0
+V4 on E at 1/2 (current law),t_bar = 0.85,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),a_B = 1.5,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),a_B = 5.0,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),tau = 0.20,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),tau = 0.42,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),t_min = 0.20,True,lock (mutual abstention),0.2,0.2,0,1,0,0.5,0
+V4 on E at 1/2 (current law),t_min = 0.38,True,lock (mutual abstention),0.38,0.38,0,1,0,0.5,0
+V4 on E at 1/2 (current law),sigma_tau = 0.03,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on E at 1/2 (current law),sigma_tau = 0.06,True,lock (mutual abstention),0.3,0.3,0,1,0,0.5,0
+V4 on R at 1/2 (P1),central,True,default demobilises,0.856292,0.3,0.326726,1,0,0.173274,0
+V4 on R at 1/2 (P1),kappa fixed,True,lock (mutual abstention),0.3,0.3,1.47294e-05,1,0,0.499985,0
+V4 on R at 1/2 (P1),prior: beta (no type shift),True,default demobilises,0.856292,0.3,0.326726,1,0,0.173274,0
+V4 on R at 1/2 (P1),prior: zealot_vm (7.6),True,default demobilises,0.881844,0.3,0.407717,1,0,0.0922825,0
+V4 on R at 1/2 (P1),A36 off (one floor),True,default demobilises,0.856292,0.3,0.326726,1,0,0.173274,0
+V4 on R at 1/2 (P1),t_bar = 1.00,True,default demobilises,0.856292,0.3,0.340273,1,0,0.159727,0
+V4 on R at 1/2 (P1),t_bar = 0.85,True,default demobilises (capped),0.85,0.3,0.298582,1,0,0.201418,0
+V4 on R at 1/2 (P1),a_B = 1.5,True,default demobilises,0.86734,0.3,0.385325,1,0,0.114675,0
+V4 on R at 1/2 (P1),a_B = 5.0,True,lock (mutual abstention),0.3,0.3,2.39219e-06,1,0,0.499998,0
+V4 on R at 1/2 (P1),tau = 0.20,True,lock (mutual abstention),0.3,0.3,1.47294e-05,1,0,0.499985,0
+V4 on R at 1/2 (P1),tau = 0.42,True,default demobilises (capped),0.9,0.3,0.359252,1,0,0.140748,0
+V4 on R at 1/2 (P1),t_min = 0.20,True,lock (mutual abstention),0.2,0.2,7.69156e-08,1,0,0.5,0
+V4 on R at 1/2 (P1),t_min = 0.38,True,default demobilises,0.822896,0.38,0.294052,1,0,0.205948,0
+V4 on R at 1/2 (P1),sigma_tau = 0.03,True,default demobilises,0.856292,0.3,0.334718,1,0,0.165282,0
+V4 on R at 1/2 (P1),sigma_tau = 0.06,True,default demobilises,0.856292,0.3,0.309111,1,0,0.190889,0
+"V4 on R at 1/3, with N > Y",central,True,default demobilises,0.769313,0.3,0.612903,1,0.118058,0.00515457,0
+"V4 on R at 1/3, with N > Y",kappa fixed,True,default demobilises,0.757289,0.3,0.600371,1,0.107461,0.00708963,0
+"V4 on R at 1/3, with N > Y",prior: beta (no type shift),True,default demobilises,0.769313,0.3,0.612903,1,0.118058,0.00515457,0
+"V4 on R at 1/3, with N > Y",prior: zealot_vm (7.6),True,default demobilises,0.791052,0.3,0.578815,1,0.0803098,0.00149488,0
+"V4 on R at 1/3, with N > Y",A36 off (one floor),True,default demobilises,0.769313,0.3,0.612903,1,0.118058,0.00515457,0
+"V4 on R at 1/3, with N > Y",t_bar = 1.00,True,default demobilises,0.769313,0.3,0.613785,1,0.11894,0.00515457,0
+"V4 on R at 1/3, with N > Y",t_bar = 0.85,True,default demobilises,0.769313,0.3,0.609541,1,0.114696,0.00515457,0
+"V4 on R at 1/3, with N > Y",a_B = 1.5,True,default demobilises,0.774852,0.3,0.581918,1,0.0849756,0.00305768,0
+"V4 on R at 1/3, with N > Y",a_B = 5.0,True,default demobilises,0.763281,0.3,0.637035,1,0.144705,0.00766941,0
+"V4 on R at 1/3, with N > Y",tau = 0.20,True,lock (mutual abstention),0.3,0.3,0.0111068,1,2.16331e-08,0.488893,0
+"V4 on R at 1/3, with N > Y",tau = 0.42,True,slack (V1 outcome),0.812385,0.812385,0.499398,1,0.0158675,0.0164697,0
+"V4 on R at 1/3, with N > Y",t_min = 0.20,True,default demobilises,0.782607,0.2,0.626119,1,0.12963,0.00351191,0
+"V4 on R at 1/3, with N > Y",t_min = 0.38,True,default demobilises,0.755077,0.38,0.597709,1,0.105295,0.00758595,0
+"V4 on R at 1/3, with N > Y",sigma_tau = 0.03,True,default demobilises,0.769313,0.3,0.617948,1,0.119323,0.00137509,0
+"V4 on R at 1/3, with N > Y",sigma_tau = 0.06,True,default demobilises,0.769313,0.3,0.596961,1,0.115977,0.0190153,0
+"V4 on R at 0.25, with N > Y",central,True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224785,0.0235824,0
+"V4 on R at 0.25, with N > Y",kappa fixed,True,contested,0.624282,0.624282,0.49809,1,0.0227437,0.0246542,0
+"V4 on R at 0.25, with N > Y",prior: beta (no type shift),True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224785,0.0235824,0
+"V4 on R at 0.25, with N > Y",prior: zealot_vm (7.6),True,slack (V1 outcome),0.638303,0.638303,0.499327,1,0.0125817,0.0132547,0
+"V4 on R at 0.25, with N > Y",A36 off (one floor),True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224785,0.0235824,0
+"V4 on R at 0.25, with N > Y",t_bar = 1.00,True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224817,0.0235858,0
+"V4 on R at 0.25, with N > Y",t_bar = 0.85,True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224455,0.0235499,0
+"V4 on R at 0.25, with N > Y",a_B = 1.5,True,slack (V1 outcome),0.638303,0.638303,0.499231,1,0.0153222,0.0160916,0
+"V4 on R at 0.25, with N > Y",a_B = 5.0,True,slack (V1 outcome),0.638303,0.638303,0.498596,1,0.0293563,0.0307599,0
+"V4 on R at 0.25, with N > Y",tau = 0.20,True,default demobilises,0.457669,0.3,0.39588,1,0.0215744,0.125694,0
+"V4 on R at 0.25, with N > Y",tau = 0.42,True,slack (V1 outcome),0.812385,0.812385,0.499979,1,0.0160488,0.0160701,0
+"V4 on R at 0.25, with N > Y",t_min = 0.20,True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224785,0.0235824,0
+"V4 on R at 0.25, with N > Y",t_min = 0.38,True,slack (V1 outcome),0.638303,0.638303,0.498896,1,0.0224785,0.0235824,0
+"V4 on R at 0.25, with N > Y",sigma_tau = 0.03,True,slack (V1 outcome),0.638303,0.638303,0.499901,1,0.0170289,0.0171282,0
+"V4 on R at 0.25, with N > Y",sigma_tau = 0.06,True,slack (V1 outcome),0.638303,0.638303,0.490723,1,0.0315921,0.0408694,0
+"V4 on R at 0.20, with N > Y",central,True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0228031,0.0228128,0
+"V4 on R at 0.20, with N > Y",kappa fixed,True,contested,0.624282,0.624282,0.499977,1,0.023319,0.0233419,0
+"V4 on R at 0.20, with N > Y",prior: beta (no type shift),True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0228031,0.0228128,0
+"V4 on R at 0.20, with N > Y",prior: zealot_vm (7.6),True,slack (V1 outcome),0.638303,0.638303,0.499994,1,0.012767,0.0127732,0
+"V4 on R at 0.20, with N > Y",A36 off (one floor),True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0228031,0.0228128,0
+"V4 on R at 0.20, with N > Y",t_bar = 1.00,True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0228063,0.0228163,0
+"V4 on R at 0.20, with N > Y",t_bar = 0.85,True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0227701,0.0227803,0
+"V4 on R at 0.20, with N > Y",a_B = 1.5,True,slack (V1 outcome),0.638303,0.638303,0.499993,1,0.0155448,0.0155517,0
+"V4 on R at 0.20, with N > Y",a_B = 5.0,True,slack (V1 outcome),0.638303,0.638303,0.499988,1,0.0297768,0.029789,0
+"V4 on R at 0.20, with N > Y",tau = 0.20,True,default demobilises,0.438002,0.3,0.535715,1,0.0783026,0.042588,0
+"V4 on R at 0.20, with N > Y",tau = 0.42,True,slack (V1 outcome),0.812385,0.812385,0.499979,1,0.0160488,0.01607,0
+"V4 on R at 0.20, with N > Y",t_min = 0.20,True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0228031,0.0228128,0
+"V4 on R at 0.20, with N > Y",t_min = 0.38,True,slack (V1 outcome),0.638303,0.638303,0.49999,1,0.0228031,0.0228128,0
+"V4 on R at 0.20, with N > Y",sigma_tau = 0.03,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0170611,0.0170611,0
+"V4 on R at 0.20, with N > Y",sigma_tau = 0.06,True,slack (V1 outcome),0.638303,0.638303,0.499038,1,0.0339698,0.0349316,0
+V1 (falls if No exceeds Yes),central,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0228065,0.0228062,0
+V1 (falls if No exceeds Yes),kappa fixed,True,contested,0.624282,0.624282,0.5,1,0.0233267,0.0233268,0
+V1 (falls if No exceeds Yes),prior: beta (no type shift),True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0228065,0.0228062,0
+V1 (falls if No exceeds Yes),prior: zealot_vm (7.6),True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.012769,0.0127688,0
+V1 (falls if No exceeds Yes),A36 off (one floor),True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0228065,0.0228062,0
+V1 (falls if No exceeds Yes),t_bar = 1.00,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0228097,0.0228097,0
+V1 (falls if No exceeds Yes),t_bar = 0.85,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0227735,0.0227737,0
+V1 (falls if No exceeds Yes),a_B = 1.5,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0155472,0.015547,0
+V1 (falls if No exceeds Yes),a_B = 5.0,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0297812,0.0297808,0
+V1 (falls if No exceeds Yes),tau = 0.20,True,slack (V1 outcome),0.38685,0.38685,0.5,1,0.0380406,0.0380406,0
+V1 (falls if No exceeds Yes),tau = 0.42,True,slack (V1 outcome),0.812385,0.812385,0.499979,1,0.0160488,0.01607,0
+V1 (falls if No exceeds Yes),t_min = 0.20,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0228065,0.0228062,0
+V1 (falls if No exceeds Yes),t_min = 0.38,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0228065,0.0228062,0
+V1 (falls if No exceeds Yes),sigma_tau = 0.03,True,slack (V1 outcome),0.638303,0.638303,0.5,1,0.0170611,0.0170611,0
+V1 (falls if No exceeds Yes),sigma_tau = 0.06,True,slack (V1 outcome),0.638303,0.638303,0.500009,1,0.0342786,0.03427,0
+V7 (stands only if Yes reaches 55%),central,True,contested,0.631691,0.631691,0.592079,1,0.0935006,0.00142136,0
+V7 (stands only if Yes reaches 55%),kappa fixed,True,contested,0.6179,0.6179,0.592031,1,0.0936107,0.00157999,0
+V7 (stands only if Yes reaches 55%),prior: beta (no type shift),True,contested,0.631691,0.631691,0.592079,1,0.0935006,0.00142136,0
+V7 (stands only if Yes reaches 55%),prior: zealot_vm (7.6),True,contested,0.641736,0.641736,0.55264,1,0.0533708,0.000731092,0
+V7 (stands only if Yes reaches 55%),A36 off (one floor),True,contested,0.631691,0.631691,0.592079,1,0.0935006,0.00142136,0
+V7 (stands only if Yes reaches 55%),t_bar = 1.00,True,contested,0.631691,0.631691,0.592079,1,0.0935012,0.00142215,0
+V7 (stands only if Yes reaches 55%),t_bar = 0.85,True,contested,0.631691,0.631691,0.59208,1,0.0934951,0.00141513,0
+V7 (stands only if Yes reaches 55%),a_B = 1.5,True,contested,0.634983,0.634983,0.563195,1,0.0641382,0.000942817,0
+V7 (stands only if Yes reaches 55%),a_B = 5.0,True,contested,0.627343,0.627343,0.619169,1,0.121092,0.00192291,0
+V7 (stands only if Yes reaches 55%),tau = 0.20,True,contested,0.384734,0.384734,0.590181,1,0.0993615,0.00918044,0
+V7 (stands only if Yes reaches 55%),tau = 0.42,True,contested,0.802986,0.802986,0.592603,1,0.0928887,0.000285418,0
+V7 (stands only if Yes reaches 55%),t_min = 0.20,True,contested,0.630528,0.630528,0.592075,1,0.0935092,0.00143398,0
+V7 (stands only if Yes reaches 55%),t_min = 0.38,True,contested,0.632807,0.632807,0.592083,1,0.0934923,0.00140927,0
+V7 (stands only if Yes reaches 55%),sigma_tau = 0.03,True,contested,0.631691,0.631691,0.592544,1,0.0928079,0.000264342,0
+V7 (stands only if Yes reaches 55%),sigma_tau = 0.06,True,contested,0.631691,0.631691,0.590724,1,0.0976135,0.00688933,0

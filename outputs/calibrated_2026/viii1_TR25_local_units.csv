@@ -1,0 +1,755 @@
+level,unit,E_u,R_u,rho_u,rule,proxy_multiplier,t0_u,feasible,regime,P_change,P_dec,C1p,C1R,C2
+municipality,Tiranë,647195,478120,1.35363,V3 at 1/3 of E_u (current law),1,0.638303,True,default demobilises,0.426642,0.426646,0,0.0733577,0
+municipality,Tiranë,647195,478120,1.35363,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0159124,0.0159124,0
+municipality,Tiranë,647195,478120,1.35363,V7 at 0.55,1,0.638303,True,contested,0.40738,1,0.000158357,0.0927782,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499999,0.999998,0.0159121,0.0159129,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499993,0.999986,0.0159098,0.0159169,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499953,0.999906,0.015897,0.0159443,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.49975,0.9995,0.0158346,0.0160845,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.498944,0.997888,0.0155925,0.0166486,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.668111,0.682263,0.168246,0.000135549,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.643624,0.651079,0.143973,0.000349676,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.618718,0.622409,0.119598,0.000880242,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.593374,0.595089,0.0954833,0.00210947,0
+municipality,Tiranë,647195,478120,1.35363,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.567577,0.568323,0.0722795,0.00470241,0
+municipality,Durrës,256353,122784,2.08785,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),5.20194e-10,1.04465e-09,0,0.5,0
+municipality,Durrës,256353,122784,2.08785,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0246364,0.0246368,0
+municipality,Durrës,256353,122784,2.08785,V7 at 0.55,1,0.638303,True,contested,0.408098,1,0.00202357,0.0939259,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499717,0.999436,0.0245421,0.0248247,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499253,0.998508,0.0243959,0.0251425,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498195,0.99639,0.0240948,0.0259002,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.496031,0.992062,0.0235301,0.0274995,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.492018,0.984039,0.022534,0.0305156,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.660195,0.691504,0.163,0.00280482,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.635893,0.656861,0.140364,0.00447113,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.610947,0.624527,0.117591,0.00664442,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.585162,0.593677,0.0957747,0.0106128,0
+municipality,Durrës,256353,122784,2.08785,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.55894,0.564123,0.0749607,0.0160202,0
+municipality,Elbasan,243487,125799,1.93553,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),2.36661e-09,4.69753e-09,0,0.5,0
+municipality,Elbasan,243487,125799,1.93553,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0228217,0.0228214,0
+municipality,Elbasan,243487,125799,1.93553,V7 at 0.55,1,0.638303,True,contested,0.407922,1,0.00142513,0.0935031,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499867,0.999733,0.0227794,0.0229125,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499596,0.999192,0.0226967,0.0231005,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498891,0.997782,0.0224923,0.0236013,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.497291,0.994581,0.0220576,0.0247667,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.494027,0.988053,0.0211852,0.0271577,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.662229,0.689825,0.164121,0.00189185,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.637904,0.655738,0.140888,0.00298395,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.612887,0.623989,0.118054,0.00516678,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.587287,0.593959,0.0957434,0.00845685,0
+municipality,Elbasan,243487,125799,1.93553,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.561022,0.564901,0.074233,0.0132106,0
+municipality,Fier,204288,96067.6,2.1265,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),3.73646e-10,7.41528e-10,0,0.5,0
+municipality,Fier,204288,96067.6,2.1265,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0250977,0.0250975,0
+municipality,Fier,204288,96067.6,2.1265,V7 at 0.55,1,0.638303,True,contested,0.408145,1,0.00219162,0.094047,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499664,0.999329,0.0249899,0.0253256,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499138,0.998277,0.0248184,0.0256801,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497985,0.995971,0.0244893,0.026504,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.495675,0.991351,0.0238899,0.0282144,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.491484,0.982968,0.0228619,0.0313782,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.659609,0.691849,0.162651,0.003042,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.635361,0.657146,0.140217,0.00485607,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.610376,0.624611,0.117558,0.00718199,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.584608,0.593623,0.0957764,0.0111679,0
+municipality,Fier,204288,96067.6,2.1265,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.5584,0.563944,0.0751414,0.0167415,0
+municipality,Vlorë,196493,74544.7,2.63591,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),6.56165e-13,1.77866e-12,0,0.5,0
+municipality,Vlorë,196493,74544.7,2.63591,V1,1,0.638303,True,slack (V1 outcome),0.499995,1,0.0311452,0.0311502,0
+municipality,Vlorë,196493,74544.7,2.63591,V7 at 0.55,1,0.638303,True,contested,0.408849,1,0.00502513,0.0961761,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.498189,0.996389,0.0306021,0.0324136,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.49658,0.993171,0.0301058,0.0335262,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.493847,0.987706,0.0294035,0.0355563,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.48947,0.978954,0.0283174,0.0388474,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.48293,0.965873,0.0266303,0.0437004,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.650689,0.695032,0.158775,0.00808552,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.626917,0.659738,0.137847,0.0109297,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.602202,0.625848,0.117044,0.0148418,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.576226,0.592831,0.0962224,0.0199961,0
+municipality,Vlorë,196493,74544.7,2.63591,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.549621,0.561005,0.0761346,0.0265134,0
+municipality,Shkodër,171668,81875.6,2.09669,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),4.82041e-10,9.65199e-10,0,0.5,0
+municipality,Shkodër,171668,81875.6,2.09669,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0247419,0.0247422,0
+municipality,Shkodër,171668,81875.6,2.09669,V7 at 0.55,1,0.638303,True,contested,0.408108,1,0.00206165,0.0939534,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499707,0.999415,0.024645,0.0249379,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499228,0.998456,0.0244918,0.0252643,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498147,0.996295,0.0241852,0.0260383,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.495949,0.9919,0.0236125,0.0276631,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.491897,0.983795,0.0226096,0.0307129,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.660063,0.691587,0.162922,0.00285892,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.635772,0.656926,0.140331,0.00455897,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.610817,0.624546,0.117568,0.00675144,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.585036,0.593664,0.0957753,0.0107396,0
+municipality,Shkodër,171668,81875.6,2.09669,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.558817,0.564081,0.0750022,0.016185,0
+municipality,Korçë,165549,73345,2.25713,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.15966e-10,2.34245e-10,0,0.5,0
+municipality,Korçë,165549,73345,2.25713,V1,1,0.638303,True,slack (V1 outcome),0.499999,1,0.026653,0.026654,0
+municipality,Korçë,165549,73345,2.25713,V7 at 0.55,1,0.638303,True,contested,0.408312,1,0.00281675,0.0945046,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499433,0.998868,0.0264775,0.0270443,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498686,0.997374,0.0262587,0.027573,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497166,0.994334,0.0258122,0.0286463,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.494339,0.988681,0.0250258,0.0306868,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.489497,0.978995,0.0238742,0.0343772,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.657541,0.692912,0.161556,0.0040154,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.633487,0.658053,0.139666,0.00617858,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.608401,0.624929,0.117495,0.00909342,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.582696,0.593486,0.095762,0.0130658,0
+municipality,Korçë,165549,73345,2.25713,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.556239,0.563096,0.075441,0.019202,0
+municipality,Lushnjë,154510,70351.6,2.19625,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),2.00251e-10,3.98565e-10,0,0.5,0
+municipality,Lushnjë,154510,70351.6,2.19625,V1,1,0.638303,True,slack (V1 outcome),0.500002,1,0.0259303,0.0259287,0
+municipality,Lushnjë,154510,70351.6,2.19625,V7 at 0.55,1,0.638303,True,contested,0.408233,1,0.00251387,0.0942811,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499554,0.999105,0.0257925,0.0262383,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498914,0.997825,0.0255948,0.0266803,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497578,0.995153,0.0251823,0.0276043,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.495005,0.990007,0.0245193,0.029514,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.49046,0.980915,0.0234086,0.0329485,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.658517,0.692424,0.161993,0.00347538,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.634381,0.657658,0.13994,0.00555817,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.609331,0.624775,0.117529,0.00819775,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.583596,0.593542,0.0957729,0.0121771,0
+municipality,Lushnjë,154510,70351.6,2.19625,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.557267,0.563496,0.0753185,0.018051,0
+municipality,Berat,133964,79233.3,1.69075,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),3.61457e-08,7.25678e-08,0,0.5,0
+municipality,Berat,133964,79233.3,1.69075,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0199087,0.0199087,0
+municipality,Berat,133964,79233.3,1.69075,V7 at 0.55,1,0.638303,True,contested,0.407669,1,0.00069891,0.0930297,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499973,0.999946,0.0198997,0.0199267,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499887,0.999774,0.0198728,0.0199858,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499594,0.999188,0.0197835,0.0201896,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.498747,0.997493,0.0195339,0.0207871,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.496635,0.99327,0.018967,0.0223319,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.665084,0.68683,0.165901,0.00081779,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.640643,0.653732,0.142218,0.00157574,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.61572,0.623263,0.118603,0.0028827,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.590193,0.594359,0.0952939,0.00510092,0
+municipality,Berat,133964,79233.3,1.69075,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.564201,0.566407,0.0733128,0.00911151,0
+municipality,Kamëz,107358,76841.8,1.39713,V3 at 1/3 of E_u (current law),1,0.638303,True,default demobilises,0.40001,0.400012,0,0.0999902,0
+municipality,Kamëz,107358,76841.8,1.39713,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0164271,0.0164271,0
+municipality,Kamëz,107358,76841.8,1.39713,V7 at 0.55,1,0.638303,True,contested,0.407414,1,0.000201031,0.0927874,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499999,0.999997,0.0164265,0.016428,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499989,0.999978,0.0164232,0.0164342,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499933,0.999865,0.0164055,0.0164729,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.499673,0.999347,0.0163255,0.0166523,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.498732,0.997464,0.0160328,0.0173009,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.667769,0.682852,0.167959,0.000189797,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.643287,0.651398,0.143753,0.000465761,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.618384,0.622497,0.119484,0.00110054,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.593019,0.594984,0.0954998,0.00248051,0
+municipality,Kamëz,107358,76841.8,1.39713,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.567182,0.568064,0.0724393,0.00525759,0
+municipality,Kavajë,102750,34032.7,3.01915,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Kavajë,102750,34032.7,3.01915,V1,1,0.638303,True,slack (V1 outcome),0.49999,1,0.035636,0.0356462,0
+municipality,Kavajë,102750,34032.7,3.01915,V7 at 0.55,1,0.638303,True,contested,0.409493,1,0.00778775,0.098295,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.495905,0.991831,0.0343493,0.0384439,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.49319,0.986406,0.0336742,0.0404843,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.489175,0.978373,0.032569,0.0433942,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.483335,0.966691,0.0310722,0.0477371,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.475393,0.950803,0.0293227,0.0539296,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.642341,0.695374,0.15563,0.0132888,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.61922,0.660405,0.136321,0.0171015,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.594502,0.625782,0.115814,0.0213112,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.568887,0.592102,0.0965965,0.0277094,0
+municipality,Kavajë,102750,34032.7,3.01915,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.542539,0.559405,0.0769011,0.0343624,0
+municipality,Lezhë,90791,41047.2,2.21187,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.73718e-10,3.47097e-10,0,0.5,0
+municipality,Lezhë,90791,41047.2,2.21187,V1,1,0.638303,True,slack (V1 outcome),0.500001,1,0.0261156,0.0261148,0
+municipality,Lezhë,90791,41047.2,2.21187,V7 at 0.55,1,0.638303,True,contested,0.408253,1,0.00259106,0.0943379,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499526,0.999049,0.0259687,0.0264431,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.49886,0.997717,0.0257651,0.0269054,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497483,0.994964,0.0253462,0.0278632,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.494841,0.98968,0.02465,0.0298088,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.490215,0.980427,0.0235287,0.0333135,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.658268,0.692549,0.161842,0.00357332,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.634155,0.657762,0.139871,0.00571662,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.609094,0.624814,0.117521,0.00842667,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.583366,0.593527,0.0957708,0.0124044,0
+municipality,Lezhë,90791,41047.2,2.21187,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.557005,0.563391,0.0753502,0.0183455,0
+municipality,Pogradec,77743,36823.2,2.11125,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),4.2592e-10,8.48569e-10,0,0.5,0
+municipality,Pogradec,77743,36823.2,2.11125,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0249156,0.0249157,0
+municipality,Pogradec,77743,36823.2,2.11125,V7 at 0.55,1,0.638303,True,contested,0.408126,1,0.002125,0.0939991,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499687,0.999374,0.0248137,0.0251266,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499184,0.998369,0.0246489,0.0254647,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498068,0.996137,0.024334,0.0262656,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.495816,0.991632,0.023748,0.0279322,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.491696,0.983394,0.022734,0.0310376,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.659843,0.691717,0.162791,0.00294816,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.635572,0.657033,0.140275,0.00470383,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.610602,0.624577,0.117564,0.00696142,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.584827,0.593643,0.095776,0.0109485,0
+municipality,Pogradec,77743,36823.2,2.11125,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.558614,0.564014,0.0750703,0.0164565,0
+municipality,Krujë,68028,40916.9,1.66259,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),5.17499e-08,1.03286e-07,0,0.5,0
+municipality,Krujë,68028,40916.9,1.66259,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0195741,0.0195742,0
+municipality,Krujë,68028,40916.9,1.66259,V7 at 0.55,1,0.638303,True,contested,0.407642,1,0.000632877,0.0929904,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499978,0.999957,0.0195671,0.0195888,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499905,0.99981,0.0195439,0.019639,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499647,0.999294,0.0194649,0.0198177,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.498874,0.997747,0.0192416,0.0203678,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.496877,0.993755,0.0187022,0.0218248,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.665372,0.686457,0.166107,0.000735153,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.640929,0.653504,0.14235,0.00142172,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.615996,0.623168,0.118624,0.00262728,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.590495,0.594411,0.0953125,0.0048176,0
+municipality,Krujë,68028,40916.9,1.66259,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.564552,0.566599,0.0732861,0.00873388,0
+municipality,Dibër,67457,40584.6,1.66213,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),5.20549e-08,1.03885e-07,0,0.5,0
+municipality,Dibër,67457,40584.6,1.66213,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0195687,0.0195687,0
+municipality,Dibër,67457,40584.6,1.66213,V7 at 0.55,1,0.638303,True,contested,0.407642,1,0.00063189,0.0929898,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499978,0.999957,0.0195616,0.0195833,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499905,0.99981,0.0195385,0.0196334,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499648,0.999296,0.0194597,0.0198117,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.498876,0.997751,0.0192368,0.0203611,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.496881,0.993763,0.0186978,0.0218166,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.665376,0.686451,0.16611,0.000733816,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.640933,0.6535,0.142352,0.00141922,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.616001,0.623167,0.118624,0.00262314,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.5905,0.594412,0.0953132,0.00481347,0
+municipality,Dibër,67457,40584.6,1.66213,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.564557,0.566601,0.0732847,0.00872776,0
+municipality,Librazhd,65980,33633.8,1.96172,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.81011e-09,3.59399e-09,0,0.5,0
+municipality,Librazhd,65980,33633.8,1.96172,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0231339,0.0231334,0
+municipality,Librazhd,65980,33633.8,1.96172,V7 at 0.55,1,0.638303,True,contested,0.407951,1,0.00151975,0.0935683,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499848,0.999696,0.0230854,0.023237,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499546,0.99909,0.0229931,0.0234474,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498786,0.997572,0.0227755,0.0239893,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.497096,0.994191,0.0223172,0.0252214,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.493695,0.987389,0.0214256,0.0277306,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.661891,0.690118,0.163937,0.00204633,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.637571,0.65594,0.140807,0.00323623,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.612567,0.62408,0.117984,0.00541784,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.586928,0.593902,0.0957516,0.00882394,0
+municipality,Librazhd,65980,33633.8,1.96172,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.56067,0.564759,0.0743599,0.0136899,0
+municipality,Kurbin,62370,27499.8,2.26802,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.05579e-10,2.13612e-10,0,0.5,0
+municipality,Kurbin,62370,27499.8,2.26802,V1,1,0.638303,True,slack (V1 outcome),0.499999,1,0.0267825,0.0267837,0
+municipality,Kurbin,62370,27499.8,2.26802,V7 at 0.55,1,0.638303,True,contested,0.408326,1,0.00287152,0.0945457,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499409,0.99882,0.0265999,0.0271909,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498639,0.997282,0.0263756,0.0277361,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497087,0.994178,0.025924,0.0288365,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.494216,0.988436,0.0251154,0.0308993,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.489323,0.978648,0.0239572,0.0346342,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.657364,0.692999,0.161493,0.00412837,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.633325,0.658124,0.139615,0.00629032,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.608234,0.624958,0.117488,0.00925456,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.582534,0.593478,0.0957594,0.0132255,0
+municipality,Kurbin,62370,27499.8,2.26802,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.556054,0.563027,0.0754626,0.0194088,0
+municipality,Kukës,50754,28874.6,1.75774,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.65169e-08,3.28979e-08,0,0.5,0
+municipality,Kukës,50754,28874.6,1.75774,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0207051,0.020705,0
+municipality,Kukës,50754,28874.6,1.75774,V7 at 0.55,1,0.638303,True,contested,0.407735,1,0.000867525,0.0931327,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499956,0.999911,0.0206898,0.0207339,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499832,0.999663,0.0206489,0.0208171,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499451,0.998902,0.0205297,0.0210786,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.49841,0.99682,0.0202214,0.0218113,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.495988,0.991976,0.0195527,0.0235644,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.664368,0.687691,0.165385,0.0010172,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.639946,0.65429,0.141892,0.00194657,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.614976,0.623435,0.118472,0.00349638,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.589461,0.594254,0.0954668,0.0060056,0
+municipality,Kukës,50754,28874.6,1.75774,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.563352,0.565964,0.0733685,0.0100163,0
+municipality,Gjirokastër,50599,20809.6,2.43152,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),2.89675e-11,5.74611e-11,0,0.5,0
+municipality,Gjirokastër,50599,20809.6,2.43152,V1,1,0.638303,True,slack (V1 outcome),0.500002,1,0.0287303,0.0287282,0
+municipality,Gjirokastër,50599,20809.6,2.43152,V7 at 0.55,1,0.638303,True,contested,0.408548,1,0.00376293,0.0952154,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.498979,0.997954,0.0283944,0.029415,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.497865,0.995725,0.0280881,0.0302228,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.495819,0.991631,0.0275437,0.0317248,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.492289,0.984573,0.0265749,0.0342854,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.486641,0.973276,0.0251416,0.0385006,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.654609,0.694189,0.160464,0.00585444,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.630614,0.658975,0.138607,0.0079934,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.605632,0.625362,0.117337,0.0117046,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.579951,0.593306,0.0959265,0.0159755,0
+municipality,Gjirokastër,50599,20809.6,2.43152,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.553237,0.562053,0.0757757,0.0225387,0
+municipality,Kuçovë,47250,24839.6,1.9022,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),3.29404e-09,6.59357e-09,0,0.5,0
+municipality,Kuçovë,47250,24839.6,1.9022,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0224245,0.0224244,0
+municipality,Kuçovë,47250,24839.6,1.9022,V7 at 0.55,1,0.638303,True,contested,0.407885,1,0.00130793,0.0934225,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499889,0.999779,0.0223892,0.0224999,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499651,0.999303,0.0223174,0.0226662,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499019,0.998038,0.0221279,0.0231085,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.497521,0.995044,0.0217152,0.0241938,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.494421,0.988841,0.0208788,0.0264577,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.662653,0.689451,0.16435,0.0016968,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.638323,0.655485,0.141091,0.0027676,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.613291,0.623875,0.11814,0.00484914,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.58774,0.594037,0.0957315,0.00799193,0
+municipality,Kuçovë,47250,24839.6,1.9022,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.561467,0.565088,0.0740705,0.012603,0
+municipality,Mat,47199,23640.9,1.9965,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.26039e-09,2.51968e-09,0,0.5,0
+municipality,Mat,47199,23640.9,1.9965,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0235479,0.023548,0
+municipality,Mat,47199,23640.9,1.9965,V7 at 0.55,1,0.638303,True,contested,0.407991,1,0.00165007,0.0936587,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499817,0.999633,0.0234876,0.0236711,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499473,0.998946,0.0233852,0.0239122,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498642,0.997284,0.0231499,0.024508,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.496828,0.993656,0.0226552,0.0258267,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.493239,0.986478,0.0217342,0.0284954,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.661436,0.690506,0.163689,0.00225312,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.637119,0.656198,0.140692,0.00357352,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.612135,0.624206,0.117889,0.00575325,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.586447,0.593832,0.0957607,0.00931385,0
+municipality,Mat,47199,23640.9,1.9965,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.560198,0.564575,0.0745273,0.014329,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.77975e-13,5.52979e-13,0,0.5,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,V1,1,0.638303,True,slack (V1 outcome),0.499995,1,0.0314109,0.0314163,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,V7 at 0.55,1,0.638303,True,contested,0.408883,1,0.00517489,0.096292,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.498083,0.996179,0.0308377,0.0327545,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.496408,0.992829,0.0303314,0.033923,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.493612,0.987237,0.0295989,0.0359866,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.489144,0.978303,0.0285008,0.0393565,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.482503,0.965019,0.0268025,0.0442997,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.65023,0.695103,0.158566,0.00833572,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.626496,0.659812,0.137782,0.0112852,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.601812,0.625897,0.117004,0.0151918,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.575807,0.592781,0.0962503,0.0204436,0
+municipality,Malësi e Madhe,46075,17331.7,2.65842,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.549217,0.560901,0.0761719,0.0269547,0
+municipality,Sarandë,43308,18074.9,2.39604,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),3.95492e-11,7.77902e-11,0,0.5,0
+municipality,Sarandë,43308,18074.9,2.39604,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0283068,0.0283068,0
+municipality,Sarandë,43308,18074.9,2.39604,V7 at 0.55,1,0.638303,True,contested,0.408497,1,0.00355688,0.0950599,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499092,0.998184,0.0280154,0.0289237,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498056,0.996111,0.0277283,0.0296723,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.496113,0.992224,0.027204,0.0310911,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.492724,0.985446,0.0262555,0.0335318,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.48723,0.97446,0.024891,0.0376609,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.655237,0.693986,0.160712,0.00547515,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.631222,0.658799,0.138841,0.00761983,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.606207,0.625272,0.117375,0.0111681,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.580584,0.593401,0.0958699,0.0152859,0
+municipality,Sarandë,43308,18074.9,2.39604,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.553854,0.562253,0.0757095,0.0218553,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,V1,1,0.638303,True,slack (V1 outcome),0.499997,1,0.0321152,0.0321183,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,V7 at 0.55,1,0.638303,True,contested,0.408976,1,0.00557687,0.0966013,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.497795,0.995595,0.0314532,0.0336578,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.49594,0.991886,0.030919,0.0349789,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.492937,0.985878,0.0300702,0.0371335,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.488277,0.976558,0.0289779,0.040701,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.481369,0.962743,0.0272532,0.0458845,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.649003,0.695282,0.158005,0.0090017,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.625373,0.660005,0.137604,0.0122307,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.60065,0.625903,0.116772,0.0161219,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.57469,0.592658,0.0963217,0.0216318,0
+municipality,Vau-Dejës,41843,15394.8,2.71799,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.548142,0.560633,0.0762678,0.0281256,0
+municipality,Shijak,37688,17631.2,2.13758,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),3.39245e-10,6.72135e-10,0,0.5,0
+municipality,Shijak,37688,17631.2,2.13758,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0252299,0.0252295,0
+municipality,Shijak,37688,17631.2,2.13758,V7 at 0.55,1,0.638303,True,contested,0.408158,1,0.00224006,0.0940817,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499648,0.999295,0.0251179,0.0254701,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499105,0.998209,0.0249428,0.0258381,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497922,0.995843,0.0245991,0.0266771,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.495573,0.991146,0.0239928,0.0284195,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.491324,0.982647,0.0229494,0.0316257,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.659438,0.691941,0.162548,0.00311035,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.635208,0.657228,0.140175,0.00496692,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.610212,0.624637,0.117554,0.00734252,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.584449,0.593609,0.0957764,0.0113275,0
+municipality,Shijak,37688,17631.2,2.13758,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.558244,0.563894,0.0751929,0.0169487,0
+municipality,Mallakastër,36773,12659.1,2.90487,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Mallakastër,36773,12659.1,2.90487,V1,1,0.638303,True,slack (V1 outcome),0.500008,1,0.0343188,0.034311,0
+municipality,Mallakastër,36773,12659.1,2.90487,V7 at 0.55,1,0.638303,True,contested,0.409303,1,0.00692057,0.0976177,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.496705,0.993398,0.0332931,0.0365876,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.494344,0.988674,0.0326882,0.038344,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.490677,0.981339,0.0316213,0.0409438,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.485278,0.970541,0.0303277,0.0450494,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.477727,0.955432,0.0285847,0.0508576,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.644946,0.695469,0.15633,0.0113849,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.6217,0.660419,0.136937,0.0152374,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.596889,0.625883,0.11596,0.0190708,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.571123,0.592314,0.0965147,0.0253913,0
+municipality,Mallakastër,36773,12659.1,2.90487,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.544722,0.559874,0.0765428,0.0318209,0
+municipality,Devoll,36222,20699.2,1.74992,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.80198e-08,3.5968e-08,0,0.5,0
+municipality,Devoll,36222,20699.2,1.74992,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0206122,0.0206121,0
+municipality,Devoll,36222,20699.2,1.74992,V7 at 0.55,1,0.638303,True,contested,0.407727,1,0.000846251,0.0931193,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499958,0.999916,0.0205977,0.0206397,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499839,0.999678,0.0205586,0.0207195,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.49947,0.998941,0.0204445,0.020974,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.498452,0.996905,0.0201434,0.0216913,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.496069,0.992137,0.0194855,0.0234167,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.664455,0.687592,0.165449,0.000993728,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.640028,0.654224,0.141931,0.00190298,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.615064,0.623414,0.118488,0.00342434,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.589548,0.594265,0.0954471,0.00589952,0
+municipality,Devoll,36222,20699.2,1.74992,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.563452,0.566014,0.0733624,0.00991028,0
+municipality,Bulqizë,34372,21442.3,1.603,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.09583e-07,2.19441e-07,0,0.5,0
+municipality,Bulqizë,34372,21442.3,1.603,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0188667,0.0188667,0
+municipality,Bulqizë,34372,21442.3,1.603,V7 at 0.55,1,0.638303,True,contested,0.407587,1,0.000509644,0.0929222,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499987,0.999974,0.0188621,0.0188751,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499937,0.999874,0.0188461,0.0189092,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499742,0.999483,0.0187869,0.0190454,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.499106,0.998212,0.0186025,0.0194966,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.497376,0.994752,0.0181356,0.0207599,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.665957,0.685648,0.166519,0.000562661,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.641517,0.653025,0.142617,0.00109952,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.616567,0.622982,0.118743,0.00217609,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.591123,0.594536,0.0954048,0.0042821,0
+municipality,Bulqizë,34372,21442.3,1.603,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.565167,0.566901,0.0731075,0.00794037,0
+municipality,Finiq,33374,9122.49,3.65843,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Finiq,33374,9122.49,3.65843,V1,1,0.638303,True,slack (V1 outcome),0.49997,1,0.0429565,0.0429866,0
+municipality,Finiq,33374,9122.49,3.65843,V7 at 0.55,1,0.638303,True,contested,0.410765,1,0.013281,0.102516,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.489704,0.979457,0.0397432,0.050039,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.485134,0.970328,0.0385389,0.0534046,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.479164,0.958401,0.0369342,0.0577701,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.47147,0.942993,0.0351018,0.0636316,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.461808,0.923664,0.0327563,0.0709481,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.626035,0.692603,0.150225,0.0241894,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.603903,0.658628,0.132489,0.0285863,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.580429,0.624645,0.115111,0.0346815,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.555123,0.590218,0.0958653,0.0407426,0
+municipality,Finiq,33374,9122.49,3.65843,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.528727,0.556076,0.0778986,0.0491718,0
+municipality,Peqin,33242,13252,2.50846,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.38017e-11,2.76242e-11,0,0.5,0
+municipality,Peqin,33242,13252,2.50846,V1,1,0.638303,True,slack (V1 outcome),0.500003,1,0.0296442,0.0296412,0
+municipality,Peqin,33242,13252,2.50846,V7 at 0.55,1,0.638303,True,contested,0.408663,1,0.00421916,0.0955563,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.498721,0.997435,0.0292427,0.0305218,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.497423,0.994839,0.0288593,0.0314367,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.495113,0.990221,0.0282708,0.033158,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.491285,0.982565,0.0272564,0.0359713,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.485315,0.970625,0.0256624,0.040347,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.653206,0.69456,0.159892,0.00668527,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.629259,0.659308,0.138197,0.00893742,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.604368,0.62556,0.117245,0.0128764,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.578564,0.593113,0.0960435,0.0174796,0
+municipality,Peqin,33242,13252,2.50846,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.551888,0.561637,0.0759153,0.0240275,0
+municipality,Tepelenë,32334,10661.5,3.03279,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Tepelenë,32334,10661.5,3.03279,V1,1,0.638303,True,slack (V1 outcome),0.499988,1,0.0357938,0.0358055,0
+municipality,Tepelenë,32334,10661.5,3.03279,V7 at 0.55,1,0.638303,True,contested,0.409515,1,0.00789313,0.0983782,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.495792,0.991608,0.0344788,0.0386863,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.493048,0.986123,0.0337873,0.0407395,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.488976,0.977979,0.0326774,0.0437019,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.483098,0.96622,0.0311582,0.0480606,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.475106,0.950233,0.0294108,0.0543049,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.642025,0.695354,0.155542,0.0135175,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.61891,0.660393,0.136235,0.017325,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.594215,0.625769,0.115809,0.021594,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.568618,0.592076,0.0966044,0.0279868,0
+municipality,Tepelenë,32334,10661.5,3.03279,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.542248,0.559322,0.0769264,0.0346787,0
+municipality,Mirditë,31946,10890.3,2.93344,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Mirditë,31946,10890.3,2.93344,V1,1,0.638303,True,slack (V1 outcome),0.500002,1,0.0346472,0.0346452,0
+municipality,Mirditë,31946,10890.3,2.93344,V7 at 0.55,1,0.638303,True,contested,0.409357,1,0.00713714,0.0977797,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.496511,0.993022,0.0335549,0.0370434,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.494064,0.988127,0.0329425,0.0388789,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.490309,0.980613,0.031859,0.0415503,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.4848,0.969598,0.030523,0.0457228,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.477157,0.954301,0.0287692,0.0516126,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.644299,0.695448,0.156157,0.0118587,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.621115,0.660446,0.136817,0.0157018,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.596295,0.625856,0.115835,0.0195395,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.570569,0.592263,0.0965384,0.0259697,0
+municipality,Mirditë,31946,10890.3,2.93344,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.544193,0.559768,0.0765815,0.0323881,0
+municipality,Gramsh,31024,13215.2,2.3476,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),5.67446e-11,1.13264e-10,0,0.5,0
+municipality,Gramsh,31024,13215.2,2.3476,V1,1,0.638303,True,slack (V1 outcome),0.499999,1,0.0277295,0.027731,0
+municipality,Gramsh,31024,13215.2,2.3476,V7 at 0.55,1,0.638303,True,contested,0.40843,1,0.00328744,0.0948574,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499222,0.998448,0.0274866,0.0282642,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.49829,0.996583,0.0272255,0.0289358,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.496496,0.992996,0.0267308,0.0302346,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.49331,0.986623,0.0258178,0.0325075,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.488033,0.97607,0.0245482,0.036515,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.656057,0.693633,0.161019,0.00496161,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.632043,0.658561,0.139156,0.00711343,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.606983,0.625154,0.117423,0.01044,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.581334,0.59343,0.095734,0.0143996,0
+municipality,Gramsh,31024,13215.2,2.3476,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.554691,0.562536,0.0756176,0.0209262,0
+municipality,Vorë,30960,17282,1.79146,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.12332e-08,2.23411e-08,0,0.5,0
+municipality,Vorë,30960,17282,1.79146,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0211061,0.0211061,0
+municipality,Vorë,30960,17282,1.79146,V7 at 0.55,1,0.638303,True,contested,0.407769,1,0.000961992,0.0931931,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499944,0.999888,0.0210863,0.0211422,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499798,0.999596,0.0210371,0.0212389,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499361,0.998722,0.020896,0.0215351,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.498228,0.996455,0.0205575,0.0223298,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.495639,0.991278,0.019842,0.0242032,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.663983,0.688112,0.165102,0.0011191,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.639586,0.654577,0.141721,0.00213563,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.614591,0.623528,0.1184,0.0038086,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.589086,0.594212,0.0955506,0.00646499,0
+municipality,Vorë,30960,17282,1.79146,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.562919,0.565749,0.0735218,0.010603,0
+municipality,Përmet,28002,9895.46,2.82978,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Përmet,28002,9895.46,2.82978,V1,1,0.638303,True,slack (V1 outcome),0.50001,1,0.0334416,0.0334314,0
+municipality,Përmet,28002,9895.46,2.82978,V7 at 0.55,1,0.638303,True,contested,0.409165,1,0.00636156,0.097197,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.497178,0.994334,0.0325739,0.0353961,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.495038,0.990051,0.0320019,0.0369642,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.491618,0.983214,0.0309649,0.0393465,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.486521,0.973018,0.0297973,0.0432759,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.479217,0.958413,0.0280828,0.0488656,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.646629,0.695505,0.156894,0.0102652,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.62322,0.660335,0.137242,0.0140224,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.598421,0.625911,0.116302,0.0178808,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.572567,0.592443,0.0964422,0.0238753,0
+municipality,Përmet,28002,9895.46,2.82978,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.546104,0.560164,0.0764366,0.0303326,0
+municipality,Roskovec,26959,13054,2.06519,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),6.36884e-10,1.28543e-09,0,0.5,0
+municipality,Roskovec,26959,13054,2.06519,V1,1,0.638303,True,slack (V1 outcome),0.499999,1,0.0243662,0.0243667,0
+municipality,Roskovec,26959,13054,2.06519,V7 at 0.55,1,0.638303,True,contested,0.408071,1,0.00192712,0.0938564,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499744,0.999489,0.0242789,0.0245349,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499316,0.998633,0.0241504,0.0248346,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498316,0.996633,0.0238631,0.0255471,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.496237,0.992476,0.0233191,0.027082,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.492325,0.984653,0.0223368,0.0300113,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.660518,0.691269,0.163185,0.00266683,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.636201,0.656696,0.140448,0.0042469,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.611268,0.624468,0.11769,0.006422,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.585484,0.593711,0.0957725,0.010289,0
+municipality,Roskovec,26959,13054,2.06519,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.559255,0.564231,0.074854,0.015599,0
+municipality,Pukë,24343,8871.79,2.74386,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Pukë,24343,8871.79,2.74386,V1,1,0.638303,True,slack (V1 outcome),0.499999,1,0.0324215,0.0324225,0
+municipality,Pukë,24343,8871.79,2.74386,V7 at 0.55,1,0.638303,True,contested,0.409018,1,0.00575368,0.0967361,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.497663,0.995325,0.0317184,0.0340558,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.495736,0.991472,0.0311737,0.035438,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.492632,0.985264,0.0302739,0.0376419,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.487882,0.975761,0.0291688,0.0412871,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.480872,0.961747,0.027448,0.0465756,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.648467,0.695359,0.157759,0.00929259,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.624881,0.660088,0.137524,0.0126434,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.600137,0.625903,0.116665,0.0165275,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.574202,0.592606,0.0963512,0.0221494,0
+municipality,Pukë,24343,8871.79,2.74386,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.547673,0.560521,0.0763081,0.0286353,0
+municipality,Tropojë,24112,11340.9,2.1261,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),3.74936e-10,7.44145e-10,0,0.5,0
+municipality,Tropojë,24112,11340.9,2.1261,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0250929,0.0250928,0
+municipality,Tropojë,24112,11340.9,2.1261,V7 at 0.55,1,0.638303,True,contested,0.408144,1,0.00218988,0.0940458,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499665,0.99933,0.0249853,0.0253204,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.49914,0.998279,0.024814,0.0256744,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497988,0.995975,0.0244854,0.0264977,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.495679,0.991358,0.0238862,0.0282071,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.491489,0.982979,0.0228587,0.0313694,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.659615,0.691846,0.162655,0.00303955,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.635367,0.657143,0.140219,0.00485209,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.610382,0.62461,0.117559,0.00717623,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.584614,0.593623,0.0957764,0.0111621,0
+municipality,Tropojë,24112,11340.9,2.1261,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.558406,0.563946,0.0751395,0.016734,0
+municipality,Himarë,23114,6656.33,3.47248,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Himarë,23114,6656.33,3.47248,V1,1,0.638303,True,slack (V1 outcome),0.50001,1,0.0408775,0.0408673,0
+municipality,Himarë,23114,6656.33,3.47248,V7 at 0.55,1,0.638303,True,contested,0.41042,1,0.0116035,0.101183,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.491794,0.983568,0.0383917,0.0465978,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.487815,0.975616,0.0372172,0.0494023,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.482302,0.964582,0.0358532,0.0535516,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.475028,0.95003,0.0339704,0.0589422,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.465828,0.93163,0.0319366,0.0661087,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.631112,0.693946,0.152112,0.0209997,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.608518,0.659414,0.133117,0.0245989,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.584635,0.625099,0.115421,0.0307859,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.559425,0.590993,0.0963867,0.0369622,0
+municipality,Himarë,23114,6656.33,3.47248,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.532769,0.556943,0.0776525,0.0448833,0
+municipality,Dropull,19766,6601.62,2.99412,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Dropull,19766,6601.62,2.99412,V1,1,0.638303,True,slack (V1 outcome),0.499993,1,0.0353465,0.0353538,0
+municipality,Dropull,19766,6601.62,2.99412,V7 at 0.55,1,0.638303,True,contested,0.409452,1,0.0075955,0.098143,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.496093,0.992204,0.0341105,0.038017,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.493445,0.986909,0.0334605,0.0400156,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.489522,0.979059,0.0323643,0.0428423,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.483764,0.967544,0.030914,0.0471499,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.47592,0.951849,0.0291609,0.0532408,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.642915,0.695398,0.155785,0.0128698,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.619787,0.660427,0.136478,0.0166917,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.595028,0.625802,0.11582,0.0207927,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.569381,0.59215,0.0965817,0.0272006,0
+municipality,Dropull,19766,6601.62,2.99412,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.543065,0.559551,0.0768477,0.0337822,0
+municipality,Has,18156,9339.36,1.94403,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),2.17091e-09,4.30685e-09,0,0.5,0
+municipality,Has,18156,9339.36,1.94403,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0229232,0.0229227,0
+municipality,Has,18156,9339.36,1.94403,V7 at 0.55,1,0.638303,True,contested,0.407932,1,0.0014557,0.0935241,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499861,0.999722,0.022879,0.0230179,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499581,0.999161,0.022793,0.0232121,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498857,0.997714,0.0225844,0.0237272,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.49723,0.994459,0.0221441,0.0249141,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.493921,0.98784,0.0212634,0.0273425,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.662119,0.68992,0.164061,0.00194189,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.637796,0.655803,0.140862,0.00306571,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.612784,0.624018,0.118032,0.00524816,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.58717,0.59394,0.0957462,0.00857588,0
+municipality,Has,18156,9339.36,1.94403,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.560908,0.564855,0.0742743,0.0133661,0
+municipality,Kolonjë,17022,6009.7,2.83242,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Kolonjë,17022,6009.7,2.83242,V1,1,0.638303,True,slack (V1 outcome),0.500011,1,0.0334729,0.0334623,0
+municipality,Kolonjë,17022,6009.7,2.83242,V7 at 0.55,1,0.638303,True,contested,0.409169,1,0.00638052,0.0972112,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.497162,0.994303,0.0326001,0.0354377,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.495014,0.990003,0.0320266,0.0370122,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.491587,0.98315,0.0309894,0.0394027,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.486478,0.972931,0.0298166,0.0433383,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.479165,0.958308,0.0281011,0.0489358,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.646571,0.695506,0.156866,0.0102952,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.623167,0.66034,0.137232,0.0140649,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.598368,0.62591,0.11629,0.0179225,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.572516,0.592438,0.0964449,0.0239285,0
+municipality,Kolonjë,17022,6009.7,2.83242,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.546056,0.560153,0.0764405,0.0303848,0
+municipality,Skrapar,16298,8592.25,1.89683,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),3.47475e-09,6.96727e-09,0,0.5,0
+municipality,Skrapar,16298,8592.25,1.89683,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0223604,0.0223604,0
+municipality,Skrapar,16298,8592.25,1.89683,V7 at 0.55,1,0.638303,True,contested,0.40788,1,0.00128971,0.0934102,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499893,0.999785,0.0223262,0.0224334,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499659,0.999319,0.0222556,0.0225962,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.49904,0.998079,0.0220687,0.023029,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.497558,0.995116,0.0216594,0.0241015,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.494483,0.988965,0.0208293,0.0263463,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.662721,0.689391,0.164386,0.00166549,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.63839,0.655444,0.141127,0.00273653,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.613355,0.623857,0.118153,0.00479809,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.587812,0.59405,0.0957294,0.00791716,0
+municipality,Skrapar,16298,8592.25,1.89683,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.561539,0.565118,0.0740441,0.0125053,0
+municipality,Delvinë,15448,4928.33,3.13453,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Delvinë,15448,4928.33,3.13453,V1,1,0.638303,True,slack (V1 outcome),0.499988,1,0.036974,0.0369864,0
+municipality,Delvinë,15448,4928.33,3.13453,V7 at 0.55,1,0.638303,True,contested,0.409691,1,0.00869687,0.0990057,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.49496,0.989942,0.0354444,0.040484,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.491947,0.983916,0.0346135,0.0426664,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.487491,0.975012,0.0334732,0.0459824,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.481331,0.962693,0.0317912,0.0504606,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.472962,0.945955,0.0300462,0.0570846,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.639654,0.695204,0.154886,0.0152318,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.616574,0.660263,0.135573,0.0189984,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.592056,0.625673,0.115765,0.0237096,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.566598,0.591898,0.0966573,0.0300598,0
+municipality,Delvinë,15448,4928.33,3.13453,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.54007,0.558724,0.0771102,0.0370401,0
+municipality,Konispol,15157,3914.61,3.8719,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Konispol,15157,3914.61,3.8719,V1,1,0.638303,True,slack (V1 outcome),0.499985,1,0.045375,0.04539,0
+municipality,Konispol,15157,3914.61,3.8719,V7 at 0.55,1,0.638303,True,contested,0.411248,1,0.0153135,0.104066,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.487128,0.974295,0.0412201,0.0540919,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.482024,0.964066,0.0400081,0.0579842,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.475522,0.951065,0.0380203,0.062498,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.467335,0.934723,0.0363176,0.0689821,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.45723,0.91448,0.0336457,0.0764152,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.620164,0.691016,0.148002,0.0278378,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.598568,0.657705,0.131745,0.0331771,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.575235,0.623763,0.114365,0.0391295,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.550137,0.589291,0.0951785,0.0450419,0
+municipality,Konispol,15157,3914.61,3.8719,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.524076,0.555144,0.0781222,0.0540463,0
+municipality,Pustec,4436,1473.33,3.01087,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+municipality,Pustec,4436,1473.33,3.01087,V1,1,0.638303,True,slack (V1 outcome),0.499991,1,0.0355403,0.0355495,0
+municipality,Pustec,4436,1473.33,3.01087,V7 at 0.55,1,0.638303,True,contested,0.409479,1,0.00772386,0.0982445,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.495972,0.991963,0.0342708,0.0382988,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.493274,0.986572,0.0336036,0.0403294,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.489296,0.978612,0.0325032,0.0432074,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.483477,0.966973,0.0310199,0.047543,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.475567,0.951149,0.0292692,0.0537017,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.642531,0.695383,0.155682,0.0131502,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.619407,0.660412,0.136373,0.0169659,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.594676,0.625788,0.115816,0.0211397,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.569051,0.592118,0.0965917,0.0275412,0
+municipality,Pustec,4436,1473.33,3.01087,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.542715,0.559455,0.0768855,0.0341706,0
+qark,Berat,197512,112665,1.75309,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.73967e-08,3.46919e-08,0,0.5,0
+qark,Berat,197512,112665,1.75309,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0206498,0.0206497,0
+qark,Berat,197512,112665,1.75309,V7 at 0.55,1,0.638303,True,contested,0.40773,1,0.000854864,0.0931247,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499957,0.999914,0.020635,0.0206779,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499836,0.999672,0.0205951,0.020759,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499463,0.998925,0.0204791,0.0210163,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.498435,0.99687,0.020175,0.0217399,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.496036,0.992072,0.0195127,0.0234765,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.664421,0.687633,0.165424,0.00100323,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.639995,0.65425,0.141915,0.00192062,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.615028,0.623423,0.118482,0.0034535,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.589513,0.594261,0.0954551,0.00594246,0
+qark,Berat,197512,112665,1.75309,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.563412,0.565994,0.0733649,0.0099532,0
+qark,Dibër,149028,85667.8,1.7396,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),2.02174e-08,4.04818e-08,0,0.5,0
+qark,Dibër,149028,85667.8,1.7396,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0204894,0.0204894,0
+qark,Dibër,149028,85667.8,1.7396,V7 at 0.55,1,0.638303,True,contested,0.407717,1,0.000819418,0.0931027,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499961,0.999922,0.0204761,0.0205152,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499849,0.999697,0.0204393,0.0205907,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499493,0.998985,0.0203296,0.020837,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.498505,0.997011,0.0200383,0.0215329,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.496175,0.992349,0.0193967,0.0232217,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.664566,0.687459,0.165529,0.000962816,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.640137,0.654137,0.141982,0.00184555,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.61518,0.623387,0.11851,0.00332939,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.589661,0.59428,0.0954208,0.00575965,0
+qark,Dibër,149028,85667.8,1.7396,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.563584,0.566081,0.0733541,0.00977044,0
+qark,Durrës,362069,181332,1.99672,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.25747e-09,2.51397e-09,0,0.5,0
+qark,Durrës,362069,181332,1.99672,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0235505,0.0235506,0
+qark,Durrës,362069,181332,1.99672,V7 at 0.55,1,0.638303,True,contested,0.407992,1,0.00165093,0.0936593,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499816,0.999633,0.0234902,0.0236739,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499472,0.998945,0.0233877,0.0239152,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498641,0.997283,0.0231522,0.0245113,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.496827,0.993652,0.0226573,0.0258306,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.493236,0.986472,0.0217362,0.0285004,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.661433,0.690508,0.163688,0.00225446,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.637116,0.6562,0.140691,0.00357569,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.612133,0.624207,0.117888,0.00575541,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.586444,0.593832,0.0957608,0.00931701,0
+qark,Durrës,362069,181332,1.99672,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.560195,0.564574,0.0745284,0.0143331,0
+qark,Elbasan,373733,185900,2.0104,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.09142e-09,2.1897e-09,0,0.5,0
+qark,Elbasan,373733,185900,2.0104,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0237134,0.0237137,0
+qark,Elbasan,373733,185900,2.0104,V7 at 0.55,1,0.638303,True,contested,0.408007,1,0.0017034,0.0936961,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499802,0.999605,0.023648,0.0238456,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499442,0.998885,0.0235403,0.0240983,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.498583,0.997166,0.0232981,0.0247156,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.496712,0.993423,0.0227899,0.0260779,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.493055,0.98611,0.0218563,0.0288017,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.661252,0.69066,0.163589,0.00233627,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.636935,0.656299,0.140644,0.00370901,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.611962,0.624258,0.117849,0.0058879,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.586253,0.593806,0.0957638,0.00951037,0
+qark,Elbasan,373733,185900,2.0104,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.560009,0.564504,0.0745938,0.0145851,0
+qark,Fier,422530,192132,2.19916,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),1.95018e-10,3.88412e-10,0,0.5,0
+qark,Fier,422530,192132,2.19916,V1,1,0.638303,True,slack (V1 outcome),0.500001,1,0.0259648,0.0259634,0
+qark,Fier,422530,192132,2.19916,V7 at 0.55,1,0.638303,True,contested,0.408237,1,0.00252824,0.0942917,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499549,0.999095,0.0258256,0.0262764,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498904,0.997805,0.0256265,0.0267222,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.49756,0.995118,0.0252128,0.0276525,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.494975,0.989946,0.0245437,0.0295688,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.490416,0.980827,0.023431,0.0330153,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.658471,0.692447,0.161965,0.00349359,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.634339,0.657677,0.139927,0.00558764,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.609287,0.624782,0.117527,0.00824033,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.583553,0.593539,0.0957725,0.0122194,0
+qark,Fier,422530,192132,2.19916,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.557219,0.563476,0.0753244,0.0181058,0
+qark,Gjirokastër,130701,47968.2,2.72474,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+qark,Gjirokastër,130701,47968.2,2.72474,V1,1,0.638303,True,slack (V1 outcome),0.499997,1,0.0321951,0.0321977,0
+qark,Gjirokastër,130701,47968.2,2.72474,V7 at 0.55,1,0.638303,True,contested,0.408986,1,0.00562298,0.0966367,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.497761,0.995526,0.0315229,0.0337617,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.495887,0.991778,0.0309855,0.0350987,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.492857,0.985718,0.0301234,0.0372662,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.488176,0.976354,0.0290289,0.0408531,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.481239,0.962483,0.027304,0.0460649,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.648863,0.695302,0.157941,0.00907752,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.625245,0.660028,0.137583,0.0123383,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.600516,0.625903,0.116744,0.0162276,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.574563,0.592644,0.0963295,0.0217668,0
+qark,Gjirokastër,130701,47968.2,2.72474,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.54802,0.560604,0.0762784,0.0282585,0
+qark,Korçë,300972,138350,2.17543,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),2.41959e-10,4.79739e-10,0,0.5,0
+qark,Korçë,300972,138350,2.17543,V1,1,0.638303,True,slack (V1 outcome),0.500002,1,0.0256822,0.0256806,0
+qark,Korçë,300972,138350,2.17543,V7 at 0.55,1,0.638303,True,contested,0.408206,1,0.00241523,0.0942093,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499589,0.999175,0.0255542,0.0259654,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498986,0.997969,0.0253666,0.0263804,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.497703,0.995403,0.0249738,0.0272704,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.49522,0.990437,0.0243415,0.0291213,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.490773,0.981542,0.0232472,0.0324738,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.658847,0.692257,0.162192,0.00334529,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.634677,0.657506,0.140025,0.00534759,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.609646,0.624726,0.117539,0.00789334,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.5839,0.593565,0.095775,0.0118748,0
+qark,Korçë,300972,138350,2.17543,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.557617,0.563637,0.0752759,0.017659,0
+qark,Kukës,93022,49554.9,1.87715,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),4.2488e-09,8.5565e-09,0,0.5,0
+qark,Kukës,93022,49554.9,1.87715,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.022126,0.0221261,0
+qark,Kukës,93022,49554.9,1.87715,V7 at 0.55,1,0.638303,True,contested,0.407858,1,0.00122313,0.0933648,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499905,0.99981,0.022095,0.0221903,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499689,0.999377,0.022029,0.0223405,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.499106,0.998211,0.0218522,0.0227467,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.497691,0.995382,0.0214549,0.023764,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.494707,0.989413,0.020648,0.0259413,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.662966,0.689166,0.164518,0.00155129,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.638634,0.655296,0.141257,0.00262316,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.61359,0.623792,0.118202,0.00461172,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.588077,0.594099,0.0957214,0.00764407,0
+qark,Kukës,93022,49554.9,1.87715,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.561799,0.565232,0.0739475,0.012148,0
+qark,Lezhë,185107,79437.3,2.33023,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),6.44233e-11,1.29432e-10,0,0.5,0
+qark,Lezhë,185107,79437.3,2.33023,V1,1,0.638303,True,slack (V1 outcome),0.499998,1,0.0275226,0.0275243,0
+qark,Lezhë,185107,79437.3,2.33023,V7 at 0.55,1,0.638303,True,contested,0.408407,1,0.00319298,0.0947863,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499265,0.998533,0.0272936,0.028029,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498368,0.99674,0.0270414,0.0286736,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.496629,0.993261,0.0265562,0.0299276,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.493509,0.987021,0.0256521,0.0321433,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.488321,0.976646,0.0244249,0.0361041,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.656345,0.693495,0.161124,0.00477855,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.632335,0.658476,0.139268,0.00693274,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.60726,0.625113,0.11744,0.01018,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.581598,0.593439,0.0957406,0.0141423,0
+qark,Lezhë,185107,79437.3,2.33023,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.55499,0.562641,0.0755842,0.0205939,0
+qark,Shkodër,283929,123474,2.29951,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),8.14395e-11,1.64817e-10,0,0.5,0
+qark,Shkodër,283929,123474,2.29951,V1,1,0.638303,True,slack (V1 outcome),0.499998,1,0.0271569,0.0271586,0
+qark,Shkodër,283929,123474,2.29951,V7 at 0.55,1,0.638303,True,contested,0.408366,1,0.00303322,0.094667,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499337,0.998679,0.0269523,0.0276148,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.498503,0.99701,0.026713,0.0282102,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.496858,0.993721,0.0262453,0.0293872,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.493859,0.987722,0.0253731,0.031514,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.488819,0.977642,0.0241969,0.0353779,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.656851,0.69325,0.161307,0.00445642,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.632847,0.658322,0.139462,0.00661459,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.607744,0.625038,0.117466,0.00972191,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.582062,0.593456,0.0957508,0.0136886,0
+qark,Shkodër,283929,123474,2.29951,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.555517,0.562829,0.0755245,0.0200077,0
+qark,Tiranë,888263,606276,1.46511,V3 at 1/3 of E_u (current law),1,0.638303,True,default demobilises,0.356743,0.356744,0,0.143257,0
+qark,Tiranë,888263,606276,1.46511,V1,1,0.638303,True,slack (V1 outcome),0.5,1,0.0172319,0.0172319,0
+qark,Tiranë,888263,606276,1.46511,V7 at 0.55,1,0.638303,True,contested,0.407468,1,0.000282855,0.0928146,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.499997,0.999993,0.0172308,0.0172341,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.499979,0.999958,0.0172249,0.0172459,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.49989,0.99978,0.0171954,0.0173056,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.499528,0.999056,0.017076,0.0175481,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.498343,0.996686,0.0167499,0.0184069,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.667209,0.683777,0.167486,0.000276286,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.642732,0.651911,0.143382,0.000650256,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.617822,0.622639,0.119271,0.00144967,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.592448,0.594842,0.0955148,0.00306709,0
+qark,Tiranë,888263,606276,1.46511,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.566535,0.56766,0.0726688,0.00613337,0
+qark,Vlorë,326894,117241,2.78821,V3 at 1/3 of E_u (current law),1,0.638303,True,lock (mutual abstention),0,0,0,0.5,0
+qark,Vlorë,326894,117241,2.78821,V1,1,0.638303,True,slack (V1 outcome),0.500004,1,0.0329476,0.0329437,0
+qark,Vlorë,326894,117241,2.78821,V7 at 0.55,1,0.638303,True,contested,0.409092,1,0.00606336,0.0969714,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/4 of R_u, proxy x0.90",0.9,0.638303,True,slack (V1 outcome),0.49742,0.99483,0.0321601,0.0347398,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/4 of R_u, proxy x0.95",0.95,0.638303,True,slack (V1 outcome),0.495386,0.990762,0.0316109,0.0362249,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/4 of R_u, proxy x1.00",1,0.638303,True,slack (V1 outcome),0.49211,0.98421,0.0306229,0.0385125,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/4 of R_u, proxy x1.05",1.05,0.638303,True,slack (V1 outcome),0.487185,0.974357,0.0294936,0.0423086,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/4 of R_u, proxy x1.10",1.1,0.638303,True,slack (V1 outcome),0.480023,0.960038,0.0277821,0.0477589,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/3 of R_u, proxy x0.90",0.9,0.638303,True,default demobilises,0.647536,0.695475,0.157329,0.0097934,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/3 of R_u, proxy x0.95",0.95,0.638303,True,default demobilises,0.624028,0.660221,0.137382,0.0133536,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/3 of R_u, proxy x1.00",1,0.638303,True,default demobilises,0.599254,0.625905,0.116479,0.0172248,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/3 of R_u, proxy x1.05",1.05,0.638303,True,default demobilises,0.573361,0.592521,0.0963996,0.0230391,0
+qark,Vlorë,326894,117241,2.78821,"V6d at 1/3 of R_u, proxy x1.10",1.1,0.638303,True,default demobilises,0.546865,0.560333,0.0763753,0.0295106,0

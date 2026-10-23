@@ -1,0 +1,7 @@
+mean_months_clearance_to_polling,max_months_clearance_to_polling,Pr_within_26_weeks_of_clearance,timing,lead_days,president,Pr_vote_12,Pr_vote_24,Pr_vote_48,C4_V1_P5_T1,mean_months_filing_to_polling,p99_deposit_to_polling_months,polled,T5_delay_mean_months,T5_delay_min,T5_delay_p10,T5_delay_p90,T5_delay_max
+3.40496,11.5385,0.884615,TS9 (O9),42,earliest,0.115993,0.994964,1,0.994964,14.8222,17.3077,1,5.98261,5.07692,5.07692,9.50769,14.0769
+6.19859,11.5385,0.884615,TS9 (O9),42,latest,0.0026405,0.994964,1,0.994964,17.6214,17.3077,1,8.74604,5.07692,8.53846,9.50769,14.0769
+5.02034,13.1538,0.850962,TS9 (O9),91,earliest,0.0104839,0.979868,1,0.979868,16.4376,18.9231,1,7.59799,6.69231,6.69231,11.1231,15.6923
+6.50925,13.1538,0.850962,TS9 (O9),91,latest,0.00012679,0.979868,1,0.979868,17.9321,18.9231,1,9.07074,6.69231,8.53846,11.1231,15.6923
+,,,"TS0 (O0), reference",42,earliest,,,,,,,,7.69424,5.07692,5.07692,11.5385,14.0769
+,,,"TS0 (O0), reference",42,latest,,,,,,,,17.942,12,13.1077,22.6615,23.7692

@@ -1,0 +1,145 @@
+entry_into_force,deposit,lead_days,president,option_to_wait,old_rule_denominator,Pr_decreed_before_EIF_old_law,Pr_polled_first_year_LawB,Pr_PartIX_validity,Pr_waited,Pr_change,C1R,C4_opposed,C4_friendly,mean_months_deposit_to_polling,polling
+01.01.2027,30.10.2026,42,earliest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,8.42308,"2027-w31 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w24 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,42,earliest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,8.42308,"2027-w31 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w24 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,42,earliest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.10.2026,42,earliest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.10.2026,42,latest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,11.8846,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w39 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,42,latest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,11.8846,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w39 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,42,latest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.10.2026,42,latest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.10.2026,91,earliest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,10.0385,"2027-w38 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w31 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,91,earliest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,10.0385,"2027-w38 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w31 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,91,earliest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.10.2026,91,earliest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.10.2026,91,latest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,11.8846,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w39 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,91,latest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,11.8846,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w39 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.10.2026,91,latest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.10.2026,91,latest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,14.0769,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,42,earliest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,8.42308,"2027-w35 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w28 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,42,earliest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,8.42308,"2027-w35 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w28 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,42,earliest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,42,earliest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,42,latest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,11.8846,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w43 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,42,latest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,11.8846,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w43 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,42,latest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,42,latest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,91,earliest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,10.0385,"2027-w42 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w35 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,91,earliest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,10.0385,"2027-w42 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w35 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,91,earliest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,91,earliest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,91,latest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,11.8846,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w43 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,91,latest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,11.8846,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w43 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,30.11.2026,91,latest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,30.11.2026,91,latest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,13.1538,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,42,earliest,False,E_full,0,0.5,0.5,0,0.25,0.261403,0.5,0.5,8.42308,"2028-w0 (Law B (V1); cure 1) | 2027-w45 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,31.03.2027,42,earliest,False,E_dom,0,0.5,0.5,0,0.25,0.261403,0.5,0.5,8.42308,"2028-w0 (Law B (V1); cure 1) | 2027-w45 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.01.2027,31.03.2027,42,earliest,True,E_full,0,0,0,0.5,0.5,0.0228062,1,1,9.23077,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,42,earliest,True,E_dom,0,0,0,0.5,0.5,0.0228062,1,1,9.23077,2028-w0 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,42,latest,False,E_full,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,42,latest,False,E_dom,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,42,latest,True,E_full,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,42,latest,True,E_dom,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,earliest,False,E_full,0,0,0,0,0.5,0.0228062,1,1,10.0385,2028-w7 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,earliest,False,E_dom,0,0,0,0,0.5,0.0228062,1,1,10.0385,2028-w7 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,earliest,True,E_full,0,0,0,0,0.5,0.0228062,1,1,10.0385,2028-w7 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,earliest,True,E_dom,0,0,0,0,0.5,0.0228062,1,1,10.0385,2028-w7 (Law B (V1); cure 1) | 2028-w0 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,latest,False,E_full,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,latest,False,E_dom,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,latest,True,E_full,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.01.2027,31.03.2027,91,latest,True,E_dom,0,0,0,0,0.5,0.0228062,1,1,11.8846,2028-w15 (Law B (V1); cure 1) | 2028-w8 (Law B (V1); cure 0)
+01.07.2027,30.10.2026,42,earliest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,11.6538,"2027-w31 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,42,earliest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,11.6538,"2027-w31 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,42,earliest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.9615,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.10.2026,42,earliest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.9615,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.10.2026,42,latest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,19.2692,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,42,latest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,19.2692,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,42,latest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,22.8462,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,30.10.2026,42,latest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,22.8462,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,30.10.2026,91,earliest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,12.4615,"2027-w38 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,91,earliest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,12.4615,"2027-w38 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,91,earliest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.9615,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.10.2026,91,earliest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.9615,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.10.2026,91,latest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,19.2692,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,91,latest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,19.2692,"2027-w46 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.10.2026,91,latest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,22.8462,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,30.10.2026,91,latest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,22.8462,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,42,earliest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,11.1923,"2027-w35 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,42,earliest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,11.1923,"2027-w35 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,42,earliest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.0385,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,42,earliest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.0385,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,42,latest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,18.8077,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,42,latest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,18.8077,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,42,latest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,21.9231,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,42,latest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,21.9231,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,91,earliest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,12,"2027-w42 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,91,earliest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,12,"2027-w42 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,91,earliest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.0385,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,91,earliest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,16.0385,2028-w25 (Law B (V1); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,91,latest,False,E_full,0.5,0.5,1,0,2.39731e-09,0.5,3.56045e-09,4.7591e-09,18.8077,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,91,latest,False,E_dom,0.5,0.5,1,0,9.46478e-09,0.5,1.4137e-08,1.88694e-08,18.8077,"2027-w50 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)"
+01.07.2027,30.11.2026,91,latest,True,E_full,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,21.9231,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,30.11.2026,91,latest,True,E_dom,0.5,0,0.5,0.5,0.25,0.261403,0.5,0.5,21.9231,2028-w25 (Law B (V1); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.07.2027,31.03.2027,42,earliest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,8.42308,"2028-w0 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w45 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,42,earliest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,8.42308,"2028-w0 (Law B, first year (Pv61: Part IX validity); cure 1) | 2027-w45 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,42,earliest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.07.2027,31.03.2027,42,earliest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.07.2027,31.03.2027,42,latest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,11.8846,"2028-w15 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w8 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,42,latest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,11.8846,"2028-w15 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w8 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,42,latest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.07.2027,31.03.2027,42,latest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.07.2027,31.03.2027,91,earliest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,10.0385,"2028-w7 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,91,earliest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,10.0385,"2028-w7 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w0 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,91,earliest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.07.2027,31.03.2027,91,earliest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.07.2027,31.03.2027,91,latest,False,E_full,0,1,1,0,2.39731e-09,0.5,4.7591e-09,4.7591e-09,11.8846,"2028-w15 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w8 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,91,latest,False,E_dom,0,1,1,0,9.46478e-09,0.5,1.88694e-08,1.88694e-08,11.8846,"2028-w15 (Law B, first year (Pv61: Part IX validity); cure 1) | 2028-w8 (Law B, first year (Pv61: Part IX validity); cure 0)"
+01.07.2027,31.03.2027,91,latest,True,E_full,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.07.2027,31.03.2027,91,latest,True,E_dom,0,0,0,1,0.5,0.0228062,1,1,15,2028-w25 (Law B (V1); cure 1) | 2028-w25 (Law B (V1); cure 0)
+01.01.2028,30.10.2026,42,earliest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,42,earliest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,42,earliest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,42,earliest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,42,latest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,42,latest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,42,latest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,42,latest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,earliest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,earliest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,earliest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,earliest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,14.0769,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,latest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,latest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,latest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.10.2026,91,latest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,25.8462,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,earliest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,earliest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,earliest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,earliest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,latest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,latest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,latest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,42,latest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,earliest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,earliest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,earliest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,earliest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,13.1538,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,latest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,latest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,latest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,30.11.2026,91,latest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,24.9231,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,earliest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,earliest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,earliest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,earliest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,latest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,latest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,latest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,42,latest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,earliest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,earliest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,earliest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,earliest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,9.23077,2028-w0 (old law (decree before entry into force); cure 1) | 2028-w0 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,latest,False,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,latest,False,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,latest,True,E_full,1,0,1,0,2.39731e-09,0.5,2.36179e-09,4.7591e-09,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)
+01.01.2028,31.03.2027,91,latest,True,E_dom,1,0,1,0,9.46478e-09,0.5,9.40464e-09,1.88694e-08,21,2028-w51 (old law (decree before entry into force); cure 1) | 2028-w51 (old law (decree before entry into force); cure 0)

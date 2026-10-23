@@ -1,0 +1,217 @@
+r_bar,beta_I,L_days,gamma_c,support,t_bar,t_min,Q,current_reach,current_random_vote,V1_reach,V1_random_vote,V7_reach,V7_random_vote,A_eff_needed_V7_random
+0.03,0.2,30,0,support to 1,0.9,0.3,0.64475,1,1,never,never,never,39,0.1
+0.03,0.2,30,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,20,0.133333
+0.03,0.2,30,0.4,support to 1,0.9,0.3,0.64475,2,123,never,never,never,never,0.1
+0.03,0.2,30,0.4,support ends at 0.875,0.9,0.3,0.64475,1,2,never,never,never,never,0.133333
+0.03,0.2,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.2,30,0.6,support ends at 0.875,0.9,0.3,0.64475,2,never,never,never,never,never,0.133333
+0.03,0.2,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.2,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,0.2,45,0,support to 1,0.9,0.3,0.64475,1,2,never,never,never,291,0.1
+0.03,0.2,45,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,149,0.133333
+0.03,0.2,45,0.4,support to 1,0.9,0.3,0.64475,13,932,never,never,never,never,0.1
+0.03,0.2,45,0.4,support ends at 0.875,0.9,0.3,0.64475,1,13,never,never,never,never,0.133333
+0.03,0.2,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.2,45,0.6,support ends at 0.875,0.9,0.3,0.64475,9,never,never,never,never,never,0.133333
+0.03,0.2,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.2,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,0.2,60,0,support to 1,0.9,0.3,0.64475,1,8,never,never,never,1224,0.1
+0.03,0.2,60,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,628,0.133333
+0.03,0.2,60,0.4,support to 1,0.9,0.3,0.64475,55,3924,never,never,never,never,0.1
+0.03,0.2,60,0.4,support ends at 0.875,0.9,0.3,0.64475,2,52,never,never,never,never,0.133333
+0.03,0.2,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.2,60,0.6,support ends at 0.875,0.9,0.3,0.64475,37,never,never,never,never,never,0.133333
+0.03,0.2,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.2,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,0.5,30,0,support to 1,0.9,0.3,0.64475,1,1,never,never,never,5,0.1
+0.03,0.5,30,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,4,0.133333
+0.03,0.5,30,0.4,support to 1,0.9,0.3,0.64475,2,7,never,never,never,never,0.1
+0.03,0.5,30,0.4,support ends at 0.875,0.9,0.3,0.64475,1,2,never,never,never,never,0.133333
+0.03,0.5,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.5,30,0.6,support ends at 0.875,0.9,0.3,0.64475,2,never,never,never,never,never,0.133333
+0.03,0.5,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.5,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,0.5,45,0,support to 1,0.9,0.3,0.64475,1,2,never,never,never,10,0.1
+0.03,0.5,45,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,8,0.133333
+0.03,0.5,45,0.4,support to 1,0.9,0.3,0.64475,3,16,never,never,never,never,0.1
+0.03,0.5,45,0.4,support ends at 0.875,0.9,0.3,0.64475,1,3,never,never,never,never,0.133333
+0.03,0.5,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.5,45,0.6,support ends at 0.875,0.9,0.3,0.64475,3,never,never,never,never,never,0.133333
+0.03,0.5,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.5,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,0.5,60,0,support to 1,0.9,0.3,0.64475,1,3,never,never,never,18,0.1
+0.03,0.5,60,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,14,0.133333
+0.03,0.5,60,0.4,support to 1,0.9,0.3,0.64475,5,28,never,never,never,never,0.1
+0.03,0.5,60,0.4,support ends at 0.875,0.9,0.3,0.64475,2,5,never,never,never,never,0.133333
+0.03,0.5,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.5,60,0.6,support ends at 0.875,0.9,0.3,0.64475,5,never,never,never,never,never,0.133333
+0.03,0.5,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,0.5,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,1,30,0,support to 1,0.9,0.3,0.64475,1,1,never,never,never,3,0.1
+0.03,1,30,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,2,0.133333
+0.03,1,30,0.4,support to 1,0.9,0.3,0.64475,2,3,never,never,never,never,0.1
+0.03,1,30,0.4,support ends at 0.875,0.9,0.3,0.64475,1,2,never,never,never,never,0.133333
+0.03,1,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,1,30,0.6,support ends at 0.875,0.9,0.3,0.64475,2,never,never,never,never,never,0.133333
+0.03,1,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,1,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,1,45,0,support to 1,0.9,0.3,0.64475,1,2,never,never,never,4,0.1
+0.03,1,45,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,3,0.133333
+0.03,1,45,0.4,support to 1,0.9,0.3,0.64475,2,4,never,never,never,never,0.1
+0.03,1,45,0.4,support ends at 0.875,0.9,0.3,0.64475,1,2,never,never,never,never,0.133333
+0.03,1,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,1,45,0.6,support ends at 0.875,0.9,0.3,0.64475,2,never,never,never,never,never,0.133333
+0.03,1,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,1,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.03,1,60,0,support to 1,0.9,0.3,0.64475,1,2,never,never,never,5,0.1
+0.03,1,60,0,support ends at 0.875,0.9,0.3,0.64475,1,1,never,never,never,4,0.133333
+0.03,1,60,0.4,support to 1,0.9,0.3,0.64475,3,6,never,never,never,never,0.1
+0.03,1,60,0.4,support ends at 0.875,0.9,0.3,0.64475,2,3,never,never,never,never,0.133333
+0.03,1,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,1,60,0.6,support ends at 0.875,0.9,0.3,0.64475,3,never,never,never,never,never,0.133333
+0.03,1,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.03,1,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,0.2,30,0,support to 1,0.9,0.3,0.64475,3,17,never,never,never,2644,0.1
+0.07,0.2,30,0,support ends at 0.875,0.9,0.3,0.64475,1,3,never,never,never,1357,0.133333
+0.07,0.2,30,0.4,support to 1,0.9,0.3,0.64475,118,8481,never,never,never,never,0.1
+0.07,0.2,30,0.4,support ends at 0.875,0.9,0.3,0.64475,4,111,never,never,never,never,0.133333
+0.07,0.2,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.2,30,0.6,support ends at 0.875,0.9,0.3,0.64475,79,never,never,never,never,never,0.133333
+0.07,0.2,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.2,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,0.2,45,0,support to 1,0.9,0.3,0.64475,17,128,never,never,never,20074,0.1
+0.07,0.2,45,0,support ends at 0.875,0.9,0.3,0.64475,1,16,never,never,never,10300,0.133333
+0.07,0.2,45,0.4,support to 1,0.9,0.3,0.64475,890,64403,never,never,never,never,0.1
+0.07,0.2,45,0.4,support ends at 0.875,0.9,0.3,0.64475,25,841,never,never,never,never,0.133333
+0.07,0.2,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.2,45,0.6,support ends at 0.875,0.9,0.3,0.64475,594,never,never,never,never,never,0.133333
+0.07,0.2,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.2,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,0.2,60,0,support to 1,0.9,0.3,0.64475,69,539,never,never,never,84592,0.1
+0.07,0.2,60,0,support ends at 0.875,0.9,0.3,0.64475,5,66,never,never,never,43403,0.133333
+0.07,0.2,60,0.4,support to 1,0.9,0.3,0.64475,3748,never,never,never,never,never,0.1
+0.07,0.2,60,0.4,support ends at 0.875,0.9,0.3,0.64475,105,3541,never,never,never,never,0.133333
+0.07,0.2,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.2,60,0.6,support ends at 0.875,0.9,0.3,0.64475,2502,never,never,never,never,never,0.133333
+0.07,0.2,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.2,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,0.5,30,0,support to 1,0.9,0.3,0.64475,2,4,never,never,never,24,0.1
+0.07,0.5,30,0,support ends at 0.875,0.9,0.3,0.64475,1,2,never,never,never,18,0.133333
+0.07,0.5,30,0.4,support to 1,0.9,0.3,0.64475,7,38,never,never,never,never,0.1
+0.07,0.5,30,0.4,support ends at 0.875,0.9,0.3,0.64475,2,7,never,never,never,never,0.133333
+0.07,0.5,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.5,30,0.6,support ends at 0.875,0.9,0.3,0.64475,6,never,never,never,never,never,0.133333
+0.07,0.5,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.5,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,0.5,45,0,support to 1,0.9,0.3,0.64475,4,7,never,never,never,53,0.1
+0.07,0.5,45,0,support ends at 0.875,0.9,0.3,0.64475,1,3,never,never,never,41,0.133333
+0.07,0.5,45,0.4,support to 1,0.9,0.3,0.64475,16,84,never,never,never,never,0.1
+0.07,0.5,45,0.4,support ends at 0.875,0.9,0.3,0.64475,4,15,never,never,never,never,0.133333
+0.07,0.5,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.5,45,0.6,support ends at 0.875,0.9,0.3,0.64475,13,never,never,never,never,never,0.133333
+0.07,0.5,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.5,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,0.5,60,0,support to 1,0.9,0.3,0.64475,6,13,never,never,never,94,0.1
+0.07,0.5,60,0,support ends at 0.875,0.9,0.3,0.64475,2,6,never,never,never,72,0.133333
+0.07,0.5,60,0.4,support to 1,0.9,0.3,0.64475,27,150,never,never,never,never,0.1
+0.07,0.5,60,0.4,support ends at 0.875,0.9,0.3,0.64475,7,27,never,never,never,never,0.133333
+0.07,0.5,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.5,60,0.6,support ends at 0.875,0.9,0.3,0.64475,23,never,never,never,never,never,0.133333
+0.07,0.5,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,0.5,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,1,30,0,support to 1,0.9,0.3,0.64475,2,2,never,never,never,5,0.1
+0.07,1,30,0,support ends at 0.875,0.9,0.3,0.64475,1,2,never,never,never,5,0.133333
+0.07,1,30,0.4,support to 1,0.9,0.3,0.64475,3,7,never,never,never,never,0.1
+0.07,1,30,0.4,support ends at 0.875,0.9,0.3,0.64475,2,3,never,never,never,never,0.133333
+0.07,1,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,1,30,0.6,support ends at 0.875,0.9,0.3,0.64475,3,never,never,never,never,never,0.133333
+0.07,1,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,1,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,1,45,0,support to 1,0.9,0.3,0.64475,2,3,never,never,never,8,0.1
+0.07,1,45,0,support ends at 0.875,0.9,0.3,0.64475,1,2,never,never,never,7,0.133333
+0.07,1,45,0.4,support to 1,0.9,0.3,0.64475,4,10,never,never,never,never,0.1
+0.07,1,45,0.4,support ends at 0.875,0.9,0.3,0.64475,2,4,never,never,never,never,0.133333
+0.07,1,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,1,45,0.6,support ends at 0.875,0.9,0.3,0.64475,4,never,never,never,never,never,0.133333
+0.07,1,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,1,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.07,1,60,0,support to 1,0.9,0.3,0.64475,3,4,never,never,never,10,0.1
+0.07,1,60,0,support ends at 0.875,0.9,0.3,0.64475,2,3,never,never,never,9,0.133333
+0.07,1,60,0.4,support to 1,0.9,0.3,0.64475,6,13,never,never,never,never,0.1
+0.07,1,60,0.4,support ends at 0.875,0.9,0.3,0.64475,3,6,never,never,never,never,0.133333
+0.07,1,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,1,60,0.6,support ends at 0.875,0.9,0.3,0.64475,5,never,never,never,never,never,0.133333
+0.07,1,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.07,1,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.2,30,0,support to 1,0.9,0.3,0.64475,3085,24335,never,never,never,never,0.1
+0.3,0.2,30,0,support ends at 0.875,0.9,0.3,0.64475,190,2968,never,never,never,never,0.133333
+0.3,0.2,30,0.4,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,30,0.4,support ends at 0.875,0.9,0.3,0.64475,4733,never,never,never,never,never,0.133333
+0.3,0.2,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,30,0.6,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.2,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.2,45,0,support to 1,0.9,0.3,0.64475,23424,never,never,never,never,never,0.1
+0.3,0.2,45,0,support ends at 0.875,0.9,0.3,0.64475,1443,22537,never,never,never,never,0.133333
+0.3,0.2,45,0.4,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,45,0.4,support ends at 0.875,0.9,0.3,0.64475,35934,never,never,never,never,never,0.133333
+0.3,0.2,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,45,0.6,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.2,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.2,60,0,support to 1,0.9,0.3,0.64475,98706,never,never,never,never,never,0.1
+0.3,0.2,60,0,support ends at 0.875,0.9,0.3,0.64475,6080,94968,never,never,never,never,0.133333
+0.3,0.2,60,0.4,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,60,0.4,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.2,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,60,0.6,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.2,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.2,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.5,30,0,support to 1,0.9,0.3,0.64475,25,57,never,never,never,430,0.1
+0.3,0.5,30,0,support ends at 0.875,0.9,0.3,0.64475,9,25,never,never,never,329,0.133333
+0.3,0.5,30,0.4,support to 1,0.9,0.3,0.64475,124,685,never,never,never,never,0.1
+0.3,0.5,30,0.4,support ends at 0.875,0.9,0.3,0.64475,30,121,never,never,never,never,0.133333
+0.3,0.5,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.5,30,0.6,support ends at 0.875,0.9,0.3,0.64475,106,never,never,never,never,never,0.133333
+0.3,0.5,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.5,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.5,45,0,support to 1,0.9,0.3,0.64475,56,128,never,never,never,967,0.1
+0.3,0.5,45,0,support ends at 0.875,0.9,0.3,0.64475,19,56,never,never,never,740,0.133333
+0.3,0.5,45,0.4,support to 1,0.9,0.3,0.64475,278,1541,never,never,never,never,0.1
+0.3,0.5,45,0.4,support ends at 0.875,0.9,0.3,0.64475,67,272,never,never,never,never,0.133333
+0.3,0.5,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.5,45,0.6,support ends at 0.875,0.9,0.3,0.64475,237,never,never,never,never,never,0.133333
+0.3,0.5,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.5,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,0.5,60,0,support to 1,0.9,0.3,0.64475,100,228,never,never,never,1718,0.1
+0.3,0.5,60,0,support ends at 0.875,0.9,0.3,0.64475,33,98,never,never,never,1316,0.133333
+0.3,0.5,60,0.4,support to 1,0.9,0.3,0.64475,494,2739,never,never,never,never,0.1
+0.3,0.5,60,0.4,support ends at 0.875,0.9,0.3,0.64475,119,483,never,never,never,never,0.133333
+0.3,0.5,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.5,60,0.6,support ends at 0.875,0.9,0.3,0.64475,421,never,never,never,never,never,0.133333
+0.3,0.5,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,0.5,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,1,30,0,support to 1,0.9,0.3,0.64475,5,8,never,never,never,21,0.1
+0.3,1,30,0,support ends at 0.875,0.9,0.3,0.64475,3,5,never,never,never,19,0.133333
+0.3,1,30,0.4,support to 1,0.9,0.3,0.64475,12,27,never,never,never,never,0.1
+0.3,1,30,0.4,support ends at 0.875,0.9,0.3,0.64475,6,11,never,never,never,never,0.133333
+0.3,1,30,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,1,30,0.6,support ends at 0.875,0.9,0.3,0.64475,11,never,never,never,never,never,0.133333
+0.3,1,30,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,1,30,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,1,45,0,support to 1,0.9,0.3,0.64475,8,12,never,never,never,32,0.1
+0.3,1,45,0,support ends at 0.875,0.9,0.3,0.64475,5,8,never,never,never,28,0.133333
+0.3,1,45,0.4,support to 1,0.9,0.3,0.64475,17,40,never,never,never,never,0.1
+0.3,1,45,0.4,support ends at 0.875,0.9,0.3,0.64475,9,17,never,never,never,never,0.133333
+0.3,1,45,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,1,45,0.6,support ends at 0.875,0.9,0.3,0.64475,16,never,never,never,never,never,0.133333
+0.3,1,45,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,1,45,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333
+0.3,1,60,0,support to 1,0.9,0.3,0.64475,10,16,never,never,never,42,0.1
+0.3,1,60,0,support ends at 0.875,0.9,0.3,0.64475,6,10,never,never,never,37,0.133333
+0.3,1,60,0.4,support to 1,0.9,0.3,0.64475,23,53,never,never,never,never,0.1
+0.3,1,60,0.4,support ends at 0.875,0.9,0.3,0.64475,11,22,never,never,never,never,0.133333
+0.3,1,60,0.6,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,1,60,0.6,support ends at 0.875,0.9,0.3,0.64475,21,never,never,never,never,never,0.133333
+0.3,1,60,0.8,support to 1,0.9,0.3,0.64475,never,never,never,never,never,never,0.1
+0.3,1,60,0.8,support ends at 0.875,0.9,0.3,0.64475,never,never,never,never,never,never,0.133333

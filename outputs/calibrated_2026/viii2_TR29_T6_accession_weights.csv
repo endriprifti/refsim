@@ -1,0 +1,141 @@
+prior_mean,prior,P_mu_gt_half,tau,t_min,rule,code,regime,P_change,C1p,C1R,C1sum,C2,w_star_vs_V1,reading
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.2,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0380406,0.0380406,0.0760813,0,,equal to V1
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.2,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.409819,0.00918242,0.0993635,0.108546,0,2.12497,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.2,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.2,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.39588,0.0215744,0.125694,0.147269,0,5.32325,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.2,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,lock (mutual abstention),0.0111068,2.16331e-08,0.488893,0.488893,0,11.8519,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.25,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0302479,0.0302479,0.0604958,0,,equal to V1
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.25,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408724,0.00448242,0.0957586,0.100241,0,2.54258,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.25,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.25,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.590206,0.107193,0.0169871,0.124181,0,0.172339,preferred to V1 iff w < w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.25,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.404585,0.013726,0.109141,0.122867,0,4.77504,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.3,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0251232,0.0251232,0.0502464,0,,equal to V1
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.3,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408146,0.0021942,0.0940484,0.0962426,0,3.00603,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.3,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.3,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.491467,0.0228827,0.0314161,0.0542988,0,2.80868,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.3,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.554647,0.073523,0.0188757,0.0923987,0,0.129081,preferred to V1 iff w < w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.33,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0228065,0.0228062,0.0456127,0,,equal to V1
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.33,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407921,0.00142054,0.0934999,0.0949204,0,3.30561,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.33,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.33,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.498896,0.0224785,0.0235824,0.0460609,0,2.36633,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.33,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.612903,0.118058,0.00515457,0.123212,0,0.185317,preferred to V1 iff w < w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.36,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.500005,0.0208451,0.0208405,0.0416856,0,,equal to V1
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.36,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407748,0.000905039,0.0931566,0.0940617,0,3.62668,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.36,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.36,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499927,0.0208198,0.0208926,0.0417125,0,2.06608,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.36,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.655963,0.157094,0.00113169,0.158226,0,0.144652,preferred to V1 iff w < w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.42,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.499979,0.0160488,0.01607,0.0321188,0,,equal to V1
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.42,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407488,0.000290713,0.0928028,0.0930935,0,4.86943,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.42,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.42,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499979,0.0160488,0.0160701,0.0321188,0,1.53636,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.42,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,slack (V1 outcome),0.499398,0.0158675,0.0164697,0.0323372,0,2.2044,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.394,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.499983,0.0185707,0.0185874,0.0371581,0,,equal to V1
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.394,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407591,0.0005116,0.0929205,0.0934321,0,4.1161,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.394,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,25.9232,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.394,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499982,0.0185701,0.0185885,0.0371586,0,1.69735,preferred to V1 iff w > w*
+0.5,"Beta-shift(a_B=3, mean=0.500)",0.5,0.394,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.621539,0.12336,0.00182075,0.125181,0,0.160004,preferred to V1 iff w < w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.2,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.692576,0.0300347,0.0349472,0.0649819,0,,equal to V1
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.2,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.611111,0.00688888,0.0932662,0.100155,0,2.51963,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.2,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.55541e-08,0,0.697488,0.697488,0,22.0592,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.2,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.601711,0.0206382,0.116415,0.137053,0,8.67004,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.2,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.396553,0.000615602,0.301551,0.302166,0,9.06225,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.25,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.694434,0.0242445,0.0272991,0.0515436,0,,equal to V1
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.25,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.612119,0.00324622,0.0886152,0.0918615,0,2.92005,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.25,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.55541e-08,0,0.697488,0.697488,0,27.6429,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.25,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.746899,0.0724858,0.0230754,0.0955612,0,0.087553,preferred to V1 iff w < w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.25,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.621625,0.0140937,0.0899574,0.104051,0,6.17271,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.3,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.695399,0.0203347,0.0224243,0.0427591,0,,equal to V1
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.3,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.61263,0.00152383,0.0863824,0.0879062,0,3.40006,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.3,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.55541e-08,0,0.697488,0.697488,0,33.1976,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.3,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.687369,0.0185602,0.0286796,0.0472398,0,3.52501,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.3,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.725975,0.0504472,0.0219599,0.0724071,0,0.0154232,preferred to V1 iff w < w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.33,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.695772,0.0185409,0.0202572,0.038798,0,,equal to V1
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.33,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.612825,0.000957191,0.0856204,0.0865776,0,3.71727,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.33,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.55541e-08,0,0.697488,0.697488,0,36.5263,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.33,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.694755,0.0182816,0.0210149,0.0392965,0,2.92249,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.33,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.765354,0.0765311,0.00866546,0.0851965,0,0.199891,preferred to V1 iff w < w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.36,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.696061,0.0170091,0.018436,0.035445,0,,equal to V1
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.36,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.61298,0.000585545,0.0850935,0.0856791,0,4.05866,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.36,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.257377,0,0.440112,0.440112,0,24.7912,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.36,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.695991,0.0169892,0.0184864,0.0354756,0,2.53537,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.36,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.794739,0.100308,0.00305747,0.103365,0,0.184619,preferred to V1 iff w < w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.42,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.696571,0.0131895,0.0141066,0.0272961,0,,equal to V1
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.42,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.613271,0.000136172,0.0843536,0.0844898,0,5.38155,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.42,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.257377,0,0.440112,0.440112,0,32.2989,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.42,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.696571,0.0131895,0.0141067,0.0272961,0,1.89497,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.42,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,slack (V1 outcome),0.696051,0.0130431,0.0144804,0.0275234,0,2.55247,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.394,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.696328,0.0152129,0.0163732,0.0315861,0,,equal to V1
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.394,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.613121,0.000291568,0.0846586,0.0849501,0,4.57637,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.394,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.257377,0,0.440112,0.440112,0,27.854,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.394,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.696326,0.0152123,0.0163743,0.0315866,0,2.08274,preferred to V1 iff w > w*
+0.6,"Beta-shift(a_B=3, mean=0.600)",0.697488,0.394,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.819458,0.122842,0.000872426,0.123715,0,0.14402,preferred to V1 iff w < w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.2,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.831694,0.0182744,0.0237071,0.0419815,0,,equal to V1
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.2,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.776882,0.00403151,0.0642761,0.0683076,0,2.84837,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.2,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),9.7168e-08,0,0.837126,0.837126,0,44.5114,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.2,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.76674,0.013694,0.08408,0.097774,0,13.1807,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.2,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.643597,0.000921189,0.194451,0.195372,0,9.83933,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.25,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.833772,0.0148844,0.0182388,0.0331232,0,,equal to V1
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.25,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.778678,0.00183981,0.0602881,0.0621279,0,3.2235,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.25,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises,0.439308,0,0.397818,0.397818,0,25.5018,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.25,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.85862,0.0404832,0.0189894,0.0594726,0,,V1 better at every w
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.25,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.787598,0.00988872,0.0594172,0.0693059,0,8.24275,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.3,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.834839,0.0125598,0.0148472,0.0274069,0,,equal to V1
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.3,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.779562,0.000834674,0.0583991,0.0592337,0,3.71442,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.3,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.468921,0,0.368205,0.368205,0,28.1341,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.3,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.833916,0.0145834,0.017794,0.0323774,0,,V1 better at every w
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.3,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.848926,0.0289109,0.0171115,0.0460224,0,,V1 better at every w
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.33,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.83525,0.0114836,0.0133602,0.0248438,0,,equal to V1
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.33,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.779897,0.00051183,0.0577412,0.058253,0,4.04501,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.33,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.468921,0,0.368205,0.368205,0,30.9001,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.33,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.834549,0.0113259,0.0139029,0.0252288,0,3.44004,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.33,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.871471,0.0418245,0.00747999,0.0493045,0,0.193805,preferred to V1 iff w < w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.36,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.835566,0.0105597,0.0121202,0.02268,0,,equal to V1
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.36,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.780167,0.00029801,0.0572578,0.0575558,0,4.39863,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.36,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.468921,0,0.368205,0.368205,0,33.721,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.36,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.835518,0.0105477,0.012156,0.0227037,0,2.96058,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.36,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.888224,0.0543154,0.00321813,0.0575335,0,0.20345,preferred to V1 iff w < w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.42,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.836134,0.00822652,0.00921893,0.0174455,0,,equal to V1
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.42,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.780781,4.76851e-05,0.0563926,0.0564403,0,5.76777,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.42,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.468921,0,0.368205,0.368205,0,43.6376,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.42,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.836134,0.00822651,0.00921895,0.0174455,0,2.21472,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.42,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.910836,0.0742235,0.000513504,0.074737,0,0.131906,preferred to V1 iff w < w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.394,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.835866,0.00946853,0.0107287,0.0201973,0,,equal to V1
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.394,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.780484,0.000128979,0.0567717,0.0569007,0,4.92989,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.394,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.468921,0,0.368205,0.368205,0,37.7541,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.394,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.835865,0.00946822,0.0107295,0.0201977,0,2.42693,preferred to V1 iff w > w*
+0.7,"Beta-shift(a_B=3, mean=0.700)",0.837126,0.394,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.902481,0.0665282,0.00117343,0.0677016,0,0.167461,preferred to V1 iff w < w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.2,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.906099,0.0096913,0.0128344,0.0225257,0,,equal to V1
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.2,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.876368,0.00211297,0.0349869,0.0370999,0,2.92313,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.2,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises,0.518958,0,0.390284,0.390284,0,38.9473,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.2,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.867383,0.00736497,0.0492238,0.0565887,0,15.6424,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.2,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.800402,0.000570536,0.109411,0.109981,0,10.5886,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.25,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.907315,0.00789316,0.00982017,0.0177133,0,,equal to V1
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.25,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.877552,0.00095416,0.032644,0.0335981,0,3.28921,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.25,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.686122,0,0.223119,0.223119,0,27.0233,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.25,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.919843,0.0213254,0.0107243,0.0320496,0,,V1 better at every w
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.25,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.882024,0.00536491,0.0325829,0.0379478,0,9.00335,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.3,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.907932,0.00666172,0.00797172,0.0146334,0,,equal to V1
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.3,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.878125,0.000428805,0.0315452,0.031974,0,3.78209,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.3,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.686122,0,0.223119,0.223119,0,32.2961,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.3,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.913416,0.0122473,0.00807352,0.0203208,0,,V1 better at every w
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.3,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.915011,0.0152238,0.00945446,0.0246783,0,,V1 better at every w
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.33,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.908168,0.00609181,0.00716535,0.0132572,0,,equal to V1
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.33,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.878342,0.000260997,0.0311609,0.0314219,0,4.1153,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.33,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.686122,0,0.223119,0.223119,0,35.4499,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.33,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.907784,0.00600818,0.00746621,0.0134744,0,3.59745,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.33,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.927097,0.0219836,0.00412872,0.0261123,0,0.191082,preferred to V1 iff w < w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.36,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.90835,0.00560256,0.0064946,0.0120972,0,,equal to V1
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.36,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.878523,0.000150218,0.030869,0.0310192,0,4.47045,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.36,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.686122,0,0.223119,0.223119,0,38.6654,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.36,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.908324,0.00559615,0.00651432,0.0121105,0,3.07785,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.36,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.936102,0.0286321,0.00177188,0.030404,0,0.205072,preferred to V1 iff w < w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.42,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.908676,0.00436628,0.00493236,0.00929864,0,,equal to V1
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.42,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.87893,2.20865e-05,0.0303336,0.0303557,0,5.84718,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.42,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.686122,0,0.223119,0.223119,0,49.971,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.42,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.908676,0.00436627,0.00493238,0.00929865,0,2.29698,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.42,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.948327,0.0393613,0.000276105,0.0396374,0,0.133055,preferred to V1 iff w < w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.394,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.908522,0.00502457,0.00574398,0.0107686,0,,equal to V1
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.394,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.878729,6.16793e-05,0.0305747,0.0306364,0,5.00328,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.394,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,default demobilises (capped),0.686122,0,0.223119,0.223119,0,43.2625,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.394,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.908522,0.0050244,0.0057444,0.0107688,0,2.5171,preferred to V1 iff w > w*
+0.8,"Beta-shift(a_B=3, mean=0.800)",0.909242,0.394,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.943798,0.0351967,0.000640179,0.0358368,0,0.169156,preferred to V1 iff w < w*

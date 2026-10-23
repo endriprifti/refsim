@@ -1,0 +1,595 @@
+package,type,Psi,mu_G,side,regime,mu_hat,P_change,C3
+P0,T1,0.05,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.05,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.05,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.05,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.05,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.05,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.05,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.05,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.05,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.25,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.25,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.25,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.25,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.25,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.25,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.25,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.25,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.25,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.45,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.45,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.45,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.45,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.45,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.45,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.45,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.45,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.45,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P0,T1,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P0,T3,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P0,T4,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P1,T1,0.05,0.36,government backs change,default demobilises,0.433287,0.612903,0.00699142
+P1,T3,0.05,0.36,government backs change,default demobilises,0.435741,0.637661,0.00705682
+P1,T4,0.05,0.36,government backs change,default demobilises,0.444697,0.742599,0.00658004
+P1,T1,0.05,0.36,government opposes change,default demobilises,0.433287,0.612903,0.019557
+P1,T3,0.05,0.36,government opposes change,default demobilises,0.435741,0.637661,0.0188291
+P1,T4,0.05,0.36,government opposes change,default demobilises,0.444697,0.742599,0.0148587
+P1,T1,0.05,0.47,government backs change,default demobilises,0.433287,0.612903,0.00349143
+P1,T3,0.05,0.47,government backs change,default demobilises,0.435741,0.637661,0.00317905
+P1,T4,0.05,0.47,government backs change,default demobilises,0.444697,0.742599,0.0019499
+P1,T1,0.05,0.47,government opposes change,default demobilises,0.433287,0.612903,0.00918116
+P1,T3,0.05,0.47,government opposes change,default demobilises,0.435741,0.637661,0.00872675
+P1,T4,0.05,0.47,government opposes change,default demobilises,0.444697,0.742599,0.00654425
+P1,T1,0.05,0.58,government backs change,default demobilises,0.433287,0.612903,0.0139066
+P1,T3,0.05,0.58,government backs change,default demobilises,0.435741,0.637661,0.0133299
+P1,T4,0.05,0.58,government backs change,default demobilises,0.444697,0.742599,0.010341
+P1,T1,0.05,0.58,government opposes change,default demobilises,0.433287,0.612903,0.00126543
+P1,T3,0.05,0.58,government opposes change,default demobilises,0.435741,0.637661,0.00146339
+P1,T4,0.05,0.58,government opposes change,default demobilises,0.444697,0.742599,0.00191029
+P1,T1,0.25,0.36,government backs change,default demobilises,0.433287,0.612903,0.044705
+P1,T3,0.25,0.36,government backs change,default demobilises,0.435741,0.637661,0.0452906
+P1,T4,0.25,0.36,government backs change,default demobilises,0.444697,0.742599,0.0430076
+P1,T1,0.25,0.36,government opposes change,default demobilises,0.433287,0.612903,0.118476
+P1,T3,0.25,0.36,government opposes change,default demobilises,0.435741,0.637661,0.113107
+P1,T4,0.25,0.36,government opposes change,default demobilises,0.444697,0.742599,0.086258
+P1,T1,0.25,0.47,government backs change,default demobilises,0.433287,0.612903,0.0219801
+P1,T3,0.25,0.47,government backs change,default demobilises,0.435741,0.637661,0.019991
+P1,T4,0.25,0.47,government backs change,default demobilises,0.444697,0.742599,0.0122246
+P1,T1,0.25,0.47,government opposes change,default demobilises,0.433287,0.612903,0.0571349
+P1,T3,0.25,0.47,government opposes change,default demobilises,0.435741,0.637661,0.0541048
+P1,T4,0.25,0.47,government opposes change,default demobilises,0.444697,0.742599,0.0399981
+P1,T1,0.25,0.58,government backs change,default demobilises,0.433287,0.612903,0.0855687
+P1,T3,0.25,0.58,government backs change,default demobilises,0.435741,0.637661,0.0815391
+P1,T4,0.25,0.58,government backs change,default demobilises,0.444697,0.742599,0.0617899
+P1,T1,0.25,0.58,government opposes change,default demobilises,0.433287,0.612903,0.00803024
+P1,T3,0.25,0.58,government opposes change,default demobilises,0.435741,0.637661,0.00929637
+P1,T4,0.25,0.58,government opposes change,default demobilises,0.444697,0.742599,0.012215
+P1,T1,0.45,0.36,government backs change,default demobilises,0.433287,0.612903,0.110954
+P1,T3,0.45,0.36,government backs change,default demobilises,0.435741,0.637661,0.113088
+P1,T4,0.45,0.36,government backs change,default demobilises,0.444697,0.742599,0.110733
+P1,T1,0.45,0.36,government opposes change,default demobilises,0.433287,0.612903,0.257382
+P1,T3,0.45,0.36,government opposes change,default demobilises,0.435741,0.637661,0.242663
+P1,T4,0.45,0.36,government opposes change,default demobilises,0.444697,0.742599,0.176281
+P1,T1,0.45,0.47,government backs change,default demobilises,0.433287,0.612903,0.0533202
+P1,T3,0.45,0.47,government backs change,default demobilises,0.435741,0.637661,0.0484103
+P1,T4,0.45,0.47,government backs change,default demobilises,0.444697,0.742599,0.0294671
+P1,T1,0.45,0.47,government opposes change,default demobilises,0.433287,0.612903,0.134729
+P1,T3,0.45,0.47,government opposes change,default demobilises,0.435741,0.637661,0.126841
+P1,T4,0.45,0.47,government opposes change,default demobilises,0.444697,0.742599,0.0917275
+P1,T1,0.45,0.58,government backs change,default demobilises,0.433287,0.612903,0.195345
+P1,T3,0.45,0.58,government backs change,default demobilises,0.435741,0.637661,0.18447
+P1,T4,0.45,0.58,government backs change,default demobilises,0.444697,0.742599,0.134967
+P1,T1,0.45,0.58,government opposes change,default demobilises,0.433287,0.612903,0.0197743
+P1,T3,0.45,0.58,government opposes change,default demobilises,0.435741,0.637661,0.0229327
+P1,T4,0.45,0.58,government opposes change,default demobilises,0.444697,0.742599,0.0304657
+P1b,T1,0.05,0.36,government backs change,default demobilises,0.478281,0.528456,0.0116399
+P1b,T3,0.05,0.36,government backs change,default demobilises,0.479234,0.557413,0.011619
+P1b,T4,0.05,0.36,government backs change,default demobilises,0.482591,0.682664,0.01048
+P1b,T1,0.05,0.36,government opposes change,default demobilises,0.478281,0.528456,0.0158723
+P1b,T3,0.05,0.36,government opposes change,default demobilises,0.479234,0.557413,0.0155851
+P1b,T4,0.05,0.36,government opposes change,default demobilises,0.482591,0.682664,0.0132391
+P1b,T1,0.05,0.47,government backs change,default demobilises,0.478281,0.528456,0.00081422
+P1b,T3,0.05,0.47,government backs change,default demobilises,0.479234,0.557413,0.000898093
+P1b,T4,0.05,0.47,government backs change,default demobilises,0.482591,0.682664,0.00106961
+P1b,T1,0.05,0.47,government opposes change,default demobilises,0.478281,0.528456,0.00508206
+P1b,T3,0.05,0.47,government opposes change,default demobilises,0.479234,0.557413,0.00493214
+P1b,T4,0.05,0.47,government opposes change,default demobilises,0.482591,0.682664,0.00401351
+P1b,T1,0.05,0.58,government backs change,default demobilises,0.478281,0.528456,0.0099901
+P1b,T3,0.05,0.58,government backs change,default demobilises,0.479234,0.557413,0.00978036
+P1b,T4,0.05,0.58,government backs change,default demobilises,0.482591,0.682664,0.00822208
+P1b,T1,0.05,0.58,government opposes change,default demobilises,0.478281,0.528456,0.00573268
+P1b,T3,0.05,0.58,government opposes change,default demobilises,0.479234,0.557413,0.0057663
+P1b,T4,0.05,0.58,government opposes change,default demobilises,0.482591,0.682664,0.00533255
+P1b,T1,0.25,0.36,government backs change,default demobilises,0.478281,0.528456,0.0738469
+P1b,T3,0.25,0.36,government backs change,default demobilises,0.479234,0.557413,0.0741394
+P1b,T4,0.25,0.36,government backs change,default demobilises,0.482591,0.682664,0.0686672
+P1b,T1,0.25,0.36,government opposes change,default demobilises,0.478281,0.528456,0.0989776
+P1b,T3,0.25,0.36,government opposes change,default demobilises,0.479234,0.557413,0.0964523
+P1b,T4,0.25,0.36,government opposes change,default demobilises,0.482591,0.682664,0.0793598
+P1b,T1,0.25,0.47,government backs change,default demobilises,0.478281,0.528456,0.00515871
+P1b,T3,0.25,0.47,government backs change,default demobilises,0.479234,0.557413,0.00569289
+P1b,T4,0.25,0.47,government backs change,default demobilises,0.482591,0.682664,0.00680034
+P1b,T1,0.25,0.47,government opposes change,default demobilises,0.478281,0.528456,0.0320802
+P1b,T3,0.25,0.47,government opposes change,default demobilises,0.479234,0.557413,0.03106
+P1b,T4,0.25,0.47,government opposes change,default demobilises,0.482591,0.682664,0.0250345
+P1b,T1,0.25,0.58,government backs change,default demobilises,0.478281,0.528456,0.062768
+P1b,T3,0.25,0.58,government backs change,default demobilises,0.479234,0.557413,0.0611589
+P1b,T4,0.25,0.58,government backs change,default demobilises,0.482591,0.682664,0.0504052
+P1b,T1,0.25,0.58,government opposes change,default demobilises,0.478281,0.528456,0.0363747
+P1b,T3,0.25,0.58,government opposes change,default demobilises,0.479234,0.557413,0.0366935
+P1b,T4,0.25,0.58,government opposes change,default demobilises,0.482591,0.682664,0.0343976
+P1b,T1,0.45,0.36,government backs change,default demobilises,0.478281,0.528456,0.179303
+P1b,T3,0.45,0.36,government backs change,default demobilises,0.479234,0.557413,0.181763
+P1b,T4,0.45,0.36,government backs change,default demobilises,0.482591,0.682664,0.176291
+P1b,T1,0.45,0.36,government opposes change,default demobilises,0.478281,0.528456,0.230389
+P1b,T3,0.45,0.36,government opposes change,default demobilises,0.479234,0.557413,0.221738
+P1b,T4,0.45,0.36,government opposes change,default demobilises,0.482591,0.682664,0.173455
+P1b,T1,0.45,0.47,government backs change,default demobilises,0.478281,0.528456,0.0126699
+P1b,T3,0.45,0.47,government backs change,default demobilises,0.479234,0.557413,0.0139934
+P1b,T4,0.45,0.47,government backs change,default demobilises,0.482591,0.682664,0.0168008
+P1b,T1,0.45,0.47,government opposes change,default demobilises,0.478281,0.528456,0.0780859
+P1b,T3,0.45,0.47,government opposes change,default demobilises,0.479234,0.557413,0.0753016
+P1b,T4,0.45,0.47,government opposes change,default demobilises,0.482591,0.682664,0.0597345
+P1b,T1,0.45,0.58,government backs change,default demobilises,0.478281,0.528456,0.150394
+P1b,T3,0.45,0.58,government backs change,default demobilises,0.479234,0.557413,0.145384
+P1b,T4,0.45,0.58,government backs change,default demobilises,0.482591,0.682664,0.116002
+P1b,T1,0.45,0.58,government opposes change,default demobilises,0.478281,0.528456,0.0892703
+P1b,T3,0.45,0.58,government opposes change,default demobilises,0.479234,0.557413,0.090492
+P1b,T4,0.45,0.58,government opposes change,default demobilises,0.482591,0.682664,0.0868398
+P2,T1,0.05,0.36,government backs change,default demobilises,0.966685,0.00929422,0.000351488
+P2,T3,0.05,0.36,government backs change,default demobilises,0.920968,0.0201564,0.00412136
+P2,T4,0.05,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.05,0.36,government opposes change,default demobilises,0.966685,0.00929422,0.000310628
+P2,T3,0.05,0.36,government opposes change,default demobilises,0.920968,0.0201564,0.00247638
+P2,T4,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.05,0.47,government backs change,default demobilises,0.966685,0.00929422,0.000347863
+P2,T3,0.05,0.47,government backs change,default demobilises,0.920968,0.0201564,0.00356469
+P2,T4,0.05,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.05,0.47,government opposes change,default demobilises,0.966685,0.00929422,0.000340658
+P2,T3,0.05,0.47,government opposes change,default demobilises,0.920968,0.0201564,0.00321337
+P2,T4,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.05,0.58,government backs change,default demobilises,0.966685,0.00929422,0.000330154
+P2,T3,0.05,0.58,government backs change,default demobilises,0.920968,0.0201564,0.00289362
+P2,T4,0.05,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.05,0.58,government opposes change,default demobilises,0.966685,0.00929422,0.000350584
+P2,T3,0.05,0.58,government opposes change,default demobilises,0.920968,0.0201564,0.00383139
+P2,T4,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.25,0.36,government backs change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.25,0.36,government backs change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.25,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.25,0.36,government opposes change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.25,0.36,government opposes change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.25,0.47,government backs change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.25,0.47,government backs change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.25,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.25,0.47,government opposes change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.25,0.47,government opposes change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.25,0.58,government backs change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.25,0.58,government backs change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.25,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.25,0.58,government opposes change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.25,0.58,government opposes change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.45,0.36,government backs change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.45,0.36,government backs change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.45,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.45,0.36,government opposes change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.45,0.36,government opposes change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.45,0.47,government backs change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.45,0.47,government backs change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.45,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.45,0.47,government opposes change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.45,0.47,government opposes change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.45,0.58,government backs change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.45,0.58,government backs change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.45,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P2,T1,0.45,0.58,government opposes change,default demobilises,0.966685,0.00929422,0.000351514
+P2,T3,0.45,0.58,government opposes change,default demobilises,0.920968,0.0201564,0.00564072
+P2,T4,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P3,T1,0.05,0.36,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.05,0.36,government backs change,contested,0.5,0.530902,0.0137801
+P3,T4,0.05,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.05,0.36,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.05,0.36,government opposes change,contested,0.5,0.530902,0.0137437
+P3,T4,0.05,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.05,0.47,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.05,0.47,government backs change,contested,0.5,0.530902,0.00295022
+P3,T4,0.05,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.05,0.47,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.05,0.47,government opposes change,contested,0.5,0.530902,0.00294854
+P3,T4,0.05,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.05,0.58,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.05,0.58,government backs change,contested,0.5,0.530902,0.00785874
+P3,T4,0.05,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.05,0.58,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.05,0.58,government opposes change,contested,0.5,0.530902,0.00787065
+P3,T4,0.05,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.25,0.36,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.25,0.36,government backs change,contested,0.5,0.530902,0.0873973
+P3,T4,0.25,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.25,0.36,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.25,0.36,government opposes change,contested,0.5,0.530902,0.0859449
+P3,T4,0.25,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.25,0.47,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.25,0.47,government backs change,contested,0.5,0.530902,0.0187082
+P3,T4,0.25,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.25,0.47,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.25,0.47,government opposes change,contested,0.5,0.530902,0.018641
+P3,T4,0.25,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.25,0.58,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.25,0.58,government backs change,contested,0.5,0.530902,0.0494803
+P3,T4,0.25,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.25,0.58,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.25,0.58,government opposes change,contested,0.5,0.530902,0.0499569
+P3,T4,0.25,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.45,0.36,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.45,0.36,government backs change,contested,0.5,0.530902,0.210884
+P3,T4,0.45,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.45,0.36,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.45,0.36,government opposes change,contested,0.5,0.530902,0.202449
+P3,T4,0.45,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.45,0.47,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.45,0.47,government backs change,contested,0.5,0.530902,0.0459788
+P3,T4,0.45,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.45,0.47,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.45,0.47,government opposes change,contested,0.5,0.530902,0.0455749
+P3,T4,0.45,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3,T1,0.45,0.58,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.45,0.58,government backs change,contested,0.5,0.530902,0.119471
+P3,T4,0.45,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3,T1,0.45,0.58,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3,T3,0.45,0.58,government opposes change,contested,0.5,0.530902,0.122308
+P3,T4,0.45,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3a,T1,0.05,0.36,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.05,0.36,government backs change,contested,0.5,0.530902,0.0137801
+P3a,T4,0.05,0.36,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.05,0.36,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.05,0.36,government opposes change,contested,0.5,0.530902,0.0137437
+P3a,T4,0.05,0.36,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.05,0.47,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.05,0.47,government backs change,contested,0.5,0.530902,0.00295022
+P3a,T4,0.05,0.47,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.05,0.47,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.05,0.47,government opposes change,contested,0.5,0.530902,0.00294854
+P3a,T4,0.05,0.47,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.05,0.58,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.05,0.58,government backs change,contested,0.5,0.530902,0.00785874
+P3a,T4,0.05,0.58,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.05,0.58,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.05,0.58,government opposes change,contested,0.5,0.530902,0.00787065
+P3a,T4,0.05,0.58,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.25,0.36,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.25,0.36,government backs change,contested,0.5,0.530902,0.0873973
+P3a,T4,0.25,0.36,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.25,0.36,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.25,0.36,government opposes change,contested,0.5,0.530902,0.0859449
+P3a,T4,0.25,0.36,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.25,0.47,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.25,0.47,government backs change,contested,0.5,0.530902,0.0187082
+P3a,T4,0.25,0.47,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.25,0.47,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.25,0.47,government opposes change,contested,0.5,0.530902,0.018641
+P3a,T4,0.25,0.47,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.25,0.58,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.25,0.58,government backs change,contested,0.5,0.530902,0.0494803
+P3a,T4,0.25,0.58,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.25,0.58,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.25,0.58,government opposes change,contested,0.5,0.530902,0.0499569
+P3a,T4,0.25,0.58,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.45,0.36,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.45,0.36,government backs change,contested,0.5,0.530902,0.210884
+P3a,T4,0.45,0.36,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.45,0.36,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.45,0.36,government opposes change,contested,0.5,0.530902,0.202449
+P3a,T4,0.45,0.36,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.45,0.47,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.45,0.47,government backs change,contested,0.5,0.530902,0.0459788
+P3a,T4,0.45,0.47,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.45,0.47,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.45,0.47,government opposes change,contested,0.5,0.530902,0.0455749
+P3a,T4,0.45,0.47,government opposes change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.45,0.58,government backs change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.45,0.58,government backs change,contested,0.5,0.530902,0.119471
+P3a,T4,0.45,0.58,government backs change,lock (mutual abstention),3.22375,0,0
+P3a,T1,0.45,0.58,government opposes change,lock (mutual abstention),2.579,7.36494e-14,0
+P3a,T3,0.45,0.58,government opposes change,contested,0.5,0.530902,0.122308
+P3a,T4,0.45,0.58,government opposes change,lock (mutual abstention),3.22375,0,0
+P3b,T1,0.05,0.36,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.05,0.36,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.05,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.05,0.36,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.05,0.36,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.05,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.05,0.47,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.05,0.47,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.05,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.05,0.47,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.05,0.47,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.05,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.05,0.58,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.05,0.58,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.05,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.05,0.58,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.05,0.58,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.05,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.25,0.36,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.25,0.36,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.25,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.25,0.36,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.25,0.36,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.25,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.25,0.47,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.25,0.47,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.25,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.25,0.47,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.25,0.47,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.25,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.25,0.58,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.25,0.58,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.25,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.25,0.58,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.25,0.58,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.25,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.45,0.36,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.45,0.36,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.45,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.45,0.36,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.45,0.36,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.45,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.45,0.47,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.45,0.47,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.45,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.45,0.47,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.45,0.47,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.45,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3b,T1,0.45,0.58,government backs change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.45,0.58,government backs change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.45,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3b,T1,0.45,0.58,government opposes change,lock (default boycott),3.15318,3.88157e-13,0
+P3b,T3,0.45,0.58,government opposes change,lock (default boycott),2.27398,9.22825e-07,0
+P3b,T4,0.45,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.05,0.36,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.05,0.36,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.05,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.05,0.36,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.05,0.36,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.05,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.05,0.47,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.05,0.47,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.05,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.05,0.47,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.05,0.47,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.05,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.05,0.58,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.05,0.58,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.05,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.05,0.58,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.05,0.58,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.05,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.25,0.36,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.25,0.36,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.25,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.25,0.36,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.25,0.36,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.25,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.25,0.47,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.25,0.47,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.25,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.25,0.47,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.25,0.47,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.25,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.25,0.58,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.25,0.58,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.25,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.25,0.58,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.25,0.58,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.25,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.45,0.36,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.45,0.36,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.45,0.36,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.45,0.36,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.45,0.36,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.45,0.36,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.45,0.47,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.45,0.47,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.45,0.47,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.45,0.47,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.45,0.47,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.45,0.47,government opposes change,lock (default boycott),4.03239,0,0
+P3c,T1,0.45,0.58,government backs change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.45,0.58,government backs change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.45,0.58,government backs change,lock (default boycott),4.03239,0,0
+P3c,T1,0.45,0.58,government opposes change,lock (default boycott),3.15318,3.88171e-13,0
+P3c,T3,0.45,0.58,government opposes change,lock (default boycott),2.27398,9.45231e-07,0
+P3c,T4,0.45,0.58,government opposes change,lock (default boycott),4.03239,0,0
+P4,T1,0.05,0.36,government backs change,slack (V1 outcome),0.5,0.48575,0.0138138
+P4,T3,0.05,0.36,government backs change,slack (V1 outcome),0.5,0.5202,0.0137801
+P4,T4,0.05,0.36,government backs change,slack (V1 outcome),0.5,0.64915,0.0124071
+P4,T1,0.05,0.36,government opposes change,slack (V1 outcome),0.5,0.48575,0.0138138
+P4,T3,0.05,0.36,government opposes change,slack (V1 outcome),0.5,0.5202,0.0137437
+P4,T4,0.05,0.36,government opposes change,slack (V1 outcome),0.5,0.64915,0.0122314
+P4,T1,0.05,0.47,government backs change,slack (V1 outcome),0.5,0.48575,0.00296051
+P4,T3,0.05,0.47,government backs change,slack (V1 outcome),0.5,0.5202,0.00295022
+P4,T4,0.05,0.47,government backs change,slack (V1 outcome),0.5,0.64915,0.00264413
+P4,T1,0.05,0.47,government opposes change,slack (V1 outcome),0.5,0.48575,0.00296051
+P4,T3,0.05,0.47,government opposes change,slack (V1 outcome),0.5,0.5202,0.00294854
+P4,T4,0.05,0.47,government opposes change,slack (V1 outcome),0.5,0.64915,0.00263606
+P4,T1,0.05,0.58,government backs change,slack (V1 outcome),0.5,0.48575,0.00789436
+P4,T3,0.05,0.58,government backs change,slack (V1 outcome),0.5,0.5202,0.00785874
+P4,T4,0.05,0.58,government backs change,slack (V1 outcome),0.5,0.64915,0.00701137
+P4,T1,0.05,0.58,government opposes change,slack (V1 outcome),0.5,0.48575,0.00789436
+P4,T3,0.05,0.58,government opposes change,slack (V1 outcome),0.5,0.5202,0.00787065
+P4,T4,0.05,0.58,government opposes change,slack (V1 outcome),0.5,0.64915,0.00706873
+P4,T1,0.25,0.36,government backs change,slack (V1 outcome),0.5,0.48575,0.0869932
+P4,T3,0.25,0.36,government backs change,slack (V1 outcome),0.5,0.5202,0.0873973
+P4,T4,0.25,0.36,government backs change,slack (V1 outcome),0.5,0.64915,0.0812069
+P4,T1,0.25,0.36,government opposes change,slack (V1 outcome),0.5,0.48575,0.0869932
+P4,T3,0.25,0.36,government opposes change,slack (V1 outcome),0.5,0.5202,0.0859449
+P4,T4,0.25,0.36,government opposes change,slack (V1 outcome),0.5,0.64915,0.0742035
+P4,T1,0.25,0.47,government backs change,slack (V1 outcome),0.5,0.48575,0.018745
+P4,T3,0.25,0.47,government backs change,slack (V1 outcome),0.5,0.5202,0.0187082
+P4,T4,0.25,0.47,government backs change,slack (V1 outcome),0.5,0.64915,0.0168792
+P4,T1,0.25,0.47,government opposes change,slack (V1 outcome),0.5,0.48575,0.018745
+P4,T3,0.25,0.47,government opposes change,slack (V1 outcome),0.5,0.5202,0.018641
+P4,T4,0.25,0.47,government opposes change,slack (V1 outcome),0.5,0.64915,0.0165557
+P4,T1,0.25,0.58,government backs change,slack (V1 outcome),0.5,0.48575,0.0499053
+P4,T3,0.25,0.58,government backs change,slack (V1 outcome),0.5,0.5202,0.0494803
+P4,T4,0.25,0.58,government backs change,slack (V1 outcome),0.5,0.64915,0.0433797
+P4,T1,0.25,0.58,government opposes change,slack (V1 outcome),0.5,0.48575,0.0499053
+P4,T3,0.25,0.58,government opposes change,slack (V1 outcome),0.5,0.5202,0.0499569
+P4,T4,0.25,0.58,government opposes change,slack (V1 outcome),0.5,0.64915,0.045676
+P4,T1,0.45,0.36,government backs change,slack (V1 outcome),0.5,0.48575,0.207376
+P4,T3,0.45,0.36,government backs change,slack (V1 outcome),0.5,0.5202,0.210884
+P4,T4,0.45,0.36,government backs change,slack (V1 outcome),0.5,0.64915,0.207201
+P4,T1,0.45,0.36,government opposes change,slack (V1 outcome),0.5,0.48575,0.207376
+P4,T3,0.45,0.36,government opposes change,slack (V1 outcome),0.5,0.5202,0.202449
+P4,T4,0.45,0.36,government opposes change,slack (V1 outcome),0.5,0.64915,0.166308
+P4,T1,0.45,0.47,government backs change,slack (V1 outcome),0.5,0.48575,0.0459488
+P4,T3,0.45,0.47,government backs change,slack (V1 outcome),0.5,0.5202,0.0459788
+P4,T4,0.45,0.47,government backs change,slack (V1 outcome),0.5,0.64915,0.0419675
+P4,T1,0.45,0.47,government opposes change,slack (V1 outcome),0.5,0.48575,0.0459488
+P4,T3,0.45,0.47,government opposes change,slack (V1 outcome),0.5,0.5202,0.0455749
+P4,T4,0.45,0.47,government opposes change,slack (V1 outcome),0.5,0.64915,0.0400213
+P4,T1,0.45,0.58,government backs change,slack (V1 outcome),0.5,0.48575,0.121332
+P4,T3,0.45,0.58,government backs change,slack (V1 outcome),0.5,0.5202,0.119471
+P4,T4,0.45,0.58,government backs change,slack (V1 outcome),0.5,0.64915,0.101702
+P4,T1,0.45,0.58,government opposes change,slack (V1 outcome),0.5,0.48575,0.121332
+P4,T3,0.45,0.58,government opposes change,slack (V1 outcome),0.5,0.5202,0.122308
+P4,T4,0.45,0.58,government opposes change,slack (V1 outcome),0.5,0.64915,0.115397
+P5,T1,0.05,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.05,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.05,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.05,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.05,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.05,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.05,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.05,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.05,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.25,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.25,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.25,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.25,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.25,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.25,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.25,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.25,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.25,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.45,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.45,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.45,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.45,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.45,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.45,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.45,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.45,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.45,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5,T1,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5,T3,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5,T4,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.05,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.05,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.05,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.05,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.05,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.05,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.05,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.05,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.05,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.05,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.05,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.05,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.25,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.25,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.25,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.25,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.25,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.25,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.25,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.25,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.25,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.25,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.25,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.25,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.45,0.36,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.45,0.36,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.45,0.36,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.45,0.36,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.45,0.47,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.45,0.47,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.45,0.47,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.45,0.47,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.45,0.58,government backs change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.45,0.58,government backs change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.45,0.58,government backs change,lock (mutual abstention),2.14917,1.13266e-08,0
+P5c,T1,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,2.39731e-09,0
+P5c,T3,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,3.14352e-09,0
+P5c,T4,0.45,0.58,government opposes change,lock (mutual abstention),2.14917,1.13266e-08,0

@@ -1,0 +1,666 @@
+denominator,tau,t_min,rule,code,regime,P_bind,C1p_b,C1R_b,C1sum_b,C2,w_star_vs_V1,reading,in_S2,in_S3
+E_dom,0.2,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0380406,0.0380406,0.0760813,0,,equal to V1,True,True
+E_dom,0.2,0.2,V2 participation quorum (q=0.25),V2,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.499996,0.000348388,12.1437,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),1.91863e-16,2.23599e-22,0.5,0.5,5.77316e-14,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),4.89122e-07,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0.499911,0,12.1415,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),3.33153e-05,4.71026e-17,0.499967,0.499967,0,12.143,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,lock (default boycott),0.000232427,5.37206e-06,0.499773,0.499778,0.00735255,12.1396,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,lock (mutual abstention),0.000345095,9.17008e-13,0.499655,0.499655,0,12.1348,preferred to V1 iff w > w*,True,False
+E_dom,0.2,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.414789,0.0238079,0.109019,0.132827,0,4.98696,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.409843,0.00928482,0.099442,0.108727,0,2.13527,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.323222,0.0018047,0.178583,0.180387,0,3.87853,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.218862,0.000300472,0.281439,0.281739,0,6.44931,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.89122e-07,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48655,0.03275,0.0501,0.08285,0,2.27937,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0380406,0.0380406,0.0760813,0,,equal to V1,True,True
+E_dom,0.2,0.3,V2 participation quorum (q=0.25),V2,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.499672,0.00861585,12.1356,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),2.30336e-12,4.40382e-19,0.5,0.5,8.51946e-11,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),8.0354e-05,0,0.49992,0.49992,0,12.1417,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,lock (mutual abstention),0.0035649,3.59871e-11,0.496435,0.496435,0,12.0501,preferred to V1 iff w > w*,True,False
+E_dom,0.2,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),0.00177936,1.16573e-12,0.498221,0.498221,0,12.0971,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,lock (default boycott),0.00649937,0.000131673,0.493632,0.493764,0.0713004,12.018,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,lock (mutual abstention),0.00916175,3.81816e-09,0.490838,0.490838,0,11.903,preferred to V1 iff w > w*,True,False
+E_dom,0.2,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.310964,0.00728584,0.196321,0.203607,0,5.14654,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.409812,0.00915125,0.0993396,0.108491,0,2.12185,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.322977,0.00160141,0.178624,0.180226,0,3.85803,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.217782,0.000177482,0.282396,0.282573,0,6.45364,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),8.0354e-05,0,0.49992,0.49992,0,12.1417,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.2,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48655,0.03275,0.0501,0.08285,0,2.27937,preferred to V1 iff w > w*,True,True
+E_dom,0.2,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0302479,0.0302479,0.0604958,0,,equal to V1,True,True
+E_dom,0.25,0.2,V2 participation quorum (q=0.25),V2,lock (default boycott),3.63131e-06,2.28753e-08,0.499996,0.499996,0.00098211,15.53,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),1.91863e-16,2.23599e-22,0.5,0.5,1.79501e-12,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),4.89122e-07,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,lock (mutual abstention),8.89418e-05,3.67555e-15,0.499911,0.499911,0,15.5271,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),3.33153e-05,4.71026e-17,0.499967,0.499967,0,15.529,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.434922,0.0496768,0.114755,0.164432,0.218365,,V1 better at every w,False,False
+E_dom,0.25,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.39552,0.00988316,0.114363,0.124246,0,4.13042,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.579984,0.0985968,0.0186131,0.11721,0,0.170227,preferred to V1 iff w < w*,True,True
+E_dom,0.25,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408734,0.00452219,0.0957887,0.100311,0,2.54768,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.321084,0.000424198,0.17934,0.179765,0,4.99913,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.215625,3.33148e-05,0.284408,0.284442,0,8.41185,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.89122e-07,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.02585,0.04345,0.0693,0,3.00192,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0302479,0.0302479,0.0604958,0,,equal to V1,True,True
+E_dom,0.25,0.3,V2 participation quorum (q=0.25),V2,lock (default boycott),0.000330606,1.31532e-06,0.499671,0.499672,0.0195355,15.5199,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),2.30336e-12,4.40382e-19,0.5,0.5,1.4328e-09,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),8.0354e-05,0,0.49992,0.49992,0,15.5274,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.248896,0.000441972,0.251546,0.251988,0,7.42464,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),0.00177936,1.16573e-12,0.498221,0.498221,0,15.4713,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.363053,0.0317451,0.168692,0.200437,0.257413,,V1 better at every w,False,False
+E_dom,0.25,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.330783,0.00361164,0.172829,0.17644,0,5.35289,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.544301,0.0748037,0.0305028,0.105307,0,,V1 better at every w,False,False
+E_dom,0.25,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408721,0.00447096,0.0957499,0.100221,0,2.54111,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.320984,0.000383066,0.179399,0.179782,0,4.99422,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.215162,1.73682e-05,0.284855,0.284872,0,8.42219,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),8.0354e-05,0,0.49992,0.49992,0,15.5274,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.02585,0.04345,0.0693,0,3.00192,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0302479,0.0302479,0.0604958,0,,equal to V1,True,True
+E_dom,0.25,0.38,V2 participation quorum (q=0.25),V2,lock (default boycott),0.00458087,1.77469e-05,0.495437,0.495455,0.0954009,15.3883,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.2478e-09,7.08456e-17,0.5,0.5,1.62792e-07,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,15.53,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),0.00159117,0,0.498409,0.498409,0,15.4775,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.14833,2.5463e-05,0.351695,0.351721,0,10.6361,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),0.0157453,1.08316e-09,0.484255,0.484255,0,15.0095,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.2492,0.0142129,0.265013,0.279226,0.308686,14.6408,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.240836,0.000640966,0.259805,0.260446,0,7.75351,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.486691,0.0433109,0.0566196,0.0999305,0,,V1 better at every w,False,False
+E_dom,0.25,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408708,0.00441637,0.0957086,0.100125,0,2.53414,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.320882,0.000343107,0.179461,0.179805,0,4.98962,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.214735,1.05769e-05,0.285276,0.285286,0,8.43421,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,15.53,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),0.00159117,0,0.498409,0.498409,0,15.4775,preferred to V1 iff w > w*,True,False
+E_dom,0.25,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,2.63351e-06,0,0.499997,0.499997,0,15.53,preferred to V1 iff w > w*,False,False
+E_dom,0.25,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.02585,0.04345,0.0693,0,3.00192,preferred to V1 iff w > w*,True,True
+E_dom,0.25,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0251233,0.0251233,0.0502467,0,,equal to V1,True,True
+E_dom,0.3,0.2,V2 participation quorum (q=0.25),V2,default boycotts,0.435332,0.0362286,0.100897,0.137125,0.224166,,V1 better at every w,False,False
+E_dom,0.3,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),1.91863e-16,2.23599e-22,0.5,0.5,3.05775e-11,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),4.89122e-07,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.485628,0.0309049,0.0452764,0.0761814,0,,V1 better at every w,False,False
+E_dom,0.3,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.451113,0.0174623,0.0663491,0.0838115,0,5.38126,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.567099,0.104945,0.0378464,0.142792,0.0676519,,V1 better at every w,False,False
+E_dom,0.3,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.535331,0.0587202,0.0233894,0.0821096,0,0.0516103,preferred to V1 iff w < w*,True,True
+E_dom,0.3,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.674773,0.177024,0.00225151,0.179276,0,0.150571,preferred to V1 iff w < w*,True,True
+E_dom,0.3,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408151,0.00221157,0.0940609,0.0962725,0,3.00883,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319951,8.88922e-05,0.180138,0.180226,0,6.19204,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213876,2.34049e-06,0.286126,0.286129,0,10.3898,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.89122e-07,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.486,0.0212,0.0391,0.0603,0,3.56245,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0251233,0.0251233,0.0502467,0,,equal to V1,True,True
+E_dom,0.3,0.3,V2 participation quorum (q=0.25),V2,default boycotts,0.387687,0.0250801,0.137393,0.162473,0.252161,2598.48,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),2.30336e-12,4.40382e-19,0.5,0.5,2.01328e-08,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),8.0354e-05,0,0.49992,0.49992,0,18.8986,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.450986,0.0192285,0.0682429,0.0874713,0,7.31476,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.412418,0.00923442,0.0968161,0.106051,0,4.51213,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.53683,0.0891292,0.0522992,0.141428,0.0837221,,V1 better at every w,False,False
+E_dom,0.3,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.506448,0.0427363,0.0362881,0.0790244,0,,V1 better at every w,False,False
+E_dom,0.3,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.596276,0.104637,0.00836145,0.112999,0,0.210805,preferred to V1 iff w < w*,True,True
+E_dom,0.3,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408144,0.00218943,0.094045,0.0962344,0,3.00523,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319901,8.07154e-05,0.18018,0.18026,0,6.1917,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213637,1.54882e-06,0.286364,0.286366,0,10.399,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),8.0354e-05,0,0.49992,0.49992,0,18.8986,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.00167125,0,0.498329,0.498329,0,18.8353,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.486,0.0212,0.0391,0.0603,0,3.56245,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0251233,0.0251233,0.0502467,0,,equal to V1,True,True
+E_dom,0.3,0.38,V2 participation quorum (q=0.25),V2,default boycotts,0.326021,0.0149035,0.188883,0.203786,0.287442,16.0237,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.2478e-09,7.08456e-17,0.5,0.5,1.51274e-06,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),0.00159117,0,0.498409,0.498409,0,18.8385,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.408259,0.00989323,0.101635,0.111528,0,5.02369,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.364933,0.00386725,0.138934,0.142801,0,5.35426,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.497981,0.0717715,0.0737904,0.145562,0.104761,,V1 better at every w,False,False
+E_dom,0.3,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.470566,0.0277635,0.0571979,0.0849614,0,,V1 better at every w,False,False
+E_dom,0.3,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.478951,0.0199657,0.0410142,0.0609799,0,3.08102,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408138,0.0021673,0.0940291,0.0961964,0,3.00164,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319852,7.29011e-05,0.180221,0.180294,0,6.19141,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.21342,8.27567e-07,0.286581,0.286582,0,10.4073,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),0.00159117,0,0.498409,0.498409,0,18.8385,preferred to V1 iff w > w*,True,False
+E_dom,0.3,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.00149528,0,0.498505,0.498505,0,18.8423,preferred to V1 iff w > w*,False,False
+E_dom,0.3,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.486,0.0212,0.0391,0.0603,0,3.56245,preferred to V1 iff w > w*,True,True
+E_dom,0.3,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,18.9018,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0228096,0.0228096,0.0456192,0,,equal to V1,True,True
+E_dom,0.33,0.2,V2 participation quorum (q=0.25),V2,default boycotts,0.504409,0.058677,0.0542678,0.112945,0.142903,,V1 better at every w,False,False
+E_dom,0.33,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),1.91863e-16,2.23599e-22,0.5,0.5,1.0905e-10,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.395693,0,0.104307,0.104307,0,3.57294,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.548895,0.0647304,0.0158351,0.0805656,0,0.166372,preferred to V1 iff w < w*,True,True
+E_dom,0.33,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.518854,0.0444148,0.0255606,0.0699754,0,,V1 better at every w,False,False
+E_dom,0.33,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.620151,0.138141,0.0179906,0.156132,0,0.0417838,preferred to V1 iff w < w*,False,False
+E_dom,0.33,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.592304,0.0995155,0.00721173,0.106727,0,0.203346,preferred to V1 iff w < w*,True,True
+E_dom,0.33,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.528528,0.0450549,0.0165272,0.0615822,0,0.282413,preferred to V1 iff w < w*,True,True
+E_dom,0.33,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407924,0.00143252,0.0935081,0.0949407,0,3.30722,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.31951,3.25317e-05,0.180523,0.180555,0,6.92421,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213187,4.29568e-07,0.286814,0.286814,0,11.5745,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.395693,0,0.104307,0.104307,0,3.57294,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48575,0.01955,0.0377,0.05725,0,4.5682,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0228096,0.0228096,0.0456192,0,,equal to V1,True,True
+E_dom,0.33,0.3,V2 participation quorum (q=0.25),V2,default boycotts,0.475394,0.048326,0.0729321,0.121258,0.159656,,V1 better at every w,False,False
+E_dom,0.33,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),2.30336e-12,4.40382e-19,0.5,0.5,7.83302e-08,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.360436,0,0.139564,0.139564,0,5.11866,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.526339,0.0507102,0.0243713,0.0750816,0,,V1 better at every w,False,False
+E_dom,0.33,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.493639,0.0322323,0.038593,0.0708252,0,,V1 better at every w,False,False
+E_dom,0.33,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.600899,0.125291,0.0243916,0.149683,0.00799532,,V1 better at every w,False,False
+E_dom,0.33,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.5737,0.0846787,0.0109791,0.0956578,0,0.191218,preferred to V1 iff w < w*,True,True
+E_dom,0.33,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.496183,0.0217443,0.0255613,0.0473056,0,2.58313,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.40792,0.00141832,0.0934983,0.0949167,0,3.30456,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319474,2.9621e-05,0.180555,0.180585,0,6.92476,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213016,2.88374e-07,0.286984,0.286984,0,11.5819,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.360436,0,0.139564,0.139564,0,5.11866,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.00893752,0,0.491062,0.491062,0,20.5288,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48575,0.01955,0.0377,0.05725,0,4.5682,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0228096,0.0228096,0.0456192,0,,equal to V1,True,True
+E_dom,0.33,0.38,V2 participation quorum (q=0.25),V2,default boycotts,0.439443,0.0373595,0.0979161,0.135276,0.18043,,V1 better at every w,False,False
+E_dom,0.33,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.2478e-09,7.08456e-17,0.5,0.5,4.95451e-06,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.318037,0,0.181963,0.181963,0,6.97746,preferred to V1 iff w > w*,True,False
+E_dom,0.33,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.499938,0.0369398,0.037002,0.0739419,0,,V1 better at every w,False,False
+E_dom,0.33,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.464046,0.0212674,0.0572218,0.0784892,0,22.3138,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.577872,0.111136,0.0332639,0.1444,0.0194503,,V1 better at every w,False,False
+E_dom,0.33,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.551849,0.0693734,0.0175244,0.0868978,0,0.113505,preferred to V1 iff w < w*,True,True
+E_dom,0.33,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.496183,0.0217443,0.0255613,0.0473056,0,2.58313,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407916,0.00140464,0.0934889,0.0948935,0,3.30201,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.31944,2.68704e-05,0.180587,0.180613,0,6.92529,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.212862,1.60945e-07,0.287138,0.287138,0,11.5886,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.318037,0,0.181963,0.181963,0,6.97746,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.0077049,0,0.492295,0.492295,0,20.5828,preferred to V1 iff w > w*,False,False
+E_dom,0.33,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48575,0.01955,0.0377,0.05725,0,4.5682,preferred to V1 iff w > w*,True,True
+E_dom,0.33,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,20.9206,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0208858,0.0208858,0.0417715,0,,equal to V1,True,True
+E_dom,0.36,0.2,V2 participation quorum (q=0.25),V2,default boycotts,0.549904,0.0774237,0.0275192,0.104943,0.0789189,,V1 better at every w,False,False
+E_dom,0.36,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),1.91863e-16,2.23599e-22,0.5,0.5,2.55861e-10,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.45096,0,0.0490404,0.0490404,0,1.34803,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.596674,0.10122,0.00454645,0.105767,0,0.203391,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.568692,0.0767983,0.00810584,0.0849041,0,0.22857,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.660859,0.168772,0.0079122,0.176684,0,0.087727,preferred to V1 iff w < w*,False,False
+E_dom,0.36,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.636421,0.138316,0.00189471,0.14021,0,0.161723,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.49961,0.0207651,0.021155,0.0419201,0,2.23187,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407753,0.000918224,0.0931649,0.0940831,0,3.61983,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319176,1.13323e-05,0.180835,0.180847,0,7.66247,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.212662,7.02281e-08,0.287338,0.287338,0,12.7576,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.45096,0,0.0490404,0.0490404,0,1.34803,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.124044,0,0.375956,0.375956,0,17.0006,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48555,0.01785,0.0362,0.05405,0,5.04461,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0208858,0.0208858,0.0417715,0,,equal to V1,True,True
+E_dom,0.36,0.3,V2 participation quorum (q=0.25),V2,default boycotts,0.53378,0.0705359,0.0367557,0.107292,0.0879454,,V1 better at every w,False,False
+E_dom,0.36,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),2.30336e-12,4.40382e-19,0.5,0.5,2.24255e-07,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.431844,0,0.0681555,0.0681555,0,2.26325,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.582199,0.089317,0.00711794,0.0964349,0,0.201192,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.552793,0.0652411,0.0124485,0.0776896,0,0.19022,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.64851,0.158953,0.0104434,0.169397,0,0.0756324,preferred to V1 iff w < w*,False,False
+E_dom,0.36,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.624434,0.127172,0.00273852,0.129911,0,0.170739,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.49961,0.0207651,0.021155,0.0419201,0,2.23187,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.40775,0.000909522,0.0931594,0.0940689,0,3.61798,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.31915,1.02795e-05,0.180861,0.180871,0,7.66329,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.212536,4.77161e-08,0.287464,0.287464,0,12.7637,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.431844,0,0.0681555,0.0681555,0,2.26325,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.0975039,0,0.402496,0.402496,0,18.2713,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48555,0.01785,0.0362,0.05405,0,5.04461,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0208858,0.0208858,0.0417715,0,,equal to V1,True,True
+E_dom,0.36,0.38,V2 participation quorum (q=0.25),V2,default boycotts,0.513673,0.0623893,0.0487161,0.111105,0.0992153,,V1 better at every w,False,False
+E_dom,0.36,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.2478e-09,7.08456e-17,0.5,0.5,1.41064e-05,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,22.9397,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.407857,0,0.0921428,0.0921428,0,3.41175,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.565865,0.076362,0.0104969,0.0868589,0,0.187267,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.534462,0.0528871,0.0184247,0.0713118,0,0.076906,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.634559,0.148502,0.0139437,0.162446,0,0.0543977,preferred to V1 iff w < w*,False,False
+E_dom,0.36,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.6108,0.115156,0.00435662,0.119513,0,0.175337,preferred to V1 iff w < w*,True,True
+E_dom,0.36,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.49961,0.0207651,0.021155,0.0419201,0,2.23187,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407747,0.00090123,0.0931542,0.0940554,0,3.61622,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319125,9.37353e-06,0.180884,0.180893,0,7.66408,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.212423,2.75733e-08,0.287577,0.287577,0,12.769,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,22.9397,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.407857,0,0.0921428,0.0921428,0,3.41175,preferred to V1 iff w > w*,False,True
+E_dom,0.36,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.0716231,0,0.428377,0.428377,0,19.5105,preferred to V1 iff w > w*,False,False
+E_dom,0.36,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48555,0.01785,0.0362,0.05405,0,5.04461,preferred to V1 iff w > w*,True,True
+E_dom,0.36,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,22.9398,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.500014,0.0175948,0.0175805,0.0351753,0,,equal to V1,True,True
+E_dom,0.42,0.2,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.5648,0.0840758,0.0192758,0.103352,0.00119848,,V1 better at every w,False,False
+E_dom,0.42,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),1.91863e-16,2.23599e-22,0.5,0.5,4.99839e-10,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.46348,0,0.0365204,0.0365204,0,1.07645,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.654189,0.154431,0.000241865,0.154673,0,0.12671,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises (capped),0.615814,0.116717,0.000902708,0.11762,0,0.168254,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.713451,0.21458,0.00112933,0.215709,0,0.0835146,preferred to V1 iff w < w*,False,False
+E_dom,0.42,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.694792,0.194878,8.52268e-05,0.194963,0,0.0986854,preferred to V1 iff w < w*,True,False
+E_dom,0.42,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.500014,0.0175946,0.0175809,0.0351755,0,1.85822,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407497,0.000350148,0.0928532,0.0932034,0,4.36499,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.318701,1.13963e-06,0.181301,0.181302,0,9.30562,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.211929,1.302e-09,0.288071,0.288071,0,15.3733,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),4.62268e-12,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.46348,0,0.0365204,0.0365204,0,1.07645,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises (capped),0.176,0,0.324,0.324,0,17.4154,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48605,0.01575,0.0336,0.04935,0,8.68356,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.500014,0.0175948,0.0175805,0.0351753,0,,equal to V1,True,True
+E_dom,0.42,0.3,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.5648,0.0840758,0.0192758,0.103352,0.00119848,,V1 better at every w,False,False
+E_dom,0.42,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),2.30336e-12,4.40382e-19,0.5,0.5,7.37492e-07,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.46348,0,0.0365204,0.0365204,0,1.07645,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.649841,0.150171,0.000329722,0.150501,0,0.130119,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises (capped),0.615814,0.116717,0.000902708,0.11762,0,0.168254,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,"no pure equilibrium (mixed, approx.)",0.605681,0.109541,0.00385943,0.1134,0,0.149229,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.643167,0.14397,0.000802474,0.144772,0,0.132764,preferred to V1 iff w < w*,True,False
+E_dom,0.42,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.500014,0.0175946,0.0175809,0.0351755,0,1.85822,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407495,0.000346229,0.0928508,0.093197,0,4.36386,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.318684,1.02525e-06,0.181317,0.181318,0,9.30648,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.211853,9.05875e-10,0.288147,0.288147,0,15.3776,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),9.46478e-09,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.46348,0,0.0365204,0.0365204,0,1.07645,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises (capped),0.176,0,0.324,0.324,0,17.4154,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48605,0.01575,0.0336,0.04935,0,8.68357,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.500014,0.0175948,0.0175805,0.0351753,0,,equal to V1,True,True
+E_dom,0.42,0.38,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.5648,0.0840758,0.0192758,0.103352,0.00119848,,V1 better at every w,False,False
+E_dom,0.42,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.2478e-09,7.08456e-17,0.5,0.5,5.56648e-05,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,27.4182,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.46348,0,0.0365204,0.0365204,0,1.07645,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.644634,0.145143,0.000509002,0.145652,0,0.133843,preferred to V1 iff w < w*,True,False
+E_dom,0.42,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.614426,0.115453,0.00102731,0.11648,0,0.169154,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,"no pure equilibrium (mixed, approx.)",0.521369,0.033883,0.0125138,0.0463968,0,0.311063,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.51061,0.0257844,0.0151742,0.0409585,0,0.293825,preferred to V1 iff w < w*,True,True
+E_dom,0.42,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.500014,0.0175946,0.0175809,0.0351755,0,1.85822,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407494,0.000342608,0.0928483,0.0931909,0,4.3628,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.318672,9.29603e-07,0.181329,0.18133,0,9.30714,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.211787,5.56655e-10,0.288213,0.288213,0,15.3814,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.25942e-06,0,0.499999,0.499999,0,27.4182,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.46348,0,0.0365204,0.0365204,0,1.07645,preferred to V1 iff w > w*,False,True
+E_dom,0.42,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises (capped),0.176,0,0.324,0.324,0,17.4154,preferred to V1 iff w > w*,False,False
+E_dom,0.42,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48605,0.01575,0.0336,0.04935,0,8.68358,preferred to V1 iff w > w*,True,True
+E_dom,0.42,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,27.4183,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0380406,0.0380406,0.0760813,0,,equal to V1,True,True
+E_full,0.2,0.2,V2 participation quorum (q=0.25),V2,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.499998,0.000206329,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),4.80172e-17,5.75966e-23,0.5,0.5,2.08722e-14,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),2.19796e-07,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0.499951,0,12.1426,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),6.84469e-05,3.61398e-15,0.499932,0.499932,0,12.142,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,lock (default boycott),0.000479548,1.52599e-05,0.499536,0.499551,0.0116451,12.1365,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,lock (mutual abstention),0.000567183,1.41299e-11,0.499433,0.499433,0,12.1289,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.47062,0.0444223,0.0738018,0.118224,0,,V1 better at every w,False,False
+E_full,0.2,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.409846,0.00929888,0.0994528,0.108752,0,2.13668,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.323249,0.00182683,0.178578,0.180405,0,3.88077,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.21899,0.000325906,0.281336,0.281662,0,6.45094,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.19796e-07,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48655,0.03275,0.0501,0.08285,0,2.27937,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0380406,0.0380406,0.0760813,0,,equal to V1,True,True
+E_full,0.2,0.3,V2 participation quorum (q=0.25),V2,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.499857,0.00498286,12.1402,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),3.88171e-13,5.93776e-20,0.5,0.5,2.2184e-11,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),3.31831e-05,0,0.499967,0.499967,0,12.143,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,lock (mutual abstention),0.00191697,8.02677e-12,0.498083,0.498083,0,12.0934,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),0.00244572,1.64317e-11,0.497554,0.497554,0,12.0795,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,lock (default boycott),0.00898788,0.000267784,0.49128,0.491548,0.0843563,11.9991,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,lock (mutual abstention),0.0111068,2.16331e-08,0.488893,0.488893,0,11.8519,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.39588,0.0215744,0.125694,0.147269,0,5.32325,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.409819,0.00918242,0.0993635,0.108546,0,2.12497,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.323033,0.00164694,0.178614,0.180261,0,3.86258,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.218012,0.000197858,0.282186,0.282383,0,6.45156,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.31831e-05,0,0.499967,0.499967,0,12.143,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48655,0.03275,0.0501,0.08285,0,2.27937,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0380406,0.0380406,0.0760813,0,,equal to V1,True,True
+E_full,0.2,0.38,V2 participation quorum (q=0.25),V2,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.497908,0.0318588,12.0909,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.86082e-10,4.12533e-18,0.5,0.5,3.73071e-09,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),0.000686995,0,0.499313,0.499313,0,12.1258,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,lock (mutual abstention),0.0150756,3.17228e-09,0.484924,0.484924,0,11.7475,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),0.0180374,8.00326e-09,0.481963,0.481963,0,11.6697,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,lock (default boycott),0.0457444,0.00154439,0.4558,0.457344,0.206522,11.4466,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.0585766,3.41766e-06,0.441427,0.44143,0,10.605,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.260911,0.00373009,0.242819,0.246549,0,5.96838,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.409788,0.00904865,0.0992608,0.108309,0,2.11162,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.3228,0.00146571,0.178666,0.180131,0,3.84484,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.217108,0.000117634,0.28301,0.283127,0,6.45964,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),0.000686995,0,0.499313,0.499313,0,12.1258,preferred to V1 iff w > w*,True,False
+E_full,0.2,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.2,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48655,0.03275,0.0501,0.08285,0,2.27937,preferred to V1 iff w > w*,True,True
+E_full,0.2,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,12.1438,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0302479,0.0302479,0.0604958,0,,equal to V1,True,True
+E_full,0.25,0.2,V2 participation quorum (q=0.25),V2,lock (default boycott),1.66421e-06,1.01557e-08,0.499998,0.499998,0.000604595,15.53,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),4.80172e-17,5.75966e-23,0.5,0.5,5.44897e-13,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),2.19796e-07,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,lock (mutual abstention),4.87701e-05,4.03824e-16,0.499951,0.499951,0,15.5285,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,lock (mutual abstention),6.84469e-05,3.61398e-15,0.499932,0.499932,0,15.5278,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.490943,0.0732468,0.0823042,0.155551,0.15787,,V1 better at every w,False,False
+E_full,0.25,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.45228,0.0250712,0.0727912,0.0978624,0,8.21824,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.616816,0.128377,0.0115609,0.139938,0,0.190432,preferred to V1 iff w < w*,True,True
+E_full,0.25,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408735,0.00452793,0.095793,0.100321,0,2.54842,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.321095,0.000429196,0.179334,0.179763,0,4.99976,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.21568,3.52268e-05,0.284355,0.28439,0,8.41061,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.19796e-07,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.02585,0.04345,0.0693,0,3.00192,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0302479,0.0302479,0.0604958,0,,equal to V1,True,True
+E_full,0.25,0.3,V2 participation quorum (q=0.25),V2,lock (default boycott),0.000144044,5.17664e-07,0.499856,0.499857,0.0118361,15.5256,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),3.88171e-13,5.93776e-20,0.5,0.5,3.85073e-10,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),3.31831e-05,0,0.499967,0.499967,0,15.529,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.267914,0.000678323,0.232764,0.233442,0,6.8488,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.286835,0.00114585,0.214311,0.215457,0,6.32475,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.440056,0.0556033,0.115548,0.171151,0.185908,,V1 better at every w,False,False
+E_full,0.25,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.404585,0.013726,0.109141,0.122867,0,4.77504,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.590206,0.107193,0.0169871,0.124181,0,0.172339,preferred to V1 iff w < w*,True,True
+E_full,0.25,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408724,0.00448242,0.0957586,0.100241,0,2.54258,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.321006,0.000391733,0.179386,0.179778,0,4.99522,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.215261,2.07555e-05,0.28476,0.284781,0,8.42,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.31831e-05,0,0.499967,0.499967,0,15.529,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.02585,0.04345,0.0693,0,3.00192,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0302479,0.0302479,0.0604958,0,,equal to V1,True,True
+E_full,0.25,0.38,V2 participation quorum (q=0.25),V2,lock (default boycott),0.00210539,6.87124e-06,0.497901,0.497908,0.0622177,15.4642,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.86082e-10,4.12533e-18,0.5,0.5,3.60336e-08,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),0.000686995,0,0.499313,0.499313,0,15.5074,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.18356,7.9599e-05,0.31652,0.316599,0,9.48916,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.205702,0.000176392,0.294474,0.29465,0,8.7866,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.366846,0.0365233,0.169677,0.2062,0.225059,,V1 better at every w,False,False
+E_full,0.25,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.340449,0.00519465,0.164746,0.16994,0,5.36848,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,default demobilises,0.547627,0.0761795,0.0285529,0.104732,0,0.0369024,preferred to V1 iff w < w*,True,True
+E_full,0.25,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408712,0.0044352,0.0957228,0.100158,0,2.53654,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.320916,0.000356721,0.17944,0.179797,0,4.99119,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.214875,1.21845e-05,0.285137,0.28515,0,8.43008,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),0.000686995,0,0.499313,0.499313,0,15.5074,preferred to V1 iff w > w*,True,False
+E_full,0.25,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.25,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.02585,0.04345,0.0693,0,3.00192,preferred to V1 iff w > w*,True,True
+E_full,0.25,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,15.5301,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0251232,0.0251232,0.0502464,0,,equal to V1,True,True
+E_full,0.3,0.2,V2 participation quorum (q=0.25),V2,default boycotts,0.427571,0.0293018,0.101731,0.131032,0.230718,,V1 better at every w,False,False
+E_full,0.3,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),4.80172e-17,5.75966e-23,0.5,0.5,5.52491e-12,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),2.19796e-07,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.488094,0.0312864,0.0431923,0.0744787,0,,V1 better at every w,False,False
+E_full,0.3,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.499644,0.0369191,0.0372753,0.0741944,0,,V1 better at every w,False,False
+E_full,0.3,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.605899,0.131375,0.0254756,0.15685,0.0175383,,V1 better at every w,False,False
+E_full,0.3,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.575763,0.0879686,0.0122052,0.100174,0,0.205552,preferred to V1 iff w < w*,True,True
+E_full,0.3,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.641958,0.146031,0.00407272,0.150104,0,0.174104,preferred to V1 iff w < w*,True,True
+E_full,0.3,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408151,0.00221409,0.0940627,0.0962768,0,3.00926,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319957,8.98818e-05,0.180133,0.180223,0,6.19213,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213905,2.4368e-06,0.286098,0.2861,0,10.3888,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.19796e-07,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.486,0.0212,0.0391,0.0603,0,3.56261,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0251232,0.0251232,0.0502464,0,,equal to V1,True,True
+E_full,0.3,0.3,V2 participation quorum (q=0.25),V2,default boycotts,0.389073,0.0225176,0.133445,0.155962,0.253488,41.5725,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),3.88171e-13,5.93776e-20,0.5,0.5,4.80996e-09,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),3.31831e-05,0,0.499967,0.499967,0,18.9006,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.458618,0.0211158,0.0624977,0.0836135,0,9.3265,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.471254,0.0254804,0.0542264,0.0797067,0,,V1 better at every w,False,False
+E_full,0.3,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.584132,0.11809,0.0339588,0.152049,0.0283847,,V1 better at every w,False,False
+E_full,0.3,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.554647,0.073523,0.0188757,0.0923987,0,0.129081,preferred to V1 iff w < w*,True,True
+E_full,0.3,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.491467,0.0228827,0.0314161,0.0542988,0,2.80868,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.408146,0.0021942,0.0940484,0.0962426,0,3.00603,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319912,8.24843e-05,0.180171,0.180253,0,6.19181,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213687,1.71552e-06,0.286314,0.286316,0,10.3971,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.31831e-05,0,0.499967,0.499967,0,18.9006,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.486,0.0212,0.0391,0.0603,0,3.56261,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0251232,0.0251232,0.0502464,0,,equal to V1,True,True
+E_full,0.3,0.38,V2 participation quorum (q=0.25),V2,default boycotts,0.339904,0.0154447,0.17554,0.190985,0.281935,15.5414,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.86082e-10,4.12533e-18,0.5,0.5,3.82697e-07,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,lock (mutual abstention),0.000686995,0,0.499313,0.499313,0,18.8746,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.423581,0.0126334,0.0890525,0.101686,0,5.11851,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.437522,0.0157617,0.0782395,0.0940013,0,5.67395,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.557652,0.103454,0.0458023,0.149257,0.0418569,,V1 better at every w,False,False
+E_full,0.3,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.529438,0.0579622,0.0285246,0.0864868,0,,V1 better at every w,False,False
+E_full,0.3,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.491467,0.0228827,0.0314161,0.0542988,0,2.80868,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.40814,0.00217471,0.0940344,0.0962091,0,3.00287,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319868,7.54188e-05,0.180207,0.180282,0,6.19152,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213491,1.06321e-06,0.28651,0.286511,0,10.4047,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,lock (mutual abstention),0.000686995,0,0.499313,0.499313,0,18.8746,preferred to V1 iff w > w*,True,False
+E_full,0.3,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.00154984,0,0.49845,0.49845,0,18.8402,preferred to V1 iff w > w*,False,False
+E_full,0.3,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.486,0.0212,0.0391,0.0603,0,3.56261,preferred to V1 iff w > w*,True,True
+E_full,0.3,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,18.9019,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0228065,0.0228062,0.0456127,0,,equal to V1,True,True
+E_full,0.33,0.2,V2 participation quorum (q=0.25),V2,default boycotts,0.483145,0.0401678,0.0570224,0.0971902,0.156705,,V1 better at every w,False,False
+E_full,0.33,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),4.80172e-17,5.75966e-23,0.5,0.5,1.19922e-11,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.381614,0,0.118386,0.118386,0,4.19088,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.546517,0.0615949,0.0150782,0.076673,0,0.199237,preferred to V1 iff w < w*,True,True
+E_full,0.33,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.557076,0.0696388,0.0125625,0.0822013,0,0.218733,preferred to V1 iff w < w*,True,True
+E_full,0.33,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.652199,0.163629,0.0114299,0.175059,0,0.0807847,preferred to V1 iff w < w*,False,False
+E_full,0.33,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.626119,0.12963,0.00351191,0.133142,0,0.180618,preferred to V1 iff w < w*,True,True
+E_full,0.33,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.498896,0.0224785,0.0235824,0.0460609,0,2.36633,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407925,0.0014334,0.0935088,0.0949422,0,3.30801,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319514,3.2904e-05,0.180519,0.180552,0,6.92524,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213208,4.46865e-07,0.286793,0.286793,0,11.5753,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.381614,0,0.118386,0.118386,0,4.19088,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48575,0.01955,0.0377,0.05725,0,4.57354,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0228065,0.0228062,0.0456127,0,,equal to V1,True,True
+E_full,0.33,0.3,V2 participation quorum (q=0.25),V2,default boycotts,0.463714,0.0362664,0.0725525,0.108819,0.168138,,V1 better at every w,False,False
+E_full,0.33,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),3.88171e-13,5.93776e-20,0.5,0.5,1.3816e-08,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.357838,0,0.142162,0.142162,0,5.23341,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.528456,0.0505112,0.0220552,0.0725663,0,0.027109,preferred to V1 iff w < w*,True,True
+E_full,0.33,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.539724,0.0582225,0.0184986,0.0767211,0,0.12163,preferred to V1 iff w < w*,True,True
+E_full,0.33,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.638652,0.153639,0.0149868,0.168625,0,0.0597672,preferred to V1 iff w < w*,False,False
+E_full,0.33,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.612903,0.118058,0.00515457,0.123212,0,0.185317,preferred to V1 iff w < w*,True,True
+E_full,0.33,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.498896,0.0224785,0.0235824,0.0460609,0,2.36633,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407921,0.00142054,0.0934999,0.0949204,0,3.30561,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319482,3.0232e-05,0.180548,0.180579,0,6.92572,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.213052,3.1797e-07,0.286948,0.286949,0,11.582,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.357838,0,0.142162,0.142162,0,5.23341,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.00929422,0,0.490706,0.490706,0,20.516,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48575,0.01955,0.0377,0.05725,0,4.57354,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.5,0.0228065,0.0228062,0.0456127,0,,equal to V1,True,True
+E_full,0.33,0.38,V2 participation quorum (q=0.25),V2,default boycotts,0.438544,0.0313122,0.0927685,0.124081,0.182886,,V1 better at every w,False,False
+E_full,0.33,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.86082e-10,4.12533e-18,0.5,0.5,1.228e-06,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises,0.327375,0,0.172625,0.172625,0,6.56914,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.507424,0.0392949,0.0318707,0.0711657,0,,V1 better at every w,False,False
+E_full,0.33,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.519363,0.0467686,0.0274059,0.0741745,0,,V1 better at every w,False,False
+E_full,0.33,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.623193,0.142732,0.019539,0.162271,0,0.0272433,preferred to V1 iff w < w*,False,False
+E_full,0.33,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.597709,0.105295,0.00758595,0.112881,0,0.184514,preferred to V1 iff w < w*,True,True
+E_full,0.33,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.498896,0.0224785,0.0235824,0.0460609,0,2.36633,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407917,0.00140837,0.0934915,0.0948998,0,3.30334,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319451,2.77764e-05,0.180576,0.180604,0,6.9262,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.212912,2.02482e-07,0.287088,0.287088,0,11.5881,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises,0.327375,0,0.172625,0.172625,0,6.56914,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.0080352,0,0.491965,0.491965,0,20.5713,preferred to V1 iff w > w*,False,False
+E_full,0.33,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.48575,0.01955,0.0377,0.05725,0,4.57354,preferred to V1 iff w > w*,True,True
+E_full,0.33,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,20.9236,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.500005,0.0208451,0.0208405,0.0416856,0,,equal to V1,True,True
+E_full,0.36,0.2,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0928769,0.114105,,V1 better at every w,False,False
+E_full,0.36,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),4.80172e-17,5.75966e-23,0.5,0.5,1.93069e-11,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.39316,0,0.10684,0.10684,0,4.12563,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.585688,0.0900392,0.00435097,0.0943902,0,0.238308,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.596401,0.100007,0.00360582,0.103613,0,0.217715,preferred to V1 iff w < w*,True,False
+E_full,0.36,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.686354,0.191076,0.00472274,0.195799,0,0.0946815,preferred to V1 iff w < w*,False,False
+E_full,0.36,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.663973,0.164838,0.000864261,0.165702,0,0.138731,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499927,0.0208198,0.0208926,0.0417125,0,2.06608,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407751,0.000913042,0.093162,0.0940751,0,3.62841,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319178,1.14418e-05,0.180834,0.180845,0,7.67958,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.212678,7.30019e-08,0.287322,0.287323,0,12.784,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.39316,0,0.10684,0.10684,0,4.12563,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.109225,0,0.390775,0.390775,0,17.7468,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4855,0.01785,0.03625,0.0541,0,5.14497,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.500005,0.0208451,0.0208405,0.0416856,0,,equal to V1,True,True
+E_full,0.36,0.3,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0928769,0.114105,,V1 better at every w,False,False
+E_full,0.36,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),3.88171e-13,5.93776e-20,0.5,0.5,2.60527e-08,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.39316,0,0.10684,0.10684,0,4.12563,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.575869,0.0822931,0.00642422,0.0887174,0,0.234609,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.586767,0.0918778,0.00511037,0.0969881,0,0.221449,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.678507,0.184489,0.00598208,0.190471,0,0.0907972,preferred to V1 iff w < w*,False,False
+E_full,0.36,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.655963,0.157094,0.00113169,0.158226,0,0.144652,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499927,0.0208198,0.0208926,0.0417125,0,2.06608,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407748,0.000905039,0.0931566,0.0940617,0,3.62668,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319154,1.04587e-05,0.180856,0.180866,0,7.68028,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.212562,5.24147e-08,0.287438,0.287438,0,12.7895,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.39316,0,0.10684,0.10684,0,4.12563,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.092771,0,0.407229,0.407229,0,18.5362,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4855,0.01785,0.03625,0.0541,0,5.14498,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.500005,0.0208451,0.0208405,0.0416856,0,,equal to V1,True,True
+E_full,0.36,0.38,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0928769,0.114105,,V1 better at every w,False,False
+E_full,0.36,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.86082e-10,4.12533e-18,0.5,0.5,2.749e-06,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.39316,0,0.10684,0.10684,0,4.12563,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises,0.564102,0.0734196,0.00931715,0.0827367,0,0.219181,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises,0.575243,0.0829727,0.00772982,0.0907026,0,0.211028,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,default boycotts,0.669472,0.177095,0.00762329,0.184718,0,0.0845901,preferred to V1 iff w < w*,False,False
+E_full,0.36,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,default demobilises,0.646991,0.148725,0.00173396,0.150459,0,0.14941,preferred to V1 iff w < w*,True,True
+E_full,0.36,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499927,0.0208198,0.0208926,0.0417125,0,2.06608,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407746,0.000897537,0.0931515,0.094049,0,3.62506,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.319132,9.63999e-06,0.180878,0.180887,0,7.68102,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.21246,3.41215e-08,0.28754,0.287541,0,12.7944,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.39316,0,0.10684,0.10684,0,4.12563,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises,0.0745062,0,0.425494,0.425494,0,19.4124,preferred to V1 iff w > w*,False,False
+E_full,0.36,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4855,0.01785,0.03625,0.0541,0,5.14497,preferred to V1 iff w > w*,True,True
+E_full,0.36,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,22.9867,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.499979,0.0160488,0.01607,0.0321188,0,,equal to V1,True,True
+E_full,0.42,0.2,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0928769,0.0454065,,V1 better at every w,False,False
+E_full,0.42,0.2,V2 participation quorum (q=0.4),V2,lock (default boycott),4.80172e-17,5.75966e-23,0.5,0.5,2.35423e-11,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.39316,0,0.10684,0.10684,0,5.65585,preferred to V1 iff w > w*,True,False
+E_full,0.42,0.2,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises (capped),0.599195,0.101335,0.00214038,0.103475,0,0.163328,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.2,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises (capped),0.613566,0.115028,0.00146115,0.116489,0,0.147596,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.2,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,"no pure equilibrium (mixed, approx.)",0.537093,0.0453925,0.00829953,0.053692,5.51994e-06,0.264809,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.2,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,"no pure equilibrium (mixed, approx.)",0.578033,0.0822886,0.0042556,0.0865442,0,0.178358,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.2,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499979,0.0160488,0.0160701,0.0321188,0,1.53636,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.2,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407478,0.000294539,0.0928164,0.0931109,0,4.87147,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.2,V7 supermajority of valid votes (qS=0.6),V7,contested,0.318647,1.05428e-06,0.181354,0.181355,0,10.2995,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.21193,1.3494e-09,0.28807,0.28807,0,16.9484,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),1.38976e-12,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.39316,0,0.10684,0.10684,0,5.65585,preferred to V1 iff w > w*,True,False
+E_full,0.42,0.2,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises (capped),0.114827,0,0.385173,0.385173,0,22.9988,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.2,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.0154,0.033,0.0484,0,26.095,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.2,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.499979,0.0160488,0.01607,0.0321188,0,,equal to V1,True,True
+E_full,0.42,0.3,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0928769,0.0454065,,V1 better at every w,False,False
+E_full,0.42,0.3,V2 participation quorum (q=0.4),V2,lock (default boycott),3.88171e-13,5.93776e-20,0.5,0.5,3.92561e-08,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.39316,0,0.10684,0.10684,0,5.65585,preferred to V1 iff w > w*,True,False
+E_full,0.42,0.3,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises (capped),0.599195,0.101335,0.00214038,0.103475,0,0.163328,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.3,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises (capped),0.613566,0.115028,0.00146115,0.116489,0,0.147596,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.3,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,slack (V1 outcome),0.499979,0.0160488,0.01607,0.0321188,0,1.02334,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.3,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,slack (V1 outcome),0.499398,0.0158675,0.0164697,0.0323372,0,2.2044,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.3,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499979,0.0160488,0.0160701,0.0321188,0,1.53636,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.3,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407488,0.000290713,0.0928028,0.0930935,0,4.86943,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.3,V7 supermajority of valid votes (qS=0.6),V7,contested,0.318649,9.49239e-07,0.181352,0.181353,0,10.2993,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.211853,9.85309e-10,0.288147,0.288147,0,16.9531,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),2.39731e-09,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.39316,0,0.10684,0.10684,0,5.65585,preferred to V1 iff w > w*,True,False
+E_full,0.42,0.3,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises (capped),0.114827,0,0.385173,0.385173,0,22.9988,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.3,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.0154,0.033,0.0484,0,26.0951,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.3,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,V1 no quorum (majority of valid votes),V1,slack (V1 outcome),0.499979,0.0160488,0.01607,0.0321188,0,,equal to V1,True,True
+E_full,0.42,0.38,V2 participation quorum (q=0.25),V2,default boycotts (capped),0.489896,0.0413866,0.0514903,0.0928769,0.0454065,,V1 better at every w,False,False
+E_full,0.42,0.38,V2 participation quorum (q=0.4),V2,lock (default boycott),1.86082e-10,4.12533e-18,0.5,0.5,5.57632e-06,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,V2 participation quorum (q=0.5),V2,lock (default boycott),0,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,"V3 approval quorum (q=0.333333, denominator=E)",V3,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,"V3 approval quorum (q=0.25, denominator=E)",V3,default demobilises (capped),0.39316,0,0.10684,0.10684,0,5.65585,preferred to V1 iff w > w*,True,False
+E_full,0.42,0.38,"V3 approval quorum (q=0.2, denominator=E)",V3,default demobilises (capped),0.599194,0.101334,0.00214038,0.103475,0,0.16333,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.38,"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,default demobilises (capped),0.613564,0.115025,0.00146115,0.116487,0,0.147599,preferred to V1 iff w < w*,True,True
+E_full,0.42,0.38,"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,slack (V1 outcome),0.499979,0.0160488,0.01607,0.0321188,0,1.14817,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.38,"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,slack (V1 outcome),0.499398,0.0158675,0.0164697,0.0323372,0,2.20439,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.38,"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,slack (V1 outcome),0.499979,0.0160488,0.0160701,0.0321188,0,1.53636,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.38,V7 supermajority of valid votes (qS=0.55),V7,contested,0.407497,0.000287215,0.0927899,0.0930771,0,4.86753,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.38,V7 supermajority of valid votes (qS=0.6),V7,contested,0.318641,8.58651e-07,0.18136,0.18136,0,10.2997,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,V7 supermajority of valid votes (qS=0.666667),V7,contested,0.211796,6.67215e-10,0.288204,0.288204,0,16.9567,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,lock (mutual abstention),3.03605e-07,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,default demobilises (capped),0.39316,0,0.10684,0.10684,0,5.65585,preferred to V1 iff w > w*,True,False
+E_full,0.42,0.38,"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,default demobilises (capped),0.114827,0,0.385173,0.385173,0,22.9988,preferred to V1 iff w > w*,False,False
+E_full,0.42,0.38,"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,slack (V1 outcome),0.4863,0.0154,0.033,0.0484,0,26.0949,preferred to V1 iff w > w*,True,True
+E_full,0.42,0.38,"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,contested,0,0,0.5,0.5,0,30.1537,preferred to V1 iff w > w*,False,False

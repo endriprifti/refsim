@@ -1,0 +1,643 @@
+{
+ "file": "ix_TR32_paths.csv",
+ "scenario": "/tmp/claude-0/-home-claude/a8790f95-803f-59a7-a7df-a53aee260fd5/scratchpad/s73/refsim/config/calibrated_2026.yaml",
+ "data_vintage": "2025 register; calibration 2026-10-13",
+ "run_time": "2026-10-24T00:40:59",
+ "note": "TR32: every path (cure branch) with its dates and regime",
+ "municipal_map": "Law No. 100/2026: 46 municipalities from the 2027 local elections (Table C.4 aggregated)",
+ "parameters": [
+  {
+   "parameter": "electorate.E_full",
+   "value": 3713761,
+   "source": "OSCE/ODIHR final report, 2025 Assembly elections (final voter lists)",
+   "date": "2025-10-23",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.E_ocv",
+   "value": 245935,
+   "source": "OSCE/ODIHR final report, 2025 (out-of-country registrants)",
+   "date": "2025-10-23",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.R",
+   "value": 1920000,
+   "source": "Section II, resident adults able to vote, 2025 (INSTAT-based 1.90-1.92M on 1 Jan 2025)",
+   "date": "2025-01-01",
+   "range": [
+    1890000,
+    1950000
+   ]
+  },
+  {
+   "parameter": "electorate.R_2023",
+   "value": 1930000,
+   "source": "Section II: lambda_R x census 2023",
+   "date": "2023-09-01",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.P_cen",
+   "value": 2402113,
+   "source": "INSTAT census 2023",
+   "date": "2023-09-01",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.tau_ab",
+   "value": 0.0,
+   "source": "F3: no out-of-country voting in referendums (registered non-residents counted in E)",
+   "date": "2026-10-12",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.mu_A",
+   "value": 0.5,
+   "source": "A1: non-resident voters split evenly",
+   "date": "2026-10-12",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.T_dom_2025",
+   "value": 1463314,
+   "source": "OSCE/ODIHR 2025 final report, Annex I (CEC results; in-country ballots, 2025 Assembly elections; v1.1.3 had 1,458,251 from press data)",
+   "date": "2025-05-11",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.T_all_2025",
+   "value": 1665501,
+   "source": "OSCE/ODIHR 2025 final report, Annex I (CEC results; all ballots, 2025; v1.1.3 had 1,664,873)",
+   "date": "2025-05-11",
+   "range": ""
+  },
+  {
+   "parameter": "electorate.tauR_ref",
+   "value": 0.76,
+   "source": "D2: T_dom/R at the 2025 Assembly elections (upper bound on tau_res)",
+   "date": "2025-05-11",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.q_A",
+   "value": 0.3333333333333333,
+   "source": "Law 9087/2003 Art. 118(3) (Regime A)",
+   "date": "2003-06-19",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.q_R",
+   "value": 0.5,
+   "source": "Law 9087/2003 Art. 125(4) (Regime B, strict)",
+   "date": "2003-06-19",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.S",
+   "value": 50000,
+   "source": "Const. Art. 150(1)",
+   "date": "1998-11-28",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.w_pre_months",
+   "value": 6,
+   "source": "Law 9087 Art. 119(2)",
+   "date": "2003-06-19",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.w_post_months",
+   "value": 3,
+   "source": "Law 9087 Art. 119(2)",
+   "date": "2003-06-19",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.bar_years",
+   "value": 3,
+   "source": "Const. Art. 151(3) (from the holding, H1)",
+   "date": "1998-11-28",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.L_days",
+   "value": 30,
+   "source": "Code 2008 Art. 77(1)",
+   "date": "2025-01-01",
+   "range": ""
+  },
+  {
+   "parameter": "rules_in_force.L_blk_days",
+   "value": 5,
+   "source": "Code 2008 Art. 78(4)",
+   "date": "2025-01-01",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.tau_grid",
+   "value": [
+    0.18,
+    0.2,
+    0.25,
+    0.3,
+    0.33,
+    0.36,
+    0.42
+   ],
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.10: tau in [0.20, 0.42] of E_full, central 0.33, stress 0.18",
+   "date": "2026-10-13",
+   "range": [
+    0.2,
+    0.42
+   ]
+  },
+  {
+   "parameter": "behaviour.tau_central",
+   "value": 0.33,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.10 (ratio to election turnout x 2025 in-country anchor 0.394; 0.393 before v1.1.4, unchanged at two decimals)",
+   "date": "2026-10-13",
+   "range": [
+    0.2,
+    0.42
+   ]
+  },
+  {
+   "parameter": "behaviour.t0_resident",
+   "value": null,
+   "source": "optional: hold resident stand-alone turnout fixed (tau = t0/rho); null = use tau_central",
+   "date": "2026-10-12",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.t_min_grid",
+   "value": [
+    0.0,
+    0.2,
+    0.3,
+    0.38
+   ],
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.11: contested reporting set {0.20, 0.30, 0.38} plus 0",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.t_min_central",
+   "value": 0.3,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.11 t_min_contested",
+   "date": "2026-10-13",
+   "range": [
+    0.2,
+    0.38
+   ]
+  },
+  {
+   "parameter": "behaviour.noise_scaled_on_R",
+   "value": true,
+   "source": "refsim v1.1.1 correction: sigma_tau is a share of E_full; for a rule counted on residents (P1 T5, V4 on R) the same turnout noise is sigma_tau x rho (v1.1.0 used sigma_tau unscaled; baseline_2025 keeps the v1.0 convention)",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.t_bar",
+   "value": 0.9,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.10 reach",
+   "date": "2026-10-13",
+   "range": [
+    0.85,
+    1.0
+   ]
+  },
+  {
+   "parameter": "behaviour.pi_grid",
+   "value": [
+    0.05,
+    0.25,
+    0.5
+   ],
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK sensitivity 1 (a_B x pi(T1))",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.mu_b",
+   "value": 0.5,
+   "source": "T1-T2 convention",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.Omega",
+   "value": 1.0,
+   "source": "Equal stakes (B_x = B_d)",
+   "date": "2026-10-09",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.sigma_tau",
+   "value": 0.04,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.9",
+   "date": "2026-10-13",
+   "range": [
+    0.03,
+    0.06
+   ]
+  },
+  {
+   "parameter": "behaviour.Theta",
+   "value": 0.5,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.9 (not identified)",
+   "date": "2026-10-13",
+   "range": [
+    0.0,
+    1.0
+   ]
+  },
+  {
+   "parameter": "behaviour.t_min_co",
+   "value": 0.71,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.11 co-scheduled floor",
+   "date": "2026-10-13",
+   "range": [
+    0.6,
+    0.76
+   ]
+  },
+  {
+   "parameter": "behaviour.prior_family",
+   "value": "beta_shift",
+   "source": "D13 (v1.1): Beta with the variance of Beta(a_B, a_B) and type mean 1/2 + pi_T (mu_b,T - 1/2); sensitivities 'beta' (no shift) and 'zealot_vm' (zealot family with a_p(pi) from (7.6))",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.a_B_grid",
+   "value": [
+    1.5,
+    2.0,
+    2.5,
+    3.0,
+    3.5,
+    4.0,
+    5.0
+   ],
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK rerun request TR13",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.t_min_boycott",
+   "value": 0.08,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.11 t_min_boycott (A36)",
+   "date": "2026-10-13",
+   "range": [
+    0.05,
+    0.15
+   ]
+  },
+  {
+   "parameter": "behaviour.a36",
+   "value": true,
+   "source": "A36: a default side under a participation-type rule may call to abstain (floor t_min_boycott); every other side rests at t_min_contested",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.a_B_central",
+   "value": 3.0,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.8 (pooled European no-quorum set a = 3.01 [2.55, 3.56])",
+   "date": "2026-10-13",
+   "range": [
+    1.5,
+    5.0
+   ]
+  },
+  {
+   "parameter": "behaviour.recalibrate_kappa",
+   "value": true,
+   "source": "A12 kappa recalibrated at f_mu(1/2) (central); 'fixed' (1/(1 - pi)) as sensitivity",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.pi_by_type",
+   "value": {
+    "T1": 0.25,
+    "T2": 0.25,
+    "T3": 0.5,
+    "T4": 0.5,
+    "T5": 0.5,
+    "T6": 0.5,
+    "T7": 0.25,
+    "T8": 0.25
+   },
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.15 (T7-T8 not calibrated: T1 value)",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.mu_b_by_type",
+   "value": {
+    "T1": 0.5,
+    "T2": 0.5,
+    "T3": 0.53,
+    "T4": 0.6666666666666666,
+    "T5": 0.5,
+    "T6": 0.5,
+    "T7": 0.5,
+    "T8": 0.5
+   },
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.15 (T3: PS 53.3% of valid votes 2025; T4: 2/3 kept; T6 not calibrated: 0.5)",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "behaviour.sigma_u_qark",
+   "value": 0.065,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.17",
+   "date": "2026-10-13",
+   "range": [
+    0.045,
+    0.1
+   ]
+  },
+  {
+   "parameter": "behaviour.sigma_u_municipal",
+   "value": 0.09,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.17",
+   "date": "2026-10-13",
+   "range": [
+    0.06,
+    0.15
+   ]
+  },
+  {
+   "parameter": "behaviour.gamma_c",
+   "value": 0.6,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.19 cue-taking share (Corollary 7)",
+   "date": "2026-10-13",
+   "range": [
+    0.4,
+    0.8
+   ]
+  },
+  {
+   "parameter": "drift.gamma_E",
+   "value": 31700,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.16",
+   "date": "2026-10-13",
+   "range": [
+    30000,
+    37000
+   ]
+  },
+  {
+   "parameter": "drift.d_R_central",
+   "value": 0.0085,
+   "source": "D11: adult decline, INSTAT Population on 1 January 2026 (15+ -0.83%)",
+   "date": "2026-10-12",
+   "range": ""
+  },
+  {
+   "parameter": "drift.d_R_fast",
+   "value": 0.0116,
+   "source": "D11: all-resident decline (INSTAT), the value Sections IV-V used",
+   "date": "2026-10-12",
+   "range": ""
+  },
+  {
+   "parameter": "drift.sigma_lnrho",
+   "value": [
+    0.005
+   ],
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.16 (range [0.003, 0.010])",
+   "date": "2026-10-13",
+   "range": [
+    0.003,
+    0.01
+   ]
+  },
+  {
+   "parameter": "drift.t0_lock_grid",
+   "value": [
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.9
+   ],
+   "source": "Table V.25",
+   "date": "2026-10-11",
+   "range": ""
+  },
+  {
+   "parameter": "drift.base_date",
+   "value": "2025-04-01",
+   "source": "A29 clock: April 2025 voter lists",
+   "date": "2026-10-12",
+   "range": ""
+  },
+  {
+   "parameter": "window.T_post_months",
+   "value": 2.12,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.12",
+   "date": "2026-10-13",
+   "range": [
+    0.5,
+    8.0
+   ]
+  },
+  {
+   "parameter": "window.T_pre_months",
+   "value": 1.0,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.12 (no data)",
+   "date": "2026-10-13",
+   "range": [
+    0.5,
+    2.0
+   ]
+  },
+  {
+   "parameter": "window.q_w",
+   "value": 0.1,
+   "source": "Proposition 28 standard",
+   "date": "2026-10-11",
+   "range": ""
+  },
+  {
+   "parameter": "opinion.T_rel_years",
+   "value": 15.0,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.13 (effective at 3 years 13.5; two-component (7.9))",
+   "date": "2026-10-13",
+   "range": [
+    5.0,
+    30.0
+   ]
+  },
+  {
+   "parameter": "opinion.q_chi",
+   "value": 0.5,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.13 (normative)",
+   "date": "2026-10-13",
+   "range": [
+    0.1,
+    0.5
+   ]
+  },
+  {
+   "parameter": "pipeline.president",
+   "value": "earliest",
+   "source": "A18 prompt President (alternative: latest)",
+   "date": "2026-10-10",
+   "range": ""
+  },
+  {
+   "parameter": "pipeline.option",
+   "value": "O0",
+   "source": "TS0 current law (O0-O9 = TS0-TS9)",
+   "date": "2026-10-10",
+   "range": ""
+  },
+  {
+   "parameter": "pipeline.W_weeks",
+   "value": 31,
+   "source": "KQZ 2026 collection period (216 days)",
+   "date": "2026-08-27",
+   "range": ""
+  },
+  {
+   "parameter": "pipeline.phi_f",
+   "value": 0.25,
+   "source": "illustrative fee/canvassing cost per line",
+   "date": "2026-10-10",
+   "range": ""
+  },
+  {
+   "parameter": "signatures.v_L_grid",
+   "value": [
+    0.7,
+    0.85,
+    0.97
+   ],
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.18 (central 0.85)",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "signatures.R3_n_smp",
+   "value": 1500,
+   "source": "F44 band rule",
+   "date": "2026-10-10",
+   "range": ""
+  },
+  {
+   "parameter": "signatures.R3_band",
+   "value": 0.02,
+   "source": "F44 (0.05 if < 92% authentic)",
+   "date": "2026-10-10",
+   "range": ""
+  },
+  {
+   "parameter": "signatures.R0_fraction",
+   "value": 0.05,
+   "source": "State Election Commissioner decision 2026, Art. 7(2)",
+   "date": "2026-07-01",
+   "range": ""
+  },
+  {
+   "parameter": "signatures.v_L_central",
+   "value": 0.85,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.18",
+   "date": "2026-10-13",
+   "range": [
+    0.7,
+    0.97
+   ]
+  },
+  {
+   "parameter": "contamination.Psi",
+   "value": 0.25,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.14",
+   "date": "2026-10-13",
+   "range": [
+    0.05,
+    0.45
+   ]
+  },
+  {
+   "parameter": "contamination.Psi_by_type",
+   "value": {
+    "T1": 0.25,
+    "T2": 0.25,
+    "T3": 0.3,
+    "T4": 0.3,
+    "T5": 0.25,
+    "T6": 0.25
+   },
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.14 (T3-T4 0.30)",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "contamination.mu_G",
+   "value": 0.47,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.14 (eight polls 2024-2026)",
+   "date": "2026-10-13",
+   "range": [
+    0.36,
+    0.58
+   ]
+  },
+  {
+   "parameter": "contamination.gov_backs_change",
+   "value": {
+    "T1": false,
+    "T2": false,
+    "T3": true,
+    "T4": true,
+    "T5": false,
+    "T6": true
+   },
+   "source": "Reading adopted in the book: the government defends laws in force (T1-T2) and the amendment (T5); it proposes T3, T4 and T6",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "monte_carlo.n_reps",
+   "value": 20000,
+   "source": "Step 13 requirement: >= 10,000 per cell",
+   "date": "2026-10-12",
+   "range": ""
+  },
+  {
+   "parameter": "monte_carlo.seed",
+   "value": 20261013,
+   "source": "fixed seed (calibrated run)",
+   "date": "2026-10-13",
+   "range": ""
+  },
+  {
+   "parameter": "campaign.r_bar_I",
+   "value": 0.07,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.19 per day",
+   "date": "2026-10-13",
+   "range": [
+    0.03,
+    0.3
+   ]
+  },
+  {
+   "parameter": "campaign.beta_I",
+   "value": 0.5,
+   "source": "Section VII Part 2 (Step 15b), CALIBRATION BLOCK VII.19",
+   "date": "2026-10-13",
+   "range": [
+    0.2,
+    1.0
+   ]
+  }
+ ]
+}

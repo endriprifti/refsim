@@ -1,0 +1,666 @@
+rule,code,denominator,tau,t_min,regime,sx,sd,floor_d,mu_hat_eq,P_change,P_advisory,P_dec,C1,C1p,C1R,C2,turnout_E
+V1 no quorum (majority of valid votes),V1,E_full,0.2,0.2,slack (V1 outcome),0.38685,0.38685,0.2,0.5,0.5,0,1,0,0.0380406,0.0380406,0,0.2
+V1 no quorum (majority of valid votes),V1,E_full,0.2,0.3,slack (V1 outcome),0.38685,0.38685,0.3,0.5,0.5,0,1,0,0.0380406,0.0380406,0,0.2
+V1 no quorum (majority of valid votes),V1,E_full,0.2,0.38,slack (V1 outcome),0.38685,0.38685,0.38,0.5,0.5,0,1,0,0.0380406,0.0380406,0,0.2
+V1 no quorum (majority of valid votes),V1,E_full,0.25,0.2,slack (V1 outcome),0.483563,0.483563,0.2,0.5,0.5,0,1,0,0.0302479,0.0302479,0,0.25
+V1 no quorum (majority of valid votes),V1,E_full,0.25,0.3,slack (V1 outcome),0.483563,0.483563,0.3,0.5,0.5,0,1,0,0.0302479,0.0302479,0,0.25
+V1 no quorum (majority of valid votes),V1,E_full,0.25,0.38,slack (V1 outcome),0.483563,0.483563,0.38,0.5,0.5,0,1,0,0.0302479,0.0302479,0,0.25
+V1 no quorum (majority of valid votes),V1,E_full,0.3,0.2,slack (V1 outcome),0.580275,0.580275,0.2,0.5,0.5,0,1,0,0.0251232,0.0251232,0,0.3
+V1 no quorum (majority of valid votes),V1,E_full,0.3,0.3,slack (V1 outcome),0.580275,0.580275,0.3,0.5,0.5,0,1,0,0.0251232,0.0251232,0,0.3
+V1 no quorum (majority of valid votes),V1,E_full,0.3,0.38,slack (V1 outcome),0.580275,0.580275,0.38,0.5,0.5,0,1,0,0.0251232,0.0251232,0,0.3
+V1 no quorum (majority of valid votes),V1,E_full,0.33,0.2,slack (V1 outcome),0.638303,0.638303,0.2,0.5,0.5,0,1,0,0.0228065,0.0228062,0,0.329996
+V1 no quorum (majority of valid votes),V1,E_full,0.33,0.3,slack (V1 outcome),0.638303,0.638303,0.3,0.5,0.5,0,1,0,0.0228065,0.0228062,0,0.329996
+V1 no quorum (majority of valid votes),V1,E_full,0.33,0.38,slack (V1 outcome),0.638303,0.638303,0.38,0.5,0.5,0,1,0,0.0228065,0.0228062,0,0.329996
+V1 no quorum (majority of valid votes),V1,E_full,0.36,0.2,slack (V1 outcome),0.69633,0.69633,0.2,0.5,0.500005,0,1,0,0.0208451,0.0208405,0,0.35995
+V1 no quorum (majority of valid votes),V1,E_full,0.36,0.3,slack (V1 outcome),0.69633,0.69633,0.3,0.5,0.500005,0,1,0,0.0208451,0.0208405,0,0.35995
+V1 no quorum (majority of valid votes),V1,E_full,0.36,0.38,slack (V1 outcome),0.69633,0.69633,0.38,0.5,0.500005,0,1,0,0.0208451,0.0208405,0,0.35995
+V1 no quorum (majority of valid votes),V1,E_full,0.42,0.2,slack (V1 outcome),0.812385,0.812385,0.2,0.5,0.499979,0,1,0,0.0160488,0.01607,0,0.417416
+V1 no quorum (majority of valid votes),V1,E_full,0.42,0.3,slack (V1 outcome),0.812385,0.812385,0.3,0.5,0.499979,0,1,0,0.0160488,0.01607,0,0.417416
+V1 no quorum (majority of valid votes),V1,E_full,0.42,0.38,slack (V1 outcome),0.812385,0.812385,0.38,0.5,0.499979,0,1,0,0.0160488,0.01607,0,0.417416
+V2 participation quorum (q=0.25),V2,E_full,0.2,0.2,lock (default boycott),0.2,0.08,0.08,3.36302,1.66421e-06,0,1.68754e-06,0.811419,1.01557e-08,0.499998,0.000206329,0.073971
+V2 participation quorum (q=0.25),V2,E_full,0.2,0.3,lock (default boycott),0.3,0.08,0.08,1.83438,0.000144044,0,0.000144279,0.902906,5.17664e-07,0.499856,0.00498286,0.0997906
+V2 participation quorum (q=0.25),V2,E_full,0.2,0.38,lock (default boycott),0.38,0.08,0.08,1.34521,0.00210539,0,0.00210634,0.93367,6.87124e-06,0.497901,0.0318588,0.12047
+V2 participation quorum (q=0.25),V2,E_full,0.25,0.2,lock (default boycott),0.2,0.08,0.08,3.36302,1.66421e-06,0,1.68754e-06,0.811419,1.01557e-08,0.499998,0.000604595,0.073971
+V2 participation quorum (q=0.25),V2,E_full,0.25,0.3,lock (default boycott),0.3,0.08,0.08,1.83438,0.000144044,0,0.000144279,0.902906,5.17664e-07,0.499856,0.0118361,0.0997906
+V2 participation quorum (q=0.25),V2,E_full,0.25,0.38,lock (default boycott),0.38,0.08,0.08,1.34521,0.00210539,0,0.00210634,0.93367,6.87124e-06,0.497901,0.0622177,0.12047
+V2 participation quorum (q=0.25),V2,E_full,0.3,0.2,default boycotts,0.8283,0.08,0.08,0.539306,0.427571,0,0.427596,0.558591,0.0293018,0.101731,0.230718,0.234459
+V2 participation quorum (q=0.25),V2,E_full,0.3,0.3,default boycotts,0.795826,0.08,0.08,0.563772,0.389073,0,0.389097,0.596091,0.0225176,0.133445,0.253488,0.227127
+V2 participation quorum (q=0.25),V2,E_full,0.3,0.38,default boycotts,0.758651,0.08,0.08,0.594654,0.339904,0,0.339927,0.643796,0.0154447,0.17554,0.281935,0.218079
+V2 participation quorum (q=0.25),V2,E_full,0.33,0.2,default boycotts,0.889381,0.08,0.08,0.498607,0.483145,0,0.483171,0.504173,0.0401678,0.0570224,0.156705,0.245497
+V2 participation quorum (q=0.25),V2,E_full,0.33,0.3,default boycotts,0.864903,0.08,0.08,0.514156,0.463714,0,0.463739,0.523243,0.0362664,0.0725525,0.168138,0.241567
+V2 participation quorum (q=0.25),V2,E_full,0.33,0.38,default boycotts,0.838654,0.08,0.08,0.531945,0.438544,0,0.438569,0.547874,0.0313122,0.0927685,0.182886,0.236589
+V2 participation quorum (q=0.25),V2,E_full,0.36,0.2,default boycotts (capped),0.9,0.08,0.08,0.49215,0.489896,0,0.489922,0.497531,0.0413866,0.0514903,0.114105,0.246869
+V2 participation quorum (q=0.25),V2,E_full,0.36,0.3,default boycotts (capped),0.9,0.08,0.08,0.49215,0.489896,0,0.489922,0.497531,0.0413866,0.0514903,0.114105,0.246869
+V2 participation quorum (q=0.25),V2,E_full,0.36,0.38,default boycotts (capped),0.9,0.08,0.08,0.49215,0.489896,0,0.489922,0.497531,0.0413866,0.0514903,0.114105,0.246869
+V2 participation quorum (q=0.25),V2,E_full,0.42,0.2,default boycotts (capped),0.9,0.08,0.08,0.49215,0.489896,0,0.489922,0.497531,0.0413866,0.0514903,0.0454065,0.246869
+V2 participation quorum (q=0.25),V2,E_full,0.42,0.3,default boycotts (capped),0.9,0.08,0.08,0.49215,0.489896,0,0.489922,0.497531,0.0413866,0.0514903,0.0454065,0.246869
+V2 participation quorum (q=0.25),V2,E_full,0.42,0.38,default boycotts (capped),0.9,0.08,0.08,0.49215,0.489896,0,0.489922,0.497531,0.0413866,0.0514903,0.0454065,0.246869
+V2 participation quorum (q=0.4),V2,E_full,0.2,0.2,lock (default boycott),0.2,0.08,0.08,5.78084,4.80172e-17,0,4.80179e-17,0.811421,5.75966e-23,0.5,2.08722e-14,0.073971
+V2 participation quorum (q=0.4),V2,E_full,0.2,0.3,lock (default boycott),0.3,0.08,0.08,3.15318,3.88171e-13,0,3.88171e-13,0.90305,5.93776e-20,0.5,2.2184e-11,0.0997906
+V2 participation quorum (q=0.4),V2,E_full,0.2,0.38,lock (default boycott),0.38,0.08,0.08,2.31233,1.86082e-10,0,1.86082e-10,0.935775,4.12533e-18,0.5,3.73071e-09,0.12047
+V2 participation quorum (q=0.4),V2,E_full,0.25,0.2,lock (default boycott),0.2,0.08,0.08,5.78084,4.80172e-17,0,4.80179e-17,0.811421,5.75966e-23,0.5,5.44897e-13,0.073971
+V2 participation quorum (q=0.4),V2,E_full,0.25,0.3,lock (default boycott),0.3,0.08,0.08,3.15318,3.88171e-13,0,3.88171e-13,0.90305,5.93776e-20,0.5,3.85073e-10,0.0997906
+V2 participation quorum (q=0.4),V2,E_full,0.25,0.38,lock (default boycott),0.38,0.08,0.08,2.31233,1.86082e-10,0,1.86082e-10,0.935775,4.12533e-18,0.5,3.60336e-08,0.12047
+V2 participation quorum (q=0.4),V2,E_full,0.3,0.2,lock (default boycott),0.2,0.08,0.08,5.78084,4.80172e-17,0,4.80179e-17,0.811421,5.75966e-23,0.5,5.52491e-12,0.073971
+V2 participation quorum (q=0.4),V2,E_full,0.3,0.3,lock (default boycott),0.3,0.08,0.08,3.15318,3.88171e-13,0,3.88171e-13,0.90305,5.93776e-20,0.5,4.80996e-09,0.0997906
+V2 participation quorum (q=0.4),V2,E_full,0.3,0.38,lock (default boycott),0.38,0.08,0.08,2.31233,1.86082e-10,0,1.86082e-10,0.935775,4.12533e-18,0.5,3.82697e-07,0.12047
+V2 participation quorum (q=0.4),V2,E_full,0.33,0.2,lock (default boycott),0.2,0.08,0.08,5.78084,4.80172e-17,0,4.80179e-17,0.811421,5.75966e-23,0.5,1.19922e-11,0.073971
+V2 participation quorum (q=0.4),V2,E_full,0.33,0.3,lock (default boycott),0.3,0.08,0.08,3.15318,3.88171e-13,0,3.88171e-13,0.90305,5.93776e-20,0.5,1.3816e-08,0.0997906
+V2 participation quorum (q=0.4),V2,E_full,0.33,0.38,lock (default boycott),0.38,0.08,0.08,2.31233,1.86082e-10,0,1.86082e-10,0.935775,4.12533e-18,0.5,1.228e-06,0.12047
+V2 participation quorum (q=0.4),V2,E_full,0.36,0.2,lock (default boycott),0.2,0.08,0.08,5.78084,4.80172e-17,0,4.80179e-17,0.811421,5.75966e-23,0.5,1.93069e-11,0.073971
+V2 participation quorum (q=0.4),V2,E_full,0.36,0.3,lock (default boycott),0.3,0.08,0.08,3.15318,3.88171e-13,0,3.88171e-13,0.90305,5.93776e-20,0.5,2.60527e-08,0.0997906
+V2 participation quorum (q=0.4),V2,E_full,0.36,0.38,lock (default boycott),0.38,0.08,0.08,2.31233,1.86082e-10,0,1.86082e-10,0.935775,4.12533e-18,0.5,2.749e-06,0.12047
+V2 participation quorum (q=0.4),V2,E_full,0.42,0.2,lock (default boycott),0.2,0.08,0.08,5.78084,4.80172e-17,0,4.80179e-17,0.811421,5.75966e-23,0.5,2.35423e-11,0.073971
+V2 participation quorum (q=0.4),V2,E_full,0.42,0.3,lock (default boycott),0.3,0.08,0.08,3.15318,3.88171e-13,0,3.88171e-13,0.90305,5.93776e-20,0.5,3.92561e-08,0.0997906
+V2 participation quorum (q=0.4),V2,E_full,0.42,0.38,lock (default boycott),0.38,0.08,0.08,2.31233,1.86082e-10,0,1.86082e-10,0.935775,4.12533e-18,0.5,5.57632e-06,0.12047
+V2 participation quorum (q=0.5),V2,E_full,0.2,0.2,lock (default boycott),0.2,0.08,0.08,7.39271,0,0,0,0.811421,0,0.5,0,0.073971
+V2 participation quorum (q=0.5),V2,E_full,0.2,0.3,lock (default boycott),0.3,0.08,0.08,4.03239,0,0,0,0.90305,0,0.5,0,0.0997906
+V2 participation quorum (q=0.5),V2,E_full,0.2,0.38,lock (default boycott),0.38,0.08,0.08,2.95708,0,0,0,0.935775,0,0.5,0,0.12047
+V2 participation quorum (q=0.5),V2,E_full,0.25,0.2,lock (default boycott),0.2,0.08,0.08,7.39271,0,0,0,0.811421,0,0.5,0,0.073971
+V2 participation quorum (q=0.5),V2,E_full,0.25,0.3,lock (default boycott),0.3,0.08,0.08,4.03239,0,0,0,0.90305,0,0.5,0,0.0997906
+V2 participation quorum (q=0.5),V2,E_full,0.25,0.38,lock (default boycott),0.38,0.08,0.08,2.95708,0,0,0,0.935775,0,0.5,0,0.12047
+V2 participation quorum (q=0.5),V2,E_full,0.3,0.2,lock (default boycott),0.2,0.08,0.08,7.39271,0,0,0,0.811421,0,0.5,0,0.073971
+V2 participation quorum (q=0.5),V2,E_full,0.3,0.3,lock (default boycott),0.3,0.08,0.08,4.03239,0,0,0,0.90305,0,0.5,0,0.0997906
+V2 participation quorum (q=0.5),V2,E_full,0.3,0.38,lock (default boycott),0.38,0.08,0.08,2.95708,0,0,0,0.935775,0,0.5,0,0.12047
+V2 participation quorum (q=0.5),V2,E_full,0.33,0.2,lock (default boycott),0.2,0.08,0.08,7.39271,0,0,0,0.811421,0,0.5,0,0.073971
+V2 participation quorum (q=0.5),V2,E_full,0.33,0.3,lock (default boycott),0.3,0.08,0.08,4.03239,0,0,0,0.90305,0,0.5,0,0.0997906
+V2 participation quorum (q=0.5),V2,E_full,0.33,0.38,lock (default boycott),0.38,0.08,0.08,2.95708,0,0,0,0.935775,0,0.5,0,0.12047
+V2 participation quorum (q=0.5),V2,E_full,0.36,0.2,lock (default boycott),0.2,0.08,0.08,7.39271,0,0,0,0.811421,0,0.5,0,0.073971
+V2 participation quorum (q=0.5),V2,E_full,0.36,0.3,lock (default boycott),0.3,0.08,0.08,4.03239,0,0,0,0.90305,0,0.5,0,0.0997906
+V2 participation quorum (q=0.5),V2,E_full,0.36,0.38,lock (default boycott),0.38,0.08,0.08,2.95708,0,0,0,0.935775,0,0.5,0,0.12047
+V2 participation quorum (q=0.5),V2,E_full,0.42,0.2,lock (default boycott),0.2,0.08,0.08,7.39271,0,0,0,0.811421,0,0.5,0,0.073971
+V2 participation quorum (q=0.5),V2,E_full,0.42,0.3,lock (default boycott),0.3,0.08,0.08,4.03239,0,0,0,0.90305,0,0.5,0,0.0997906
+V2 participation quorum (q=0.5),V2,E_full,0.42,0.38,lock (default boycott),0.38,0.08,0.08,2.95708,0,0,0,0.935775,0,0.5,0,0.12047
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.2,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.33,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.33,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.33,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.36,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.36,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.36,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.42,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.42,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_full,0.42,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,2.41781,2.19796e-07,0,4.39848e-07,0.499648,0,0.5,0,0.10346
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.61188,3.31831e-05,0,6.63034e-05,0.499966,0,0.499967,0,0.155099
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.2,0.38,lock (mutual abstention),0.38,0.38,0.38,1.27253,0.000686995,0,0.001374,0.499313,0,0.499313,0,0.196459
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,2.41781,2.19796e-07,0,4.39848e-07,0.499648,0,0.5,0,0.10346
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,1.61188,3.31831e-05,0,6.63034e-05,0.499966,0,0.499967,0,0.155099
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.27253,0.000686995,0,0.001374,0.499313,0,0.499313,0,0.196459
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,2.41781,2.19796e-07,0,4.39848e-07,0.499648,0,0.5,0,0.10346
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,1.61188,3.31831e-05,0,6.63034e-05,0.499966,0,0.499967,0,0.155099
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.27253,0.000686995,0,0.001374,0.499313,0,0.499313,0,0.196459
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.33,0.2,default demobilises,0.882328,0.2,0.2,0.548053,0.381614,0,0.381615,0.563231,0,0.118386,0,0.273928
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.33,0.3,default demobilises,0.853358,0.3,0.3,0.566659,0.357838,0,0.357871,0.522445,0,0.142162,0,0.294784
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.33,0.38,default demobilises,0.822628,0.38,0.38,0.587826,0.327375,0,0.328062,0.485164,0,0.172625,0,0.309195
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.36,0.2,default demobilises (capped),0.9,0.2,0.2,0.537292,0.39316,0,0.393161,0.552718,0,0.10684,0,0.276358
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.36,0.3,default demobilises (capped),0.9,0.3,0.3,0.537292,0.39316,0,0.393194,0.493908,0,0.10684,0,0.302178
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.36,0.38,default demobilises (capped),0.9,0.38,0.38,0.537292,0.39316,0,0.393847,0.437624,0,0.10684,0,0.322857
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.537292,0.39316,0,0.393161,0.552718,0,0.10684,0,0.276358
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.537292,0.39316,0,0.393194,0.493908,0,0.10684,0,0.302178
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_full,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.537292,0.39316,0,0.393847,0.437624,0,0.10684,0,0.322857
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,1.93425,4.87701e-05,0,9.75538e-05,0.4996,4.03824e-16,0.499951,0,0.10346
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.2895,0.00191697,0,0.00383534,0.498083,8.02677e-12,0.498083,0,0.155099
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.2,0.38,lock (mutual abstention),0.38,0.38,0.38,1.01803,0.0150756,0,0.0301521,0.484924,3.17228e-09,0.484924,0,0.196459
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,1.93425,4.87701e-05,0,9.75538e-05,0.4996,4.03824e-16,0.499951,0,0.10346
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.25,0.3,default demobilises,0.616062,0.3,0.3,0.62794,0.267914,0,0.269833,0.530224,0.000678323,0.232764,0,0.2368
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.25,0.38,default demobilises,0.560443,0.38,0.38,0.690258,0.18356,0,0.198636,0.49261,7.9599e-05,0.31652,0,0.243103
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.3,0.2,default demobilises,0.772372,0.2,0.2,0.50086,0.488094,0,0.488143,0.444009,0.0312864,0.0431923,0,0.250977
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.3,0.3,default demobilises,0.748349,0.3,0.3,0.516938,0.458618,0,0.460537,0.39442,0.0211158,0.0624977,0,0.270815
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.3,0.38,default demobilises,0.721693,0.38,0.38,0.536031,0.423581,0,0.438657,0.348996,0.0126334,0.0890525,0,0.284717
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.33,0.2,default demobilises,0.827272,0.2,0.2,0.467621,0.546517,0,0.546566,0.39328,0.0615949,0.0150782,0,0.263722
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.33,0.3,default demobilises,0.808834,0.3,0.3,0.478281,0.528456,0,0.530374,0.342169,0.0505112,0.0220552,0,0.285468
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.33,0.38,default demobilises,0.789251,0.38,0.38,0.490148,0.507424,0,0.5225,0.293668,0.0392949,0.0318707,0,0.301551
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.36,0.2,default demobilises,0.87671,0.2,0.2,0.441252,0.585688,0,0.585737,0.358742,0.0900392,0.00435097,0,0.273002
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.36,0.3,default demobilises,0.862286,0.3,0.3,0.448633,0.575869,0,0.577787,0.30601,0.0822931,0.00642422,0,0.296444
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.36,0.38,default demobilises,0.847446,0.38,0.38,0.456489,0.564102,0,0.579178,0.255601,0.0734196,0.00931715,0,0.314303
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.429833,0.599195,0,0.599243,0.346684,0.101335,0.00214038,0,0.276358
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.429833,0.599195,0,0.601113,0.287873,0.101335,0.00214038,0,0.302178
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_full,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.429833,0.599194,0,0.61427,0.231591,0.101334,0.00214038,0,0.322857
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,1.9,6.84469e-05,0,0.000136633,0.49958,3.61398e-15,0.499932,0,0.10346
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.26667,0.00244572,0,0.00489306,0.497554,1.64317e-11,0.497554,0,0.155099
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.2,0.38,lock (mutual abstention),0.38,0.38,0.38,1,0.0180374,0,0.0360784,0.481963,8.00326e-09,0.481963,0,0.196459
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,1.9,6.84469e-05,0,0.000136633,0.49958,3.61398e-15,0.499932,0,0.10346
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.25,0.3,default demobilises,0.617256,0.3,0.3,0.615628,0.286835,0,0.289282,0.511913,0.00114585,0.214311,0,0.237109
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.25,0.38,default demobilises,0.56503,0.38,0.38,0.672531,0.205702,0,0.223743,0.473863,0.000176392,0.294474,0,0.244288
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.3,0.2,default demobilises,0.768214,0.2,0.2,0.494654,0.499644,0,0.499712,0.43177,0.0369191,0.0372753,0,0.249944
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.3,0.3,default demobilises,0.745018,0.3,0.3,0.510055,0.471254,0,0.473701,0.380674,0.0254804,0.0542264,0,0.269968
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.3,0.38,default demobilises,0.719264,0.38,0.38,0.528318,0.437522,0,0.455562,0.333903,0.0157617,0.0782395,0,0.284094
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.33,0.2,default demobilises,0.822081,0.2,0.2,0.462241,0.557076,0,0.557145,0.382088,0.0696388,0.0125625,0,0.262575
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.33,0.3,default demobilises,0.804306,0.3,0.3,0.472457,0.539724,0,0.542171,0.329777,0.0582225,0.0184986,0,0.284454
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.33,0.38,default demobilises,0.785411,0.38,0.38,0.483823,0.519363,0,0.537401,0.2803,0.0467686,0.0274059,0,0.300637
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.36,0.2,default demobilises,0.870705,0.2,0.2,0.436428,0.596401,0,0.596469,0.347578,0.100007,0.00360582,0,0.272012
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.36,0.3,default demobilises,0.85685,0.3,0.3,0.443485,0.586767,0,0.589215,0.294178,0.0918778,0.00511037,0,0.295469
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.36,0.38,default demobilises,0.842583,0.38,0.38,0.450994,0.575243,0,0.593281,0.243152,0.0829727,0.00772982,0,0.313348
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.422222,0.613566,0,0.613635,0.332312,0.115028,0.00146115,0,0.276358
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.422222,0.613566,0,0.616014,0.273502,0.115028,0.00146115,0,0.302178
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_full,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.422222,0.613564,0,0.631603,0.217221,0.115025,0.00146115,0,0.322857
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.2,0.2,lock (default boycott),0.2,0.08,0.08,2.5,0.000479548,0,0.000507678,0.810941,1.52599e-05,0.499536,0.0116451,0.073971
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.2,0.3,lock (default boycott),0.3,0.08,0.08,1.36364,0.00898788,0,0.00910213,0.894062,0.000267784,0.49128,0.0843563,0.0997906
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.2,0.38,lock (default boycott),0.38,0.08,0.08,1,0.0457444,0,0.0459916,0.890031,0.00154439,0.4558,0.206522,0.12047
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.25,0.2,default boycotts,0.670951,0.08,0.08,0.507656,0.490943,0,0.491633,0.487957,0.0732468,0.0823042,0.15787,0.195672
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.25,0.3,default boycotts,0.638115,0.08,0.08,0.537523,0.440056,0,0.440717,0.536503,0.0556033,0.115548,0.185908,0.187191
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.25,0.38,default boycotts,0.594603,0.08,0.08,0.582973,0.366846,0,0.367462,0.606029,0.0365233,0.169677,0.225059,0.175945
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.3,0.2,default boycotts,0.758967,0.08,0.08,0.441848,0.605899,0,0.606637,0.377815,0.131375,0.0254756,0.0175383,0.218157
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.3,0.3,default boycotts,0.740258,0.08,0.08,0.454368,0.584132,0,0.584861,0.39872,0.11809,0.0339588,0.0283847,0.21345
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.3,0.38,default boycotts,0.719,0.08,0.08,0.469484,0.557652,0,0.558369,0.424118,0.103454,0.0458023,0.0418569,0.208037
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.33,0.2,default boycotts,0.803827,0.08,0.08,0.414464,0.652199,0,0.652945,0.333243,0.163629,0.0114299,0,0.229031
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.33,0.3,default boycotts,0.789876,0.08,0.08,0.422609,0.638652,0,0.639397,0.346299,0.153639,0.0149868,0,0.225711
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.33,0.38,default boycotts,0.774769,0.08,0.08,0.431798,0.623193,0,0.623936,0.361188,0.142732,0.019539,0,0.222083
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.36,0.2,default boycotts,0.844777,0.08,0.08,0.392271,0.686354,0,0.687112,0.300201,0.191076,0.00472274,0,0.237791
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.36,0.3,default boycotts,0.834322,0.08,0.08,0.397708,0.678507,0,0.679264,0.307812,0.184489,0.00598208,0,0.235739
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.36,0.38,default boycotts,0.823384,0.08,0.08,0.40356,0.669472,0,0.670226,0.316552,0.177095,0.00762329,0,0.233373
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.42,0.2,"no pure equilibrium (mixed, approx.)",0.842471,0.71594,0.08,0.459404,0.537093,0,0.959055,0.0392873,0.0453925,0.00829953,5.51994e-06,0.399281
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.42,0.3,slack (V1 outcome),0.812385,0.812385,0.08,0.5,0.499979,0,1,1.44474e-10,0.0160488,0.01607,0,0.417416
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_full,0.42,0.38,slack (V1 outcome),0.812385,0.812385,0.08,0.5,0.499979,0,1,1.44474e-10,0.0160488,0.01607,0,0.417416
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,1.66667,0.000567183,0,0.00113487,0.499082,1.41299e-11,0.499433,0,0.10346
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.11111,0.0111068,0,0.0222162,0.488893,2.16331e-08,0.488893,0,0.155099
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.2,0.38,default demobilises,0.385169,0.38,0.38,0.865421,0.0585766,0,0.11258,0.447814,3.41766e-06,0.441427,0,0.197795
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.25,0.2,default demobilises,0.642119,0.2,0.2,0.519115,0.45228,0,0.452848,0.451677,0.0250712,0.0727912,0,0.217715
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.25,0.3,default demobilises,0.611432,0.3,0.3,0.545169,0.404585,0,0.415691,0.391165,0.013726,0.109141,0,0.235603
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.25,0.38,default demobilises,0.572749,0.38,0.38,0.581989,0.340449,0,0.394419,0.34473,0.00519465,0.164746,0,0.246284
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.3,0.2,default demobilises,0.735092,0.2,0.2,0.453458,0.575763,0,0.576331,0.349715,0.0879686,0.0122052,0,0.241627
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.3,0.3,default demobilises,0.717287,0.3,0.3,0.464714,0.554647,0,0.565738,0.287569,0.073523,0.0188757,0,0.262906
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.3,0.38,default demobilises,0.697378,0.38,0.38,0.477981,0.529438,0,0.583171,0.231262,0.0579622,0.0285246,0,0.278474
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.33,0.2,default demobilises,0.782607,0.2,0.2,0.425927,0.626119,0,0.626686,0.307609,0.12963,0.00351191,0,0.25347
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.33,0.3,default demobilises,0.769313,0.3,0.3,0.433287,0.612903,0,0.623984,0.246752,0.118058,0.00515457,0,0.276036
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.33,0.38,default demobilises,0.755077,0.38,0.38,0.441456,0.597709,0,0.651215,0.189802,0.105295,0.00758595,0,0.293179
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.36,0.2,default demobilises,0.826026,0.2,0.2,0.403539,0.663973,0,0.664541,0.275672,0.164838,0.000864261,0,0.263446
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.36,0.3,default demobilises,0.816086,0.3,0.3,0.408454,0.655963,0,0.667038,0.216408,0.157094,0.00113169,0,0.28707
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.36,0.38,default demobilises,0.805777,0.38,0.38,0.413679,0.646991,0,0.700301,0.160075,0.148725,0.00173396,0,0.305472
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.42,0.2,"no pure equilibrium (mixed, approx.)",0.858317,0.601705,0.2,0.41212,0.578033,0,0.892096,0.0883303,0.0822886,0.0042556,0,0.372881
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.42,0.3,slack (V1 outcome),0.812385,0.812385,0.3,0.5,0.499398,0,0.998838,0.000581042,0.0158675,0.0164697,0,0.417416
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_full,0.42,0.38,slack (V1 outcome),0.812385,0.812385,0.38,0.5,0.499398,0,0.998838,0.000581042,0.0158675,0.0164697,0,0.417416
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.2,0.2,default demobilises,0.494973,0.2,0.2,0.505078,0.47062,0,0.483227,0.377894,0.0444223,0.0738018,0,0.17968
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.2,0.3,default demobilises,0.457669,0.3,0.3,0.546246,0.39588,0,0.485931,0.294445,0.0215744,0.125694,0,0.195856
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.2,0.38,default demobilises,0.394675,0.38,0.38,0.633432,0.260911,0,0.491007,0.257003,0.00373009,0.242819,0,0.200252
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.25,0.2,default demobilises,0.584597,0.2,0.2,0.427645,0.616816,0,0.629209,0.269375,0.128377,0.0115609,0,0.202847
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.25,0.3,default demobilises,0.567674,0.3,0.3,0.440394,0.590206,0,0.677036,0.181044,0.107193,0.0169871,0,0.224292
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.25,0.38,default demobilises,0.54577,0.38,0.38,0.458068,0.547627,0,0.763882,0.117378,0.0761795,0.0285529,0,0.23931
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.3,0.2,"no pure equilibrium (mixed, approx.)",0.642502,0.321897,0.2,0.389104,0.641958,0,0.794118,0.147892,0.146031,0.00407272,0,0.249307
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.3,0.3,slack (V1 outcome),0.580275,0.580275,0.3,0.5,0.491467,0,0.982934,0.00853346,0.0228827,0.0314161,0,0.3
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.3,0.38,slack (V1 outcome),0.580275,0.580275,0.38,0.5,0.491467,0,0.982934,0.00853346,0.0228827,0.0314161,0,0.3
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.33,0.2,slack (V1 outcome),0.638303,0.638303,0.2,0.5,0.498896,0,0.997792,0.00110417,0.0224785,0.0235824,0,0.329996
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.33,0.3,slack (V1 outcome),0.638303,0.638303,0.3,0.5,0.498896,0,0.997792,0.00110417,0.0224785,0.0235824,0,0.329996
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.33,0.38,slack (V1 outcome),0.638303,0.638303,0.38,0.5,0.498896,0,0.997792,0.00110417,0.0224785,0.0235824,0,0.329996
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.36,0.2,slack (V1 outcome),0.69633,0.69633,0.2,0.5,0.499927,0,0.999845,7.73745e-05,0.0208198,0.0208926,0,0.35995
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.36,0.3,slack (V1 outcome),0.69633,0.69633,0.3,0.5,0.499927,0,0.999845,7.73745e-05,0.0208198,0.0208926,0,0.35995
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.36,0.38,slack (V1 outcome),0.69633,0.69633,0.38,0.5,0.499927,0,0.999845,7.73746e-05,0.0208198,0.0208926,0,0.35995
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.42,0.2,slack (V1 outcome),0.812385,0.812385,0.2,0.5,0.499979,0,1,5.28868e-08,0.0160488,0.0160701,0,0.417416
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.42,0.3,slack (V1 outcome),0.812385,0.812385,0.3,0.5,0.499979,0,1,5.28868e-08,0.0160488,0.0160701,0,0.417416
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_full,0.42,0.38,slack (V1 outcome),0.812385,0.812385,0.38,0.5,0.499979,0,1,5.28868e-08,0.0160488,0.0160701,0,0.417416
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.2,0.2,contested,0.383083,0.383083,0.2,0.55,0.409846,0,1,0.0901539,0.00929888,0.0994528,0,0.198053
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.2,0.3,contested,0.384734,0.384734,0.3,0.55,0.409819,0,1,0.0901811,0.00918242,0.0993635,0,0.198906
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.2,0.38,contested,0.38665,0.38665,0.38,0.55,0.409788,0,1,0.0902122,0.00904865,0.0992608,0,0.199897
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.25,0.2,contested,0.478216,0.478216,0.2,0.55,0.408735,0,1,0.0912651,0.00452793,0.095793,0,0.247236
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.25,0.3,contested,0.479587,0.479587,0.3,0.55,0.408724,0,1,0.0912762,0.00448242,0.0957586,0,0.247945
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.25,0.38,contested,0.481018,0.481018,0.38,0.55,0.408712,0,1,0.0912876,0.0044352,0.0957228,0,0.248685
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.3,0.2,contested,0.573403,0.573403,0.2,0.55,0.408151,0,1,0.0918486,0.00221409,0.0940627,0,0.296447
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.3,0.3,contested,0.574625,0.574625,0.3,0.55,0.408146,0,1,0.0918542,0.0021942,0.0940484,0,0.297079
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.3,0.38,contested,0.575828,0.575828,0.38,0.55,0.40814,0,1,0.0918597,0.00217471,0.0940344,0,0.297701
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.33,0.2,contested,0.630528,0.630528,0.2,0.55,0.407925,0,1,0.0920753,0.0014334,0.0935088,0,0.325978
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.33,0.3,contested,0.631691,0.631691,0.3,0.55,0.407921,0,1,0.0920793,0.00142054,0.0934999,0,0.326579
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.33,0.38,contested,0.632807,0.632807,0.38,0.55,0.407917,0,1,0.0920831,0.00140837,0.0934915,0,0.327156
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.36,0.2,contested,0.68766,0.68766,0.2,0.55,0.407751,0,1,0.0922486,0.000913042,0.093162,0,0.355481
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.36,0.3,contested,0.688776,0.688776,0.3,0.55,0.407748,0,1,0.0922516,0.000905039,0.0931566,0,0.356056
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.36,0.38,contested,0.689828,0.689828,0.38,0.55,0.407746,0,1,0.0922544,0.000897537,0.0931515,0,0.356598
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.42,0.2,contested,0.801938,0.801938,0.2,0.55,0.407478,0,1,0.0925556,0.000294539,0.0928164,0,0.412664
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.42,0.3,contested,0.802986,0.802986,0.3,0.55,0.407488,0,1,0.092559,0.000290713,0.0928028,0,0.413156
+V7 supermajority of valid votes (qS=0.55),V7,E_full,0.42,0.38,contested,0.803947,0.803947,0.38,0.55,0.407497,0,1,0.0925622,0.000287215,0.0927899,0,0.413607
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.2,0.2,contested,0.37194,0.37194,0.2,0.6,0.323249,0,1,0.176751,0.00182683,0.178578,0,0.192292
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.2,0.3,contested,0.378529,0.378529,0.3,0.6,0.323033,0,1,0.176967,0.00164694,0.178614,0,0.195698
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.2,0.38,contested,0.386073,0.386073,0.38,0.6,0.3228,0,1,0.1772,0.00146571,0.178666,0,0.199598
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.25,0.2,contested,0.462374,0.462374,0.2,0.6,0.321095,0,1,0.178905,0.000429196,0.179334,0,0.239046
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.25,0.3,contested,0.467856,0.467856,0.3,0.6,0.321006,0,1,0.178994,0.000391733,0.179386,0,0.24188
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.25,0.38,contested,0.473561,0.473561,0.38,0.6,0.320916,0,1,0.179084,0.000356721,0.17944,0,0.244829
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.3,0.2,contested,0.553023,0.553023,0.2,0.6,0.319957,0,1,0.180043,8.98818e-05,0.180133,0,0.285911
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.3,0.3,contested,0.55791,0.55791,0.3,0.6,0.319912,0,1,0.180088,8.24843e-05,0.180171,0,0.288437
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.3,0.38,contested,0.562719,0.562719,0.38,0.6,0.319868,0,1,0.180132,7.54188e-05,0.180207,0,0.290923
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.33,0.2,contested,0.607467,0.607467,0.2,0.6,0.319514,0,1,0.180486,3.2904e-05,0.180519,0,0.314057
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.33,0.3,contested,0.612114,0.612114,0.3,0.6,0.319482,0,1,0.180518,3.0232e-05,0.180548,0,0.31646
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.33,0.38,contested,0.616581,0.616581,0.38,0.6,0.319451,0,1,0.180549,2.77764e-05,0.180576,0,0.318769
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.36,0.2,contested,0.661937,0.661937,0.2,0.6,0.319178,0,1,0.180823,1.14418e-05,0.180834,0,0.342207
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.36,0.3,contested,0.666398,0.666398,0.3,0.6,0.319154,0,1,0.180847,1.04587e-05,0.180856,0,0.344511
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.36,0.38,contested,0.670605,0.670605,0.38,0.6,0.319132,0,1,0.180869,9.63999e-06,0.180878,0,0.346683
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.42,0.2,contested,0.770932,0.770932,0.2,0.6,0.318647,0,1,0.181351,1.05428e-06,0.181354,0,0.397778
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.42,0.3,contested,0.77512,0.77512,0.3,0.6,0.318649,0,1,0.181374,9.49239e-07,0.181352,0,0.399846
+V7 supermajority of valid votes (qS=0.6),V7,E_full,0.42,0.38,contested,0.778961,0.778961,0.38,0.6,0.318641,0,1,0.181395,8.58651e-07,0.18136,0,0.401727
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.2,0.2,contested,0.346509,0.346509,0.2,0.666667,0.21899,0,1,0.28101,0.000325906,0.281336,0,0.179144
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.2,0.3,contested,0.364702,0.364702,0.3,0.666667,0.218012,0,1,0.281988,0.000197858,0.282186,0,0.18855
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.2,0.38,contested,0.384836,0.384836,0.38,0.666667,0.217108,0,1,0.282892,0.000117634,0.28301,0,0.198959
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.25,0.2,contested,0.426043,0.426043,0.2,0.666667,0.21568,0,1,0.28432,3.52268e-05,0.284355,0,0.220263
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.25,0.3,contested,0.441276,0.441276,0.3,0.666667,0.215261,0,1,0.284739,2.07555e-05,0.28476,0,0.228138
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.25,0.38,contested,0.456968,0.456968,0.38,0.666667,0.214875,0,1,0.285125,1.21845e-05,0.285137,0,0.236251
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.3,0.2,contested,0.506177,0.506177,0.2,0.666667,0.213905,0,1,0.286095,2.4368e-06,0.286098,0,0.261691
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.3,0.3,contested,0.519763,0.519763,0.3,0.666667,0.213687,0,1,0.286313,1.71552e-06,0.286314,0,0.268716
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.3,0.38,contested,0.533105,0.533105,0.38,0.666667,0.213491,0,1,0.286509,1.06321e-06,0.28651,0,0.275613
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.33,0.2,contested,0.554413,0.554413,0.2,0.666667,0.213208,0,1,0.286793,4.46865e-07,0.286793,0,0.286629
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.33,0.3,contested,0.567326,0.567326,0.3,0.666667,0.213052,0,1,0.286948,3.1797e-07,0.286948,0,0.293305
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.33,0.38,contested,0.57974,0.57974,0.38,0.666667,0.212912,0,1,0.287088,2.02482e-07,0.287088,0,0.299723
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.36,0.2,contested,0.602725,0.602725,0.2,0.666667,0.212678,0,1,0.287322,7.30019e-08,0.287322,0,0.311606
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.36,0.3,contested,0.61511,0.61511,0.3,0.666667,0.212562,0,1,0.287438,5.24147e-08,0.287438,0,0.318008
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.36,0.38,contested,0.62681,0.62681,0.38,0.666667,0.21246,0,1,0.28754,3.41215e-08,0.28754,0,0.324056
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.42,0.2,contested,0.699504,0.699504,0.2,0.666667,0.21193,0,1,0.288071,1.3494e-09,0.28807,0,0.361581
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.42,0.3,contested,0.711114,0.711114,0.3,0.666667,0.211853,0,1,0.288144,9.85309e-10,0.288147,0,0.367545
+V7 supermajority of valid votes (qS=0.666667),V7,E_full,0.42,0.38,contested,0.721793,0.721793,0.38,0.666667,0.211796,0,1,0.288213,6.67215e-10,0.288204,0,0.373023
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.2,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.33,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.33,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.33,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.36,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.36,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.36,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.42,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,0,2.82036e-12,0.499649,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.42,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0,4.7591e-09,0.5,0,0.5,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_full,0.42,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0,6.05253e-07,0.5,0,0.5,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,2.41781,2.19796e-07,0,4.39848e-07,0.499648,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.61188,3.31831e-05,0,6.63034e-05,0.499966,0,0.499967,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.2,0.38,lock (mutual abstention),0.38,0.38,0.38,1.27253,0.000686995,0,0.001374,0.499313,0,0.499313,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,2.41781,2.19796e-07,0,4.39848e-07,0.499648,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,1.61188,3.31831e-05,0,6.63034e-05,0.499966,0,0.499967,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.27253,0.000686995,0,0.001374,0.499313,0,0.499313,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,2.41781,2.19796e-07,0,4.39848e-07,0.499648,0,0.5,0,0.10346
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,1.61188,3.31831e-05,0,6.63034e-05,0.499966,0,0.499967,0,0.155099
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.27253,0.000686995,0,0.001374,0.499313,0,0.499313,0,0.196459
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.33,0.2,default demobilises,0.882328,0.2,0.2,0.548053,0.381614,0,0.381615,0.563231,0,0.118386,0,0.273928
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.33,0.3,default demobilises,0.853358,0.3,0.3,0.566659,0.357838,0,0.357871,0.522445,0,0.142162,0,0.294784
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.33,0.38,default demobilises,0.822628,0.38,0.38,0.587826,0.327375,0,0.328062,0.485164,0,0.172625,0,0.309195
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.36,0.2,default demobilises (capped),0.9,0.2,0.2,0.537292,0.39316,0,0.393161,0.552718,0,0.10684,0,0.276358
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.36,0.3,default demobilises (capped),0.9,0.3,0.3,0.537292,0.39316,0,0.393194,0.493908,0,0.10684,0,0.302178
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.36,0.38,default demobilises (capped),0.9,0.38,0.38,0.537292,0.39316,0,0.393847,0.437624,0,0.10684,0,0.322857
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.537292,0.39316,0,0.393161,0.552718,0,0.10684,0,0.276358
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.537292,0.39316,0,0.393194,0.493908,0,0.10684,0,0.302178
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_full,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.537292,0.39316,0,0.393847,0.437624,0,0.10684,0,0.322857
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,4.87701e-05,9.75538e-05,0.4996,0,0.499951,0,0.10346
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0.00191697,0.00383534,0.498083,0,0.498083,0,0.155099
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.2,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0.0150753,0.0301521,0.484924,0,0.484924,0,0.196459
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,4.87701e-05,9.75538e-05,0.4996,0,0.499951,0,0.10346
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0.00191697,0.00383534,0.498083,0,0.498083,0,0.155099
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.69671,3.03605e-07,0.0150753,0.0301521,0.484924,0,0.484924,0,0.196459
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,4.87701e-05,9.75538e-05,0.4996,0,0.499951,0,0.10346
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,2.14917,2.39731e-09,0.00191697,0.00383534,0.498083,0,0.498083,0,0.155099
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.3,0.38,default demobilises,0.590607,0.38,0.38,1.09167,0.00154984,0.227238,0.243865,0.468912,0,0.271475,0,0.2509
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.33,0.2,lock (mutual abstention),0.2,0.2,0.2,3.22375,1.38976e-12,4.87701e-05,9.75538e-05,0.4996,0,0.499951,0,0.10346
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.33,0.3,default demobilises,0.66697,0.3,0.3,0.966685,0.00929422,0.336162,0.347375,0.476666,0,0.157907,0,0.249953
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.33,0.38,default demobilises,0.659703,0.38,0.38,0.977334,0.0080352,0.326548,0.34966,0.40601,0,0.168144,0,0.268756
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.36,0.2,default demobilises,0.886313,0.2,0.2,0.727452,0.109225,0.482795,0.592069,0.353114,0,0.00333802,0,0.274584
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.36,0.3,default demobilises,0.854702,0.3,0.3,0.754357,0.092771,0.477293,0.571983,0.310475,0,0.00789006,0,0.295047
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.36,0.38,default demobilises,0.822976,0.38,0.38,0.783437,0.0745062,0.467877,0.557459,0.270266,0,0.0164907,0,0.309271
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.716389,0.114827,0.484368,0.599243,0.346684,0,0.00214038,0,0.276358
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.716389,0.114827,0.484368,0.601113,0.287873,0,0.00214038,0,0.302178
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_full,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.716389,0.114827,0.484367,0.61427,0.231591,0,0.00214038,0,0.322857
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.2,0.2,slack (V1 outcome),0.38685,0.38685,0.2,0.5,0.48655,0,1,0.0183,0.03275,0.0501,0,0.2
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.2,0.3,slack (V1 outcome),0.38685,0.38685,0.3,0.5,0.48655,0,1,0.0183,0.03275,0.0501,0,0.2
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.2,0.38,slack (V1 outcome),0.38685,0.38685,0.38,0.5,0.48655,0,1,0.0183,0.03275,0.0501,0,0.2
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.25,0.2,slack (V1 outcome),0.483563,0.483563,0.2,0.5,0.4863,0,1,0.01925,0.02585,0.04345,0,0.25
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.25,0.3,slack (V1 outcome),0.483563,0.483563,0.3,0.5,0.4863,0,1,0.01925,0.02585,0.04345,0,0.25
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.25,0.38,slack (V1 outcome),0.483563,0.483563,0.38,0.5,0.4863,0,1,0.01925,0.02585,0.04345,0,0.25
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.3,0.2,slack (V1 outcome),0.580275,0.580275,0.2,0.5,0.486,0,1,0.02005,0.0212,0.0391,0,0.3
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.3,0.3,slack (V1 outcome),0.580275,0.580275,0.3,0.5,0.486,0,1,0.02005,0.0212,0.0391,0,0.3
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.3,0.38,slack (V1 outcome),0.580275,0.580275,0.38,0.5,0.486,0,1,0.02005,0.0212,0.0391,0,0.3
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.33,0.2,slack (V1 outcome),0.638303,0.638303,0.2,0.5,0.48575,0,1,0.02055,0.01955,0.0377,0,0.329996
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.33,0.3,slack (V1 outcome),0.638303,0.638303,0.3,0.5,0.48575,0,1,0.02055,0.01955,0.0377,0,0.329996
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.33,0.38,slack (V1 outcome),0.638303,0.638303,0.38,0.5,0.48575,0,1,0.02055,0.01955,0.0377,0,0.329996
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.36,0.2,slack (V1 outcome),0.69633,0.69633,0.2,0.5,0.4855,0,1,0.02065,0.01785,0.03625,0,0.35995
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.36,0.3,slack (V1 outcome),0.69633,0.69633,0.3,0.5,0.4855,0,1,0.02065,0.01785,0.03625,0,0.35995
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.36,0.38,slack (V1 outcome),0.69633,0.69633,0.38,0.5,0.4855,0,1,0.02065,0.01785,0.03625,0,0.35995
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.42,0.2,slack (V1 outcome),0.812385,0.812385,0.2,0.5,0.4863,0,1,0.01965,0.0154,0.033,0,0.417416
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.42,0.3,slack (V1 outcome),0.812385,0.812385,0.3,0.5,0.4863,0,1,0.01965,0.0154,0.033,0,0.417416
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_full,0.42,0.38,slack (V1 outcome),0.812385,0.812385,0.38,0.5,0.4863,0,1,0.01965,0.0154,0.033,0,0.417416
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.2,0.2,contested,0.314806,0.314806,0.2,0.5,0.5,0,1,0,0.0471399,0.0471401,0,0.162754
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.2,0.3,contested,0.34824,0.34824,0.3,0.5,0.5,0,1,0,0.0424238,0.0424238,0,0.180039
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.2,0.38,contested,0.383455,0.383455,0.38,0.5,0.5,0,1,0,0.0383889,0.0383889,0,0.198245
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.25,0.2,contested,0.380286,0.380286,0.2,0.5,0.5,0,1,0,0.0387199,0.0387199,0,0.196606
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.25,0.3,contested,0.408616,0.408616,0.3,0.5,0.5,0,1,0,0.0359515,0.0359515,0,0.211253
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.25,0.38,contested,0.437264,0.437264,0.38,0.5,0.5,0,1,0,0.0335315,0.0335315,0,0.226064
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.3,0.2,contested,0.446889,0.446889,0.2,0.5,0.5,0,1,0,0.0327908,0.0327908,0,0.23104
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.3,0.3,contested,0.472209,0.472209,0.3,0.5,0.5,0,1,0,0.0309915,0.0309915,0,0.24413
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.3,0.38,contested,0.496932,0.496932,0.38,0.5,0.5,0,1,0,0.0294172,0.0294172,0,0.256912
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.33,0.2,contested,0.48715,0.48715,0.2,0.5,0.5,0,1,0,0.0300204,0.0300204,0,0.251854
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.33,0.3,contested,0.511206,0.511206,0.3,0.5,0.5,0,1,0,0.0285796,0.0285796,0,0.264291
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.33,0.38,contested,0.534293,0.534293,0.38,0.5,0.5,0,1,0,0.0273223,0.0273223,0,0.276227
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.36,0.2,contested,0.527557,0.527557,0.2,0.5,0.5,0,1,0,0.0276775,0.0276775,0,0.272745
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.36,0.3,contested,0.55061,0.55061,0.3,0.5,0.5,0,1,0,0.0264989,0.0264989,0,0.284663
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.36,0.38,contested,0.572407,0.572407,0.38,0.5,0.5,0,1,0,0.0254739,0.0254739,0,0.295932
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.42,0.2,contested,0.608671,0.608671,0.2,0.5,0.5,0,1,0,0.0239342,0.0239342,0,0.31468
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.42,0.3,contested,0.630236,0.630236,0.3,0.5,0.5,0,1,0,0.0231029,0.023103,0,0.325827
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_full,0.42,0.38,contested,0.650143,0.650143,0.38,0.5,0.5,0,1,0,0.0223827,0.0223831,0,0.336115
+V1 no quorum (majority of valid votes),V1,E_dom,0.2,0.2,slack (V1 outcome),0.361232,0.361232,0.2,0.5,0.5,0,1,0,0.0380406,0.0380406,0,0.2
+V1 no quorum (majority of valid votes),V1,E_dom,0.2,0.3,slack (V1 outcome),0.361232,0.361232,0.3,0.5,0.5,0,1,0,0.0380406,0.0380406,0,0.2
+V1 no quorum (majority of valid votes),V1,E_dom,0.25,0.2,slack (V1 outcome),0.45154,0.45154,0.2,0.5,0.5,0,1,0,0.0302479,0.0302479,0,0.25
+V1 no quorum (majority of valid votes),V1,E_dom,0.25,0.3,slack (V1 outcome),0.45154,0.45154,0.3,0.5,0.5,0,1,0,0.0302479,0.0302479,0,0.25
+V1 no quorum (majority of valid votes),V1,E_dom,0.25,0.38,slack (V1 outcome),0.45154,0.45154,0.38,0.5,0.5,0,1,0,0.0302479,0.0302479,0,0.25
+V1 no quorum (majority of valid votes),V1,E_dom,0.3,0.2,slack (V1 outcome),0.541848,0.541848,0.2,0.5,0.5,0,1,0,0.0251233,0.0251233,0,0.3
+V1 no quorum (majority of valid votes),V1,E_dom,0.3,0.3,slack (V1 outcome),0.541848,0.541848,0.3,0.5,0.5,0,1,0,0.0251233,0.0251233,0,0.3
+V1 no quorum (majority of valid votes),V1,E_dom,0.3,0.38,slack (V1 outcome),0.541848,0.541848,0.38,0.5,0.5,0,1,0,0.0251233,0.0251233,0,0.3
+V1 no quorum (majority of valid votes),V1,E_dom,0.33,0.2,slack (V1 outcome),0.596033,0.596033,0.2,0.5,0.5,0,1,0,0.0228096,0.0228096,0,0.33
+V1 no quorum (majority of valid votes),V1,E_dom,0.33,0.3,slack (V1 outcome),0.596033,0.596033,0.3,0.5,0.5,0,1,0,0.0228096,0.0228096,0,0.33
+V1 no quorum (majority of valid votes),V1,E_dom,0.33,0.38,slack (V1 outcome),0.596033,0.596033,0.38,0.5,0.5,0,1,0,0.0228096,0.0228096,0,0.33
+V1 no quorum (majority of valid votes),V1,E_dom,0.36,0.2,slack (V1 outcome),0.650217,0.650217,0.2,0.5,0.5,0,1,0,0.0208858,0.0208858,0,0.359997
+V1 no quorum (majority of valid votes),V1,E_dom,0.36,0.3,slack (V1 outcome),0.650217,0.650217,0.3,0.5,0.5,0,1,0,0.0208858,0.0208858,0,0.359997
+V1 no quorum (majority of valid votes),V1,E_dom,0.36,0.38,slack (V1 outcome),0.650217,0.650217,0.38,0.5,0.5,0,1,0,0.0208858,0.0208858,0,0.359997
+V1 no quorum (majority of valid votes),V1,E_dom,0.42,0.2,slack (V1 outcome),0.758587,0.758587,0.2,0.5,0.500014,0,1,0,0.0175948,0.0175805,0,0.419627
+V1 no quorum (majority of valid votes),V1,E_dom,0.42,0.3,slack (V1 outcome),0.758587,0.758587,0.3,0.5,0.500014,0,1,0,0.0175948,0.0175805,0,0.419627
+V1 no quorum (majority of valid votes),V1,E_dom,0.42,0.38,slack (V1 outcome),0.758587,0.758587,0.38,0.5,0.500014,0,1,0,0.0175948,0.0175805,0,0.419627
+V2 participation quorum (q=0.25),V2,E_dom,0.2,0.2,lock (default boycott),0.2,0.08,0.08,3.09617,3.63131e-06,0,3.67854e-06,0.819421,2.28753e-08,0.499996,0.000348388,0.0788828
+V2 participation quorum (q=0.25),V2,E_dom,0.2,0.3,lock (default boycott),0.3,0.08,0.08,1.68882,0.000330606,0,0.000331054,0.90615,1.31532e-06,0.499671,0.00861585,0.106548
+V2 participation quorum (q=0.25),V2,E_dom,0.25,0.2,lock (default boycott),0.2,0.08,0.08,3.09617,3.63131e-06,0,3.67854e-06,0.819421,2.28753e-08,0.499996,0.00098211,0.0788828
+V2 participation quorum (q=0.25),V2,E_dom,0.25,0.3,lock (default boycott),0.3,0.08,0.08,1.68882,0.000330606,0,0.000331054,0.90615,1.31532e-06,0.499671,0.0195355,0.106548
+V2 participation quorum (q=0.25),V2,E_dom,0.25,0.38,lock (default boycott),0.38,0.08,0.08,1.23847,0.00458087,0,0.00458289,0.933783,1.77469e-05,0.495437,0.0954009,0.128695
+V2 participation quorum (q=0.25),V2,E_dom,0.3,0.2,default boycotts,0.770578,0.08,0.08,0.538013,0.435332,0,0.435369,0.549832,0.0362286,0.100897,0.224166,0.236519
+V2 participation quorum (q=0.25),V2,E_dom,0.3,0.3,default boycotts,0.736391,0.08,0.08,0.566034,0.387687,0,0.387722,0.595988,0.0250801,0.137393,0.252161,0.227278
+V2 participation quorum (q=0.25),V2,E_dom,0.3,0.38,default boycotts,0.695232,0.08,0.08,0.603902,0.326021,0,0.326051,0.655504,0.0149035,0.188883,0.287442,0.215946
+V2 participation quorum (q=0.25),V2,E_dom,0.33,0.2,default boycotts,0.827607,0.08,0.08,0.496972,0.504409,0,0.504449,0.482635,0.058677,0.0542678,0.142903,0.25093
+V2 participation quorum (q=0.25),V2,E_dom,0.33,0.3,default boycotts,0.802078,0.08,0.08,0.514542,0.475394,0,0.475433,0.510906,0.048326,0.0729321,0.159656,0.24472
+V2 participation quorum (q=0.25),V2,E_dom,0.33,0.38,default boycotts,0.773669,0.08,0.08,0.535615,0.439443,0,0.439481,0.545842,0.0373595,0.0979161,0.18043,0.237341
+V2 participation quorum (q=0.25),V2,E_dom,0.36,0.2,default boycotts,0.877565,0.08,0.08,0.465843,0.549904,0,0.549946,0.43813,0.0774237,0.0275192,0.0789189,0.261149
+V2 participation quorum (q=0.25),V2,E_dom,0.36,0.3,default boycotts,0.857556,0.08,0.08,0.47783,0.53378,0,0.533821,0.453935,0.0705359,0.0367557,0.0879454,0.257466
+V2 participation quorum (q=0.25),V2,E_dom,0.36,0.38,default boycotts,0.836269,0.08,0.08,0.49128,0.513673,0,0.513714,0.473598,0.0623893,0.0487161,0.0992153,0.252979
+V2 participation quorum (q=0.25),V2,E_dom,0.42,0.2,default boycotts (capped),0.9,0.08,0.08,0.453097,0.5648,0,0.564841,0.423496,0.0840758,0.0192758,0.00119848,0.264627
+V2 participation quorum (q=0.25),V2,E_dom,0.42,0.3,default boycotts (capped),0.9,0.08,0.08,0.453097,0.5648,0,0.564841,0.423496,0.0840758,0.0192758,0.00119848,0.264627
+V2 participation quorum (q=0.25),V2,E_dom,0.42,0.38,default boycotts (capped),0.9,0.08,0.08,0.453097,0.5648,0,0.564841,0.423496,0.0840758,0.0192758,0.00119848,0.264627
+V2 participation quorum (q=0.4),V2,E_dom,0.2,0.2,lock (default boycott),0.2,0.08,0.08,5.35386,1.91863e-16,0,1.91865e-16,0.819425,2.23599e-22,0.5,5.77316e-14,0.0788828
+V2 participation quorum (q=0.4),V2,E_dom,0.2,0.3,lock (default boycott),0.3,0.08,0.08,2.92029,2.30336e-12,0,2.30336e-12,0.90648,4.40382e-19,0.5,8.51946e-11,0.106548
+V2 participation quorum (q=0.4),V2,E_dom,0.25,0.2,lock (default boycott),0.2,0.08,0.08,5.35386,1.91863e-16,0,1.91865e-16,0.819425,2.23599e-22,0.5,1.79501e-12,0.0788828
+V2 participation quorum (q=0.4),V2,E_dom,0.25,0.3,lock (default boycott),0.3,0.08,0.08,2.92029,2.30336e-12,0,2.30336e-12,0.90648,4.40382e-19,0.5,1.4328e-09,0.106548
+V2 participation quorum (q=0.4),V2,E_dom,0.25,0.38,lock (default boycott),0.38,0.08,0.08,2.14155,1.2478e-09,0,1.2478e-09,0.938364,7.08456e-17,0.5,1.62792e-07,0.128695
+V2 participation quorum (q=0.4),V2,E_dom,0.3,0.2,lock (default boycott),0.2,0.08,0.08,5.35386,1.91863e-16,0,1.91865e-16,0.819425,2.23599e-22,0.5,3.05775e-11,0.0788828
+V2 participation quorum (q=0.4),V2,E_dom,0.3,0.3,lock (default boycott),0.3,0.08,0.08,2.92029,2.30336e-12,0,2.30336e-12,0.90648,4.40382e-19,0.5,2.01328e-08,0.106548
+V2 participation quorum (q=0.4),V2,E_dom,0.3,0.38,lock (default boycott),0.38,0.08,0.08,2.14155,1.2478e-09,0,1.2478e-09,0.938364,7.08456e-17,0.5,1.51274e-06,0.128695
+V2 participation quorum (q=0.4),V2,E_dom,0.33,0.2,lock (default boycott),0.2,0.08,0.08,5.35386,1.91863e-16,0,1.91865e-16,0.819425,2.23599e-22,0.5,1.0905e-10,0.0788828
+V2 participation quorum (q=0.4),V2,E_dom,0.33,0.3,lock (default boycott),0.3,0.08,0.08,2.92029,2.30336e-12,0,2.30336e-12,0.90648,4.40382e-19,0.5,7.83302e-08,0.106548
+V2 participation quorum (q=0.4),V2,E_dom,0.33,0.38,lock (default boycott),0.38,0.08,0.08,2.14155,1.2478e-09,0,1.2478e-09,0.938364,7.08456e-17,0.5,4.95451e-06,0.128695
+V2 participation quorum (q=0.4),V2,E_dom,0.36,0.2,lock (default boycott),0.2,0.08,0.08,5.35386,1.91863e-16,0,1.91865e-16,0.819425,2.23599e-22,0.5,2.55861e-10,0.0788828
+V2 participation quorum (q=0.4),V2,E_dom,0.36,0.3,lock (default boycott),0.3,0.08,0.08,2.92029,2.30336e-12,0,2.30336e-12,0.90648,4.40382e-19,0.5,2.24255e-07,0.106548
+V2 participation quorum (q=0.4),V2,E_dom,0.36,0.38,lock (default boycott),0.38,0.08,0.08,2.14155,1.2478e-09,0,1.2478e-09,0.938364,7.08456e-17,0.5,1.41064e-05,0.128695
+V2 participation quorum (q=0.4),V2,E_dom,0.42,0.2,lock (default boycott),0.2,0.08,0.08,5.35386,1.91863e-16,0,1.91865e-16,0.819425,2.23599e-22,0.5,4.99839e-10,0.0788828
+V2 participation quorum (q=0.4),V2,E_dom,0.42,0.3,lock (default boycott),0.3,0.08,0.08,2.92029,2.30336e-12,0,2.30336e-12,0.90648,4.40382e-19,0.5,7.37492e-07,0.106548
+V2 participation quorum (q=0.4),V2,E_dom,0.42,0.38,lock (default boycott),0.38,0.08,0.08,2.14155,1.2478e-09,0,1.2478e-09,0.938364,7.08456e-17,0.5,5.56648e-05,0.128695
+V2 participation quorum (q=0.5),V2,E_dom,0.2,0.2,lock (default boycott),0.2,0.08,0.08,6.859,0,0,0,0.819425,0,0.5,0,0.0788828
+V2 participation quorum (q=0.5),V2,E_dom,0.2,0.3,lock (default boycott),0.3,0.08,0.08,3.74127,0,0,0,0.90648,0,0.5,0,0.106548
+V2 participation quorum (q=0.5),V2,E_dom,0.25,0.2,lock (default boycott),0.2,0.08,0.08,6.859,0,0,0,0.819425,0,0.5,0,0.0788828
+V2 participation quorum (q=0.5),V2,E_dom,0.25,0.3,lock (default boycott),0.3,0.08,0.08,3.74127,0,0,0,0.90648,0,0.5,0,0.106548
+V2 participation quorum (q=0.5),V2,E_dom,0.25,0.38,lock (default boycott),0.38,0.08,0.08,2.7436,0,0,0,0.938364,0,0.5,0,0.128695
+V2 participation quorum (q=0.5),V2,E_dom,0.3,0.2,lock (default boycott),0.2,0.08,0.08,6.859,0,0,0,0.819425,0,0.5,0,0.0788828
+V2 participation quorum (q=0.5),V2,E_dom,0.3,0.3,lock (default boycott),0.3,0.08,0.08,3.74127,0,0,0,0.90648,0,0.5,0,0.106548
+V2 participation quorum (q=0.5),V2,E_dom,0.3,0.38,lock (default boycott),0.38,0.08,0.08,2.7436,0,0,0,0.938364,0,0.5,0,0.128695
+V2 participation quorum (q=0.5),V2,E_dom,0.33,0.2,lock (default boycott),0.2,0.08,0.08,6.859,0,0,0,0.819425,0,0.5,0,0.0788828
+V2 participation quorum (q=0.5),V2,E_dom,0.33,0.3,lock (default boycott),0.3,0.08,0.08,3.74127,0,0,0,0.90648,0,0.5,0,0.106548
+V2 participation quorum (q=0.5),V2,E_dom,0.33,0.38,lock (default boycott),0.38,0.08,0.08,2.7436,0,0,0,0.938364,0,0.5,0,0.128695
+V2 participation quorum (q=0.5),V2,E_dom,0.36,0.2,lock (default boycott),0.2,0.08,0.08,6.859,0,0,0,0.819425,0,0.5,0,0.0788828
+V2 participation quorum (q=0.5),V2,E_dom,0.36,0.3,lock (default boycott),0.3,0.08,0.08,3.74127,0,0,0,0.90648,0,0.5,0,0.106548
+V2 participation quorum (q=0.5),V2,E_dom,0.36,0.38,lock (default boycott),0.38,0.08,0.08,2.7436,0,0,0,0.938364,0,0.5,0,0.128695
+V2 participation quorum (q=0.5),V2,E_dom,0.42,0.2,lock (default boycott),0.2,0.08,0.08,6.859,0,0,0,0.819425,0,0.5,0,0.0788828
+V2 participation quorum (q=0.5),V2,E_dom,0.42,0.3,lock (default boycott),0.3,0.08,0.08,3.74127,0,0,0,0.90648,0,0.5,0,0.106548
+V2 participation quorum (q=0.5),V2,E_dom,0.42,0.38,lock (default boycott),0.38,0.08,0.08,2.7436,0,0,0,0.938364,0,0.5,0,0.128695
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.33,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.33,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.33,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.36,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.36,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.36,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.42,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.42,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V3 approval quorum (q=0.333333, denominator=E)",V3,E_dom,0.42,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,2.2577,4.89122e-07,0,9.77777e-07,0.499914,0,0.5,0,0.110766
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.50513,8.0354e-05,0,0.000160849,0.49992,0,0.49992,0,0.166098
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,2.2577,4.89122e-07,0,9.77777e-07,0.499914,0,0.5,0,0.110766
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,1.50513,8.0354e-05,0,0.000160849,0.49992,0,0.49992,0,0.166098
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.18826,0.00159117,0,0.00318249,0.498409,0,0.498409,0,0.210391
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,2.2577,4.89122e-07,0,9.77777e-07,0.499914,0,0.5,0,0.110766
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,1.50513,8.0354e-05,0,0.000160849,0.49992,0,0.49992,0,0.166098
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.18826,0.00159117,0,0.00318249,0.498409,0,0.498409,0,0.210391
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.33,0.2,default demobilises,0.82051,0.2,0.2,0.550316,0.395693,0,0.395694,0.544155,0,0.104307,0,0.281134
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.33,0.3,default demobilises,0.789959,0.3,0.3,0.571599,0.360436,0,0.360516,0.505657,0,0.139564,0,0.301181
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.33,0.38,default demobilises,0.756457,0.38,0.38,0.596914,0.318037,0,0.319629,0.470214,0,0.181963,0,0.314434
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.36,0.2,default demobilises,0.880741,0.2,0.2,0.512682,0.45096,0,0.45096,0.494728,0,0.0490404,0,0.293593
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.36,0.3,default demobilises,0.856893,0.3,0.3,0.52695,0.431844,0,0.431925,0.449803,0,0.0681555,0,0.316876
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.36,0.38,default demobilises,0.831878,0.38,0.38,0.542795,0.407857,0,0.409449,0.408052,0,0.0921428,0,0.333636
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.501711,0.46348,0,0.46348,0.483368,0,0.0365204,0,0.29651
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.501711,0.46348,0,0.46356,0.424387,0,0.0365204,0,0.324177
+"V3 approval quorum (q=0.25, denominator=E)",V3,E_dom,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.501711,0.46348,0,0.465071,0.368042,0,0.0365204,0,0.346323
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,1.80616,8.89418e-05,0,0.000177907,0.499826,3.67555e-15,0.499911,0,0.110766
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.20411,0.0035649,0,0.00712814,0.496435,3.59871e-11,0.496435,0,0.166098
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,1.80616,8.89418e-05,0,0.000177907,0.499826,3.67555e-15,0.499911,0,0.110766
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.25,0.3,default demobilises,0.563738,0.3,0.3,0.640779,0.248896,0,0.252459,0.520037,0.000441972,0.251546,0,0.239109
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.25,0.38,default demobilises,0.50014,0.38,0.38,0.722261,0.14833,0,0.174232,0.478693,2.5463e-05,0.351695,0,0.24365
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.3,0.2,default demobilises,0.718464,0.2,0.2,0.502783,0.485628,0,0.485717,0.437288,0.0309049,0.0452764,0,0.254236
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.3,0.3,default demobilises,0.692927,0.3,0.3,0.521313,0.450986,0,0.454549,0.38212,0.0192285,0.0682429,0,0.27486
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.3,0.38,default demobilises,0.663387,0.38,0.38,0.544526,0.408259,0,0.434157,0.334385,0.00989323,0.101635,0,0.288839
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.33,0.2,default demobilises,0.770333,0.2,0.2,0.468929,0.548895,0,0.548984,0.38365,0.0647304,0.0158351,0,0.268338
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.33,0.3,default demobilises,0.750884,0.3,0.3,0.481076,0.526339,0,0.529902,0.327832,0.0507102,0.0243713,0,0.290771
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.33,0.38,default demobilises,0.729523,0.38,0.38,0.495162,0.499938,0,0.525831,0.276358,0.0369398,0.037002,0,0.307089
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.36,0.2,default demobilises,0.816944,0.2,0.2,0.442174,0.596674,0,0.596763,0.342733,0.10122,0.00454645,0,0.280291
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.36,0.3,default demobilises,0.801816,0.3,0.3,0.450517,0.582199,0,0.585762,0.287111,0.089317,0.00711794,0,0.304203
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.36,0.38,default demobilises,0.785809,0.38,0.38,0.459694,0.565865,0,0.591752,0.234263,0.076362,0.0104969,0,0.322267
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.42,0.2,default demobilises,0.899414,0.2,0.2,0.40163,0.654189,0,0.654278,0.292627,0.154431,0.000241865,0,0.296429
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.42,0.3,default demobilises,0.89015,0.3,0.3,0.40581,0.649841,0,0.653404,0.23692,0.150171,0.000329722,0,0.322813
+"V3 approval quorum (q=0.2, denominator=E)",V3,E_dom,0.42,0.38,default demobilises,0.880831,0.38,0.38,0.410104,0.644634,0,0.670517,0.183516,0.145143,0.000509002,0,0.343421
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,1.9,3.33153e-05,0,6.67639e-05,0.499881,4.71026e-17,0.499967,0,0.110766
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.26667,0.00177936,0,0.0035602,0.498221,1.16573e-12,0.498221,0,0.166098
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,1.9,3.33153e-05,0,6.67639e-05,0.499881,4.71026e-17,0.499967,0,0.110766
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,1.26667,0.00177936,0,0.0035602,0.498221,1.16573e-12,0.498221,0,0.166098
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1,0.0157453,0,0.0314936,0.484255,1.08316e-09,0.484255,0,0.210391
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.3,0.2,default demobilises,0.728513,0.2,0.2,0.521611,0.451113,0,0.451147,0.473832,0.0174623,0.0663491,0,0.256999
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.3,0.3,default demobilises,0.700287,0.3,0.3,0.542634,0.412418,0,0.414199,0.423592,0.00923442,0.0968161,0,0.276893
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.3,0.38,default demobilises,0.667686,0.38,0.38,0.56913,0.364933,0,0.380681,0.380092,0.00386725,0.138934,0,0.290028
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.33,0.2,default demobilises,0.783471,0.2,0.2,0.485021,0.518854,0,0.518888,0.415815,0.0444148,0.0255606,0,0.271833
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.33,0.3,default demobilises,0.76195,0.3,0.3,0.498721,0.493639,0,0.49542,0.364109,0.0322323,0.038593,0,0.293773
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.33,0.38,default demobilises,0.738373,0.38,0.38,0.514645,0.464046,0,0.479793,0.316288,0.0212674,0.0572218,0,0.309513
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.36,0.2,default demobilises,0.832438,0.2,0.2,0.45649,0.568692,0,0.568726,0.372593,0.0767983,0.00810584,0,0.283956
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.36,0.3,default demobilises,0.815564,0.3,0.3,0.465935,0.552793,0,0.554573,0.320036,0.0652411,0.0124485,0,0.30763
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.36,0.38,default demobilises,0.797758,0.38,0.38,0.476335,0.534462,0,0.55021,0.270067,0.0528871,0.0184247,0,0.325315
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.422222,0.615814,0,0.615848,0.331033,0.116717,0.000902708,0,0.29651
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.422222,0.615814,0,0.617595,0.272052,0.116717,0.000902708,0,0.324177
+"V5a quorum tied to the last election's turnout (qT=0.5, form=approval)",V5a,E_dom,0.42,0.38,default demobilises,0.897212,0.38,0.38,0.423534,0.614426,0,0.630173,0.216655,0.115453,0.00102731,0,0.345937
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.2,0.2,lock (default boycott),0.2,0.08,0.08,2.5,0.000232427,0,0.000242017,0.819192,5.37206e-06,0.499773,0.00735255,0.0788828
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.2,0.3,lock (default boycott),0.3,0.08,0.08,1.36364,0.00649937,0,0.00654729,0.899981,0.000131673,0.493632,0.0713004,0.106548
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.25,0.2,default boycotts,0.635734,0.08,0.08,0.539826,0.434922,0,0.43531,0.54272,0.0496768,0.114755,0.218365,0.199489
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.25,0.3,default boycotts,0.593786,0.08,0.08,0.5839,0.363053,0,0.363407,0.611154,0.0317451,0.168692,0.257413,0.187877
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.25,0.38,default boycotts,0.531243,0.08,0.08,0.66483,0.2492,0,0.249488,0.718416,0.0142129,0.265013,0.308686,0.170564
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.3,0.2,default boycotts,0.726436,0.08,0.08,0.464083,0.567099,0,0.56754,0.416091,0.104945,0.0378464,0.0676519,0.224544
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.3,0.3,default boycotts,0.703441,0.08,0.08,0.4812,0.53683,0,0.53726,0.445156,0.0891292,0.0522992,0.0837221,0.218214
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.3,0.38,default boycotts,0.676118,0.08,0.08,0.503256,0.497981,0,0.498395,0.482405,0.0717715,0.0737904,0.104761,0.210664
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.33,0.2,default boycotts,0.771603,0.08,0.08,0.433775,0.620151,0,0.620606,0.365054,0.138141,0.0179906,0,0.236792
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.33,0.3,default boycotts,0.754352,0.08,0.08,0.444871,0.600899,0,0.601349,0.383591,0.125291,0.0243916,0.00799532,0.232165
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.33,0.38,default boycotts,0.735041,0.08,0.08,0.457986,0.577872,0,0.578316,0.405739,0.111136,0.0332639,0.0194503,0.22691
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.36,0.2,default boycotts,0.81252,0.08,0.08,0.409545,0.660859,0,0.661328,0.325773,0.168772,0.0079122,0,0.24736
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.36,0.3,default boycotts,0.799369,0.08,0.08,0.417032,0.64851,0,0.648975,0.337701,0.158953,0.0104434,0,0.244029
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.36,0.38,default boycotts,0.785242,0.08,0.08,0.425386,0.634559,0,0.635019,0.35117,0.148502,0.0139437,0,0.24042
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.42,0.2,default boycotts,0.885352,0.08,0.08,0.372508,0.713451,0,0.713926,0.274694,0.21458,0.00112933,0,0.262523
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.42,0.3,"no pure equilibrium (mixed, approx.)",0.833502,0.442334,0.08,0.346701,0.605681,0,0.851023,0.14325,0.109541,0.00385943,0,0.351811
+"V5p quorum tied to the last election's turnout (qT=0.5, form=participation)",V5p,E_dom,0.42,0.38,"no pure equilibrium (mixed, approx.)",0.776088,0.698051,0.08,0.473531,0.521369,0,0.967818,0.030965,0.033883,0.0125138,0,0.407775
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,1.66667,0.000345095,0,0.000690693,0.49957,9.17008e-13,0.499655,0,0.110766
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.11111,0.00916175,0,0.0183233,0.490838,3.81816e-09,0.490838,0,0.166098
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.25,0.2,default demobilises,0.605094,0.2,0.2,0.550879,0.39552,0,0.395866,0.498219,0.00988316,0.114363,0,0.222891
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.25,0.3,default demobilises,0.56669,0.3,0.3,0.588211,0.330783,0,0.339944,0.439947,0.00361164,0.172829,0,0.239926
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.25,0.38,default demobilises,0.51541,0.38,0.38,0.646734,0.240836,0,0.291259,0.399433,0.000640966,0.259805,0,0.247877
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.3,0.2,default demobilises,0.70068,0.2,0.2,0.475728,0.535331,0,0.535676,0.383802,0.0587202,0.0233894,0,0.249335
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.3,0.3,default demobilises,0.678876,0.3,0.3,0.491008,0.506448,0,0.515605,0.32092,0.0427363,0.0362881,0,0.270977
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.3,0.38,default demobilises,0.653543,0.38,0.38,0.510041,0.470566,0,0.520918,0.266515,0.0277635,0.0571979,0,0.286115
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.33,0.2,default demobilises,0.74847,0.2,0.2,0.445353,0.592304,0,0.592649,0.336434,0.0995155,0.00721173,0,0.262448
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.33,0.3,default demobilises,0.73204,0.3,0.3,0.455349,0.5737,0,0.582852,0.274072,0.0846787,0.0109791,0,0.285635
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.33,0.38,default demobilises,0.71391,0.38,0.38,0.466912,0.551849,0,0.602091,0.21706,0.0693734,0.0175244,0,0.302796
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.36,0.2,default demobilises,0.791821,0.2,0.2,0.420971,0.636421,0,0.636766,0.29951,0.138316,0.00189471,0,0.273989
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.36,0.3,default demobilises,0.779292,0.3,0.3,0.427739,0.624434,0,0.633582,0.238591,0.127172,0.00273852,0,0.298387
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.36,0.38,default demobilises,0.765974,0.38,0.38,0.435176,0.6108,0,0.660898,0.181426,0.115156,0.00435662,0,0.316991
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.42,0.2,default demobilises,0.869077,0.2,0.2,0.383549,0.694792,0,0.695138,0.250025,0.194878,8.52268e-05,0,0.291534
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.42,0.3,"no pure equilibrium (mixed, approx.)",0.845245,0.426388,0.3,0.394363,0.643167,0,0.774925,0.144364,0.14397,0.000802474,0,0.349357
+"V6d resident-indexed approval quorum (q=0.333333, variant=d)",V6d,E_dom,0.42,0.38,"no pure equilibrium (mixed, approx.)",0.769215,0.736245,0.38,0.48905,0.51061,0,0.976478,0.0123699,0.0257844,0.0151742,0,0.416332
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.2,0.2,default demobilises,0.465671,0.2,0.2,0.536859,0.414789,0,0.425002,0.418478,0.0238079,0.109019,0,0.184295
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.2,0.3,default demobilises,0.417251,0.3,0.3,0.59916,0.310964,0,0.396997,0.340487,0.00728584,0.196321,0,0.198557
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.25,0.2,default demobilises,0.557581,0.2,0.2,0.448365,0.579984,0,0.590105,0.297063,0.0985968,0.0186131,0,0.209738
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.25,0.3,default demobilises,0.536015,0.3,0.3,0.466405,0.544301,0,0.628425,0.206829,0.0748037,0.0305028,0,0.231434
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.25,0.38,default demobilises,0.506087,0.38,0.38,0.493987,0.486691,0,0.708423,0.145559,0.0433109,0.0566196,0,0.245296
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.3,0.2,default demobilises,0.629219,0.2,0.2,0.397318,0.674773,0,0.684733,0.226289,0.177024,0.00225151,0,0.22957
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.3,0.3,"no pure equilibrium (mixed, approx.)",0.597588,0.39393,0.3,0.418348,0.596276,0,0.819017,0.0979599,0.104637,0.00836145,0,0.274471
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.3,0.38,slack (V1 outcome),0.541848,0.541848,0.38,0.5,0.478951,0,0.957902,0.0210486,0.0199657,0.0410142,0,0.3
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.33,0.2,"no pure equilibrium (mixed, approx.)",0.612972,0.545952,0.2,0.471085,0.528528,0,0.952526,0.0330631,0.0450549,0.0165272,0,0.320858
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.33,0.3,slack (V1 outcome),0.596033,0.596033,0.3,0.5,0.496183,0,0.992366,0.00381703,0.0217443,0.0255613,0,0.33
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.33,0.38,slack (V1 outcome),0.596033,0.596033,0.38,0.5,0.496183,0,0.992366,0.00381703,0.0217443,0.0255613,0,0.33
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.36,0.2,slack (V1 outcome),0.650217,0.650217,0.2,0.5,0.49961,0,0.99922,0.000389865,0.0207651,0.021155,0,0.359997
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.36,0.3,slack (V1 outcome),0.650217,0.650217,0.3,0.5,0.49961,0,0.99922,0.000389865,0.0207651,0.021155,0,0.359997
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.36,0.38,slack (V1 outcome),0.650217,0.650217,0.38,0.5,0.49961,0,0.99922,0.000389865,0.0207651,0.021155,0,0.359997
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.42,0.2,slack (V1 outcome),0.758587,0.758587,0.2,0.5,0.500014,0,0.999999,6.05826e-07,0.0175946,0.0175809,0,0.419627
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.42,0.3,slack (V1 outcome),0.758587,0.758587,0.3,0.5,0.500014,0,0.999999,6.05826e-07,0.0175946,0.0175809,0,0.419627
+"V6d resident-indexed approval quorum (q=0.25, variant=d)",V6d,E_dom,0.42,0.38,slack (V1 outcome),0.758587,0.758587,0.38,0.5,0.500014,0,0.999999,6.05826e-07,0.0175946,0.0175809,0,0.419627
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.2,0.2,contested,0.3579,0.3579,0.2,0.55,0.409843,0,1,0.0901572,0.00928482,0.099442,0,0.198155
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.2,0.3,contested,0.359671,0.359671,0.3,0.55,0.409812,0,1,0.0901883,0.00915125,0.0993396,0,0.199136
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.25,0.2,contested,0.446709,0.446709,0.2,0.55,0.408734,0,1,0.0912665,0.00452219,0.0957887,0,0.247325
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.25,0.3,contested,0.448151,0.448151,0.3,0.55,0.408721,0,1,0.091279,0.00447096,0.0957499,0,0.248124
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.25,0.38,contested,0.449699,0.449699,0.38,0.55,0.408708,0,1,0.0912922,0.00441637,0.0957086,0,0.248981
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.3,0.2,contested,0.535578,0.535578,0.2,0.55,0.408151,0,1,0.0918494,0.00221157,0.0940609,0,0.296529
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.3,0.3,contested,0.53685,0.53685,0.3,0.55,0.408144,0,1,0.0918556,0.00218943,0.094045,0,0.297233
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.3,0.38,contested,0.538127,0.538127,0.38,0.55,0.408138,0,1,0.0918618,0.0021673,0.0940291,0,0.29794
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.33,0.2,contested,0.588915,0.588915,0.2,0.55,0.407924,0,1,0.0920756,0.00143252,0.0935081,0,0.326059
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.33,0.3,contested,0.590119,0.590119,0.3,0.55,0.40792,0,1,0.09208,0.00141832,0.0934983,0,0.326726
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.33,0.38,contested,0.591296,0.591296,0.38,0.55,0.407916,0,1,0.0920843,0.00140464,0.0934889,0,0.327377
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.36,0.2,contested,0.642259,0.642259,0.2,0.55,0.407753,0,1,0.0922465,0.000918224,0.0931649,0,0.355592
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.36,0.3,contested,0.643411,0.643411,0.3,0.55,0.40775,0,1,0.0922497,0.000909522,0.0931594,0,0.356229
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.36,0.38,contested,0.644512,0.644512,0.38,0.55,0.407747,0,1,0.0922528,0.00090123,0.0931542,0,0.356839
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.42,0.2,contested,0.748962,0.748962,0.2,0.55,0.407497,0,1,0.0924955,0.000350148,0.0928532,0,0.414401
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.42,0.3,contested,0.750038,0.750038,0.3,0.55,0.407495,0,1,0.0924978,0.000346229,0.0928508,0,0.414987
+V7 supermajority of valid votes (qS=0.55),V7,E_dom,0.42,0.38,contested,0.751036,0.751036,0.38,0.55,0.407494,0,1,0.0925,0.000342608,0.0928483,0,0.415529
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.2,0.2,contested,0.34805,0.34805,0.2,0.6,0.323222,0,1,0.176778,0.0018047,0.178583,0,0.192702
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.2,0.3,contested,0.355108,0.355108,0.3,0.6,0.322977,0,1,0.177023,0.00160141,0.178624,0,0.19661
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.25,0.2,contested,0.432398,0.432398,0.2,0.6,0.321084,0,1,0.178916,0.000424198,0.17934,0,0.239402
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.25,0.3,contested,0.438165,0.438165,0.3,0.6,0.320984,0,1,0.179016,0.000383066,0.179399,0,0.242595
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.25,0.38,contested,0.444322,0.444322,0.38,0.6,0.320882,0,1,0.179118,0.000343107,0.179461,0,0.246004
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.3,0.2,contested,0.516988,0.516988,0.2,0.6,0.319951,0,1,0.180049,8.88922e-05,0.180138,0,0.286236
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.3,0.3,contested,0.522075,0.522075,0.3,0.6,0.319901,0,1,0.180099,8.07154e-05,0.18018,0,0.289053
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.3,0.38,contested,0.527177,0.527177,0.38,0.6,0.319852,0,1,0.180148,7.29011e-05,0.180221,0,0.291878
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.33,0.2,contested,0.567804,0.567804,0.2,0.6,0.31951,0,1,0.18049,3.25317e-05,0.180523,0,0.314371
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.33,0.3,contested,0.57262,0.57262,0.3,0.6,0.319474,0,1,0.180526,2.9621e-05,0.180555,0,0.317037
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.33,0.38,contested,0.577325,0.577325,0.38,0.6,0.31944,0,1,0.18056,2.68704e-05,0.180587,0,0.319642
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.36,0.2,contested,0.618649,0.618649,0.2,0.6,0.319176,0,1,0.180824,1.13323e-05,0.180835,0,0.342521
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.36,0.3,contested,0.623254,0.623254,0.3,0.6,0.31915,0,1,0.18085,1.02795e-05,0.180861,0,0.345071
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.36,0.38,contested,0.627662,0.627662,0.38,0.6,0.319125,0,1,0.180875,9.37353e-06,0.180884,0,0.347511
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.42,0.2,contested,0.720399,0.720399,0.2,0.6,0.318701,0,1,0.181296,1.13963e-06,0.181301,0,0.398771
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.42,0.3,contested,0.7247,0.7247,0.3,0.6,0.318684,0,1,0.181313,1.02525e-06,0.181317,0,0.401136
+V7 supermajority of valid votes (qS=0.6),V7,E_dom,0.42,0.38,contested,0.728691,0.728691,0.38,0.6,0.318672,0,1,0.181328,9.29603e-07,0.181329,0,0.403329
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.2,0.2,contested,0.325622,0.325622,0.2,0.666667,0.218862,0,1,0.281138,0.000300472,0.281439,0,0.180284
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.2,0.3,contested,0.345025,0.345025,0.3,0.666667,0.217782,0,1,0.282218,0.000177482,0.282396,0,0.191027
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.25,0.2,contested,0.399618,0.399618,0.2,0.666667,0.215625,0,1,0.284375,3.33148e-05,0.284408,0,0.221253
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.25,0.3,contested,0.415627,0.415627,0.3,0.666667,0.215162,0,1,0.284838,1.73682e-05,0.284855,0,0.230117
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.25,0.38,contested,0.432461,0.432461,0.38,0.666667,0.214735,0,1,0.285265,1.05769e-05,0.285276,0,0.239437
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.3,0.2,contested,0.474289,0.474289,0.2,0.666667,0.213876,0,1,0.286124,2.34049e-06,0.286126,0,0.262596
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.3,0.3,contested,0.488433,0.488433,0.3,0.666667,0.213637,0,1,0.286363,1.54882e-06,0.286364,0,0.270426
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.3,0.38,contested,0.502558,0.502558,0.38,0.666667,0.21342,0,1,0.28658,8.27567e-07,0.286581,0,0.278247
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.33,0.2,contested,0.519266,0.519266,0.2,0.666667,0.213187,0,1,0.286813,4.29568e-07,0.286814,0,0.287498
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.33,0.3,contested,0.532653,0.532653,0.3,0.666667,0.213016,0,1,0.286984,2.88374e-07,0.286984,0,0.294909
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.33,0.38,contested,0.545716,0.545716,0.38,0.666667,0.212862,0,1,0.287138,1.60945e-07,0.287138,0,0.302142
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.36,0.2,contested,0.564328,0.564328,0.2,0.666667,0.212662,0,1,0.287338,7.02281e-08,0.287338,0,0.312446
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.36,0.3,contested,0.577122,0.577122,0.3,0.666667,0.212536,0,1,0.287464,4.77161e-08,0.287464,0,0.31953
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.36,0.38,contested,0.589374,0.589374,0.38,0.666667,0.212423,0,1,0.287577,2.75733e-08,0.287577,0,0.326313
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.42,0.2,contested,0.65462,0.65462,0.2,0.666667,0.211929,0,1,0.288071,1.302e-09,0.288071,0,0.362434
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.42,0.3,contested,0.666552,0.666552,0.3,0.666667,0.211853,0,1,0.288146,9.05875e-10,0.288147,0,0.369037
+V7 supermajority of valid votes (qS=0.666667),V7,E_dom,0.42,0.38,contested,0.677651,0.677651,0.38,0.666667,0.211787,0,1,0.288213,5.56655e-10,0.288213,0,0.375177
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.33,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.33,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.33,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.36,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.36,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.36,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.42,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,0,9.11239e-12,0.499915,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.42,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0,1.88694e-08,0.5,0,0.5,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.333333, qS=0.55, limb=approval)",V8,E_dom,0.42,0.38,lock (mutual abstention),0.38,0.38,0.38,1.58435,1.25942e-06,0,2.51364e-06,0.499999,0,0.499999,0,0.210391
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,2.2577,4.89122e-07,0,9.77777e-07,0.499914,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,1.50513,8.0354e-05,0,0.000160849,0.49992,0,0.49992,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,2.2577,4.89122e-07,0,9.77777e-07,0.499914,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,1.50513,8.0354e-05,0,0.000160849,0.49992,0,0.49992,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.25,0.38,lock (mutual abstention),0.38,0.38,0.38,1.18826,0.00159117,0,0.00318249,0.498409,0,0.498409,0,0.210391
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,2.2577,4.89122e-07,0,9.77777e-07,0.499914,0,0.5,0,0.110766
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.3,0.3,lock (mutual abstention),0.3,0.3,0.3,1.50513,8.0354e-05,0,0.000160849,0.49992,0,0.49992,0,0.166098
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.3,0.38,lock (mutual abstention),0.38,0.38,0.38,1.18826,0.00159117,0,0.00318249,0.498409,0,0.498409,0,0.210391
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.33,0.2,default demobilises,0.82051,0.2,0.2,0.550316,0.395693,0,0.395694,0.544155,0,0.104307,0,0.281134
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.33,0.3,default demobilises,0.789959,0.3,0.3,0.571599,0.360436,0,0.360516,0.505657,0,0.139564,0,0.301181
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.33,0.38,default demobilises,0.756457,0.38,0.38,0.596914,0.318037,0,0.319629,0.470214,0,0.181963,0,0.314434
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.36,0.2,default demobilises,0.880741,0.2,0.2,0.512682,0.45096,0,0.45096,0.494728,0,0.0490404,0,0.293593
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.36,0.3,default demobilises,0.856893,0.3,0.3,0.52695,0.431844,0,0.431925,0.449803,0,0.0681555,0,0.316876
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.36,0.38,default demobilises,0.831878,0.38,0.38,0.542795,0.407857,0,0.409449,0.408052,0,0.0921428,0,0.333636
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.501711,0.46348,0,0.46348,0.483368,0,0.0365204,0,0.29651
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.501711,0.46348,0,0.46356,0.424387,0,0.0365204,0,0.324177
+"V8 combined rule (approval limb + supermajority, or participation limb) (q=0.25, qS=0.55, limb=approval)",V8,E_dom,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.501711,0.46348,0,0.465071,0.368042,0,0.0365204,0,0.346323
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.2,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,8.89418e-05,0.000177907,0.499826,0,0.499911,0,0.110766
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.2,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0.00356489,0.00712814,0.496435,0,0.496435,0,0.166098
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.25,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,8.89418e-05,0.000177907,0.499826,0,0.499911,0,0.110766
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.25,0.3,lock (mutual abstention),0.3,0.3,0.3,2.00684,9.46478e-09,0.00356489,0.00712814,0.496435,0,0.496435,0,0.166098
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.25,0.38,default demobilises,0.39396,0.38,0.38,1.52821,2.63351e-06,0.0339394,0.0598436,0.483099,0,0.466058,0,0.214256
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.3,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,8.89418e-05,0.000177907,0.499826,0,0.499911,0,0.110766
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.3,0.3,default demobilises,0.554055,0.3,0.3,1.08663,0.00167125,0.231309,0.236543,0.529928,0,0.267304,0,0.236429
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.3,0.38,default demobilises,0.550269,0.38,0.38,1.09411,0.00149528,0.22529,0.252686,0.441623,0,0.273469,0,0.257527
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.33,0.2,lock (mutual abstention),0.2,0.2,0.2,3.01027,4.62268e-12,8.89418e-05,0.000177907,0.499826,0,0.499911,0,0.110766
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.33,0.3,default demobilises,0.620833,0.3,0.3,0.969751,0.00893752,0.333393,0.345894,0.45836,0,0.160868,0,0.254914
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.33,0.38,default demobilises,0.613992,0.38,0.38,0.980555,0.0077049,0.323634,0.357239,0.381782,0,0.171211,0,0.275167
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.36,0.2,default demobilises,0.823862,0.2,0.2,0.730769,0.124044,0.478823,0.602956,0.33739,0,0.00375961,0,0.281927
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.36,0.3,default demobilises,0.790799,0.3,0.3,0.761323,0.0975039,0.473544,0.574611,0.295277,0,0.00942924,0,0.301395
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.36,0.38,default demobilises,0.757149,0.38,0.38,0.795158,0.0716231,0.462156,0.559669,0.254767,0,0.021071,0,0.314622
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.42,0.2,default demobilises (capped),0.9,0.2,0.2,0.668948,0.176,0.478461,0.654549,0.292387,0,0.000236382,0,0.29651
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.42,0.3,default demobilises (capped),0.9,0.3,0.3,0.668948,0.176,0.47846,0.658023,0.233407,0,0.000236382,0,0.324177
+"V9 graduated validity (void / advisory / binding) (qa=0.2, qb=0.333333, lam=0.5, form=approval)",V9,E_dom,0.42,0.38,default demobilises (capped),0.9,0.38,0.38,0.668948,0.176,0.478447,0.680329,0.177074,0,0.000236382,0,0.346323
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.2,0.2,slack (V1 outcome),0.361232,0.361232,0.2,0.5,0.48655,0,1,0.0183,0.03275,0.0501,0,0.2
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.2,0.3,slack (V1 outcome),0.361232,0.361232,0.3,0.5,0.48655,0,1,0.0183,0.03275,0.0501,0,0.2
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.25,0.2,slack (V1 outcome),0.45154,0.45154,0.2,0.5,0.4863,0,1,0.01925,0.02585,0.04345,0,0.25
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.25,0.3,slack (V1 outcome),0.45154,0.45154,0.3,0.5,0.4863,0,1,0.01925,0.02585,0.04345,0,0.25
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.25,0.38,slack (V1 outcome),0.45154,0.45154,0.38,0.5,0.4863,0,1,0.01925,0.02585,0.04345,0,0.25
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.3,0.2,slack (V1 outcome),0.541848,0.541848,0.2,0.5,0.486,0,1,0.02005,0.0212,0.0391,0,0.3
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.3,0.3,slack (V1 outcome),0.541848,0.541848,0.3,0.5,0.486,0,1,0.02005,0.0212,0.0391,0,0.3
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.3,0.38,slack (V1 outcome),0.541848,0.541848,0.38,0.5,0.486,0,1,0.02005,0.0212,0.0391,0,0.3
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.33,0.2,slack (V1 outcome),0.596033,0.596033,0.2,0.5,0.48575,0,1,0.02055,0.01955,0.0377,0,0.33
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.33,0.3,slack (V1 outcome),0.596033,0.596033,0.3,0.5,0.48575,0,1,0.02055,0.01955,0.0377,0,0.33
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.33,0.38,slack (V1 outcome),0.596033,0.596033,0.38,0.5,0.48575,0,1,0.02055,0.01955,0.0377,0,0.33
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.36,0.2,slack (V1 outcome),0.650217,0.650217,0.2,0.5,0.48555,0,1,0.0206,0.01785,0.0362,0,0.359997
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.36,0.3,slack (V1 outcome),0.650217,0.650217,0.3,0.5,0.48555,0,1,0.0206,0.01785,0.0362,0,0.359997
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.36,0.38,slack (V1 outcome),0.650217,0.650217,0.38,0.5,0.48555,0,1,0.0206,0.01785,0.0362,0,0.359997
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.42,0.2,slack (V1 outcome),0.758587,0.758587,0.2,0.5,0.48605,0,1,0.01955,0.01575,0.0336,0,0.419627
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.42,0.3,slack (V1 outcome),0.758587,0.758587,0.3,0.5,0.48605,0,1,0.01955,0.01575,0.0336,0,0.419627
+"V10 double majority (national majority and a majority in k_U of m_U units) (k_U=7, m_U=12, sigma_u=0.065)",V10,E_dom,0.42,0.38,slack (V1 outcome),0.758587,0.758587,0.38,0.5,0.48605,0,1,0.01955,0.01575,0.0336,0,0.419627
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.2,0.2,contested,0.29779,0.29779,0.2,0.5,0.5,0,1,0,0.0465048,0.0465049,0,0.164875
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.2,0.3,contested,0.333192,0.333192,0.3,0.5,0.5,0,1,0,0.0413631,0.0413631,0,0.184476
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.25,0.2,contested,0.358438,0.358438,0.2,0.5,0.5,0,1,0,0.0383473,0.0383473,0,0.198453
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.25,0.3,contested,0.388145,0.388145,0.3,0.5,0.5,0,1,0,0.0353231,0.0353231,0,0.214901
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.25,0.38,contested,0.418586,0.418586,0.38,0.5,0.5,0,1,0,0.0326871,0.0326871,0,0.231755
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.3,0.2,contested,0.420335,0.420335,0.2,0.5,0.5,0,1,0,0.0325477,0.0325477,0,0.232723
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.3,0.3,contested,0.446686,0.446686,0.3,0.5,0.5,0,1,0,0.0305838,0.0305838,0,0.247312
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.3,0.38,contested,0.472752,0.472752,0.38,0.5,0.5,0,1,0,0.0288633,0.0288633,0,0.261744
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.33,0.2,contested,0.457805,0.457805,0.2,0.5,0.5,0,1,0,0.0298252,0.0298252,0,0.253469
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.33,0.3,contested,0.48275,0.48275,0.3,0.5,0.5,0,1,0,0.028254,0.028254,0,0.26728
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.33,0.38,contested,0.506988,0.506988,0.38,0.5,0.5,0,1,0,0.0268795,0.0268795,0,0.280699
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.36,0.2,contested,0.495436,0.495436,0.2,0.5,0.5,0,1,0,0.0275174,0.0275174,0,0.274304
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.36,0.3,contested,0.519268,0.519268,0.3,0.5,0.5,0,1,0,0.0262333,0.0262333,0,0.287498
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.36,0.38,contested,0.542065,0.542065,0.38,0.5,0.5,0,1,0,0.0251131,0.0251131,0,0.30012
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.42,0.2,contested,0.571029,0.571029,0.2,0.5,0.5,0,1,0,0.0238216,0.0238216,0,0.316156
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.42,0.3,contested,0.593214,0.593214,0.3,0.5,0.5,0,1,0,0.0229193,0.0229193,0,0.32844
+"V11 consultative, lambda_adv=0.5, carrying V1 no quorum (majority of valid votes)",V11,E_dom,0.42,0.38,contested,0.613905,0.613905,0.38,0.5,0.5,0,1,0,0.0221374,0.0221375,0,0.339895

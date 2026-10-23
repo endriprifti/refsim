@@ -1,0 +1,421 @@
+rule,draw,regime,sx,sd,P_change,P_dec,C1p,C1R,C2
+V4 on E at 1/2 (current law),0,lock (mutual abstention),0.339623,0.339623,0,1,0,0.5,0
+V4 on E at 1/2 (current law),1,lock (mutual abstention),0.280114,0.280114,0,1,0,0.5,0
+V4 on E at 1/2 (current law),2,lock (mutual abstention),0.206422,0.206422,0,1,0,0.5,0
+V4 on E at 1/2 (current law),3,lock (mutual abstention),0.236109,0.236109,0,1,0,0.5,0
+V4 on E at 1/2 (current law),4,lock (mutual abstention),0.216469,0.216469,0,1,0,0.5,0
+V4 on E at 1/2 (current law),5,lock (mutual abstention),0.2683,0.2683,0,1,0,0.5,0
+V4 on E at 1/2 (current law),6,lock (mutual abstention),0.374209,0.374209,0,1,0,0.5,0
+V4 on E at 1/2 (current law),7,lock (mutual abstention),0.226183,0.226183,8.02797e-20,1,0,0.5,0
+V4 on E at 1/2 (current law),8,lock (mutual abstention),0.20685,0.20685,0,1,0,0.5,0
+V4 on E at 1/2 (current law),9,lock (mutual abstention),0.318397,0.318397,0,1,0,0.5,0
+V4 on E at 1/2 (current law),10,lock (mutual abstention),0.227191,0.227191,0,1,0,0.5,0
+V4 on E at 1/2 (current law),11,lock (mutual abstention),0.292341,0.292341,0,1,0,0.5,0
+V4 on E at 1/2 (current law),12,lock (mutual abstention),0.371367,0.371367,3.73501e-14,1,0,0.5,0
+V4 on E at 1/2 (current law),13,lock (mutual abstention),0.366097,0.366097,0,1,0,0.5,0
+V4 on E at 1/2 (current law),14,lock (mutual abstention),0.259883,0.259883,0,1,0,0.5,0
+V4 on E at 1/2 (current law),15,lock (mutual abstention),0.31867,0.31867,2.55657e-26,1,0,0.5,0
+V4 on E at 1/2 (current law),16,lock (mutual abstention),0.331398,0.331398,1.92315e-14,1,0,0.5,0
+V4 on E at 1/2 (current law),17,lock (mutual abstention),0.244743,0.244743,0,1,0,0.5,0
+V4 on E at 1/2 (current law),18,lock (mutual abstention),0.346086,0.346086,0,1,0,0.5,0
+V4 on E at 1/2 (current law),19,lock (mutual abstention),0.257241,0.257241,0,1,0,0.5,0
+V4 on E at 1/2 (current law),20,lock (mutual abstention),0.303255,0.303255,0,1,0,0.5,0
+V4 on E at 1/2 (current law),21,lock (mutual abstention),0.360731,0.360731,0,1,0,0.5,0
+V4 on E at 1/2 (current law),22,lock (mutual abstention),0.218198,0.218198,0,1,0,0.5,0
+V4 on E at 1/2 (current law),23,lock (mutual abstention),0.282337,0.282337,0,1,0,0.5,0
+V4 on E at 1/2 (current law),24,lock (mutual abstention),0.363151,0.363151,0,1,0,0.5,0
+V4 on E at 1/2 (current law),25,lock (mutual abstention),0.330918,0.330918,3.7086e-19,1,0,0.5,0
+V4 on E at 1/2 (current law),26,lock (mutual abstention),0.3347,0.3347,0,1,0,0.5,0
+V4 on E at 1/2 (current law),27,lock (mutual abstention),0.271103,0.271103,0,1,0,0.5,0
+V4 on E at 1/2 (current law),28,lock (mutual abstention),0.297627,0.297627,0,1,0,0.5,0
+V4 on E at 1/2 (current law),29,lock (mutual abstention),0.226638,0.226638,9.01111e-18,1,0,0.5,0
+V4 on E at 1/2 (current law),30,lock (mutual abstention),0.335071,0.335071,9.01493e-18,1,0,0.5,0
+V4 on E at 1/2 (current law),31,lock (mutual abstention),0.281903,0.281903,2.25856e-24,1,0,0.5,0
+V4 on E at 1/2 (current law),32,lock (mutual abstention),0.222164,0.222164,0,1,0,0.5,0
+V4 on E at 1/2 (current law),33,lock (mutual abstention),0.296517,0.296517,1.80525e-36,1,0,0.5,0
+V4 on E at 1/2 (current law),34,lock (mutual abstention),0.237407,0.237407,0,1,0,0.5,0
+V4 on E at 1/2 (current law),35,lock (mutual abstention),0.336973,0.336973,0,1,0,0.5,0
+V4 on E at 1/2 (current law),36,lock (mutual abstention),0.365502,0.365502,0,1,0,0.5,0
+V4 on E at 1/2 (current law),37,lock (mutual abstention),0.344323,0.344323,0,1,0,0.5,0
+V4 on E at 1/2 (current law),38,lock (mutual abstention),0.299306,0.299306,0,1,0,0.5,0
+V4 on E at 1/2 (current law),39,lock (mutual abstention),0.215256,0.215256,0,1,0,0.5,0
+V4 on E at 1/2 (current law),40,lock (mutual abstention),0.235199,0.235199,0,1,0,0.5,0
+V4 on E at 1/2 (current law),41,lock (mutual abstention),0.322056,0.322056,0,1,0,0.5,0
+V4 on E at 1/2 (current law),42,lock (mutual abstention),0.348827,0.348827,6.56063e-33,1,0,0.5,0
+V4 on E at 1/2 (current law),43,lock (mutual abstention),0.319653,0.319653,0,1,0,0.5,0
+V4 on E at 1/2 (current law),44,lock (mutual abstention),0.266893,0.266893,5.68599e-17,1,0,0.5,0
+V4 on E at 1/2 (current law),45,lock (mutual abstention),0.256334,0.256334,0,1,0,0.5,0
+V4 on E at 1/2 (current law),46,lock (mutual abstention),0.236241,0.236241,0,1,0,0.5,0
+V4 on E at 1/2 (current law),47,lock (mutual abstention),0.315804,0.315804,0,1,0,0.5,0
+V4 on E at 1/2 (current law),48,lock (mutual abstention),0.246136,0.246136,0,1,0,0.5,0
+V4 on E at 1/2 (current law),49,lock (mutual abstention),0.318149,0.318149,0,1,0,0.5,0
+V4 on E at 1/2 (current law),50,lock (mutual abstention),0.224429,0.224429,0,1,0,0.5,0
+V4 on E at 1/2 (current law),51,lock (mutual abstention),0.229326,0.229326,0,1,0,0.5,0
+V4 on E at 1/2 (current law),52,lock (mutual abstention),0.320298,0.320298,0,1,0,0.5,0
+V4 on E at 1/2 (current law),53,lock (mutual abstention),0.34957,0.34957,4.79246e-17,1,0,0.5,0
+V4 on E at 1/2 (current law),54,lock (mutual abstention),0.203359,0.203359,0,1,0,0.5,0
+V4 on E at 1/2 (current law),55,lock (mutual abstention),0.280553,0.280553,0,1,0,0.5,0
+V4 on E at 1/2 (current law),56,lock (mutual abstention),0.343908,0.343908,0,1,0,0.5,0
+V4 on E at 1/2 (current law),57,lock (mutual abstention),0.206339,0.206339,0,1,0,0.5,0
+V4 on E at 1/2 (current law),58,lock (mutual abstention),0.252729,0.252729,0,1,0,0.5,0
+V4 on E at 1/2 (current law),59,lock (mutual abstention),0.236853,0.236853,0,1,0,0.5,0
+V4 on R at 1/2 (P1),0,default demobilises (capped),0.895025,0.339623,0.306006,1,0,0.193994,0
+V4 on R at 1/2 (P1),1,lock (mutual abstention),0.280114,0.280114,0.000110407,1,0,0.49989,0
+V4 on R at 1/2 (P1),2,lock (mutual abstention),0.206422,0.206422,1.68623e-07,1,0,0.5,0
+V4 on R at 1/2 (P1),3,lock (mutual abstention),0.236109,0.236109,2.41286e-05,1,0,0.499976,0
+V4 on R at 1/2 (P1),4,lock (mutual abstention),0.216469,0.216469,1.17367e-10,1,0,0.5,0
+V4 on R at 1/2 (P1),5,default demobilises (capped),0.938499,0.2683,0.398745,1,0,0.101255,0
+V4 on R at 1/2 (P1),6,lock (mutual abstention),0.374209,0.374209,0.000146573,1,0,0.499853,0
+V4 on R at 1/2 (P1),7,lock (mutual abstention),0.226183,0.226183,4.81125e-06,1,0,0.499995,0
+V4 on R at 1/2 (P1),8,lock (mutual abstention),0.20685,0.20685,1.05547e-10,1,0,0.5,0
+V4 on R at 1/2 (P1),9,default demobilises (capped),0.928561,0.318397,0.355042,1,0,0.144958,0
+V4 on R at 1/2 (P1),10,default demobilises (capped),0.850777,0.227191,0.265447,1,0,0.234553,0
+V4 on R at 1/2 (P1),11,default demobilises (capped),0.883964,0.292341,0.363435,1,0,0.136565,0
+V4 on R at 1/2 (P1),12,lock (mutual abstention),0.371367,0.371367,0.0011527,1,0,0.498847,0
+V4 on R at 1/2 (P1),13,lock (mutual abstention),0.366097,0.366097,0.00111512,1,0,0.498885,0
+V4 on R at 1/2 (P1),14,default demobilises (capped),0.880437,0.259883,0.366081,1,0,0.133919,0
+V4 on R at 1/2 (P1),15,default demobilises,0.850981,0.31867,0.331814,1,0,0.168186,0
+V4 on R at 1/2 (P1),16,default demobilises,0.957048,0.331398,0.406234,1,0,0.093766,0
+V4 on R at 1/2 (P1),17,lock (mutual abstention),0.244743,0.244743,0.000109772,1,0,0.49989,0
+V4 on R at 1/2 (P1),18,default demobilises,0.803883,0.346086,0.301922,1,0,0.198078,0
+V4 on R at 1/2 (P1),19,lock (mutual abstention),0.257241,0.257241,3.24366e-05,1,0,0.499968,0
+V4 on R at 1/2 (P1),20,lock (mutual abstention),0.303255,0.303255,0.000784865,1,0,0.499215,0
+V4 on R at 1/2 (P1),21,default demobilises (capped),0.854005,0.360731,0.263944,1,0,0.236056,0
+V4 on R at 1/2 (P1),22,lock (mutual abstention),0.218198,0.218198,1.55437e-07,1,0,0.5,0
+V4 on R at 1/2 (P1),23,lock (mutual abstention),0.282337,0.282337,9.34523e-05,1,0,0.499907,0
+V4 on R at 1/2 (P1),24,lock (mutual abstention),0.363151,0.363151,0.000124577,1,0,0.499875,0
+V4 on R at 1/2 (P1),25,lock (mutual abstention),0.330918,0.330918,8.2375e-05,1,0,0.499918,0
+V4 on R at 1/2 (P1),26,default demobilises,0.825855,0.3347,0.310009,1,0,0.189991,0
+V4 on R at 1/2 (P1),27,default demobilises (capped),0.877667,0.271103,0.301285,1,0,0.198715,0
+V4 on R at 1/2 (P1),28,default demobilises (capped),0.932204,0.297627,0.360405,1,0,0.139595,0
+V4 on R at 1/2 (P1),29,default demobilises (capped),0.973799,0.226638,0.405136,1,0,0.0948643,0
+V4 on R at 1/2 (P1),30,lock (mutual abstention),0.335071,0.335071,0.000316045,1,0,0.499684,0
+V4 on R at 1/2 (P1),31,lock (mutual abstention),0.281903,0.281903,2.72821e-06,1,0,0.499997,0
+V4 on R at 1/2 (P1),32,lock (mutual abstention),0.222164,0.222164,1.10517e-07,1,0,0.5,0
+V4 on R at 1/2 (P1),33,lock (mutual abstention),0.296517,0.296517,1.88296e-07,1,0,0.5,0
+V4 on R at 1/2 (P1),34,default demobilises (capped),0.924608,0.237407,0.350315,1,0,0.149685,0
+V4 on R at 1/2 (P1),35,default demobilises (capped),0.96416,0.336973,0.407898,1,0,0.0921019,0
+V4 on R at 1/2 (P1),36,lock (mutual abstention),0.365502,0.365502,6.60943e-06,1,0,0.499993,0
+V4 on R at 1/2 (P1),37,lock (mutual abstention),0.344323,0.344323,0.000164521,1,0,0.499835,0
+V4 on R at 1/2 (P1),38,lock (mutual abstention),0.299306,0.299306,1.5368e-05,1,0,0.499985,0
+V4 on R at 1/2 (P1),39,lock (mutual abstention),0.215256,0.215256,1.11464e-06,1,0,0.499999,0
+V4 on R at 1/2 (P1),40,lock (mutual abstention),0.235199,0.235199,5.17573e-06,1,0,0.499995,0
+V4 on R at 1/2 (P1),41,default demobilises (capped),0.910919,0.322056,0.361334,1,0,0.138666,0
+V4 on R at 1/2 (P1),42,lock (mutual abstention),0.348827,0.348827,2.42231e-06,1,0,0.499998,0
+V4 on R at 1/2 (P1),43,lock (mutual abstention),0.319653,0.319653,2.55837e-05,1,0,0.499974,0
+V4 on R at 1/2 (P1),44,lock (mutual abstention),0.266893,0.266893,5.36191e-05,1,0,0.499946,0
+V4 on R at 1/2 (P1),45,default demobilises (capped),0.879703,0.256334,0.331117,1,0,0.168883,0
+V4 on R at 1/2 (P1),46,lock (mutual abstention),0.236241,0.236241,1.74741e-05,1,0,0.499983,0
+V4 on R at 1/2 (P1),47,lock (mutual abstention),0.315804,0.315804,0.000308868,1,0,0.499691,0
+V4 on R at 1/2 (P1),48,lock (mutual abstention),0.246136,0.246136,1.5131e-08,1,0,0.5,0
+V4 on R at 1/2 (P1),49,default demobilises (capped),0.965154,0.318149,0.4169,1,0,0.0831002,0
+V4 on R at 1/2 (P1),50,default demobilises (capped),0.876058,0.224429,0.349756,1,0,0.150244,0
+V4 on R at 1/2 (P1),51,default demobilises,0.824792,0.229326,0.330251,1,0,0.169749,0
+V4 on R at 1/2 (P1),52,default demobilises (capped),0.949496,0.320298,0.389113,1,0,0.110887,0
+V4 on R at 1/2 (P1),53,lock (mutual abstention),0.34957,0.34957,0.000259271,1,0,0.499741,0
+V4 on R at 1/2 (P1),54,lock (mutual abstention),0.203359,0.203359,1.14517e-07,1,0,0.5,0
+V4 on R at 1/2 (P1),55,lock (mutual abstention),0.280553,0.280553,2.8792e-06,1,0,0.499997,0
+V4 on R at 1/2 (P1),56,lock (mutual abstention),0.343908,0.343908,0.000968626,1,0,0.499031,0
+V4 on R at 1/2 (P1),57,default demobilises,0.86361,0.206339,0.377889,1,0,0.122111,0
+V4 on R at 1/2 (P1),58,default demobilises (capped),0.945351,0.252729,0.383982,1,0,0.116018,0
+V4 on R at 1/2 (P1),59,default demobilises (capped),0.891803,0.236853,0.347947,1,0,0.152053,0
+"V4 on R at 1/3, with N > Y",0,"no pure equilibrium (mixed, approx.)",0.799331,0.658512,0.550275,1,0.0701202,0.0198453,0
+"V4 on R at 1/3, with N > Y",1,default demobilises,0.636138,0.280114,0.421072,1,0.0484534,0.127381,0
+"V4 on R at 1/3, with N > Y",2,lock (mutual abstention),0.206422,0.206422,0.000618321,1,1.5148e-09,0.499382,0
+"V4 on R at 1/3, with N > Y",3,default demobilises,0.807742,0.236109,0.651686,1,0.161603,0.00991764,0
+"V4 on R at 1/3, with N > Y",4,default demobilises,0.815963,0.216469,0.698012,1,0.198295,0.000282743,0
+"V4 on R at 1/3, with N > Y",5,default demobilises,0.847181,0.2683,0.704011,1,0.204132,0.000121728,0
+"V4 on R at 1/3, with N > Y",6,default demobilises,0.480351,0.374209,0.195639,1,5.85863e-05,0.304419,0
+"V4 on R at 1/3, with N > Y",7,default demobilises,0.764491,0.226183,0.611119,1,0.123557,0.0124385,0
+"V4 on R at 1/3, with N > Y",8,default demobilises,0.647482,0.20685,0.462542,1,0.0211897,0.0586482,0
+"V4 on R at 1/3, with N > Y",9,slack (V1 outcome),0.807927,0.807927,0.49645,1,0.0253442,0.0288946,0
+"V4 on R at 1/3, with N > Y",10,default demobilises (capped),0.850777,0.227191,0.69434,1,0.194932,0.000591384,0
+"V4 on R at 1/3, with N > Y",11,default demobilises,0.842951,0.292341,0.648009,1,0.148391,0.000382558,0
+"V4 on R at 1/3, with N > Y",12,default demobilises,0.608879,0.371367,0.390596,1,0.0222032,0.131608,0
+"V4 on R at 1/3, with N > Y",13,default demobilises,0.674373,0.366097,0.489564,1,0.0543584,0.0647943,0
+"V4 on R at 1/3, with N > Y",14,"no pure equilibrium (mixed, approx.)",0.812444,0.7536,0.509765,1,0.023544,0.013779,0
+"V4 on R at 1/3, with N > Y",15,default demobilises,0.767661,0.31867,0.616628,1,0.12004,0.00341163,0
+"V4 on R at 1/3, with N > Y",16,default demobilises,0.826933,0.331398,0.686416,1,0.193314,0.00689866,0
+"V4 on R at 1/3, with N > Y",17,default demobilises,0.650886,0.244743,0.468234,1,0.0270493,0.0588151,0
+"V4 on R at 1/3, with N > Y",18,default demobilises,0.734708,0.346086,0.556031,1,0.0778459,0.0218151,0
+"V4 on R at 1/3, with N > Y",19,default demobilises,0.685702,0.257241,0.507454,1,0.0708443,0.0633908,0
+"V4 on R at 1/3, with N > Y",20,default demobilises,0.588821,0.303255,0.387069,1,0.0129556,0.125886,0
+"V4 on R at 1/3, with N > Y",21,"no pure equilibrium (mixed, approx.)",0.797686,0.611307,0.555489,1,0.0735133,0.0180245,0
+"V4 on R at 1/3, with N > Y",22,default demobilises,0.798409,0.218198,0.654607,1,0.157432,0.0028253,0
+"V4 on R at 1/3, with N > Y",23,default demobilises,0.672491,0.282337,0.487746,1,0.0556498,0.0679038,0
+"V4 on R at 1/3, with N > Y",24,default demobilises,0.372151,0.363151,0.0353049,1,8.22241e-06,0.464703,0
+"V4 on R at 1/3, with N > Y",25,lock (mutual abstention),0.330918,0.330918,0.0208385,1,1.9566e-06,0.479163,0
+"V4 on R at 1/3, with N > Y",26,default demobilises,0.74867,0.3347,0.567528,1,0.08341,0.015882,0
+"V4 on R at 1/3, with N > Y",27,default demobilises,0.821056,0.271103,0.681325,1,0.183167,0.00184213,0
+"V4 on R at 1/3, with N > Y",28,default demobilises,0.851191,0.297627,0.697239,1,0.201622,0.00438302,0
+"V4 on R at 1/3, with N > Y",29,default demobilises,0.874996,0.226638,0.737595,1,0.240705,0.00310934,0
+"V4 on R at 1/3, with N > Y",30,default demobilises,0.704846,0.335071,0.53161,1,0.0569007,0.0252906,0
+"V4 on R at 1/3, with N > Y",31,default demobilises,0.808837,0.281903,0.68613,1,0.188724,0.00259439,0
+"V4 on R at 1/3, with N > Y",32,default demobilises,0.756426,0.222164,0.604043,1,0.110516,0.00647334,0
+"V4 on R at 1/3, with N > Y",33,default demobilises,0.776902,0.296517,0.653132,1,0.155342,0.00220985,0
+"V4 on R at 1/3, with N > Y",34,"no pure equilibrium (mixed, approx.)",0.844769,0.620055,0.586367,1,0.0966131,0.0102465,0
+"V4 on R at 1/3, with N > Y",35,"no pure equilibrium (mixed, approx.)",0.804218,0.62561,0.566413,1,0.0819214,0.0155081,0
+"V4 on R at 1/3, with N > Y",36,default demobilises,0.504479,0.365502,0.173573,1,0.000165585,0.326593,0
+"V4 on R at 1/3, with N > Y",37,default demobilises,0.615647,0.344323,0.388135,1,0.0277084,0.139573,0
+"V4 on R at 1/3, with N > Y",38,default demobilises,0.59559,0.299306,0.361319,1,0.0137092,0.15239,0
+"V4 on R at 1/3, with N > Y",39,default demobilises,0.813417,0.215256,0.686913,1,0.19164,0.00472669,0
+"V4 on R at 1/3, with N > Y",40,default demobilises,0.628637,0.235199,0.427431,1,0.024825,0.0973941,0
+"V4 on R at 1/3, with N > Y",41,default demobilises,0.837358,0.322056,0.685203,1,0.185986,0.000782487,0
+"V4 on R at 1/3, with N > Y",42,default demobilises,0.651416,0.348827,0.465237,1,0.0260222,0.0607851,0
+"V4 on R at 1/3, with N > Y",43,default demobilises,0.752548,0.319653,0.595887,1,0.103088,0.00720079,0
+"V4 on R at 1/3, with N > Y",44,default demobilises,0.721762,0.266893,0.561881,1,0.10427,0.042389,0
+"V4 on R at 1/3, with N > Y",45,default demobilises,0.870547,0.256334,0.68333,1,0.183735,0.000405514,0
+"V4 on R at 1/3, with N > Y",46,default demobilises,0.761041,0.236241,0.612825,1,0.13279,0.0199644,0
+"V4 on R at 1/3, with N > Y",47,default demobilises,0.612805,0.315804,0.411406,1,0.0177867,0.106381,0
+"V4 on R at 1/3, with N > Y",48,default demobilises,0.67012,0.246136,0.495419,1,0.0419036,0.0464842,0
+"V4 on R at 1/3, with N > Y",49,"no pure equilibrium (mixed, approx.)",0.796388,0.736299,0.52263,1,0.0412615,0.0186315,0
+"V4 on R at 1/3, with N > Y",50,default demobilises,0.799786,0.224429,0.630033,1,0.130931,0.000898063,0
+"V4 on R at 1/3, with N > Y",51,default demobilises,0.741348,0.229326,0.568406,1,0.079379,0.0109728,0
+"V4 on R at 1/3, with N > Y",52,"no pure equilibrium (mixed, approx.)",0.829361,0.484564,0.620526,1,0.130089,0.00956265,0
+"V4 on R at 1/3, with N > Y",53,default demobilises,0.353568,0.34957,0.0361307,1,9.89117e-06,0.463879,0
+"V4 on R at 1/3, with N > Y",54,default demobilises,0.758193,0.203359,0.601294,1,0.108364,0.00706994,0
+"V4 on R at 1/3, with N > Y",55,default demobilises,0.662172,0.280553,0.476609,1,0.0465242,0.0699148,0
+"V4 on R at 1/3, with N > Y",56,default demobilises,0.545366,0.343908,0.307892,1,0.00569627,0.197804,0
+"V4 on R at 1/3, with N > Y",57,default demobilises,0.766384,0.206339,0.580941,1,0.0895923,0.00865174,0
+"V4 on R at 1/3, with N > Y",58,default demobilises,0.852029,0.252729,0.708792,1,0.210874,0.00208199,0
+"V4 on R at 1/3, with N > Y",59,default demobilises,0.810108,0.236853,0.655116,1,0.156184,0.0010681,0
+"V4 on R at 0.25, with N > Y",0,slack (V1 outcome),0.765653,0.765653,0.499968,1,0.0293961,0.0294277,0
+"V4 on R at 0.25, with N > Y",1,default demobilises,0.580159,0.280114,0.607327,1,0.152857,0.0455306,0
+"V4 on R at 0.25, with N > Y",2,default demobilises,0.511384,0.206422,0.498583,1,0.075571,0.0769883,0
+"V4 on R at 0.25, with N > Y",3,slack (V1 outcome),0.687947,0.687947,0.497469,1,0.0344565,0.0369876,0
+"V4 on R at 0.25, with N > Y",4,slack (V1 outcome),0.699446,0.699446,0.499997,1,0.0204595,0.0204624,0
+"V4 on R at 0.25, with N > Y",5,slack (V1 outcome),0.742345,0.742345,0.499999,1,0.0188404,0.0188417,0
+"V4 on R at 0.25, with N > Y",6,default demobilises,0.477571,0.374209,0.442453,1,0.0220965,0.0796434,0
+"V4 on R at 0.25, with N > Y",7,slack (V1 outcome),0.621442,0.621442,0.493952,1,0.028954,0.0350021,0
+"V4 on R at 0.25, with N > Y",8,default demobilises,0.587639,0.20685,0.636344,1,0.140521,0.00417703,0
+"V4 on R at 0.25, with N > Y",9,slack (V1 outcome),0.807927,0.807927,0.500095,1,0.0263852,0.0262902,0
+"V4 on R at 0.25, with N > Y",10,slack (V1 outcome),0.767377,0.767377,0.499938,1,0.0207784,0.0208401,0
+"V4 on R at 0.25, with N > Y",11,slack (V1 outcome),0.721413,0.721413,0.499975,1,0.016897,0.0169224,0
+"V4 on R at 0.25, with N > Y",12,default demobilises,0.570942,0.371367,0.569544,1,0.103379,0.0338349,0
+"V4 on R at 0.25, with N > Y",13,slack (V1 outcome),0.555455,0.555455,0.464731,1,0.028201,0.0634699,0
+"V4 on R at 0.25, with N > Y",14,slack (V1 outcome),0.797055,0.797055,0.499944,1,0.0151164,0.0151719,0
+"V4 on R at 0.25, with N > Y",15,slack (V1 outcome),0.640326,0.640326,0.499571,1,0.0205068,0.0209353,0
+"V4 on R at 0.25, with N > Y",16,slack (V1 outcome),0.727751,0.727751,0.499216,1,0.0341086,0.0348922,0
+"V4 on R at 0.25, with N > Y",17,default demobilises,0.598674,0.244743,0.590313,1,0.103783,0.0134696,0
+"V4 on R at 0.25, with N > Y",18,slack (V1 outcome),0.607633,0.607633,0.489903,1,0.0243791,0.0344761,0
+"V4 on R at 0.25, with N > Y",19,default demobilises,0.614444,0.257241,0.662892,1,0.182281,0.0193895,0
+"V4 on R at 0.25, with N > Y",20,default demobilises,0.550335,0.303255,0.534133,1,0.0717953,0.0376623,0
+"V4 on R at 0.25, with N > Y",21,slack (V1 outcome),0.750696,0.750696,0.499655,1,0.0274323,0.0277777,0
+"V4 on R at 0.25, with N > Y",22,slack (V1 outcome),0.667438,0.667438,0.499542,1,0.0253023,0.02576,0
+"V4 on R at 0.25, with N > Y",23,default demobilises,0.609815,0.282337,0.64217,1,0.160144,0.0179737,0
+"V4 on R at 0.25, with N > Y",24,default demobilises,0.479582,0.363151,0.423087,1,0.0389529,0.115866,0
+"V4 on R at 0.25, with N > Y",25,default demobilises,0.494739,0.330918,0.458775,1,0.0513008,0.0925259,0
+"V4 on R at 0.25, with N > Y",26,slack (V1 outcome),0.619514,0.619514,0.493108,1,0.0236512,0.0305432,0
+"V4 on R at 0.25, with N > Y",27,slack (V1 outcome),0.70993,0.70993,0.499898,1,0.0257196,0.0258215,0
+"V4 on R at 0.25, with N > Y",28,slack (V1 outcome),0.75718,0.75718,0.49966,1,0.0314492,0.0317893,0
+"V4 on R at 0.25, with N > Y",29,slack (V1 outcome),0.802852,0.802852,0.499884,1,0.0324415,0.0325577,0
+"V4 on R at 0.25, with N > Y",30,slack (V1 outcome),0.575407,0.575407,0.488183,1,0.0209031,0.0327206,0
+"V4 on R at 0.25, with N > Y",31,slack (V1 outcome),0.697219,0.697219,0.499843,1,0.0274537,0.0276111,0
+"V4 on R at 0.25, with N > Y",32,slack (V1 outcome),0.609938,0.609938,0.497254,1,0.0230024,0.0257481,0
+"V4 on R at 0.25, with N > Y",33,slack (V1 outcome),0.653983,0.653983,0.499862,1,0.0230684,0.0232064,0
+"V4 on R at 0.25, with N > Y",34,slack (V1 outcome),0.806367,0.806367,0.500052,1,0.0255713,0.0255193,0
+"V4 on R at 0.25, with N > Y",35,slack (V1 outcome),0.762518,0.762518,0.499911,1,0.0284652,0.0285537,0
+"V4 on R at 0.25, with N > Y",36,default demobilises,0.515643,0.365502,0.514987,1,0.0631001,0.0481133,0
+"V4 on R at 0.25, with N > Y",37,default demobilises,0.572003,0.344323,0.597672,1,0.132781,0.0351093,0
+"V4 on R at 0.25, with N > Y",38,default demobilises,0.556702,0.299306,0.580788,1,0.112771,0.0319831,0
+"V4 on R at 0.25, with N > Y",39,slack (V1 outcome),0.697344,0.697344,0.499351,1,0.0322025,0.0328515,0
+"V4 on R at 0.25, with N > Y",40,default demobilises,0.576247,0.235199,0.599772,1,0.121278,0.021506,0
+"V4 on R at 0.25, with N > Y",41,slack (V1 outcome),0.732572,0.732572,0.499984,1,0.0218968,0.0219123,0
+"V4 on R at 0.25, with N > Y",42,"no pure equilibrium (mixed, approx.)",0.571,0.445653,0.571595,1,0.0837777,0.0121824,0
+"V4 on R at 0.25, with N > Y",43,slack (V1 outcome),0.622677,0.622677,0.498339,1,0.022003,0.023664,0
+"V4 on R at 0.25, with N > Y",44,"no pure equilibrium (mixed, approx.)",0.581194,0.581194,0.47169,1,0.0369876,0.0652979,0
+"V4 on R at 0.25, with N > Y",45,slack (V1 outcome),0.765813,0.765813,0.499988,1,0.0196927,0.0197049,0
+"V4 on R at 0.25, with N > Y",46,slack (V1 outcome),0.621605,0.621605,0.489367,1,0.0352687,0.0459022,0
+"V4 on R at 0.25, with N > Y",47,default demobilises,0.570292,0.315804,0.572527,1,0.0971362,0.0246089,0
+"V4 on R at 0.25, with N > Y",48,default demobilises,0.603134,0.246136,0.670785,1,0.174912,0.00412656,0
+"V4 on R at 0.25, with N > Y",49,slack (V1 outcome),0.779988,0.779988,0.499997,1,0.0236015,0.0236046,0
+"V4 on R at 0.25, with N > Y",50,slack (V1 outcome),0.660328,0.660328,0.499863,1,0.0176589,0.0177957,0
+"V4 on R at 0.25, with N > Y",51,"no pure equilibrium (mixed, approx.)",0.592934,0.592934,0.493367,1,0.0204007,0.0270341,0
+"V4 on R at 0.25, with N > Y",52,slack (V1 outcome),0.757036,0.757036,0.49965,1,0.0297411,0.0300913,0
+"V4 on R at 0.25, with N > Y",53,default demobilises,0.45186,0.34957,0.3688,1,0.0243559,0.155556,0
+"V4 on R at 0.25, with N > Y",54,slack (V1 outcome),0.60822,0.60822,0.496455,1,0.0230367,0.0265821,0
+"V4 on R at 0.25, with N > Y",55,default demobilises,0.59815,0.280553,0.660129,1,0.172216,0.0120878,0
+"V4 on R at 0.25, with N > Y",56,default demobilises,0.521329,0.343908,0.497115,1,0.0577259,0.0606109,0
+"V4 on R at 0.25, with N > Y",57,slack (V1 outcome),0.613779,0.613779,0.494391,1,0.0204347,0.0260438,0
+"V4 on R at 0.25, with N > Y",58,slack (V1 outcome),0.754881,0.754881,0.499934,1,0.0285024,0.0285685,0
+"V4 on R at 0.25, with N > Y",59,slack (V1 outcome),0.680666,0.680666,0.499894,1,0.0207965,0.0209026,0
+"V4 on R at 0.20, with N > Y",0,slack (V1 outcome),0.765653,0.765653,0.50009,1,0.0294368,0.0293469,0
+"V4 on R at 0.20, with N > Y",1,slack (V1 outcome),0.49876,0.49876,0.470784,1,0.0479802,0.0771957,0
+"V4 on R at 0.20, with N > Y",2,default demobilises,0.470999,0.206422,0.627777,1,0.160728,0.0329516,0
+"V4 on R at 0.20, with N > Y",3,slack (V1 outcome),0.687947,0.687947,0.499833,1,0.0351781,0.0353456,0
+"V4 on R at 0.20, with N > Y",4,slack (V1 outcome),0.699446,0.699446,0.5,1,0.0204605,0.0204604,0
+"V4 on R at 0.20, with N > Y",5,slack (V1 outcome),0.742345,0.742345,0.499999,1,0.0188406,0.0188413,0
+"V4 on R at 0.20, with N > Y",6,slack (V1 outcome),0.429309,0.429309,0.470947,1,0.0197711,0.0488243,0
+"V4 on R at 0.20, with N > Y",7,slack (V1 outcome),0.621442,0.621442,0.499721,1,0.0305888,0.0308677,0
+"V4 on R at 0.20, with N > Y",8,slack (V1 outcome),0.490125,0.490125,0.497431,1,0.0237903,0.0263597,0
+"V4 on R at 0.20, with N > Y",9,slack (V1 outcome),0.807927,0.807927,0.500106,1,0.0263888,0.0262833,0
+"V4 on R at 0.20, with N > Y",10,slack (V1 outcome),0.767377,0.767377,0.499942,1,0.0207798,0.0208376,0
+"V4 on R at 0.20, with N > Y",11,slack (V1 outcome),0.721413,0.721413,0.499993,1,0.016903,0.0169099,0
+"V4 on R at 0.20, with N > Y",12,slack (V1 outcome),0.504917,0.504917,0.484572,1,0.0359187,0.051347,0
+"V4 on R at 0.20, with N > Y",13,slack (V1 outcome),0.555455,0.555455,0.495161,1,0.0358181,0.0406568,0
+"V4 on R at 0.20, with N > Y",14,slack (V1 outcome),0.797055,0.797055,0.499975,1,0.0151263,0.0151516,0
+"V4 on R at 0.20, with N > Y",15,slack (V1 outcome),0.640326,0.640326,0.499999,1,0.0206389,0.02064,0
+"V4 on R at 0.20, with N > Y",16,slack (V1 outcome),0.727751,0.727751,0.499974,1,0.0343476,0.0343735,0
+"V4 on R at 0.20, with N > Y",17,slack (V1 outcome),0.501938,0.501938,0.488601,1,0.0240736,0.0354722,0
+"V4 on R at 0.20, with N > Y",18,slack (V1 outcome),0.607633,0.607633,0.499148,1,0.0267498,0.0276023,0
+"V4 on R at 0.20, with N > Y",19,slack (V1 outcome),0.538523,0.538523,0.49108,1,0.0420503,0.0509703,0
+"V4 on R at 0.20, with N > Y",20,slack (V1 outcome),0.465238,0.465238,0.469627,1,0.0256798,0.0560529,0
+"V4 on R at 0.20, with N > Y",21,slack (V1 outcome),0.750696,0.750696,0.500056,1,0.0275663,0.0275105,0
+"V4 on R at 0.20, with N > Y",22,slack (V1 outcome),0.667438,0.667438,0.499994,1,0.0254433,0.025449,0
+"V4 on R at 0.20, with N > Y",23,slack (V1 outcome),0.531408,0.531408,0.491059,1,0.0373723,0.0463132,0
+"V4 on R at 0.20, with N > Y",24,slack (V1 outcome),0.426351,0.426351,0.441496,1,0.0311525,0.0896568,0
+"V4 on R at 0.20, with N > Y",25,slack (V1 outcome),0.425243,0.425243,0.43973,1,0.0297415,0.0900112,0
+"V4 on R at 0.20, with N > Y",26,slack (V1 outcome),0.619514,0.619514,0.499532,1,0.0254201,0.0258885,0
+"V4 on R at 0.20, with N > Y",27,slack (V1 outcome),0.70993,0.70993,0.499999,1,0.0257528,0.025754,0
+"V4 on R at 0.20, with N > Y",28,slack (V1 outcome),0.75718,0.75718,0.500024,1,0.0315758,0.0315516,0
+"V4 on R at 0.20, with N > Y",29,slack (V1 outcome),0.802852,0.802852,0.499979,1,0.032476,0.0324974,0
+"V4 on R at 0.20, with N > Y",30,slack (V1 outcome),0.575407,0.575407,0.499408,1,0.0238545,0.0244467,0
+"V4 on R at 0.20, with N > Y",31,slack (V1 outcome),0.697219,0.697219,0.499999,1,0.027504,0.0275047,0
+"V4 on R at 0.20, with N > Y",32,slack (V1 outcome),0.609938,0.609938,0.499968,1,0.0237728,0.0238046,0
+"V4 on R at 0.20, with N > Y",33,slack (V1 outcome),0.653983,0.653983,0.5,1,0.0231133,0.0231135,0
+"V4 on R at 0.20, with N > Y",34,slack (V1 outcome),0.806367,0.806367,0.500057,1,0.025573,0.0255161,0
+"V4 on R at 0.20, with N > Y",35,slack (V1 outcome),0.762518,0.762518,0.500004,1,0.0284974,0.0284931,0
+"V4 on R at 0.20, with N > Y",36,slack (V1 outcome),0.453782,0.453782,0.483839,1,0.0288431,0.0450037,0
+"V4 on R at 0.20, with N > Y",37,slack (V1 outcome),0.502054,0.502054,0.483851,1,0.0421212,0.05827,0
+"V4 on R at 0.20, with N > Y",38,slack (V1 outcome),0.473294,0.473294,0.479875,1,0.0339409,0.0540663,0
+"V4 on R at 0.20, with N > Y",39,slack (V1 outcome),0.697344,0.697344,0.499983,1,0.0324029,0.03242,0
+"V4 on R at 0.20, with N > Y",40,slack (V1 outcome),0.480004,0.480004,0.48177,1,0.0310444,0.0492743,0
+"V4 on R at 0.20, with N > Y",41,slack (V1 outcome),0.732572,0.732572,0.500002,1,0.0219029,0.0219007,0
+"V4 on R at 0.20, with N > Y",42,slack (V1 outcome),0.530634,0.530634,0.499656,1,0.0254369,0.0257813,0
+"V4 on R at 0.20, with N > Y",43,slack (V1 outcome),0.622677,0.622677,0.499984,1,0.022497,0.0225126,0
+"V4 on R at 0.20, with N > Y",44,slack (V1 outcome),0.579898,0.579898,0.496134,1,0.0434918,0.0473574,0
+"V4 on R at 0.20, with N > Y",45,slack (V1 outcome),0.765813,0.765813,0.499997,1,0.0196959,0.0196989,0
+"V4 on R at 0.20, with N > Y",46,slack (V1 outcome),0.621605,0.621605,0.499137,1,0.0380559,0.0389187,0
+"V4 on R at 0.20, with N > Y",47,slack (V1 outcome),0.488807,0.488807,0.48455,1,0.028402,0.0438523,0
+"V4 on R at 0.20, with N > Y",48,slack (V1 outcome),0.520502,0.520502,0.498714,1,0.0282788,0.0295646,0
+"V4 on R at 0.20, with N > Y",49,slack (V1 outcome),0.779988,0.779988,0.5,1,0.0236025,0.0236029,0
+"V4 on R at 0.20, with N > Y",50,slack (V1 outcome),0.660328,0.660328,0.499999,1,0.0177043,0.0177048,0
+"V4 on R at 0.20, with N > Y",51,slack (V1 outcome),0.590771,0.590771,0.499748,1,0.0221619,0.0224138,0
+"V4 on R at 0.20, with N > Y",52,slack (V1 outcome),0.757036,0.757036,0.499968,1,0.0298504,0.0298819,0
+"V4 on R at 0.20, with N > Y",53,"no pure equilibrium (mixed, approx.)",0.426134,0.368115,0.471406,1,0.0519086,0.0805029,0
+"V4 on R at 0.20, with N > Y",54,slack (V1 outcome),0.60822,0.60822,0.49994,1,0.024006,0.0240657,0
+"V4 on R at 0.20, with N > Y",55,slack (V1 outcome),0.521322,0.521322,0.495376,1,0.0359947,0.0406186,0
+"V4 on R at 0.20, with N > Y",56,slack (V1 outcome),0.451068,0.451068,0.460526,1,0.0277173,0.0671913,0
+"V4 on R at 0.20, with N > Y",57,slack (V1 outcome),0.613779,0.613779,0.499708,1,0.0218981,0.0221896,0
+"V4 on R at 0.20, with N > Y",58,slack (V1 outcome),0.754881,0.754881,0.500034,1,0.0285363,0.0285026,0
+"V4 on R at 0.20, with N > Y",59,slack (V1 outcome),0.680666,0.680666,0.499998,1,0.0208298,0.0208313,0
+V1 (falls if No exceeds Yes),0,slack (V1 outcome),0.765653,0.765653,0.500092,1,0.0294375,0.0293456,0
+V1 (falls if No exceeds Yes),1,slack (V1 outcome),0.49876,0.49876,0.5,1,0.0571974,0.0571973,0
+V1 (falls if No exceeds Yes),2,slack (V1 outcome),0.404128,0.404128,0.5,1,0.0511668,0.0511668,0
+V1 (falls if No exceeds Yes),3,slack (V1 outcome),0.687947,0.687947,0.499968,1,0.0352274,0.0352598,0
+V1 (falls if No exceeds Yes),4,slack (V1 outcome),0.699446,0.699446,0.5,1,0.0204605,0.0204604,0
+V1 (falls if No exceeds Yes),5,slack (V1 outcome),0.742345,0.742345,0.499999,1,0.0188406,0.0188413,0
+V1 (falls if No exceeds Yes),6,slack (V1 outcome),0.429309,0.429309,0.5,1,0.0265838,0.0265838,0
+V1 (falls if No exceeds Yes),7,slack (V1 outcome),0.621442,0.621442,0.5,1,0.0306822,0.0306823,0
+V1 (falls if No exceeds Yes),8,slack (V1 outcome),0.490125,0.490125,0.5,1,0.0245413,0.0245413,0
+V1 (falls if No exceeds Yes),9,slack (V1 outcome),0.807927,0.807927,0.500106,1,0.0263889,0.0262832,0
+V1 (falls if No exceeds Yes),10,slack (V1 outcome),0.767377,0.767377,0.499942,1,0.0207798,0.0208376,0
+V1 (falls if No exceeds Yes),11,slack (V1 outcome),0.721413,0.721413,0.499993,1,0.016903,0.0169099,0
+V1 (falls if No exceeds Yes),12,slack (V1 outcome),0.504917,0.504917,0.5,1,0.0402477,0.0402477,0
+V1 (falls if No exceeds Yes),13,slack (V1 outcome),0.555455,0.555455,0.5,1,0.0372854,0.0372855,0
+V1 (falls if No exceeds Yes),14,slack (V1 outcome),0.797055,0.797055,0.499975,1,0.0151264,0.0151513,0
+V1 (falls if No exceeds Yes),15,slack (V1 outcome),0.640326,0.640326,0.5,1,0.0206393,0.0206393,0
+V1 (falls if No exceeds Yes),16,slack (V1 outcome),0.727751,0.727751,0.500003,1,0.0343585,0.034355,0
+V1 (falls if No exceeds Yes),17,slack (V1 outcome),0.501938,0.501938,0.5,1,0.0270069,0.0270069,0
+V1 (falls if No exceeds Yes),18,slack (V1 outcome),0.607633,0.607633,0.5,1,0.0270115,0.0270119,0
+V1 (falls if No exceeds Yes),19,slack (V1 outcome),0.538523,0.538523,0.5,1,0.0447858,0.0447858,0
+V1 (falls if No exceeds Yes),20,slack (V1 outcome),0.465238,0.465238,0.5,1,0.0331471,0.0331471,0
+V1 (falls if No exceeds Yes),21,slack (V1 outcome),0.750696,0.750696,0.50007,1,0.0275713,0.0275011,0
+V1 (falls if No exceeds Yes),22,slack (V1 outcome),0.667438,0.667438,0.499997,1,0.0254445,0.0254471,0
+V1 (falls if No exceeds Yes),23,slack (V1 outcome),0.531408,0.531408,0.5,1,0.040077,0.040077,0
+V1 (falls if No exceeds Yes),24,slack (V1 outcome),0.426351,0.426351,0.5,1,0.0456947,0.0456947,0
+V1 (falls if No exceeds Yes),25,slack (V1 outcome),0.425243,0.425243,0.5,1,0.0445614,0.0445614,0
+V1 (falls if No exceeds Yes),26,slack (V1 outcome),0.619514,0.619514,0.499996,1,0.0255644,0.0255686,0
+V1 (falls if No exceeds Yes),27,slack (V1 outcome),0.70993,0.70993,0.499999,1,0.025753,0.0257537,0
+V1 (falls if No exceeds Yes),28,slack (V1 outcome),0.75718,0.75718,0.500037,1,0.0315801,0.0315432,0
+V1 (falls if No exceeds Yes),29,slack (V1 outcome),0.802852,0.802852,0.499981,1,0.0324769,0.0324959,0
+V1 (falls if No exceeds Yes),30,slack (V1 outcome),0.575407,0.575407,0.5,1,0.0240347,0.0240347,0
+V1 (falls if No exceeds Yes),31,slack (V1 outcome),0.697219,0.697219,0.5,1,0.0275043,0.0275042,0
+V1 (falls if No exceeds Yes),32,slack (V1 outcome),0.609938,0.609938,0.5,1,0.0237832,0.0237832,0
+V1 (falls if No exceeds Yes),33,slack (V1 outcome),0.653983,0.653983,0.5,1,0.0231134,0.0231134,0
+V1 (falls if No exceeds Yes),34,slack (V1 outcome),0.806367,0.806367,0.500057,1,0.025573,0.0255161,0
+V1 (falls if No exceeds Yes),35,slack (V1 outcome),0.762518,0.762518,0.500006,1,0.0284979,0.0284923,0
+V1 (falls if No exceeds Yes),36,slack (V1 outcome),0.453782,0.453782,0.5,1,0.0332581,0.0332581,0
+V1 (falls if No exceeds Yes),37,slack (V1 outcome),0.502054,0.502054,0.5,1,0.0468262,0.0468262,0
+V1 (falls if No exceeds Yes),38,slack (V1 outcome),0.473294,0.473294,0.5,1,0.0396157,0.0396157,0
+V1 (falls if No exceeds Yes),39,slack (V1 outcome),0.697344,0.697344,0.499995,1,0.032407,0.0324122,0
+V1 (falls if No exceeds Yes),40,slack (V1 outcome),0.480004,0.480004,0.5,1,0.0360928,0.0360928,0
+V1 (falls if No exceeds Yes),41,slack (V1 outcome),0.732572,0.732572,0.500002,1,0.0219029,0.0219007,0
+V1 (falls if No exceeds Yes),42,slack (V1 outcome),0.530634,0.530634,0.5,1,0.0255454,0.0255454,0
+V1 (falls if No exceeds Yes),43,slack (V1 outcome),0.622677,0.622677,0.5,1,0.0225027,0.0225027,0
+V1 (falls if No exceeds Yes),44,slack (V1 outcome),0.579898,0.579898,0.5,1,0.0447591,0.044759,0
+V1 (falls if No exceeds Yes),45,slack (V1 outcome),0.765813,0.765813,0.499997,1,0.0196959,0.0196989,0
+V1 (falls if No exceeds Yes),46,slack (V1 outcome),0.621605,0.621605,0.499999,1,0.0383367,0.0383374,0
+V1 (falls if No exceeds Yes),47,slack (V1 outcome),0.488807,0.488807,0.5,1,0.0325417,0.0325417,0
+V1 (falls if No exceeds Yes),48,slack (V1 outcome),0.520502,0.520502,0.5,1,0.0286718,0.0286718,0
+V1 (falls if No exceeds Yes),49,slack (V1 outcome),0.779988,0.779988,0.5,1,0.0236025,0.0236029,0
+V1 (falls if No exceeds Yes),50,slack (V1 outcome),0.660328,0.660328,0.5,1,0.0177043,0.0177046,0
+V1 (falls if No exceeds Yes),51,slack (V1 outcome),0.590771,0.590771,0.5,1,0.0222465,0.0222465,0
+V1 (falls if No exceeds Yes),52,slack (V1 outcome),0.757036,0.757036,0.499979,1,0.029854,0.0298751,0
+V1 (falls if No exceeds Yes),53,slack (V1 outcome),0.402983,0.402983,0.5,1,0.0479194,0.0479194,0
+V1 (falls if No exceeds Yes),54,slack (V1 outcome),0.60822,0.60822,0.5,1,0.0240265,0.0240265,0
+V1 (falls if No exceeds Yes),55,slack (V1 outcome),0.521322,0.521322,0.5,1,0.0373686,0.0373686,0
+V1 (falls if No exceeds Yes),56,slack (V1 outcome),0.451068,0.451068,0.5,1,0.0378301,0.0378301,0
+V1 (falls if No exceeds Yes),57,slack (V1 outcome),0.613779,0.613779,0.5,1,0.0219928,0.0219929,0
+V1 (falls if No exceeds Yes),58,slack (V1 outcome),0.754881,0.754881,0.500035,1,0.0285368,0.0285018,0
+V1 (falls if No exceeds Yes),59,slack (V1 outcome),0.680666,0.680666,0.499999,1,0.0208299,0.0208311,0
+V7 (stands only if Yes reaches 55%),0,contested,0.75327,0.75327,0.613509,1,0.116171,0.00266202,0
+V7 (stands only if Yes reaches 55%),1,contested,0.491254,0.491254,0.61275,1,0.131288,0.0185378,0
+V7 (stands only if Yes reaches 55%),2,contested,0.397926,0.397926,0.611182,1,0.125627,0.0144447,0
+V7 (stands only if Yes reaches 55%),3,contested,0.676011,0.676011,0.610734,1,0.116031,0.00529702,0
+V7 (stands only if Yes reaches 55%),4,contested,0.686535,0.686535,0.614693,1,0.114958,0.000265189,0
+V7 (stands only if Yes reaches 55%),5,contested,0.731926,0.731926,0.602,1,0.102299,0.000299243,0
+V7 (stands only if Yes reaches 55%),6,contested,0.42807,0.42807,0.584076,1,0.0875265,0.00345026,0
+V7 (stands only if Yes reaches 55%),7,contested,0.613181,0.613181,0.597964,1,0.101963,0.00399914,0
+V7 (stands only if Yes reaches 55%),8,contested,0.484017,0.484017,0.598459,1,0.100029,0.00157055,0
+V7 (stands only if Yes reaches 55%),9,contested,0.79414,0.79414,0.613917,1,0.115585,0.0016685,0
+V7 (stands only if Yes reaches 55%),10,contested,0.754341,0.754341,0.609047,1,0.109754,0.000707263,0
+V7 (stands only if Yes reaches 55%),11,contested,0.715513,0.715513,0.578169,1,0.0787907,0.000621372,0
+V7 (stands only if Yes reaches 55%),12,contested,0.501448,0.501448,0.594562,1,0.104439,0.00987712,0
+V7 (stands only if Yes reaches 55%),13,contested,0.550794,0.550794,0.595268,1,0.103165,0.00789684,0
+V7 (stands only if Yes reaches 55%),14,contested,0.791668,0.791668,0.567359,1,0.068517,0.00115832,0
+V7 (stands only if Yes reaches 55%),15,contested,0.633648,0.633648,0.59438,1,0.0951508,0.000770651,0
+V7 (stands only if Yes reaches 55%),16,contested,0.716773,0.716773,0.609668,1,0.114171,0.00450277,0
+V7 (stands only if Yes reaches 55%),17,contested,0.499153,0.499153,0.565642,1,0.0719526,0.0063104,0
+V7 (stands only if Yes reaches 55%),18,contested,0.603672,0.603672,0.576891,1,0.0814904,0.00459904,0
+V7 (stands only if Yes reaches 55%),19,contested,0.530648,0.530648,0.607454,1,0.118205,0.0107503,0
+V7 (stands only if Yes reaches 55%),20,contested,0.463032,0.463032,0.569449,1,0.0792701,0.00982104,0
+V7 (stands only if Yes reaches 55%),21,contested,0.741053,0.741053,0.603131,1,0.106375,0.0032444,0
+V7 (stands only if Yes reaches 55%),22,contested,0.657235,0.657235,0.604251,1,0.10578,0.00152921,0
+V7 (stands only if Yes reaches 55%),23,contested,0.525457,0.525457,0.597881,1,0.107166,0.00928484,0
+V7 (stands only if Yes reaches 55%),24,contested,0.42395,0.42395,0.608942,1,0.119745,0.0108032,0
+V7 (stands only if Yes reaches 55%),25,contested,0.422289,0.422289,0.601785,1,0.113211,0.0114256,0
+V7 (stands only if Yes reaches 55%),26,contested,0.615333,0.615333,0.576543,1,0.0804355,0.003893,0
+V7 (stands only if Yes reaches 55%),27,contested,0.698721,0.698721,0.608903,1,0.110308,0.00140526,0
+V7 (stands only if Yes reaches 55%),28,contested,0.745732,0.745732,0.606264,1,0.110149,0.00388428,0
+V7 (stands only if Yes reaches 55%),29,contested,0.787125,0.787125,0.615195,1,0.118773,0.0035787,0
+V7 (stands only if Yes reaches 55%),30,contested,0.571582,0.571582,0.578923,1,0.0817983,0.00287479,0
+V7 (stands only if Yes reaches 55%),31,contested,0.685307,0.685307,0.614646,1,0.116177,0.00153051,0
+V7 (stands only if Yes reaches 55%),32,contested,0.60239,0.60239,0.595107,1,0.0966518,0.00154445,0
+V7 (stands only if Yes reaches 55%),33,contested,0.643528,0.643528,0.614511,1,0.115102,0.000590821,0
+V7 (stands only if Yes reaches 55%),34,contested,0.790792,0.790792,0.615894,1,0.117232,0.00133816,0
+V7 (stands only if Yes reaches 55%),35,contested,0.751719,0.751719,0.60607,1,0.108507,0.00243745,0
+V7 (stands only if Yes reaches 55%),36,contested,0.450294,0.450294,0.615938,1,0.119201,0.0032634,0
+V7 (stands only if Yes reaches 55%),37,contested,0.49632,0.49632,0.613756,1,0.1246,0.0108432,0
+V7 (stands only if Yes reaches 55%),38,contested,0.468182,0.468182,0.605308,1,0.11308,0.00777185,0
+V7 (stands only if Yes reaches 55%),39,contested,0.683869,0.683869,0.615814,1,0.118931,0.00311728,0
+V7 (stands only if Yes reaches 55%),40,contested,0.475012,0.475012,0.591897,1,0.0996553,0.00775867,0
+V7 (stands only if Yes reaches 55%),41,contested,0.723524,0.723524,0.599287,1,0.100159,0.000872146,0
+V7 (stands only if Yes reaches 55%),42,contested,0.524929,0.524929,0.610185,1,0.11139,0.00120422,0
+V7 (stands only if Yes reaches 55%),43,contested,0.616639,0.616639,0.591653,1,0.0930064,0.00135328,0
+V7 (stands only if Yes reaches 55%),44,contested,0.570594,0.570594,0.611538,1,0.121589,0.0100513,0
+V7 (stands only if Yes reaches 55%),45,contested,0.756748,0.756748,0.591785,1,0.0926574,0.00087212,0
+V7 (stands only if Yes reaches 55%),46,contested,0.611682,0.611682,0.607514,1,0.114338,0.00682349,0
+V7 (stands only if Yes reaches 55%),47,contested,0.485744,0.485744,0.580714,1,0.0880094,0.0072959,0
+V7 (stands only if Yes reaches 55%),48,contested,0.513003,0.513003,0.609142,1,0.111344,0.00220196,0
+V7 (stands only if Yes reaches 55%),49,contested,0.768091,0.768091,0.608734,1,0.109616,0.000881468,0
+V7 (stands only if Yes reaches 55%),50,contested,0.653795,0.653795,0.583725,1,0.0842967,0.000571793,0
+V7 (stands only if Yes reaches 55%),51,contested,0.585966,0.585966,0.576814,1,0.079141,0.0023267,0
+V7 (stands only if Yes reaches 55%),52,contested,0.747108,0.747108,0.600502,1,0.10407,0.00356783,0
+V7 (stands only if Yes reaches 55%),53,contested,0.401282,0.401282,0.598029,1,0.112526,0.0144969,0
+V7 (stands only if Yes reaches 55%),54,contested,0.601012,0.601012,0.591528,1,0.0933788,0.00185042,0
+V7 (stands only if Yes reaches 55%),55,contested,0.513734,0.513734,0.613504,1,0.118977,0.00547336,0
+V7 (stands only if Yes reaches 55%),56,contested,0.448966,0.448966,0.580603,1,0.0914861,0.0108828,0
+V7 (stands only if Yes reaches 55%),57,contested,0.609381,0.609381,0.569599,1,0.0725195,0.00292084,0
+V7 (stands only if Yes reaches 55%),58,contested,0.742613,0.742613,0.607633,1,0.110001,0.00236758,0
+V7 (stands only if Yes reaches 55%),59,contested,0.67225,0.67225,0.594553,1,0.0953681,0.000814787,0
