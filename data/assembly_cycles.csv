@@ -1,0 +1,6 @@
+polling_day,mandate_end,first_sitting,status,source
+2013-06-23,2013-09-09,2013-09-09,observed,"Section V Part 2, Table V.22"
+2017-06-25,2017-09-09,2017-09-09,observed,"Section V Part 2, Table V.22 (first sitting sourced, Revision B2)"
+2021-04-25,2021-09-09,2021-09-10,observed,"Section V Part 2, Table V.22"
+2025-05-11,2025-09-10,2025-09-12,observed,"Section V Part 2, Table V.22"
+2029-05-13,2029-09-12,2029-09-14,assumed,"A27: t_end = previous first sitting + 4 years; t_1 = t_end + 2 days; polling 13 May 2029 [VERIFY]"

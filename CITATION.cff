@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Referendum Design Simulator (refsim)"
+version: "1.1.5"
+date-released: "2026-10-24"
+license: MIT
+authors:
+  - family-names: "Prifti"
+    given-names: "Endri"
+abstract: >-
+  The reusable tool of the book Engineering Albania's Referendum Law: A Design Guide.
+  For any validity rule, referendum type, calendar and signature-verification rule it computes
+  campaign equilibria and the book's four evaluation criteria, and it reproduces every simulated
+  result of the book from the scenario files in config/.
+keywords:
+  - referendum
+  - quorum
+  - electoral register
+  - Albania
+  - simulation
+  - game theory
