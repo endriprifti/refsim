@@ -1,0 +1,3 @@
+level,units,w7_n,w7_median,w7_min,w7_max,wcur_n,wcur_median,wcur_min,wcur_max,readings_V7,readings_current,median_rho_unit,median_rho,median_rho_w7,median_rho_wcur
+municipality,61,61,2.83393,1.92351,4.87911,61,16.8443,3.61009,25.5017,preferred to V1 iff w > w*,preferred to V1 iff w > w*,Kurbin,2.26802,2.83393,17.6689
+qark,12,12,3.06245,2.3816,4.45941,12,18.3629,7.31346,23.4028,preferred to V1 iff w > w*,preferred to V1 iff w > w*,Korçë,2.17543,2.94532,18.4688
